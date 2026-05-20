@@ -1,0 +1,162 @@
+[
+  {
+    "rank": 1,
+    "drug": "Dextrose",
+    "pubmed_excl_graph": 216,
+    "openalex": 1010,
+    "scopus": 65,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 2,
+    "drug": "Hypertonic dextrose",
+    "pubmed_excl_graph": 18,
+    "openalex": 106,
+    "scopus": 14,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 3,
+    "drug": "Prolotherapy",
+    "pubmed_excl_graph": 55,
+    "openalex": 362,
+    "scopus": 81,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 4,
+    "drug": "Chondroitin",
+    "pubmed_excl_graph": 79,
+    "openalex": 1349,
+    "scopus": 95,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 5,
+    "drug": "Dextrose prolotherapy",
+    "pubmed_excl_graph": 47,
+    "openalex": 216,
+    "scopus": 41,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 6,
+    "drug": "PDRN",
+    "pubmed_excl_graph": 3,
+    "openalex": 24,
+    "scopus": 4,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 7,
+    "drug": "Zinc",
+    "pubmed_excl_graph": 97,
+    "openalex": 6804,
+    "scopus": 217,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 8,
+    "drug": "BGJ398",
+    "pubmed_excl_graph": 0,
+    "openalex": 19,
+    "scopus": 0,
+    "confirmed_by": 1
+  },
+  {
+    "rank": 9,
+    "drug": "Resveratrol",
+    "pubmed_excl_graph": 9,
+    "openalex": 974,
+    "scopus": 13,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 10,
+    "drug": "Quercetin",
+    "pubmed_excl_graph": 6,
+    "openalex": 902,
+    "scopus": 11,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 11,
+    "drug": "Curcumin",
+    "pubmed_excl_graph": 6,
+    "openalex": 1278,
+    "scopus": 17,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 12,
+    "drug": "Aspirin",
+    "pubmed_excl_graph": 25,
+    "openalex": 1381,
+    "scopus": 115,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 13,
+    "drug": "Metformin",
+    "pubmed_excl_graph": 7,
+    "openalex": 1035,
+    "scopus": 15,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 14,
+    "drug": "Insulin",
+    "pubmed_excl_graph": 145,
+    "openalex": 8162,
+    "scopus": 186,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 15,
+    "drug": "Fisetin",
+    "pubmed_excl_graph": 1,
+    "openalex": 85,
+    "scopus": 1,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 16,
+    "drug": "Alendronate",
+    "pubmed_excl_graph": 16,
+    "openalex": 568,
+    "scopus": 15,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 17,
+    "drug": "Riluzole",
+    "pubmed_excl_graph": 1,
+    "openalex": 76,
+    "scopus": 0,
+    "confirmed_by": 2
+  },
+  {
+    "rank": 18,
+    "drug": "Cisplatin",
+    "pubmed_excl_graph": 51,
+    "openalex": 1505,
+    "scopus": 52,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 19,
+    "drug": "EGCG",
+    "pubmed_excl_graph": 5,
+    "openalex": 215,
+    "scopus": 1,
+    "confirmed_by": 3
+  },
+  {
+    "rank": 20,
+    "drug": "Denosumab",
+    "pubmed_excl_graph": 7,
+    "openalex": 389,
+    "scopus": 19,
+    "confirmed_by": 3
+  }
+]

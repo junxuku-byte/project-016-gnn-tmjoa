@@ -1,0 +1,29 @@
+{
+  "title": "Does intra-articular injection of tenoxicam after arthrocentesis heal outcomes of temporomandibular joint osteoarthritis? A randomized clinical trial",
+  "authors": "Zeynep Bayramoglu et al.",
+  "year": 2023,
+  "journal": "BMC Oral Health",
+  "category": "TMJ",
+  "research_question": "在颞下颌关节骨关节炎患者中，关节穿刺术后关节腔内注射替诺昔康是否比单独关节穿刺术更能改善最大张口度、疼痛和关节杂音？",
+  "methods_summary": [
+    "随机、单盲、前瞻性临床研究",
+    "30例TMJ-OA患者随机分为两组：对照组（仅关节穿刺术，n=14）和TX组（关节穿刺术+关节腔内注射2ml替诺昔康，n=16）",
+    "评估指标：最大张口度（MMO）、视觉模拟量表（VAS）疼痛值、关节杂音，在治疗前及治疗后1、4、12、24周测量",
+    "统计分析：组间比较使用独立t检验或Mann-Whitney U检验，组内比较使用Friedman双向方差分析"
+  ],
+  "dataset": "30例TMJ-OA患者（24女，6男），来自土耳其阿德亚曼大学牙科学院口腔颌面外科诊所（2019年5月至2021年11月）",
+  "key_findings": [
+    "两组在MMO、VAS疼痛值和关节杂音方面均有显著改善（p<0.001）",
+    "两组之间在MMO（p=0.174）、VAS疼痛（p=0.085）和关节杂音（p=0.131）方面无显著差异",
+    "关节穿刺术联合替诺昔康注射并未比单独关节穿刺术产生更好的临床结局"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "颞下颌关节骨关节炎",
+    "替诺昔康",
+    "关节穿刺术",
+    "关节腔内注射",
+    "随机临床试验"
+  ],
+  "extracted_insights": "该随机临床试验表明，对于TMJ-OA患者，关节穿刺术后关节腔内注射替诺昔康与单独关节穿刺术相比，在改善最大张口度、疼痛和关节杂音方面并无额外优势。两种治疗方法均安全有效，但联合用药未显示出统计学上的显著差异。这是首个评估替诺昔康在TMJ-OA患者中疗效的研究，但样本量有限且随访期为6个月。"
+}

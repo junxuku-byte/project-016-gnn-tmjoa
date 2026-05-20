@@ -1,0 +1,31 @@
+{
+  "title": "Association between denosumab use and risk of osteoarthritis among adults with osteoporosis in a real-world cohort",
+  "authors": "Zhaohua Zhu et al.",
+  "year": 2026,
+  "journal": "Osteoarthritis and Cartilage",
+  "category": "general",
+  "research_question": "To estimate the effect of denosumab compared with bisphosphonates on reducing the risk of knee or hip osteoarthritis among adults with osteoporosis in a real-world cohort.",
+  "methods_summary": [
+    "New-user, active-comparator retrospective real-world cohort study using electronic health records from the TriNetX Network.",
+    "Participants diagnosed with osteoporosis between January 1, 2014 and December 31, 2023 were selected.",
+    "Propensity-score matching (PSM) was used to balance potential confounders between denosumab users and bisphosphonate users.",
+    "Cox proportional hazards models were used to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) of incident knee and hip OA."
+  ],
+  "dataset": "TriNetX US Collaborative Network (electronic health records from 66 large healthcare organizations across the United States)",
+  "key_findings": [
+    "Denosumab use was associated with a reduced risk of any OA (HR 0.96, 95% CI 0.94-0.98) and knee OA (HR 0.87, 95% CI 0.84-0.91) compared with bisphosphonates.",
+    "No significant association was found between denosumab use and hip OA (HR 0.98, 95% CI 0.94-1.03) or thumb carpometacarpal OA (HR 0.94, 95% CI 0.87-1.01).",
+    "The association was more pronounced among older participants (≥65 years), females, and individuals of Asian ethnicity."
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "denosumab",
+    "osteoporosis",
+    "osteoarthritis",
+    "real-world evidence",
+    "propensity-score matching",
+    "knee OA",
+    "bisphosphonates"
+  ],
+  "extracted_insights": "Denosumab, a RANKL inhibitor used for osteoporosis, may reduce the risk of incident knee OA compared to bisphosphonates, especially in older adults, females, and Asian individuals, suggesting a potential disease-modifying effect for knee OA that warrants further clinical trials."
+}

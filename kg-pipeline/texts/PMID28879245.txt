@@ -1,0 +1,1014 @@
+Vol. XX • Issue X
+Effects of High-Dose Capsaicin on TMD Subjects
+1
+© International & American Associations for Dental Research 2016
+Epidemiologic Research
+Abstract: Temporomandibular 
+joint disorder (TMD) is a complex 
+musculoskeletal disorder that 
+presents with pain, limited jaw 
+opening, and abnormal noises in the 
+temporomandibular joint. Despite 
+the significant impact that TMD has 
+in terms of suffering and financial 
+burden, relatively few new treatments 
+have emerged; therefore, development 
+of novel treatments to treat TMD 
+pain remains a high priority. The 
+rationale of this study was to use 
+a double-blind, vehicle-controlled 
+clinical trial to evaluate the effects of 
+a high-concentration (8%) capsaicin 
+cream on TMD. This is based on the 
+hypothesis that targeting TRP vanilloid 
+subfamily member 1 (TRPV1) for 
+pain control may provide a novel 
+method for pain relief in TMD patients. 
+TRPV1 is primarily expressed on a 
+population of nociceptive-specific 
+neurons and provides a candidate 
+target for the development of pain 
+treatments. Capsaicin is the primary 
+agonist for TRPV1 and has been used 
+previously in relatively low doses 
+(0.025% to 0.075%) as a therapeutic 
+for a variety of pain disorders, 
+including postherpetic neuralgia and 
+osteoarthritis; however, analgesic 
+efficacy remains equivocal. TMD and 
+healthy control subjects were assigned 
+to either an active capsaicin or vehicle 
+control group. The treatments were 
+applied for 2 h and then removed. 
+Quantitative sensory testing (QST) was 
+completed prior to drug application 
+(baseline), 2 h after drug application, 
+and 1 wk later. Perceived pain 
+intensity was measured using a 
+visual analog scale (VAS) following 
+capsaicin or vehicle cream application. 
+Significantly lower pain was reported 
+in the week after application in the 
+capsaicin-treated TMD subjects. For 
+QST measures, there was a decreased 
+thermal pain threshold 2 h after 
+capsaicin application for both the 
+control and TMD groups, but this 
+resolved within a week. Capsaicin had 
+no effect on pressure pain threshold 
+or mechanical sensitivity in both TMD 
+and healthy individuals. This study 
+demonstrates that 8% topical capsaicin 
+therapy is a relatively safe, simple, and 
+effective treatment for patients with 
+TMD.
+Knowledge Transfer Statement: 
+This study evaluated a novel topical 
+capsaicin therapy for reducing 
+orofacial pain. The results of this 
+study can be used to provide another 
+treatment option for patients with 
+TMD.
+Keywords: orofacial pain, TRPV1, 
+clinical study, pain, neuroscience/
+neurobiology, neuropharmacology
+Introduction
+Orofacial pain disorders are estimated 
+to affect 20% of the US population 
+(Lipton et al. 1993) and are made 
+up largely of temporomandibular 
+joint disorders (TMDs). TMD can 
+encompass a complex musculoskeletal 
+disorder presenting with pain, limited 
+opening, and abnormal noises in the 
+temporomandibular joint (TMJ). Reports 
+from the Orofacial Pain Prospective 
+Evaluation and Risk Assessment 
+JCTXXX10.1177/2380084416675837JDR Clinical & Translational ResearchEffects of High-Dose Capsaicin on TMD Subjects
+research-article2016
+DOI: 10.1177/2380084416675837. 1Magnolia Orthodontics, Hickory, NC, USA; 2Department of Community Dentistry and Behavioral Science, College of Dentistry, 
+University of Florida, Gainesville, FL, USA; 3Department of Orthodontics, School of Dentistry and Dental Research Institute, Seoul National University, Seoul, Korea; 
+4Department of Orthodontics, College of Dentistry, University of Florida, Gainesville, FL, USA; 5Department of Oral Surgery and Diagnostic Sciences, College of Dentistry, 
+University of Florida, Gainesville, FL, USA. Corresponding author: J.K. Neubert, Department of Orthodontics, College of Dentistry, University of Florida, 1395 S. W. Archer 
+Road, P.O. Box 100444, Gainesville, FL 32610-0444, USA. Email: jneubert@dental.ufl.edu
+Effects of High-Dose Capsaicin 
+on TMD Subjects: A 
+Randomized Clinical Study
+B.K. Campbell1, R.B. Fillingim2, S. Lee3, R. Brao4, D.D. Price5, and J.K. Neubert4
+JDR Clinical & Translational Research 
+Month 2016
+2
+(OPPERA) study, an ongoing, prospective 
+study on the development of TMD, 
+indicates an incidence rate for examiner-
+verified first-onset TMD of 3.9% per 
+annum, and a meta-analysis by Al-Jundi 
+et al. (2008) reported a prevalence of 
+at least 1 sign or symptom in 16% of 
+the US population (Slade et al. 2013). 
+Women are affected more frequently 
+than men by an approximately 2 to 1 
+margin (Solberg 1983; Lipton et al. 1993; 
+LeResche 1997). Despite the significant 
+impact of TMD in terms of suffering 
+and financial burden, relatively few 
+new treatments have emerged, and 
+development of novel treatments to treat 
+TMD pain remains a high priority.
+A promising target for pain control is 
+the transient receptor potential (TRP) 
+channel, a family of receptors that 
+mediates both temperature and pain 
+(Jordt et al. 2003; Tominaga and Caterina 
+2004; Patapoutian et al. 2009). The TRP 
+vanilloid subfamily member 1 (TRPV1) is 
+a ligand-gated ion channel involved with 
+heat and inflammatory pain (Caterina 
+and Julius 2001; Karai et al. 2004; Szallasi 
+and Appendino 2004). TRPV1 responds 
+to protons, temperatures greater than 
+43°C, and capsaicin (Gunthorpe et al. 
+2002; Szallasi and Appendino 2004; 
+Tominaga and Caterina 2004) and is 
+primarily expressed by Aδ and C-fiber 
+primary afferent neurons. These neurons 
+are responsible for the erythema, 
+burning, and sensitivity to other stimuli 
+after application of capsaicin. The 
+expectation of TRPV1 may be a target 
+for pain control (Caterina and Julius 
+2001) and, if realized, a novel therapeutic 
+approach inhibiting certain nociceptive 
+neurons while maintaining other motor 
+and sensory functions (Neubert et al. 
+2003; Karai et al. 2004).
+A number of studies evaluated the 
+targeting of TRPV1 for pain control. 
+Capsaicin activates TRPV1 but also 
+desensitizes, inactivates, and even 
+eliminates TRPV1-expressing neurons 
+with prolonged exposure (Yaksh  
+et al. 1979; Nolano et al. 1999; Malmberg 
+et al. 2004). Clinical trials in diseased 
+individuals indicate that capsaicin 
+can produce analgesia when applied 
+topically at relatively low doses (0.025% 
+to 0.075%), and capsaicin has shown 
+some efficacy for the treatment of chronic 
+pain disorders such as rheumatoid 
+arthritis (RA) and osteoarthritis (OA) 
+(Deal et al. 1991; McCarthy and McCarty 
+1992). In addition, studies have shown 
+favorable results for patients with 
+postherpetic neuralgia (PHN) (Peikert 
+et al. 1991; Watson et al. 1993), and 
+capsaicin is one of the only Food and 
+Drug Administration (FDA)–approved 
+drugs for treatment of PHN. Healthy 
+subjects who applied capsaicin (0.075%) 
+4 times daily for 3 wk had degeneration 
+of epidermal nerve fibers (ENFs) by 
+approximately 80% at the epidermis 
+(Nolano et al. 1999). In contrast, a meta-
+analysis evaluating the efficacy of low-
+dose capsaicin indicated a moderate 
+to poor efficacy when treating chronic 
+neuropathic or musculoskeletal pain 
+(Mason et al. 2004). In a randomized, 
+double-blind, vehicle-controlled trial, 
+there was no difference in reduction 
+of symptoms between the 0.025% 
+capsaicin and placebo groups with TMD 
+(Winocur et al. 2000). Malmberg et al. 
+(2004) compared the effectiveness of 
+low-dose capsaicin (0.04%) to a high 
+dose (8%) topically applied for up to 
+120 min. They found that the low dose 
+had no effect on reduction of ENFs or 
+reduction of heat sensitivity compared 
+to placebo, but a single dose of 8% 
+capsaicin reduced the number of ENFs 
+and produced desensitization to heat 
+stimuli for 1 wk. Many recent studies 
+have evaluated the 8% capsaicin patch 
+for the treatment of neuropathic pain 
+(Maihöfner and Heskamp 2013, 2014; Zis 
+et al. 2014). A recent case series on the 
+use of the 8% capsaicin patch reports a 
+decrease in neuropathic pain for patients 
+with various orofacial neuropathic pain 
+(Gaul and Resch 2015). While many 
+studies have been completed evaluating 
+8% capsaicin as a pain therapy, using it 
+as a therapy provides a conundrum, as 
+it is a pain stimulus that then relieves 
+pain. We were interested in the role of 
+sensitization produced by capsaicin in 
+both “healthy” and “diseased” (chronic 
+pain) subjects.
+Since orofacial pain is a hallmark of 
+many different disorders and there are 
+a multitude of different groups also 
+within the TMD classification, we chose 
+to recruit subjects who were classified 
+within the “group IIIa, arthralgia of the 
+TMJ criteria” to narrow the focus of the 
+study. This group represents patients 
+who commonly present to health 
+care professionals for treatment, and 
+we believe that this is the first study 
+describing the use of 8% capsaicin in a 
+TMD population. The goal of our study 
+was 2-fold: 1) to evaluate the effects of a 
+high-concentration (8%) capsaicin cream 
+on normal pain sensitivity in healthy, 
+control subjects and 2) to evaluate 
+the effects of 8% capsaicin cream on 
+patients with chronic orofacial pain. 
+We completed a double-blind, vehicle-
+controlled clinical trial to evaluate the 
+analgesic efficacy of capsaicin in chronic 
+TMD patients.
+Methods
+Subject Recruitment and 
+Randomization
+The study protocol complied with the 
+guidelines of the Institutional Review 
+Board at the University of Florida (UF). 
+We enrolled TMD and healthy, control 
+subjects (“non-TMD subjects”) from 
+May 2006 to January 2009, who were 
+identified through advertising within 
+the greater Gainesville, Florida, region. 
+Treatments were assigned via a random-
+number generator, and syringes were 
+labeled with a study protocol number. 
+Both the subject and investigator 
+were blinded to the treatment as the 
+pharmacist did not break the study 
+number code until the final analysis 
+was completed. All subjects received 
+participation compensation ($50 gift 
+cards).
+Inclusion Criteria
+Healthy female volunteers (18 to 
+65 y old) with American Society of 
+Anesthesiologists (ASA) status 1 or 2 and 
+deemed in good general health were 
+recruited. This represents the age range 
+of patients with TMD, and the exclusive 
+Vol. XX • Issue X
+Effects of High-Dose Capsaicin on TMD Subjects
+3
+sex was selected given the higher 
+proportion of females (>2:1 female/
+male) who develop TMD. The TMD 
+patients’ inclusion criteria also included 
+1) subjects to have TMJ pain of greater 
+than 6 mo duration, 2) episodes of pain 
+with an average rating of at least 3 out 
+of 10 on a visual analog scale (VAS) for 
+the week that immediately preceded 
+the initial testing date or the day of 
+testing, and 3) fulfilling the Research 
+Diagnostic Criteria (RDC), group IIIa, 
+arthralgia of the TMJ criteria (Dworkin 
+and LeResche 1992). Subjects had to 
+have a joint component with or without 
+muscle pain but were excluded if they 
+only had myalgia. By this RDC definition, 
+these subjects had no crepitus, had 
+verified joint pain with palpation at 
+either the lateral pole or at the posterior 
+attachment, and met one of the following 
+conditions: 1) be able to point to either 
+muscle or joint pain, 2) joint or muscle 
+pain on assisted/unassisted opening, 
+or 3) joint or muscle pain in right or 
+left excursive movements. A single 
+examiner completed all of the clinical 
+examinations on both TMD and healthy 
+subjects.
+Exclusion Criteria
+Exclusion criteria were as follows: 
+ASA status of 3 to 5, pregnant or 
+breastfeeding mothers, allergy to 
+capsaicin or red chili peppers, and 
+presence of chronic disease(s) other 
+than TMD. Subjects with course crepitus 
+(by subject report or examination) of 
+the TMJ or any subjects who had taken 
+any pain medications (e.g., ibuprofen, 
+acetaminophen, opioids) within 48 h 
+prior to participating in the trial for either 
+testing day were also excluded.
+General
+Subjects were seen at the UF College 
+of Dentistry, explained and signed 
+the informed consent form, and then 
+completed a health history and RDC for 
+TMD History Questionnaires. Subjects 
+were informed that they could stop 
+participating in the study or have the 
+cream removed at any point. If they 
+asked for removal of the cream earlier 
+than the designated time, then the 
+time was noted and they were then 
+given the option to continue with the 
+rest of the study or stop all together. 
+Blood pressure, temperature, results 
+of pregnancy test, and VAS and verbal 
+ratings of that day’s TMD pain were 
+recorded initially prior to any testing. 
+We tried to include as many participants 
+as possible, but due to recruitment and 
+funding issues, only 16 TMD subjects 
+were enrolled, and these subjects 
+were then split (n = 8/group) into the 
+capsaicin and control groups.
+Quantitative Sensory Testing
+Quantitative sensory testing (QST) for 
+mechanical and thermal sensitivity were 
+completed prior to drug application 
+(baseline), 2 h after drug application, and 
+at the second visit 1 wk later for select 
+groups. All QSTs were demonstrated on 
+the nondominant arm to familiarize the 
+subject to the testing procedures.
+Pressure pain was evaluated using a 
+clinical grade pressure algometer (FPX 
+50—25 × 0.2N; Wagner). The subjects’ 
+pressure pain threshold was determined 
+by placing the probe tip perpendicular 
+to the skin testing sites (lateral pole of 
+the TMJ, mid-body of the superficial 
+masseter) and applying pressure in an 
+increasing manner at a rate of 1 kg/s. 
+The subject signified the time of first 
+painful response, at which point the 
+pressure stimulus was terminated and 
+the value recorded. After testing both 
+sites bilaterally, VAS ratings of global 
+pain were immediately recorded. Global 
+pain was defined as clinical (TMD) pain 
+(spontaneous, evoked) plus experimental 
+pain. This test was repeated 3 times 
+unless 2 of the 3 tests were not within 
+0.5 kg, necessitating a fourth trial.
+Changes in thermal sensitivity were 
+assessed using the Medoc Thermal 
+Testing Device (Medoc Advanced 
+Medical Systems). Pain threshold was 
+assessed using an ascending method of 
+limits with a rate of rise equaling 0.5°C/s, 
+starting at 32°C, with the maximum limit 
+set at 53°C. The 3 × 3-cm² thermode was 
+applied on the skin overlying the TMJ 
+lateral pole and in the mid-region of the 
+superficial masseter. Subjects indicated 
+when they first felt pain by pressing a 
+button immediately stopping the stimulus 
+and the value recorded. The contralateral 
+side of the face was then tested and 
+a global pain rating using a VAS was 
+taken 3 min later. This test was repeated 
+3 times unless 2 of the 3 tests were not 
+within 1°C, necessitating a fourth trial. 
+The threshold for each patient was 
+calculated as the mean of the individual 
+trials.
+Drug Application
+Capsaicin powder (Formosa 
+Laboratories) was compounded into an 
+8% (w/v) topical emollient cream base 
+(andydrous ointment, polysorbate 80, 
+butylated hydroxytoleune NF, water) by 
+Westlab Pharmacy. Capsaicin content 
+was verified by high-performance liquid 
+chromatography analysis (Analytical 
+Research Laboratories). The vehicle 
+cream was the same topical solution but 
+contained no capsaicin. The investigator 
+spread a 0.1-mL dollop of cream to a 
+standardized area overlying the affected 
+TMJ and superficial masseter and then 
+covered the site with a cotton gauge for 
+2 h. This area extended 3 cm anteriorly 
+and inferiorly from the posterior aspect 
+of the TMJ. A square 3 × 3-cm template 
+was cut into a rubber dental dam to 
+standardize the application site. The 
+drug was applied to the right or left side 
+randomly for subjects without TMD, 
+whereas for the TMD sufferers, the side 
+that was reported as more painful was 
+studied.
+Capsaicin-evoked pain intensity VAS 
+ratings were collected every 5 min for 
+the first half hour of the experiment and 
+then every 30 min for the 2-h duration, at 
+which point the subjects’ face was wiped 
+clean with soaked gauze of half and 
+half cream followed by alcohol swabs to 
+remove residual capsaicin. QST was then 
+repeated, and then the patients were 
+discharged. All subjects were phoned 24 h 
+following the study drug application to 
+record their pain levels and any adverse 
+events. TMD patients rated their clinical 
+pain upon awakening for 7 days using 
+JDR Clinical & Translational Research 
+Month 2016
+4
+a VAS home diary. These subjects were 
+retested 1 wk from their initial visit, and 
+this consisted of performing the same 
+QST followed by the RDC for TMD 
+Physical Assessment (Axis I). A subset of 
+non-TMD subjects (n = 10) were tested 
+again at this 1-wk time point to evaluate 
+the effects of capsaicin on QST. This 
+separate control group was completed 
+in a single-blinded fashion, as the 
+investigator was not blinded.
+Measures
+Perceived pain intensity was measured 
+using a slide algometer VAS (Price  
+et al. 1983) following capsaicin or 
+vehicle cream application. In using the 
+pain sensation intensity scale, the patient 
+would slide the middle sliding part of 
+the device to the right for an indicator 
+of greater pain sensation intensity. The 
+arrow at the extreme left meant no pain 
+sensation at all, and the arrow at the 
+extreme right indicated a pain sensation 
+intensity that subject imagined to be the 
+most intense that she could possibly 
+experience.
+Statistical Analyses
+Individual subjects who were assigned 
+to control and treatment groups provided 
+repeated observations for subjective pain 
+measurements during 5, 10, . . . 180 min 
+and, later, 1 to 7 days. Because the serial 
+measurements and distinction between 
+relatively short-term versus long-term 
+effects were correlated according to 
+the individual subjects, multilevel linear 
+mixed modeling was applied. Bonferroni 
+adjustment was used to compare 
+multiple mean differences. All values were 
+considered significant when P < 0.05.
+Results
+A total of 44 control (non-TMD) 
+subjects were recruited with 21 receiving 
+capsaicin and the remaining 23 receiving 
+vehicle. An additional 10 non-TMD 
+subjects were recruited to evaluate the 
+effects of capsaicin on QST performed 
+1 wk later, as described in the Methods. 
+Sixteen TMD subjects were recruited, 
+and upon evaluation, they met the 
+criteria for RDC, group IIIa. Eight 
+received capsaicin and 8 vehicle cream. 
+None of the participants dropped out, 
+but 2 (1 from each of the TMD and non-
+TMD capsaicin groups) requested the 
+cream to be removed before the 2-h time 
+limit after drug application due to excess 
+pain, and their data were not included in 
+the results. Tables 1 and 2 summarize the 
+total number of subjects enrolled to date 
+tabulated by age and by race, excluding 
+the 2 participants who did not complete 
+all requirements.
+Effects of Capsaicin on 
+Experimental and Global Pain
+Application of capsaicin increased pain 
+ratings compared to vehicle treatment 
+in both TMD symptomatic (Fig. 1A) and 
+non-TMD subjects (Fig. 1B). When the 
+short-term effects of capsaicin versus 
+vehicle treatments were evaluated up 
+to 2 h postapplication for the TMD and 
+non-TMD groups, there was a significant 
+increase in VAS ratings over time for 
+the capsaicin-treated groups compared 
+to vehicle-treated subjects (analysis of 
+variance [ANOVA], P < 0.001). The peak 
+value (mean ± SEM) of this increase was 
+similar for both groups, 5.3 ± 0.6 and 
+4.8 ± 0.6 for the TMD and non-TMD 
+groups, respectively. There was a similar 
+response pattern for both groups, with 
+the peak rating occurring 15 min after 
+capsaicin and then returning to baseline 
+after 2 h.
+Since the TMD group had existing 
+pain, we used a global pain rating that 
+was a combination of their existing 
+clinical pain plus the experimentally 
+induced pain. The TMD group global 
+baseline pain rating (prior to initial 
+QST) was compared to post–study drug 
+(capsaicin or vehicle) pain ratings. The 
+VAS measures during 1 to 7 days (Fig. 2) 
+were significantly greater in the control 
+vehicle group than in the capsaicin 
+treatment group (P = 0.001). The VAS 
+ratings were significantly lower for the 
+capsaicin-treated subjects over the 1-wk 
+postapplication period (P = 0.033).
+Thermal Pain Threshold
+Capsaicin and vehicle TMD groups had 
+similar baseline thermal pain thresholds 
+on their affected side, and there was 
+no difference with the no/less pain 
+contralateral side threshold, and this 
+comparison holds true for the non-TMD 
+groups. Both TMD and non-TMD groups 
+(Fig. 3) demonstrated a significant 
+Table 1.
+Subject Demographics: Age Distribution.
+Treatment
+Normal
+TMD
+n
+Mean
+SD
+n
+Mean
+SD
+Age distribution
+ 
+  Control vehicle
+23
+22.5
+6.9
+8
+25.8
+12.2
+  Capsaicin 8%
+30
+28.0
+10.6
+7
+29.3
+12.3
+  Total
+53
+25.6
+9.5
+15
+27.4
+11.9
+Two-way (2-factorial) analysis of variance revealed that there is no significant difference in the age distribution between normal and TMD subjects (P = 0.437) or 
+between control and treatment groups (P = 0.127).
+TMD, temporomandibular joint disorder.
+Vol. XX • Issue X
+Effects of High-Dose Capsaicin on TMD Subjects
+5
+decrease in thermal pain threshold at  
+2 h after capsaicin cream application. 
+The thermal thresholds for the capsaicin-
+treated groups returned to baseline levels 
+at the 1-week follow-up for the control 
+subjects (baseline: 44.5°C ± 0.8°C; 1 
+wk: 45.3°C ± 0.8°C; P = 0.27) and TMD 
+groups (baseline: 40.4°C ± 1.5°C; 1 wk: 
+41.6°C ± 1.7°C; P = 0.51). No significant 
+thermal pain threshold differences were 
+observed at any time of the postvehicle 
+test sessions (+2 h, 1 wk) compared 
+to baseline levels between the normal 
+controls and TMD groups.
+Pressure Pain Threshold
+TMD subjects (n = 14) had similar 
+baseline thresholds (2.0 ± 0.4 g) 
+compared to non-TMD (n = 53) controls 
+(2.2 ± 0.6 g) on the treated/symptomatic 
+side. No significant changes in pressure 
+pain threshold across time emerged 
+for normal controls or TMD subjects 
+regardless of treatment, site (TMJ or 
+superficial masseter), or side of face 
+compared to baseline. There was no 
+statistical significance between TMD and 
+normal subjects, regardless of treatment 
+at baseline and after 2 h, or between 
+baseline and 2 h for Von Frey QST. 
+Analysis was done using Fisher’s exact 
+test and the Cochran-Mantel-Haenzel 
+statistic.
+Discussion
+The concept of targeting TRPV1 due 
+to its role in inflammation and pain has 
+provided a rationale for the treatment 
+of chronic pain disorders. Findings 
+from previous studies are mixed, with 
+some studies indicating efficacy in the 
+treatment of OA, RA, and PHN. Other 
+reports indicate that capsaicin’s analgesic 
+effectiveness at lower concentration 
+may be insufficient as a viable therapy. 
+With only 1 study evaluating capsaicin’s 
+resolution of TMD pain, there is a 
+definite need to explore the effects of 
+higher dose topical capsaicin before 
+conclusions can be drawn about 
+targeting TRPV1 as an effective method 
+for controlling TMD pain and ultimately 
+chronic pain.
+The purpose of this study was to 
+evaluate a high-concentration (8%) 
+topical capsaicin cream on TMD pain. 
+Table 2.
+Subject Demographics: Ethnic Distribution.
+Ethnicity
+Normal Subjects, n (%)
+TMD Patients, n (%)
+Control
+Capsaicin
+Total
+Control
+Capsaicin
+Total
+Caucasian
+12 (52.2)
+20 (66.6)
+32 (60.5)
+5 (62.5)
+5 (71.4)
+10 (66.6)
+African American
+2 (8.7)
+2 (6.7)
+4 (7.5)
+1 (14.3)
+1 (6.7)
+Hispanic
+8 (34.8)
+5 (16.7)
+13 (24.5)
+3 (37.5)
+1 (14.3)
+4 (26.7)
+Asian
+1 (4.3)
+3 (10.0)
+4 (7.5)
+ 
+Fisher’s exact statistic showed that there is no significant difference in the ethnicity distribution neither between normal and TMD subjects (P = 0.459) or between 
+control and treatment groups (P = 0.569).
+TMD, temporomandibular joint disorder.
+Figure 1. Global pain (experimental + clinical pain) ratings. (A) Temporomandibular joint 
+disorder (TMD) and (B) non-TMD group global pain ratings for up to 2 h after capsaicin or 
+vehicle cream application. Application of capsaicin increased reported pain compared to 
+vehicle in both healthy and TMD symptomatic subjects, with a significant increase in visual 
+analog scale (VAS) ratings over time for the capsaicin-treated group compared to vehicle-
+treated subjects (analysis of variance, P < 0.001).
+JDR Clinical & Translational Research 
+Month 2016
+6
+Our data suggest that capsaicin may 
+have some clinical benefits of relieving 
+TMD pain. Significantly lower pain was 
+reported in the week postapplication in 
+the capsaicin-treated subjects compared 
+to the vehicle subjects. This contrasts 
+the previous capsaicin TMD study that 
+found no difference between the TMD 
+and healthy control groups (Winocur 
+et al. 2000). This discrepancy could be 
+attributed to a lower dose of capsaicin 
+and in the weekly reporting interval, 
+whereas our study collected measures 
+daily. Our data showed a significant 
+difference between the TMD capsaicin 
+and vehicle groups over the entire 7 d 
+postapplication.
+Our approach used established QST 
+techniques to evaluate sensory changes 
+and pain. There was a decreased thermal 
+pain threshold 2 h after capsaicin 
+application, but this resolved 1 wk 
+postapplication with return of normal 
+thermal pain threshold responses. 
+Thermal pain thresholds showed that 
+regardless of disease state of the group 
+(TMD vs. non-TMD), the threshold 
+decreased only on the side ipsilateral to 
+the capsaicin and was only seen at the 
+2-h time point rather than 7 d out. This 
+finding seemingly contradicts previous 
+findings of desensitization 1 wk later 
+after a 2-h application of 8% capsaicin or 
+3 wk later after multiple daily low-dose 
+capsaicin applications at the same skin 
+site (Nolano et al. 1999; Malmberg et al. 
+2004). Their findings suggest thermal 
+sensitization determines when a subject 
+first feels warmth (sensitization) rather 
+than pain due to heat (thermal pain 
+threshold), which we evaluated.
+Capsaicin had no effect on pressure 
+pain threshold for TMD and healthy 
+individuals. This contrasts reports of 
+pressure pain threshold differences in 
+TMD and controls. Our study focused on 
+arthralgia rather than myalgia; therefore, 
+this selection bias may account for the 
+lack of pressure sensitivity between 
+the treatment groups. We also found 
+no difference in punctate mechanical 
+sensitivity between baseline and the 2-h 
+time points between normal control and 
+TMD groups. These findings indicate 
+that effects of this high-concentration 
+topical capsaicin cream do not affect the 
+mechanoreceptors and either pressure 
+or punctate pain. This contrasts findings 
+regarding mechanical allodynia induced 
+by topically applied 0.075% capsaicin 
+(Petersen et al. 2000). However, a 
+different mechanical stimulus (light 
+paintbrush touch) differs substantially 
+from the pressure and Von Frey stimuli 
+used in the current protocol.
+Not surprisingly, capsaicin produced 
+pain in both the TMD and healthy 
+subject groups during the postapplication 
+testing period. An hour after capsaicin 
+application, the TMD group pain 
+returned to or was below initial pain 
+levels. The TMD group receiving vehicle 
+had no increase in pain; rather, they 
+showed stable pain levels that declined. 
+As noted, 2 of 38 individuals felt like the 
+pain was too much and did not want 
+to continue suggesting that some of the 
+population may have poor compliance 
+with the present treatment modality.
+There exists a somewhat paradoxical 
+finding that a topical therapy can 
+affect an essentially deep tissue (TMJ/
+masseter muscle) pain input. While 
+it is possible for the capsaicin to 
+penetrate and directly activate TRPV1 
+receptors within the joint or muscle, 
+other actions may occur due to central 
+modulation. The central nervous system 
+is susceptible to peripheral, nociceptive 
+stimuli and responds with sensitization 
+of the peripheral receptive fields. Our 
+data suggest that this occurs following 
+Figure 2. One-week temporomandibular joint disorder (TMD) group global (TMD) pain 
+ratings posttreatment. The visual analog scale (VAS) measures during 1 to 7 days were 
+significantly greater in the control vehicle group than in the capsaicin treatment group  
+(*P = 0.001).
+Figure 3. Thermal pain threshold responses for temporomandibular joint disorder (TMD) 
+and non-TMD subjects. There was a significant (*P < 0.001) decrease in the threshold for 
+both TMD and non-TMD groups that received capsaicin treatment compared to vehicle 
+and baseline predrug values. There were no significant (NS) differences for any of the 
+treatment or study groups when the contralateral (nontreated) side was evaluated.
+Vol. XX • Issue X
+Effects of High-Dose Capsaicin on TMD Subjects
+7
+capsaicin application, as those subjects 
+(both TMD and healthy controls) 
+experienced thermal allodynia at the 
+2-h postapplication time point. This 
+manifested as a significant lowering of 
+the heat pain threshold. Conversely, 
+central inhibitory mechanisms can be 
+triggered such that the painful stimuli 
+can actually lower pain responses via 
+compensatory inhibitory pathways. 
+Our data for the TMD subjects support 
+this phenomenon, as these subjects 
+demonstrated a week-long decrease in 
+global pain rating following a severe 
+noxious insult. This is consistent with 
+the theory of diffuse noxious inhibitory 
+control (DNIC) systems, which implies 
+that a noxious stimulus can activate 
+global inhibitory systems to reduce 
+pain (Le Bars 2002). This pathway 
+is likely mediated by endogenous 
+opioid pathways, such as found in the 
+periacqueductal gray (Basbaum and 
+Jessell 2000). The findings from our 
+current study suggest that initial algesic 
+response following 8% topical capsaicin 
+cream application may activate inhibitory 
+systems to produce long-duration effects. 
+This may complement the desensitization 
+concept proposed by previous topical 
+capsaicin studies and together support 
+the use of capsaicin as a beneficial 
+therapy for patients.
+Overall, we found that there was a 
+significant effect for reducing TMD pain 
+over the 1-wk period following a single 
+application of capsaicin; however, the 
+main limitation of this study still remains 
+the relatively low sample size for the 
+TMD groups. While promising, further 
+studies with larger cohorts that include 
+other RDC diagnostic groups are needed. 
+We acknowledge that male patients also 
+have facial pain and TMD in particular, 
+albeit at a much lower occurrence. 
+Due to practical experimental issues, 
+including funding and difficulty in 
+recruiting subjects, we chose to focus 
+on female subjects, and this limits the 
+generalizability of our results. Future 
+studies will include male subjects, 
+evaluation of duration of analgesic effect, 
+optimal application (e.g., frequency, 
+duration), and tolerability, which are 
+important factors that require further 
+evaluation for 8% topical capsaicin 
+therapy.
+Author Contributions
+B.K. Campbell, contributed to 
+design, data acquisition, and analysis, 
+drafted the manuscript; R.B. Fillingim, 
+contributed to conception and data 
+interpretation, critically revised the 
+manuscript; S. Lee, contributed to 
+data analysis, critically revised the 
+manuscript; R. Brao, contributed to 
+design and data acquisition, critically 
+revised the manuscript; D.D. Price, 
+contributed to conception, design, and 
+data interpretation, critically revised the 
+manuscript; J.K. Neubert, contributed 
+to conception, design, data acquisition, 
+analysis, and interpretation, drafted and 
+critically revised the manuscript. All 
+authors gave final approval and agree 
+to be accountable for all aspects of the 
+work.
+Acknowledgments
+Support for this research was provided 
+by grant 1K22DE014865-01A1, National 
+Institute of Dental and Craniofacial 
+Research, National Institutes of Health, 
+Department of Health and Human 
+Services, Bethesda, MD, USA. The authors 
+thank Prince Hinson for compounding 
+and preparing the study drugs. The 
+authors declare no potential conflicts of 
+interest with respect to the authorship 
+and/or publication of this article. In 
+memoriam: Donald D. Price, PhD.
+References
+Al-Jundi MA, John MT, Setz JM, Szentpétery A, 
+Kuss O. 2008. Meta-analysis of treatment 
+need for temporomandibular disorders 
+in adult nonpatients. J Orofac Pain. 
+22(2):97–107.
+Basbaum A, Jessell T. 2000. The perception of 
+pain. New York (NY): Elsevier Science.
+Caterina MJ, Julius D. 2001. The vanilloid 
+receptor: a molecular gateway to the pain 
+pathway. Annu Rev Neurosci. 24:487–517.
+Deal CL, Schnitzer TJ, Lipstein E, Seibold JR, 
+Stevens RM, Levy MD, Albert D, Renold 
+F. 1991. Treatment of arthritis with topical 
+capsaicin: a double-blind trial. Clin Ther. 
+13(3):383–395.
+Dworkin SF, LeResche L. 1992. Research 
+diagnostic criteria for temporomandibular 
+disorders: review, criteria, examinations 
+and specifications, critique. J Craniomandib 
+Disord. 6(4):301–355.
+Gaul C, Resch S. 2015. Application of 
+the capsaicin 8% cutaneous patch in 
+neuropathic pain of the head and face: a 
+case series. Cephalalgia. 35(6):545–550.
+Gunthorpe MJ, Benham CD, Randall A, Davis JB. 
+2002. The diversity in the vanilloid (TRPV) 
+receptor family of ion channels. Trends 
+Pharmacol Sci. 23(4):183–191.
+Jordt SE, McKemy DD, Julius D. 2003. Lessons 
+from peppers and peppermint: the 
+molecular logic of thermosensation. Curr 
+Opin Neurobiol. 13(4):487–492.
+Karai L, Brown DC, Mannes AJ, Connelly ST, 
+Brown J, Gandal M, Wellisch OM, Neubert 
+JK, Olah Z, Iadarola MJ. 2004. Deletion of 
+vanilloid receptor 1–expressing primary 
+afferent neurons for pain control. J Clin 
+Invest. 113(9):1344–1352.
+Le Bars D. 2002. The whole body receptive field 
+of dorsal horn multireceptive neurones. 
+Brain Res Brain Res Rev. 40(1–3):29–44.
+LeResche L. 1997. Epidemiology of 
+temporomandibular disorders: implications 
+for the investigation of etiologic factors. Crit 
+Rev Oral Biol Med. 8(3):291–305.
+Lipton JA, Ship JA, Larach-Robinson D. 1993. 
+Estimated prevalence and distribution of 
+reported orofacial pain in the United States. 
+J Am Dent Assoc. 124(10):115–121.
+Maihöfner CG, Heskamp ML. 2013. Prospective, 
+non-interventional study on the tolerability 
+and analgesic effectiveness over 12 weeks 
+after a single application of capsaicin 8% 
+cutaneous patch in 1044 patients with 
+peripheral neuropathic pain: first results 
+of the QUEPP study. Curr Med Res Opin. 
+29(6):673–683.
+Maihöfner CG, Heskamp ML. 2014. Treatment 
+of peripheral neuropathic pain by topical 
+capsaicin: impact of pre-existing pain in the 
+QUEPP-study. Eur J Pain. 18(5):671–679.
+Malmberg AB, Mizisin AP, Calcutt NA, von 
+Stein T, Robbins WR, Bley KR. 2004. 
+Reduced heat sensitivity and epidermal 
+nerve fiber immunostaining following 
+single applications of a high-concentration 
+capsaicin patch. Pain. 111(3):360–367.
+Mason L, Moore RA, Derry S, Edwards JE, 
+McQuay HJ. 2004. Systematic review of 
+topical capsaicin for the treatment of chronic 
+pain. BMJ. 328(7446):991.
+McCarthy GM, McCarty DJ. 1992. Effect of 
+topical capsaicin in the therapy of painful 
+JDR Clinical & Translational Research 
+Month 2016
+8
+osteoarthritis of the hands. J Rheumatol. 
+19(4):604–607.
+Neubert JK, Karai L, Jun JH, Kim HS, Olah 
+Z, Iadarola MJ. 2003. Peripherally 
+induced resiniferatoxin analgesia. Pain. 
+104(1–2):219–228.
+Nolano M, Simone DA, Wendelschafer-Crabb 
+G, Johnson T, Hazen E, Kennedy WR. 1999. 
+Topical capsaicin in humans: parallel loss of 
+epidermal nerve fibers and pain sensation. 
+Pain. 81(1–2):135–145.
+Patapoutian A, Tate S, Woolf CJ. 2009. Transient 
+receptor potential channels: targeting pain at 
+the source. Nat Rev Drug Discov. 8(1):55–68.
+Peikert A, Hentrich M, Ochs G. 1991. Topical 
+0.025% capsaicin in chronic post-
+herpetic neuralgia: efficacy, predictors of 
+response and long-term course. J Neurol. 
+238(8):452–456.
+Petersen KL, Fields HL, Brennum J, Sandroni P, 
+Rowbotham MC. 2000. Capsaicin evoked 
+pain and allodynia in post-herpetic 
+neuralgia. Pain. 88(2):125–133.
+Price DD, McGrath PA, Rafii A, Buckingham 
+B. 1983. The validation of visual analogue 
+scales as ratio scale measures for chronic 
+and experimental pain. Pain. 17(1):45–56.
+Slade GD, Bair E, Greenspan JD, Dubner 
+R, Fillingim RB, Diatchenko L, Maixner 
+W, Knott C, Ohrbach R. 2013. Signs 
+and symptoms of first-onset TMD and 
+sociodemographic predictors of its 
+development: the OPPERA prospective 
+cohort study. J Pain. 14(12 Suppl):T20–32.
+e1–3.
+Solberg W. 1983. Epidemiology, incidence 
+and prevalence of temporomandibular 
+disorders.In: Laskin D, Greenfield W, Gale 
+W, editors. The president’s conference of the 
+examination, diagnosis, and management of 
+temporomandibular disorders. Chicago (IL): 
+American Dental Association; 1983.
+Szallasi A, Appendino G. 2004. Vanilloid 
+receptor TRPV1 antagonists as the next 
+generation of painkillers: are we putting 
+the cart before the horse? J Med Chem. 
+47(11):2717–2723.
+Tominaga M, Caterina MJ. 2004. 
+Thermosensation and pain. J Neurobiol. 
+61(1):3–12.
+Watson CP, Tyler KL, Bickers DR, Millikan LE, 
+Smith S, Coleman E. 1993. A randomized 
+vehicle-controlled trial of topical capsaicin in 
+the treatment of postherpetic neuralgia. Clin 
+Ther. 15(3):510–526.
+Winocur E, Gavish A, Halachmi M, Eli I, Gazit 
+E. 2000. Topical application of capsaicin 
+for the treatment of localized pain in the 
+temporomandibular joint area. J Orofac Pain. 
+14(1):31–36.
+Yaksh TL, Farb DH, Leeman SE, Jessell TM. 
+1979. Intrathecal capsaicin depletes 
+substance p in the rat spinal cord and 
+produces prolonged thermal analgesia. 
+Science. 206(4417):481–483.
+Zis P, Apsokardos A, Isaia C, Sykioti P, 
+Vadalouca A. 2014. Posttraumatic and 
+postsurgical neuropathic pain responsive to 
+treatment with capsaicin 8% topical patch. 
+Pain Physician. 17(2):E213–E218.

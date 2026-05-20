@@ -1,0 +1,25 @@
+{
+  "method": "TRUE homogeneous GNN (no layer type encoding, single W_msg, purely homogeneous)",
+  "n_folds": 5,
+  "fold_aucs": [
+    0.9102224035911038,
+    0.6953534031413612,
+    0.7806570087737197,
+    0.9606202815751888,
+    0.8979591836734694
+  ],
+  "fold_aps": [
+    0.1905313126669402,
+    0.07272351731371073,
+    0.08278268039780912,
+    0.5712549908245748,
+    0.09607259744020513
+  ],
+  "mean_auc": 0.8489624561509685,
+  "std_auc": 0.09683212871218151,
+  "comparison": {
+    "orig_homogeneous_with_layer_encoding": 0.6847,
+    "true_homogeneous": 0.8489624561509685,
+    "attn_hetero_gnn": 0.8513
+  }
+}

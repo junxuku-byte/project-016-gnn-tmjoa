@@ -1,0 +1,1190 @@
+{
+  "metadata": {
+    "project": "project-016",
+    "version": "v2_title_cooccurrence",
+    "created_at": "2026-05-18T17:59:57.972915",
+    "source_papers": 400,
+    "positive_ratio": 1.0,
+    "negative_ratio": 5,
+    "train_ratio": 0.7,
+    "val_ratio": 0.15,
+    "repositioning_stars_excluded": [
+      "Metformin",
+      "Everolimus",
+      "Quercetin",
+      "Rapamycin",
+      "Fisetin",
+      "EGCG",
+      "Curcumin",
+      "Resveratrol",
+      "Ginger",
+      "Omega-3",
+      "SAMe"
+    ]
+  },
+  "statistics": {
+    "total_pairs": 540,
+    "cooccurring_pairs": 51,
+    "positive_samples": 44,
+    "negative_samples": 73,
+    "hard_negatives": 37,
+    "unique_drugs": 27,
+    "unique_diseases": 20,
+    "drug_freq": {
+      "PRP": 18,
+      "Hyaluronic acid": 15,
+      "Denosumab": 6,
+      "Corticosteroid": 6,
+      "Resveratrol": 5,
+      "Vitamin D": 5,
+      "Statin": 4,
+      "Burosumab": 4,
+      "Curcumin": 3,
+      "Anti-FGF23": 2,
+      "Collagen": 2,
+      "NSAIDs": 2,
+      "TLR4 inhibitor": 1,
+      "Metformin": 1,
+      "JAK inhibitor": 1,
+      "Alendronate": 1,
+      "Zoledronic acid": 1,
+      "Rapamycin": 1,
+      "Calcium": 1,
+      "Strontium ranelate": 1,
+      "Chondroitin": 1,
+      "Glucosamine": 1,
+      "MSM": 1,
+      "ASU": 1,
+      "Calcitriol": 1,
+      "Pioglitazone": 1,
+      "Morphine": 1
+    },
+    "disease_freq": {
+      "TMJ": 261,
+      "Osteoarthritis": 257,
+      "TMJOA": 163,
+      "TMJ condyle": 31,
+      "Osteoporosis": 22,
+      "Knee OA": 15,
+      "Bone loss": 11,
+      "Bone resorption": 6,
+      "Rheumatoid arthritis": 4,
+      "TMD": 4,
+      "Bone marrow abnormality": 3,
+      "Condylar resorption": 3,
+      "TMJ internal derangement": 3,
+      "TMJ disc displacement": 3,
+      "Condylar degeneration": 2,
+      "Osteopenia": 1,
+      "Trauma": 1,
+      "Iron overload": 1,
+      "Hip OA": 1,
+      "Fracture": 1
+    }
+  },
+  "splits": {
+    "train": [
+      {
+        "drug": "ASU",
+        "disease": "TMJOA",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 163
+      },
+      {
+        "drug": "Vitamin D",
+        "disease": "Iron overload",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 5,
+        "disease_freq_in_corpus": 1
+      },
+      {
+        "drug": "PRP",
+        "disease": "Bone resorption",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 18,
+        "disease_freq_in_corpus": 6
+      },
+      {
+        "drug": "Calcium",
+        "disease": "TMJ",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 261
+      },
+      {
+        "drug": "Pioglitazone",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Hyaluronic acid",
+        "disease": "TMJ",
+        "label": 1,
+        "cooccurrence_count": 15,
+        "drug_freq_in_corpus": 15,
+        "disease_freq_in_corpus": 261,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "strong_positive"
+      },
+      {
+        "drug": "PRP",
+        "disease": "Rheumatoid arthritis",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 18,
+        "disease_freq_in_corpus": 4
+      },
+      {
+        "drug": "Corticosteroid",
+        "disease": "Knee OA",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 15
+      },
+      {
+        "drug": "Corticosteroid",
+        "disease": "Condylar degeneration",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 2
+      },
+      {
+        "drug": "Collagen",
+        "disease": "TMJOA",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 2,
+        "disease_freq_in_corpus": 163
+      },
+      {
+        "drug": "Chondroitin",
+        "disease": "TMJ",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 261,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "PRP",
+        "disease": "Osteoporosis",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 18,
+        "disease_freq_in_corpus": 22
+      },
+      {
+        "drug": "Denosumab",
+        "disease": "Osteoporosis",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 22,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Hyaluronic acid",
+        "disease": "Condylar resorption",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 15,
+        "disease_freq_in_corpus": 3
+      },
+      {
+        "drug": "JAK inhibitor",
+        "disease": "TMJ",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 261
+      },
+      {
+        "drug": "Hyaluronic acid",
+        "disease": "Knee OA",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 15,
+        "disease_freq_in_corpus": 15
+      },
+      {
+        "drug": "Statin",
+        "disease": "TMJ disc displacement",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 4,
+        "disease_freq_in_corpus": 3
+      },
+      {
+        "drug": "Hyaluronic acid",
+        "disease": "TMD",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 15,
+        "disease_freq_in_corpus": 4
+      },
+      {
+        "drug": "Vitamin D",
+        "disease": "TMJOA",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 5,
+        "disease_freq_in_corpus": 163,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "ASU",
+        "disease": "TMD",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 4,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "JAK inhibitor",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Glucosamine",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "PRP",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 15,
+        "drug_freq_in_corpus": 18,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "strong_positive"
+      },
+      {
+        "drug": "Alendronate",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "MSM",
+        "disease": "TMJOA",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 163,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Statin",
+        "disease": "Osteoporosis",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 4,
+        "disease_freq_in_corpus": 22
+      },
+      {
+        "drug": "Statin",
+        "disease": "Fracture",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 4,
+        "disease_freq_in_corpus": 1
+      },
+      {
+        "drug": "Alendronate",
+        "disease": "Osteoporosis",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 22,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Morphine",
+        "disease": "Osteoarthritis",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 257
+      },
+      {
+        "drug": "ASU",
+        "disease": "TMJ",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 261
+      },
+      {
+        "drug": "Anti-FGF23",
+        "disease": "TMJ",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 2,
+        "disease_freq_in_corpus": 261
+      },
+      {
+        "drug": "Alendronate",
+        "disease": "TMJOA",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 163
+      },
+      {
+        "drug": "NSAIDs",
+        "disease": "TMJOA",
+        "label": 1,
+        "cooccurrence_count": 2,
+        "drug_freq_in_corpus": 2,
+        "disease_freq_in_corpus": 163,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "medium_positive"
+      },
+      {
+        "drug": "Strontium ranelate",
+        "disease": "TMJ",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 261
+      },
+      {
+        "drug": "Zoledronic acid",
+        "disease": "TMJ",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 261
+      },
+      {
+        "drug": "Hyaluronic acid",
+        "disease": "Osteoporosis",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 15,
+        "disease_freq_in_corpus": 22
+      },
+      {
+        "drug": "Calcium",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Zoledronic acid",
+        "disease": "TMJOA",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 163
+      },
+      {
+        "drug": "TLR4 inhibitor",
+        "disease": "TMJOA",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 163
+      },
+      {
+        "drug": "PRP",
+        "disease": "TMD",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 18,
+        "disease_freq_in_corpus": 4
+      },
+      {
+        "drug": "Calcitriol",
+        "disease": "Osteoarthritis",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 257
+      },
+      {
+        "drug": "Corticosteroid",
+        "disease": "Bone resorption",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 6
+      },
+      {
+        "drug": "Vitamin D",
+        "disease": "Osteopenia",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 5,
+        "disease_freq_in_corpus": 1
+      },
+      {
+        "drug": "Collagen",
+        "disease": "TMJ",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 2,
+        "disease_freq_in_corpus": 261,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Denosumab",
+        "disease": "Knee OA",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 15,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Denosumab",
+        "disease": "Bone resorption",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 6
+      },
+      {
+        "drug": "Calcium",
+        "disease": "TMJOA",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 163
+      },
+      {
+        "drug": "Denosumab",
+        "disease": "TMJOA",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 163
+      },
+      {
+        "drug": "Statin",
+        "disease": "Hip OA",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 4,
+        "disease_freq_in_corpus": 1
+      },
+      {
+        "drug": "Pioglitazone",
+        "disease": "TMJ",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 261,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Statin",
+        "disease": "TMJOA",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 4,
+        "disease_freq_in_corpus": 163,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Denosumab",
+        "disease": "TMJ internal derangement",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 3
+      },
+      {
+        "drug": "Morphine",
+        "disease": "TMJOA",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 163
+      },
+      {
+        "drug": "Hyaluronic acid",
+        "disease": "Bone marrow abnormality",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 15,
+        "disease_freq_in_corpus": 3
+      },
+      {
+        "drug": "MSM",
+        "disease": "TMJ",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 261,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Collagen",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 2,
+        "drug_freq_in_corpus": 2,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "medium_positive"
+      },
+      {
+        "drug": "Anti-FGF23",
+        "disease": "Osteoarthritis",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 2,
+        "disease_freq_in_corpus": 257
+      },
+      {
+        "drug": "TLR4 inhibitor",
+        "disease": "Osteoarthritis",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 257
+      },
+      {
+        "drug": "NSAIDs",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 2,
+        "drug_freq_in_corpus": 2,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "medium_positive"
+      },
+      {
+        "drug": "NSAIDs",
+        "disease": "TMJ",
+        "label": 1,
+        "cooccurrence_count": 2,
+        "drug_freq_in_corpus": 2,
+        "disease_freq_in_corpus": 261,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "medium_positive"
+      },
+      {
+        "drug": "Hyaluronic acid",
+        "disease": "Bone resorption",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 15,
+        "disease_freq_in_corpus": 6
+      },
+      {
+        "drug": "Corticosteroid",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 6,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "strong_positive"
+      },
+      {
+        "drug": "Corticosteroid",
+        "disease": "Osteoporosis",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 22
+      },
+      {
+        "drug": "Vitamin D",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 3,
+        "drug_freq_in_corpus": 5,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "medium_positive"
+      },
+      {
+        "drug": "Hyaluronic acid",
+        "disease": "TMJ condyle",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 15,
+        "disease_freq_in_corpus": 31
+      },
+      {
+        "drug": "Hyaluronic acid",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 15,
+        "drug_freq_in_corpus": 15,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "strong_positive"
+      },
+      {
+        "drug": "ASU",
+        "disease": "Osteoarthritis",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 257
+      },
+      {
+        "drug": "Denosumab",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 3,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "medium_positive"
+      },
+      {
+        "drug": "Glucosamine",
+        "disease": "TMJ",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 261,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Denosumab",
+        "disease": "TMJ",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 261
+      },
+      {
+        "drug": "Burosumab",
+        "disease": "TMJ",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 4,
+        "disease_freq_in_corpus": 261
+      },
+      {
+        "drug": "Zoledronic acid",
+        "disease": "Bone resorption",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 6,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Alendronate",
+        "disease": "TMJ",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 261
+      },
+      {
+        "drug": "Corticosteroid",
+        "disease": "TMD",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 4
+      },
+      {
+        "drug": "Corticosteroid",
+        "disease": "Osteopenia",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 1
+      },
+      {
+        "drug": "Vitamin D",
+        "disease": "Osteoporosis",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 5,
+        "disease_freq_in_corpus": 22
+      },
+      {
+        "drug": "Denosumab",
+        "disease": "TMD",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 4
+      },
+      {
+        "drug": "Corticosteroid",
+        "disease": "TMJ",
+        "label": 1,
+        "cooccurrence_count": 6,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 261,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "strong_positive"
+      },
+      {
+        "drug": "Hyaluronic acid",
+        "disease": "Rheumatoid arthritis",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 15,
+        "disease_freq_in_corpus": 4
+      },
+      {
+        "drug": "Morphine",
+        "disease": "TMJ",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 261,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Denosumab",
+        "disease": "TMJ disc displacement",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 3
+      }
+    ],
+    "val": [
+      {
+        "drug": "PRP",
+        "disease": "TMJOA",
+        "label": 1,
+        "cooccurrence_count": 15,
+        "drug_freq_in_corpus": 18,
+        "disease_freq_in_corpus": 163,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "strong_positive"
+      },
+      {
+        "drug": "TLR4 inhibitor",
+        "disease": "TMJ",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 261,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Vitamin D",
+        "disease": "Hip OA",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 5,
+        "disease_freq_in_corpus": 1
+      },
+      {
+        "drug": "Corticosteroid",
+        "disease": "TMJ disc displacement",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 3
+      },
+      {
+        "drug": "Strontium ranelate",
+        "disease": "Osteoarthritis",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 257
+      },
+      {
+        "drug": "Vitamin D",
+        "disease": "Trauma",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 5,
+        "disease_freq_in_corpus": 1
+      },
+      {
+        "drug": "Calcitriol",
+        "disease": "TMJ",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 261
+      },
+      {
+        "drug": "Vitamin D",
+        "disease": "TMJ disc displacement",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 5,
+        "disease_freq_in_corpus": 3
+      },
+      {
+        "drug": "Vitamin D",
+        "disease": "Knee OA",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 5,
+        "disease_freq_in_corpus": 15
+      },
+      {
+        "drug": "Collagen",
+        "disease": "Osteoporosis",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 2,
+        "disease_freq_in_corpus": 22
+      },
+      {
+        "drug": "Hyaluronic acid",
+        "disease": "TMJ disc displacement",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 15,
+        "disease_freq_in_corpus": 3,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "PRP",
+        "disease": "TMJ condyle",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 18,
+        "disease_freq_in_corpus": 31
+      },
+      {
+        "drug": "Denosumab",
+        "disease": "Condylar resorption",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 3
+      },
+      {
+        "drug": "PRP",
+        "disease": "Bone loss",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 18,
+        "disease_freq_in_corpus": 11
+      },
+      {
+        "drug": "JAK inhibitor",
+        "disease": "TMJOA",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 163
+      },
+      {
+        "drug": "Chondroitin",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Vitamin D",
+        "disease": "TMJ",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 5,
+        "disease_freq_in_corpus": 261,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      }
+    ],
+    "test": [
+      {
+        "drug": "Denosumab",
+        "disease": "Condylar degeneration",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 2
+      },
+      {
+        "drug": "Statin",
+        "disease": "Iron overload",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 4,
+        "disease_freq_in_corpus": 1
+      },
+      {
+        "drug": "Statin",
+        "disease": "TMJ",
+        "label": 1,
+        "cooccurrence_count": 2,
+        "drug_freq_in_corpus": 4,
+        "disease_freq_in_corpus": 261,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "medium_positive"
+      },
+      {
+        "drug": "Burosumab",
+        "disease": "Osteoarthritis",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 4,
+        "disease_freq_in_corpus": 257
+      },
+      {
+        "drug": "PRP",
+        "disease": "Knee OA",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 18,
+        "disease_freq_in_corpus": 15
+      },
+      {
+        "drug": "Zoledronic acid",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Pioglitazone",
+        "disease": "TMJOA",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 163
+      },
+      {
+        "drug": "Corticosteroid",
+        "disease": "Trauma",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 1
+      },
+      {
+        "drug": "PRP",
+        "disease": "Bone marrow abnormality",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 18,
+        "disease_freq_in_corpus": 3
+      },
+      {
+        "drug": "PRP",
+        "disease": "TMJ",
+        "label": 1,
+        "cooccurrence_count": 17,
+        "drug_freq_in_corpus": 18,
+        "disease_freq_in_corpus": 261,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "strong_positive"
+      },
+      {
+        "drug": "Vitamin D",
+        "disease": "Fracture",
+        "label": 0,
+        "is_hard_negative": false,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 5,
+        "disease_freq_in_corpus": 1
+      },
+      {
+        "drug": "Corticosteroid",
+        "disease": "TMJOA",
+        "label": 1,
+        "cooccurrence_count": 5,
+        "drug_freq_in_corpus": 6,
+        "disease_freq_in_corpus": 163,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "strong_positive"
+      },
+      {
+        "drug": "Chondroitin",
+        "disease": "TMJOA",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 163,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Glucosamine",
+        "disease": "TMJOA",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 163,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "MSM",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 1,
+        "drug_freq_in_corpus": 1,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "weak_positive"
+      },
+      {
+        "drug": "Hyaluronic acid",
+        "disease": "TMJ internal derangement",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 15,
+        "disease_freq_in_corpus": 3
+      },
+      {
+        "drug": "Statin",
+        "disease": "Osteoarthritis",
+        "label": 1,
+        "cooccurrence_count": 3,
+        "drug_freq_in_corpus": 4,
+        "disease_freq_in_corpus": 257,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "medium_positive"
+      },
+      {
+        "drug": "Hyaluronic acid",
+        "disease": "TMJOA",
+        "label": 1,
+        "cooccurrence_count": 13,
+        "drug_freq_in_corpus": 15,
+        "disease_freq_in_corpus": 163,
+        "evidence_type": "title_cooccurrence",
+        "confidence": "strong_positive"
+      },
+      {
+        "drug": "Hyaluronic acid",
+        "disease": "Bone loss",
+        "label": 0,
+        "is_hard_negative": true,
+        "cooccurrence_count": 0,
+        "drug_freq_in_corpus": 15,
+        "disease_freq_in_corpus": 11
+      }
+    ]
+  }
+}

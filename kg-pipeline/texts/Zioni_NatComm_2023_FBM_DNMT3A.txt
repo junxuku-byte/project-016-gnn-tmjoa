@@ -1,0 +1,1532 @@
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Inﬂammatory signals from fatty bone
+marrow support DNMT3A driven clonal
+hematopoiesis
+N. Zioni1, A. Akhiad Bercovich2, N. Chapal-Ilani1, Tal Bacharach1, N. Rappoport2,3,
+A. Solomon4, R. Avraham4, E. Kopitman5, Z. Porat
+5, M. Sacma6, G. Hartmut6,
+M. Scheller
+7, C. Muller-Tidow
+8,9,10, D. Lipka
+10, E. Shlush11,
+M. Minden12,13,14,15,16, N. Kaushansky1,18 & Liran I. Shlush
+1,17,18
+Both fatty bone marrow (FBM) and somatic mutations in hematopoietic stem
+cells (HSCs), also termed clonal hematopoiesis (CH) accumulate with human
+aging. However it remains unclear whether FBM can modify the evolution of
+CH. To address this question, we herein present the interaction between CH
+and FBM in two preclinical male mouse models: after sub-lethal irradiation or
+after castration. An adipogenesis inhibitor (PPARγ inhibitor) is used in both
+models as a control. A signiﬁcant increase in self-renewal can be detected in
+both human and rodent DNMT3AMut-HSCs when exposed to FBM. DNMT3AMut-
+HSCs derived from older mice interacting with FBM have even higher self-
+renewal in comparison to DNMT3AMut-HSCs derived from younger mice. Single
+cell RNA-sequencing on rodent HSCs after exposing them to FBM reveal a 6-10
+fold increase in DNMT3AMut-HSCs and an activated inﬂammatory signaling.
+Cytokine analysis of BM ﬂuid and BM derived adipocytes grown in vitro
+demonstrates an increased IL-6 levels under FBM conditions. Anti-IL-6 neu-
+tralizing antibodies signiﬁcantly reduce the selective advantage of DNMT3AMut-
+HSCs exposed to FBM. Overall, paracrine FBM inﬂammatory signals promote
+DNMT3A-driven clonal hematopoiesis, which can be inhibited by blocking the
+IL-6 pathway.
+Age-related accumulation of adipocytes in the human bone marrow
+(BM) is ubiquitous. At birth, the BM contains functionally active
+hematopoietic tissue, known as red marrow. With aging, there is a shift
+from red marrow to adipocyte-enriched yellow marrow that begins in
+the distal parts of the bones and expands proximally1–3. The initial step
+of adipogenesis is an enhanced lineage commitment of mesenchymal
+stem cells (MSCs) into preadipocytes followed by the expansion of
+preadipocytes into mature adipocytes, mainly in the cavities of trabe-
+cular bones3. BM adipocytes are different from adipocytes in other parts
+of the body4. Gene expression analysis of BM adipocytes suggested that
+they have distinct immune regulatory properties and high expression of
+pro-inﬂammatory cytokines (IL-1B, IL-15, and stem cell factor (SCF)5.
+Furthermore, BM adipocytes secrete IL-6, IL-8, and TNF-α6. As normal
+hematopoiesis and HSPCs are profoundly dependent on interactions
+with the microenvironment to maintain self-renewal capacity and nor-
+mal differentiation7, it has been speculated that the inﬂammatory sig-
+nals
+originating
+from
+fatty
+bone
+marrow
+(FBM)
+could
+alter
+hematopoiesis. Stirewalt et al. have shown that BM stromal cells are
+determinants of the fate of hematopoietic progenitors and have an
+important role in the pathogenesis of MDS in which TNF-α induces
+signiﬁcant changes in gene expression, particularly in apoptosis-related
+genes and cytokines/chemokines such as IL-6 and IL-88.
+A broad variety of positive and negative effects on HSPCs and
+hematopoiesis have been observed when BM adipocytes are co-
+Received: 22 November 2021
+Accepted: 20 February 2023
+Check for updates
+A full list of afﬁliations appears at the end of the paper.
+e-mail: liran.shlush@weizmann.ac.il
+Nature Communications|   (2023) 14:2070 
+1
+1234567890():,;
+1234567890():,;
+cultured with hematopoietic cells5. BM adipocytes are less supportive
+of hematopoiesis than undifferentiated stromal or pre-adipocyte
+counterparts, owing to decreased production of growth factors such
+as GM-CSF and G-CSF9 and secretion of signaling molecules with
+potential to impede hematopoietic proliferation such as neuropillin-1,
+lipocalin, adiponectin, and TNF-α. TNF-α and adiponectin demonstrate
+the complex effect of adipocytes through their ability to suppress
+progenitor activity while favorably affecting the most primitive HSCs.
+This imply that adipocytes restrict hematopoietic progenitor growth
+while maintaining the HSCs pool. The ability of BM adipocytes to
+support primitive hematopoietic cells is one of its beneﬁcial effects10,11.
+On the other hand, HSCs from obese mice with FBM have reduced
+repopulation potential12. Limited data is available on the role of FBM in
+leukemia evolution. Adipocytes can modify cancer evolution and ﬁt-
+ness by stimulating fatty acid oxidation and mitochondrial OXPHOS
+due to high-energy fatty acid transfer13. Leukemia stem cells use free
+fatty acids to generate energy, however, these studies were performed
+in the gonadal fat14. With age, BM adiposity correlates with increased
+density of mature myeloid cells and CD34+ HSPCs that contributing to
+age-related risk of myeloid malignancies15. Adipocytes might provide a
+protective niche for leukemia cells during chemotherapy by increasing
+the expression of the anti-apoptotic genes BCL2 and PIM213. On the
+other hand, AML cells can reduce FBM, resulting in imbalanced reg-
+ulation of HSCs and in myelo-erythroid maturation16.
+While the interactions between FBM and normal or leukemic
+hematopoiesis were partially studied in the past, it remains unclear
+whether signals fromFBMcould shape the evolution of the early stages
+of leukemia and clonal hematopoiesis (CH). CH is deﬁned by the
+expansion of HSPCs carrying leukemia-related mutations. HSPCs car-
+rying leukemia-related mutations and still capable of differentiation
+are termed preL-HSPCs17. PreL-HSPCs are the evolutionary unit of CH18,
+and as such, understanding the selective pressures which shape their
+ﬁtness is crucial for the understanding of the early stages of leukemia
+evolution. As both FBM accumulation and clonal hematopoiesis are
+age-related and occur in the same geographic location, we hypothe-
+sized that the accumulation of FBM may provide selective advantage
+to speciﬁc preL-HSPCs. In mice, FBM accumulates in the tibia with age,
+however, strain has a considerable inﬂuence on the number of adi-
+pocytes and their age-related dynamics19. As in this study, we aimed at
+investigating both human and mice preL-HSPCs, we chose immuno-
+deﬁcient mice models; however, such mice have a shorter life span and
+tend to develop malignant tumors at a median age of 52 weeks thus
+aging them would be biased20. Therefore, we searched for other
+options to increase FBM in immunodeﬁcient mice. We used different
+external stresses to induce FBM accumulation in long bones of NOD-
+SCID-Gamma (NSG) mice so we could study the interaction of FBM
+with both human and mice preL-HSPCs. As external stress can inﬂu-
+ence other cell types and other tissues, we used a crucial control,
+namely, a PPARγ inhibitor (PPARγi) which selectively inhibits the most
+important transcription factor in adipogenesis and reduces FBM for-
+mation after irradiation21.
+In this study, we provide evidence that inﬂammatory cytokines
+secreted by FBM can activate inﬂammatory signaling in preL-HSPCs.
+The activation of the IL-6 pathway by FBM can increase the self-renewal
+of preL-HSPCs carrying DNMT3A mutations.
+Results
+Establishment of FBM models in NSG mice
+Murine BM does not recapitulate the dramatic age-related increase in
+FBM which can be observed in humans. Accordingly, in order to be
+able to test the effect of FBM on primary human HSPCs, we aimed at
+inducing FBM in NSG mice by external stress. Previous reports docu-
+mented the accumulation of FBM few days to weeks after total body
+irradiation22,23. Nevertheless, total body irradiation causes cytokine
+storm and dramatic remodeling of all components of the BM
+microenvironment,
+including
+osteoblasts,
+megakaryocytes,
+and
+vasculature24–26. To control all these off-targets effects of irradiation
+and other external stresses, we have used a control group of mice that
+were irradiated and treated with a PPARγi, bisphenol ADiGlycidyl ether
+(BADGE). Previous studies have shown that PPARγi treatment inhibits
+adipogenic differentiation in vitro27.
+To better characterize our sublethal irradiation model (225 rad),
+we irradiated NSG mice and noticed an enhanced adipocyte presence
+in the BM a week following irradiation. High FBM was maintained even
+two months after irradiation (Supplementary Fig 1b). These changes
+did not appear 24–48 h following irradiation (which is the usual time
+frame in which human HSPCs are injected to NSG mice) (Fig. 1a–c).
+Indeed, PPARγi treatment seven days prior to and post irradiation
+resulted in reduced FBM accumulation (Fig. 1d). Quantifying lipid levels
+in the BM by LipidTOX™Deep Red Neutral Lipid Stain demonstrated
+signiﬁcantly reduced FBM (30-folds) in the irradiated mice treated with
+PPARγi compared to irradiation without PPARγi treatment (Fig. 1e and
+Supplementary Fig. 1a). These results were validated by staining irra-
+diated BM with the adipocyte marker fatty acid binding protein 4
+(FABP4) (Fig. 1f and Supplementary Fig 2a–c) and with perilipin, which,
+is located on the surface layer of intracellular lipid droplets28 (Fig. 1g).
+To better characterize the adipocytes in our FBM model, we have
+performed single-nuclei RNA sequencing on BM-derived cells, as was
+previously described29. BM cells from both irradiated NSG mice and
+BADGE control mice were analyzed. Gene expression in our cells was
+compared to a recently reported atlas of mice BM cells30. While the
+majority of our cells originated from the hematopoietic lineage, we
+identiﬁed 25 adipocytes that most of them (68%) were retrieved from
+the irradiated mice and the rest from the BADGE control. Our adipo-
+cytes (n = 25) clustered together with previously reported BM-derived
+adipocytes (n = 9) in the same Metacells, and with other adipocyte
+Metacells (Supplementary Fig. 3a) Metacells#81) and expressed many
+known adipocyte markers (Lepr, Adipoq, Cxcl12, Cxcl14, Kng1, Lpl, and
+more) (Supplementary Fig. 3b). The low number of adipocytes in our
+experiments reduces the ability to identify heterogeneity in adipocyte
+populations in our data, however, it suggests that they share a high
+degree of similarity with normal adipocytes. The integration of our
+data with the data by Baccin et al. can be observed at: https://tanaylab.
+weizmann.ac.il/MCV/FBM/Single_nuclei_for_adipocytes/.
+Altogether, these results provide evidence that low-dose irradia-
+tion of NSG mice causes more than just a hypocellular marrow, but also
+an active accumulation of BM adipocytes. To expand our capabilities to
+study FBM interactions with preL-HSPCs and control for off-targets
+effects of irradiation, we devised other FBM models. We ﬁrst focused on
+a castration model as it recapitulates the age-related decline in testos-
+terone among males31. We demonstrated that a month after castration
+(CAS), male mice developed FBM (Supplementary Fig. 1c). These ﬁnd-
+ings were validated by staining bones from castrated mice with Perilipin
+(Supplementary Fig. 1d), which revealed an increase in adipocytes fol-
+lowing castration and a substantial decrease after PPARγi treatment
+(Supplementary Fig. 1d). A similar effect could be achieved by treating
+NSG mice with the PPARγ activator (rosiglitazone maleate)32 for three
+weeks (Supplementary Fig. 1e). Interestingly, analyzes of tibia bones
+derived from 1-year-old NSG-SGM3 mice (which express human IL-3
+(hIL-3), hSCF and hGM-CSF) demonstrated high FBM levels compared
+to 1-year-old NSG or NSG-hSCF mice (Supplementary Fig. 1f). While the
+1-year-old NSG-SGM3 model had high FBM levels, this model was linked
+to a reduction in the self-renewal capacity of normal HSCs33 and
+therefore we did not used it in our future analysis. The fact that four
+different conditions can all contribute to FBM accumulation in mice,
+might explain why FBM accumulation with aging is both common and
+multifactorial. While all of our models increase FBM, they most prob-
+ably have other molecular and cellular consequences in the BM and
+other tissues. To mitigate these of target effects, we chose to study the
+interaction between human preL-HSPCs and FBM in two different
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+2
+models: post-irradiation and post-castration FBM models. We selected
+the irradiation model as it was the most robust (reproducible) and
+created the largest effect (accumulation of FBM). We decided to work
+with the castration model because it best reﬂects the aging process in
+males. We predicted that calibrating the BADGE control and the rosi-
+glitazone maleate (both dealing with PPARγ) would be challenging. In
+addition, rosiglitazone maleate produced fewer adipocytes; despite
+these drawbacks, this model should be improved and tested in the
+future, perhaps with a different control.
+FBM provides a selective advantage to human HSPCs carrying
+the DNMT3A R882H mutation
+Following the establishment of the different FBM models in NSG
+mice, we studied the interaction between FBM and primary preL-
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+3
+HSPCs carrying the DNMT3A R882H mutation. We chose to focus on
+DNMT3A R882 mutations as they are the most common mutations in
+CH34. To this end, we selected an AML sample carrying both the
+DNMT3A mutation (VAF of 50%) and the NPM1c mutation (VAF of
+50%). However, when injected into FBM NSG mice, the engrafting
+cells following amplicon sequencing were only carrying the DNMT3A
+mutation, suggesting that only the preL-HSPCs with DNMT3A muta-
+tion could engraft in NSG mice at this speciﬁc sample (sample
+#160005)35 (Fig. 2a and Supplementary Fig 4a). Engraftment of
+sample #160005 cells was higher under FBM conditions compared to
+normal BM (NBM) mice and the PPARγi-treated control in which less
+adipocytes accumulated (Fig. 2b). The graft had a multilineage dif-
+ferentiation capacity as shown in Supplementary Fig. 4b. Further-
+more, we sequenced NBM samples, however, due to the limited
+engraftment, we were unable to obtain any human cells after sorting
+and no human reads were available after sequencing. We repeated
+this experiment on the castration (CAS) FBM model, and again a
+signiﬁcantly higher engraftment of sample #160005 cells was
+detected under FBM conditions. The administration of PPARγi to
+FBM-CAS mice resulted in a signiﬁcant decrease of sample #160005
+cells engraftment (Fig. 2c). To further validate these results, we used
+HSPCs collected for auto-transplantation (Sample# 141464). This
+sample had a high variant allele frequency (VAF) of the DNMT3A
+R882H mutation, and had DNMT3A R882H mutation following
+transplantation to FBM as determined by amplicon sequencing
+(Fig. 2d). Again, a signiﬁcantly higher engraftment was observed in
+both the irradiation and castration FBM models (Fig. 2e, f).
+To study the interaction between FBM and normal hematopoiesis,
+we used normal CD34+ cells (no DMNT3A mutation) derived from
+different sources. We transplanted wild-type (WT) CD34+ cells from
+pooled cord blood samples and from aged-matched healthy donors
+without clonal hematopoiesis. In contrary to the DNMT3A-R882 muta-
+ted cells, the CD34+ cells from both sources had no increased
+engraftment when exposed to FBM (Fig. 2g, h). These results may
+suggest a role for an adipocyte-rich environment in enhancing
+engraftment of human preL-HSPCs, but not for normal cord blood-
+derived HSPCs. To validate our results and better understand the
+mechanisms behind the increased engraftment of human preL-HSPCs
+under FBM conditions, we turned to a rodent model of mutant
+DNMT3A (DNMT3AMut)36.
+FBM support DNMT3AMut HSPCs derived from a genetic
+rodent model
+For the next set of experiments, we crossed the human DNMT3A
+R882H knock-in mice model36, with mice carrying a Cre recombinase
+allele under the VAV promotor which is expressed only in the hema-
+topoietic system to create hematopoietic speciﬁc DNMT3A mutant
+(DNMT3AMut) mice. C57BlxVAV-cre mice were used as a control group
+(denoted DNMT3AWT).
+The injection of two months BM-derived DNMT3AMut cells
+(CD45.2) intrafemorally (IF) to NSG (CD45.1) mice with FBM resulted in
+signiﬁcantly elevated engraftment of DNMT3AMut cells in comparison
+to control mice with NBMormice who were irradiated and treated with
+the PPARγ inhibitor (PPARγi) (Fig. 3a). This increased engraftment
+under FBM conditions could not be observed when DNMT3AWT cells
+were injected (Fig. 3a). To test whether the increased engraftment of
+DNMT3AMut preL-HSPCs under FBM conditions was due to increased
+self-renewal, we repeated our experiment and injected the cells
+exposed to FBM and NBM into secondary recipients that had FBM.
+Engraftment analysis demonstrated that the highest increase in self-
+renewal was present in DNMT3AMut cells exposed to FBM (Fig. 3b).
+Next, we hypothesized that as DNMT3A R882 mutations are
+known to cause hypomethylation over time37 and can cause human
+leukemia after a long latency period38, the effects of FBM could be even
+more pronounced if older preL-HSPCs were to be studied. Indeed, a
+signiﬁcant increase in engraftment was detected following transplan-
+tation of old DNMT3AMut cells derived from 1-year-old mice injected
+into NBM, FBM and PPARγi controls compare to two months
+DNMT3AMut-derived BM (Supplementary Fig 4c). DNMT3AMut cells
+derived from 1-year-old mice injected into FBM had the most sig-
+niﬁcant growth advantage in comparison to NBM and PPARγi controls.
+When DNMT3AWT cells were injected, this effect of FBM could not be
+observed (Fig. 3c and Supplementary Fig. 4c). Interestingly, the
+administration of PPARγi to FBM mice transplanted with 1-year-old
+DNMT3AWT cells resulted in a signiﬁcant increase of engraftment
+(Fig. 3c and Supplementary Fig. 4c). Similar results on the effect of
+PPARγ inhibition on HSCs have been reported in the past39. To test
+whether the increased engraftment of 1-year-old cells was due to
+increased self-renewal, secondary engraftment was performed. In
+agreement with our results derived from 2-month-old mice, preL-
+HSPCs carrying the DNMT3AMut and exposed to FBM had signiﬁcantly
+higher secondary engraftment compared to controls (Fig. 3d, e). These
+results suggest that FBM provides higher selective advantage to older
+DNMT3AMut cells through increased self-renewal.
+We repeated this experiment on the castration FBM model (FBM-
+CAS), and again a signiﬁcantly higher engraftment of DNMT3AMut cells
+derived from 1-year-old mice injected into FBM-CAS in comparison to
+NBM and PPARγi control was detected. FBM-CAS had no effect on
+DNMT3AWT cells (Fig. 3f). To extend our results beyond DNMT3A R882
+mutations we tested the effects of FBM on DNMT3A haploinsufﬁcient
+mice (DNMT3Ahaplo) as frameshift mutations causing such genotype are
+common among humans40. Signiﬁcantly increased engraftment of
+DNMT3Ahaplo was noted when cells from 2-month-old mice were
+exposed to FBM both in primary and secondary recipients (Supple-
+mentary Fig 5a, b). Similar results were obtained when 1-year-old cells
+were transplanted (Supplementary Fig 5c–e). No signiﬁcant differ-
+ences
+were
+observed
+between
+the
+engraftment
+of
+1-year-old
+DNMT3Ahaplo
+and
+DNMT3AMut
+mice
+when
+transplanted
+to
+FBM
+Fig. 1 | Models of BM adipogenesis in vivo in NSG mice. H&E staining of NSG mice
+tibia/femur. NSG mice were irradiated with 225 rad (X ray). a Non-irradiated control
+normal bone marrow (NBM) (n = 5). scale bar: 100 μM. b One day following irra-
+diation (n = 5) scale bar: 100 μM or c Seven days (n = 5) following irradiation mice
+were sacriﬁced. Shown are the H&E staining of tibial of one experiment out of ﬁve
+independent experiments. scale bar: 200 μM. d H&E staining of NSG (n = 5) mice
+that were administrated intraperitoneally for seven days with PPARγi (30 mg/kg)
+before and seven days after the irradiation. scale bar: 100 μM. e Adipocytes
+quantiﬁcation by LipidTOX™Deep Red Neutral Lipid Stain in ImageStream X Mark
+II Luminex imaging Flow Cytometer. Data presented as box and whiskers min to
+max. **P < 0.005, ****P < 0.0005. Each dot represents a mouse (control n = 7, irra-
+diation 1 day n = 6, irradiation 1 week n = 14, irradiation+ PPARγi n = 3). Control vs.
+irradiation 1 week P < 0.0001, irradiation 1 day vs. irradiation 1 week P < 0.0001,
+irradiation 1 week vs. irradiation+ PPARγi P = 0.0015. All comparisons were per-
+formed using a two-tailed, nonpaired, nonparametric Mann–Whitney test compare
+ranks. f Representative stacked whole-mount immunoﬂuorescence staining of
+epiphyseal-metaphyseal BM femur derived from NBM, FBM and FBM & PPARγi
+treated NSG mice. Adipocytes are depicted by FABP4 expression and by distinctive
+unilocular morphology in the DIC (differential interference contrast) channel. DAPI
+in blue. Adipocytes are additionally marked by yellow dots. Scale Bar: 200 µm; n = 4
+775 µm × 775 µm × 50 µm stacked images from 2 mice and 2 bones (femur, tibia)
+each group. g Representative 3D whole-mount immunoﬂuorescence staining of
+epiphyseal-metaphysealBMlong bones derived from control, NBM, FBM, and FBM
+& PPARγi-treated NSG mice. Adipocytes are depicted by Perilipin expression and by
+distinct iveunilocular morphology in the DIC (differential interference contrast) c
+channel. DAPI in blue. Adipocytes are additionally marked by red dots. 1 unit scale
+bar: 70.99 μm; n = 12–14708 μm × 708 μm × 30 50 μm stacked images from three
+mice and two bones (femur, tibia) each group. Source data are provided as a Source
+Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+4
+(Supplementary Fig. 5f). This result suggests that different DNMT3A
+mutations (and not just R882) have a selective advantage under FBM
+conditions. However, it remains unclear whether the same effect holds
+for other pre-Leukemic mutations (pLMs).
+FBM does not support HSPCs carrying SRSF2 P95H mutations
+derived from a genetic rodent model
+To address this question, we used a SRSF2 P95H knock-in model41. BM
+cells derived from 2-month-old mice were injected IF into FBM or NBM
+NSG mice. In contrast to our ﬁndings with DNMT3AMut cells, no sig-
+niﬁcantly higher engraftment of SRSF2Mut cells under FBM conditions
+was observed (Supplementary Fig. 6a). Furthermore, no differences in
+engraftment
+were
+observed
+in
+NBM
+or
+FBM
+mice
+following
+transplantation of 1-year-old SRSF2Mut BM-derived cells in both primary
+and secondary transplantation (Supplementary Fig. 6b). Altogether,
+our results so far indicate that FBM provides a selective advantage to
+preL-HSPCs carrying DNMT3AMut. While these results are supported by
+both human and mice data the molecular mechanism behind this
+observation remains elusive.
+HSPCs carrying DNMT3AMut exposed to FBM maintain their stem
+cell pool
+To further study why HSPCs carrying DNMT3AMut have increased self-
+renewal upon exposure to FBM, we injected 1-year-old DNMT3AMut and
+DNMT3AWT HSPCs to either FBM or NBM mice. Three days following
+injection (see “Methods” for rational) (10 days after low-dose
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+5
+irradiation), we isolated single LIN-KIT+ (LK) cells and performed
+single-cell RNA-seq (scRNA-seq) using the MARS-Seq technology42.
+After ﬁltering outlier cells, we identiﬁed 1999 LK cells from the dif-
+ferent conditions (Supplementary Table 1). First, we aimed to explore
+whether exposure to FBM inﬂuenced the abundancy of different
+HSPCs. To this aim, we used the MetaCell2 algorithm to assign single
+cells to Metacell which have unique gene expression programs43,44.
+Each Metacell can then be assigned to one of the major HSPCs lineages
+based on the expression of canonical (cell type related) genes. The
+main genes expressed along the hematopoietic hierarchy were chosen
+based on previous reports45 (Supplementary Figs. 7–10) (Supplemen-
+tary Table 1). The scRNA-seq data can be explored in the following link:
+https://tanaylab.weizmann.ac.il/MCV/FBM/.
+Interestingly, all our experiments involving injection of cells to
+either NBM or FBM mice, showed a marked reduction in HSCs. The only
+exception to this rule were the DNMT3AMut cells exposed to FBM who
+maintained their HSC pool and clustered together with naive cells (LSK
+cells extracted directly from BM with no injection) (Fig. 4a, b).
+DNMT3AMut cells exposed to FBM had tenfold more HSCs compared to
+DNMT3AWT cells exposed to FBM (P = 2.3e-9), and a signiﬁcant increase
+in their HSC pool compared to DNMT3AMut cells exposed to NBM
+(P = 0.03) (Fig. 4c and Supplementary Data 2). The maintenance of HSCs
+among DNMT3AMut cells exposed to FBM was followed by expansion of
+myeloid progenitors as opposed to the enrichment of lymphoid pro-
+genitors in the naive LSK cells (Fig. 4a, b). LSK cells from other condi-
+tions after transplantation lose some of their HSCs which differentiate
+mainly into the myeloid lineage (Fig. 4a, b and Supplementary Fig. 14b).
+We have repeated the scRNA-seq experiment with more cells and with
+the 10X genomics platform from DNMT3AMut cells exposed to FBM or
+NBM and validated the signiﬁcantly increased HSCs population in the
+DNMT3AMut cells exposed to FBM (this time sixfold more HSCs than
+under NBM conditions) (Supplementary Fig. 15a, b). Altogether, the
+scRNA-seq data like the secondary engraftment experiments also sug-
+gest that DNMT3AMut cells exposed to FBM undergo self-renewal, while
+under NBM conditions they undergo (mostly myeloid) differentiation.
+HSPCs carrying DNMT3AMut exposed to FBM activate inﬂamma-
+tory pathways
+To better understand why DNMT3AMut HSCs exposed to FBM undergo
+increased self-renewal and not differentiation, we performed differ-
+ential expression analysis from the scRNA-seq data. Unsupervised
+clustering of the single cells using the UMAP algorithm46 suggested
+that DNMT3AMut cells exposed to FBM were almost exclusively clus-
+tered together in a single cluster (Supplementary Fig. 11a). To better
+characterize the DNMT3AMut FBM cluster, we calculated differential
+gene expression between the different clusters in the UMAP (Supple-
+mentary data 1) and used all cells in each cluster. Next, we performed
+ranked GSEA analysis on the differentially expressed genes of the
+cluster containing the DNMT3AMut FBM cells. We identiﬁed that genes
+related to the IFN-α, IFN-γ, TNF-α, and the IL-6 signaling pathways were
+upregulated (Supplementary Fig. 11b) (Supplementary Table 2). To
+better understand which of these pathways are truly upregulated, we
+created a score for each single cell which was based on the expression
+of the genes in the signiﬁcant gene sets (IFN-α, IFN-γ, TNF-α, and IL-6).
+DNMT3AMut cells exposed to FBM had the highest IFN-α score which
+was signiﬁcantly higher than all other cells (Supplementary Fig. 12a)
+(Supplementary Data 3 and 4). However also DNMT3AWT cells exposed
+to FBM had signiﬁcantly increased IFN-α score compared to other
+groups. Based on previous reports47, we suspected that the activation
+of IFN-α response in the scRNA-seq data could be due to a stress
+response and not speciﬁc to the DNMT3AMut cells exposed to FBM.
+Furthermore, we noticed that the IFN-α gene set is not speciﬁc and has
+high overlap with the IFN-γ gene set (73 gene out of 98 in the IFN-α
+gene set are also present in the IFN-γ gene set). Accordingly, we rea-
+nalyzed the IFN-α score this time without the IFN-γ overlapping genes
+(Supplementary Fig. 12b). DNMT3AMut exposed to FBM still had a sig-
+niﬁcantly higher IFN-α score, however, the IFN-α score of DNMT3AWT
+cells exposed to FBM was similar to all other conditions (Supplemen-
+tary Fig. 11b). When we studied the IFN-γ score derived from genes
+exclusive to its gene set, a similar pattern was observed. The highest
+IFN-γ score was recorded in DNMT3AMut cells exposed to FBM followed
+by DNMT3AWT exposed to FBM (Supplementary Fig. 12c). TNF-α gene
+set score analysis demonstrated the same TNF-α score when com-
+paring DNMT3AMut cells exposed to FBM to most other conditions
+(Supplementary Fig. 12d) (Supplementary Data 3 and 4). The score for
+the IL-6 gene is signiﬁcantly higher in DNMT3AMut cells injected to FBM
+in comparison to all other conditions (Fig. 4c) (Supplementary Data 3
+and
+4). Altogether, the analysis of the scRNA-seq suggested that
+DNMT3AMut and to a lesser extent DNMT3AWT exposed to FBM activate
+the IFN-γ, and IL-6 pathways. The IFN-α and TNF-α signaling were not
+stable after exclusion of IFN-γ related genes, and therefore we cannot
+ﬁrmly conclude that they were activated. We have repeated the scRNA-
+seq experiment with more cells and with the 10X genomics platform
+from DNMT3AMut cells exposed to FBM or NBM and validated that
+exposure to FBM activated the IFN-γ and IL-6 pathways in DNMT3AMut
+derived from 1-year-old mice (Supplementary Fig. 15c–g).
+IL-6 is secreted by FBM
+As we discovered that DNMT3AMut cells exposed to FBM demonstrated
+activation of several inﬂammatory pathways, we next hypothesized
+Fig. 2 | Increased engraftment of human DNMT3A-mutated preleukemic cells
+under FBM conditions. a Variant allele frequency (VAF) analysis of DNMT3A and
+NPM1c mutation of the engrafted preleukemic cells by amplicon sequencing in FBM
+NSG mice. NSG mice were irradiated with 225 rad, and after a week injected
+intrafemur (IF) with CD3-depleted 1 × 106 AML primary human cells (sample
+#160005) (50% hDNMT3AR882H, 50% NPM1c). Eight weeks later, mice were sacriﬁced
+and BM was ﬂashed from tibias and femurs and sequenced. All engrafted cells were
+preleukemic namely carrying only the DNMT3AR882H mutation without NMP1c
+mutation. NBM vs. FBM P = 0.0038, FBM vs. FBM+ PPARγi P = 0.0377.
+b Engraftment of human preleukemic cells in normal bone marrow (NBM) (n = 17),
+fatty bone marrow (FBM) (n = 20) and in irradiated NSG mice (n = 10) treated with
+PPARγi (FBM+ PPARγi). Eight weeks following 1 × 106 AML primary human cells
+transplantation, BM was ﬂashed from tibia/femur and expression of human CD45+
+was measured by FACs. NBM vs. FBM P = 0.0038, FBM vs. FBM+ PPARγi P = 0.037.
+c Engraftment of preleukemic cells in NBM (n = 12), in castrated (CAS) NSG mice
+(n = 8) and in CAS+ PPARγi (n = 4). One month following castration, 1 × 106 AML
+primary human cells were transplanted. Eight weeks following 1 × 106 AML primary
+human cells transplantation, BM was ﬂashed from tibia/femur and expression of
+human CD45+ was measured by FACs. NBM vs. FBM P < 0.00001, FBM vs. FBM+
+PPARγi P = 0.044. d–f The same analysis was carried out for another human sample
+as described in (a–c). (Sample #141464 CD34+ enriched) (VAF 69% of the
+DNMT3AR882H in the primary sample). e Engraftment of human pre- leukemic cells in
+NBM (n = 9 mice), FBM (n = 5 mice). NBM vs. FBM P = 0.004. f Engraftment of
+preleukemic cells in NBM (n = 4 mice) and in castrated (CAS) NSG mice (n = 4). NBM
+vs. CAS P = 0.0286. g Level of chimerism in NBM (n = 5 mice) or FBM NSG mice
+(n = 5) transplanted with 50 × 105 CD34+ WT cord blood cells. h Transplantation of
+CD34+ from mobilized peripheral blood autotransplant bags to FBM and NBM NSG
+mice. In total, 1.2 × 105 cells CD34+ from mobilized peripheral blood autotransplant
+bag (#141519) that have been sequenced and identiﬁed w/o age related clonal
+hematopoiesis (ARCH) mutation, were transplanted intrafemur to NBM (n = 5 mice)
+and FBM NSG mice (n = 5). Eight weeks following cells transplantation, mice were
+sacriﬁced, BM was ﬂashed from tibia/femur and expression of human CD45+ was
+measured by FACs. Human engraftment was assessed according to presence of
+≥0.1% human CD45+ cells. Data in this ﬁgure presented as box and whiskers min to
+max, *P < 0.05, **P < 0.005, ***P < 0.0005, ****P < 0.00005. Each dot represents a
+mouse. All comparisons were performed using a two-tailed, non-paired, nonpara-
+metric Mann–Whitney test compare ranks. Source data are provided as a Source
+Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+6
+that adipocytes might secrete pro-inﬂammatory cytokines which will
+induce such a response. We used a multiplex cytokines assay (FirePlex,
+Abcam) to measure cytokine levels in the BM ﬂuid from mice with and
+without FBM. We initially analyzed cytokine secretion in 1-year-old
+NBM donor mice, comparing Mut to WT (no cells injected). No sig-
+niﬁcant differences were detected in cytokines secretion between
+donor Mut and WT mice with NBM (Supplementary Fig. 13a). We also
+examined cytokines secretion in NSG mice with either NBM or FBM
+prior to donor injection. NSG FBM mice had higher levels of IL-6, IL-2,
+TNF-α, MIP1a, MIP1b, and IL-1β secretion (Fig. 4d). NSG FBM-CAS also
+characterized in increase of IL-6 secretion compared to NBM (Sup-
+plementary Fig. 13b). Importantly, following administration of PPARγi
+to FBM NSG mice, prior to donor injection, the levels of IL-6 and MIP1b
+were signiﬁcantly decreased, suggesting correlation to FBM condition.
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+7
+Next, we tested cytokine expression in our single-nuclei RNA-seq data
+integrated model. The adipocytes derived from irradiated NSG mice
+expressed IL-6, IL-18, and IL-1b. Speciﬁcally, IL-6 was not expressed in
+all adipocyte Metacells (from ref. 30) and the same was true for other
+cytokines as well. These suggest that some of the heterogeneity
+between BM adipocytes is driven by cytokine expression (Supple-
+mentary Fig. 3c). To better characterize such heterogeneity in our
+adipocyte, many more cells are needed, which is not the scope of the
+current study. To validate that the cytokine secretion we observed, was
+speciﬁc to the FBM, we measured cytokine levels in the mice serum in
+parallel. Signiﬁcant differences were noted only in MCP1 between FBM
+and NBM (Fig. 4e). To learn whether cytokine levels under FBM con-
+ditions remain increased following cells transplantation, we ﬁrst
+transplanted two months DNMT3AMut and DNMT3AWT BM cells to FBM
+and NBM mice. A signiﬁcant increase in IL-6 secretion was noted
+regardless of the genotype of injected cells (Supplementary Fig. 13c,
+d).
+Nonetheless,
+transplantation
+of
+1-year-old
+DNMT3AMut
+and
+DNMT3AWT BM cells to FBM also resulted in increase in IL-6 secretion
+compare to NBM, regardless of the genotype of injected cells and
+decreased following administration of PPARγi (Fig. 4f, g). These results
+suggest that the increased IL-6 score (IL-6 signaling activation) we
+observed in DNMT3AMut cells, might be the result of IL-6 secretion from
+FBM regardless of which cells are transplanted. Furthermore, following
+transplantation of 1-year-old DNMT3AWT or DNMT3AMut BM-derived
+cells to FBM NSG mice, a signiﬁcant increase in the secretion of TNF-α
+was observed (Fig. 4f, g). Altogether, we concluded that IL-6 levels in
+BM ﬂuid were increased under all conditions and were independent of
+cells injected. TNF-α showed a similar but less consistent pattern.
+Based on these results and the results of the scRNA-Seq, we chose to
+further explore the role of IL-6 in the self-renewal of DNMT3AMut cells
+under FBM conditions. Of note, our results are in agreement with
+previous reports on FBM cytokine secretions in humans6.
+IL-6 provides selective advantage to preL-HSPCs carrying
+DNMT3AMut in a methylcellulose colony-forming assay
+The interaction between adipocytes and DNMT3AMut BM-derived cells
+via IL-6 was validated in vitro by serial replating of preL-HSPCs carrying
+the DNMT3AMut in methylcellulose. DNMT3AMut or DNMT3AWT BM-
+derived cells were used for the colony-forming cell (CFC) assay with
+and without IL-6. DNMT3AMut cells in the presence of IL-6 demonstrated
+increased self-renewal over the three control groups (DNMT3AWT cells
+with IL-6, DNMT3AWT without IL-6, and DNMT3AMut without IL-6). The
+control groups did not survive the third replete compared to the
+DNMT3AMut BM-derived cells with IL-6 who survived two more cycles of
+replating than the controls (Fig. 5a, b). Furthermore, we set up experi-
+ments in which we cultured human/mouse bone marrow-derived
+mesenchymal stem cells (MSCs) and adipocytes in vitro (Supplemen-
+tary Fig. 13e, f). Adipocytes were quantiﬁed using oil red staining. After
+10 days in culture (without HSPCs), we collected the media and found
+signiﬁcantly elevated IL-6 levels in the adipocyte cultures compared to
+MSCs cultures in both mice (Fig. 5c) and human (Fig. 5e). Next, 1-year-
+old mice DNMT3AMut BM-derived Lin−cells were co-cultured with adi-
+pocytes/MSCs. After 10 days, we used a colony-forming unit (CFU) assay
+in which cells were seeded in methylcellulose with adipocytes or MSCs-
+derived media. DNMT3AMut HSPCs co-cultured with adipocytes, pro-
+duced signiﬁcantly more colonies than co-culturing with MSCs (Fig. 5d).
+This experiment was replicated with DNMT3A mutated CD34+ cells
+derived from four human AML samples: sample #141164 (Fig. 5f), sam-
+ple #141467 (Supplementary Fig. 13g), #150279 (Supplementary
+Fig. 13h) and sample #141464 (Supplementary Fig. 13i). Again, co-
+culturing human DNMT3A mutant CD34+ cells with adipocytes yielded
+signiﬁcantly more colonies than co-culturing with MSCs (Fig. 5f, g and
+Supplementary Fig. 13g–i). We have genotype 13 of the colonies co-
+cultured with adipocytes and all of them were positive for DNMT3A and
+negative for NPM1c, suggesting that they originate from preL-HSPCs
+(Fig. 5g). Altogether, these ﬁndings suggest that adipocytes secreting IL-
+6 (and possibly other factors) provide a selective advantage to both
+human and mouse HSPCs carrying DNMT3A mutations in vitro.
+In vivo treatment with neutralizing IL-6 antibodies (Ab) results
+in decreased self-renewal of DNMT3AMut cells under FBM
+conditions
+To study the effects of IL-6 on DNMT3A preL-HSPCs in vivo, we
+transplanted 1-year-old DNMT3AMut BM-derived cells into NBM and
+FBM NSG mice that had been treated with neutralizing IL-6 antibodies
+(Ab) two days before and seven days after transplantation. The
+administration of neutralizing IL-6 Ab resulted in a signiﬁcant decrease
+in engraftment of DNMT3AMut BM-derived cells (Fig. 6a). For the sec-
+ondary transplantations, cells were harvested from primary mice and
+injected to NBM NSG mice with no further treatment. Secondary
+Fig. 3 | Engraftment of DNMT3AMut-derived BM cells in NSG mice. a FACs analysis
+of young-2-month-old 6 × 106 DNMT3AMut (CD45.2) (red) or DNMT3AWT (CD45.2)
+(blue) BM-derived cells transplanted to normal bone marrow (NBM) NSG mice
+(DNMT3AMut to n = 23 NSG mice, DNMT3AWT to n = 24 NSG mice), and to fatty bone
+marrow (FBM) (DNMT3AMut to n = 24 NSG mice, DNMT3AWT to n = 17 NSG mice) and
+to irradiated NSG mice (CD45.1) treated with PPARγi (FBM+ PPARγi) (DNMT3AMut to
+n = 6 NSG mice, DNMT3AWT to n = 4 NSG mice). Eight weeks following transplanta-
+tion, BM was ﬂashed from tibia/femur and expression of mCD45.2 was measured by
+FACs. Engraftment was assessed according to presence of ≥0.1% mCD45.2 cells.
+DNMT3AMut: NBM vs. FBM P < 0.00001, FBM vs. FBM+ PPARγi P = 0.0452.
+DNMT3AWT: NBM vs. FBM+ PPARγi P = 0.0067. b Self-renewal of DNMT3AMut derived
+BM cells in FBM NSG mice. Primary transplantation of DNMT3AMut or DNMT3AWT was
+performed as detailed in (a). For the primary transplantation, BM-derived cells were
+transplanted to NBM mice (DNMT3AMut to n = 4 NSG DNMT3AWT to n = 5 NSG mice)
+and to FBM mice (n = 4 for DNMT3AMut, n = 4 for DNMT3AWT). After eight weeks, cells
+were harvested and a secondary transplantation was performed to FBM NSG mice.
+Primary: DNMT3AMut: NBM vs. FBM P = 0.02, DNMT3AMut FBM vs DNMT3AWT FBM
+P = 0.02. Secondary: DNMT3AMut: NBM vs. FBM P = 0.0286, DNMT3AMut FBM vs
+DNMT3AWT FBM P = 0.02. c FACs analysis of 1-year-old 6 × 106 DNMT3AMut (CD45.2)
+(red) or DNMT3AWT (CD45.2) (blue) BM-derived cells transplanted to NBM mice
+(DNMT3AMut to n = 20 NSG mice, DNMT3AWT to n = 13 NSG mice), to FBM mice
+(DNMT3AMut to n = 18 NSG mice, DNMT3AWT to n = 12 NSG mice) and to irradiated
+NSG mice (CD45.1) treated with PPARγi (FBM+ PPARγi) (DNMT3AMut to n = 10 NSG
+mice, DNMT3AWT to n = 8 NSG mice) performed as detailed in (a). DNMT3AMut : NBM
+vs. FBM P = 0.0023, FBM vs. FBM+ PPARγi P = 0.0369. DNMT3AWT: NBM vs. FBM+
+PPARγi P = 0.0001, FBM vs. FBM+ PPARγi P = 0.0015. d, e Primary and secondary
+transplantation of middle-aged DNMT3AMut (d) in primary: DNMT3AMut derived BM
+was transplanted to NBM mice (n = 10) and to FBM mice (n = 8) and to irradiated
+NSG mice treated with PPARγi (FBM+ PPARγi) (n = 8). For the secondary trans-
+plantation: DNMT3AMut-derived BM cells from NBM, FBM, and FBM+ PPARγi were
+transplanted to FBM NSG mice (n = 10, n = 8, n = 8 respectively) DNMT3AWT. For
+primary transplantation: NBM vs. FBM P = 0.0041. FBM vs. FBM+ PPARγi P = 0.0281.
+For secondary transplantation: NBM vs. FBM P = 0.0005. FBM vs. FBM+ PPARγi
+P = 0.0022. e In primary: DNMT3AWT derived BM cells were transplanted to NBM
+(n = 8) and to FBM mice (n = 7) and to irradiated NSG mice treated with PPARγi
+(FBM+ PPARγi) (n = 8). In secondary: DNMT3AWT-derived BM cells from NBM, FBM,
+and FBM+ PPARγi were transplanted to FBM NSG mice (n = 6, n = 6, n = 7, respec-
+tively). For primary: NBM vs. FBM+ PPARγi P = 0.0005, FBM vs. FBM+ PPARγi
+P = 0.0022. For secondary: NBM vs. FBM P = 0.026, FBM vs. FBM+ PPARγi
+P = 0.0064. f Left: primary transplantation of DNMT3AMut-derived BM to NBM mice
+(n = 4), to FBM-CAS mice (n = 7), and to FBM−CAS mice treated with PPARγi (CAS
+FBM+ PPARγi) (n = 4). Right: primary transplantation of DNMT3AWT derived BM to
+NBM mice (n = 5), to FBM−CAS mice (n = 4) and to FBM- CAS mice treated with
+PPARγi (FBM- CAS + PPARγi) (n = 3). DNMT3AMut: NBM vs. CAS P = 0.0061,
+DNMT3AWT: CAS vs. CAS + PPARγi P = 0.0242. For all results, data presented as box
+and whiskers min to max *P < 0.05, **P < 0.005, ***P < 0.0005, ****P < 0.00005. Each
+dot represents a mouse. Data in this ﬁgure presented as box and whiskers min to
+max. All comparisons were performed using a two-tailed, nonpaired, nonpara-
+metric Mann–Whitney test compare ranks. n.s not signiﬁcant. Source data are
+provided as a Source Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+8
+transplantation experiments provided evidence that anti-IL-6 neu-
+tralizing Abs can reduce the self-renewal advantage harbored by
+DNMT3AMut preL-HSPCs under FBM conditions (Fig. 6b).
+Discussion
+Our study provides a number of key insights into the contribution of
+FBM to the evolution of leukemia and CH. Our efforts established new
+models for the study of FBM interactions with both human and mice
+CH. We recognized that to date, there is no gold standard model that is
+speciﬁc on increasing the number of adipocytes. As we used external
+stress to increaseFBM, it wascrucialto usethe PPARγi group to control
+for off-targets effects of the sublethal irradiation and castration on
+other cell types in the BM (stroma cells, endothelial cells etc.). We
+demonstrated that the administration of PPARγi after sublethal
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+9
+irradiation resulted in a signiﬁcant reduction of adipocytes (Fig. 1). We
+provide evidence for the contribution of andropenia to FBM accu-
+mulation (Supplementary Fig. 1c). In addition, we provide evidence
+that the interaction of FBM with human preL-HSPCs carrying DNMT3A
+mutations provide them with selective advantage (Fig. 2) and can
+increase the self-renewal capacity of mice preL-HSPCs carrying
+DNMT3A mutations (Figs. 3 and 4a). Accordingly, FBM might con-
+tribute to the expansion of preL-HSPCs over time and to the evolution
+of CH. We have demonstrated in the past that large CH clones have
+increased risk for evolving to AML48, thus the increasing in clone size
+under FBM conditions can promote AML evolution. Furthermore,
+paracrine inﬂammatory signals from the FBM microenvironment (in
+the form of IL-6), can activate the IL-6 pathway in preL-HSPCs (Fig. 4).
+We provide evidence that the addition of IL-6 to the CFU assay increase
+the clonogenic capacity of preL-HSPCs. Furthermore, DNMT3A muta-
+ted mice and human HSPCs have a selective advantage if co-cultured
+in vitro with bone marrow-derived adipocytes which also secret IL-6
+(Fig. 5). The activation of the IL-6 pathway contributes to mice preL-
+HSPCs expansion and can be prevented by the administration of IL-6
+neutralizing Abs (Fig. 6).
+The contribution of the environment to the evolution of CH has
+been reported in the past. Our study correlates aging and micro-
+environmental changes. Smoking and chemotherapy have been sug-
+gested to shape the ﬁtness of ASXL1, TP53 and PPM1D mutations49. Male
+gender was associated with splicing mutations and ASXL150,51. Indivi-
+duals with aplastic anemia (who carry oligo-clonal T-cell attacking their
+BM) presented with increased rate of BCOR and BCORL1 mutations52.
+Chronic infection with HIV was associated with several pLMs53 and
+hyperglycemia contributed to the evolution of TET2 preL-HSPCs54.
+DNMT3A mutations had a selective advantage if exposed to chronic
+infection with mycobacterium avium55. While interactions between
+such pathological states and pLMs can explain some of the cases of CH
+evolution, it remains unclear why CH is so common among healthy
+elderly individuals56,57. Our discovery that the most common pLMs
+(DNMT3A) gain selective advantage when exposed to FBM can partially
+explain the increased prevalence of DNMT3A mutations with aging.
+The accumulation of FBM with age is ubiquitous, however, large
+variability exists in its extent58. Epidemiological studies suggest that
+several factors can explain this high variability including: the age-
+related decline in renal function59, increased body mass index (BMI)60,
+andropenia and menopause61. Interestingly, FBM continues to increase
+steadily in males, while in females it increases dramatically following
+menopause58. This phenomenon might be related to the rapid estro-
+gen deﬁciency during menopause as oppose to the gradual decrease of
+testosterone in males. Previous studies demonstrated enrichment of
+DNMT3A mutations among females51. The sharp increase in FBM during
+menopause could suggest that it is the dynamics of FBM accumulation
+that shape CH rather than the actual FBM mass. Interestingly, a recent
+report suggested that DNMT3A mutations were signiﬁcantly associated
+with premature menopause62.
+While the interaction between FBM and DNMT3A mutations can
+explain a large portion of CH evolution, it remains unclear whether
+FBM can provide selective advantage to other pLMs. In this study,
+we tested a speciﬁc SRSF2 mutated mice model and could not
+observe increased self-renewal after exposure to FBM (Supple-
+mentary Fig. 6). While these results are valid, they are limited to the
+model we used. One attractive pLM candidate to be inﬂuenced by
+FBM are the TET2 mutations. Recent studies suggest that TET2
+knockout mice which developed a myeloid malignancy had higher
+levels of IL-6 when exposed to microbiota63. Altogether, the con-
+tribution of FBM to the ﬁtness of other common pLMs needs to be
+further explored. However, we believe that for future studies more
+FBM models should be established. We propose that an optimal
+humanized NSG mice that will include human IL-6 and other
+humanized cytokines together with a conditional activation of
+PPARγ in MSCs.
+The interaction between IL-6 and preL-HSPCs in our study (both
+in vitro Fig. 5 and in vivo Fig. 6) might have clinical relevance as anti-IL-
+6 treatments are available and can be used to control DNMT3A-driven
+CH. However, the role of higher IL-6 levels in the improved engraft-
+ment of human preL-HSPCs remains unclear, as murine IL-6 does not
+cross-react with the human IL-6 receptor64. Future human in vitro
+studies and humanized mice expressing IL-6 are needed. Despite these
+limitations, we still observed increased engraftment of human preL-
+HSPCs under FBM conditions (Fig. 2). This could be explained by the
+interaction of human preL-HSPCs with other cytokines. Altogether, the
+FBM most probably provide several inﬂammatory signals which can
+stimulate human preL-HSPCs, and future studies are needed to pro-
+vide evidence for this hypothesis.
+Based on the results presented here, it is becoming clear that FBM
+is more than just hypocellular marrow, and that it can shape CH evo-
+lution and contribute to other adverse metabolic effects. More
+research could be directed toward the prevention of FBM accumula-
+tion and its interaction with other mutations and with human HSCs.
+Fig. 4 | DNMT3AMut cells exposed to FBM maintain an HSC pool characterized by
+an inﬂammatory phenotype. a Cells from DNMT3AMut and DNMT3AWT were
+injected to mice (n = 3) with fatty bone marrow (FBM) and normal bone marrow
+(NBM). Three days after injection lin- KIT+ (LK) cells were isolated from mice bone
+marrow (BM) and underwent single-cell RNA-Seq analysis. MetaCell algorithm was
+used to assign different singlecellsto Metacellswith unique gene programs and cell
+types44. Gold, hematopoietic stem cells (HSCs); dark green, common myeloid
+progenitors (CMP); light blue, common lymphoid progenitors, (CLP); cyan, den-
+dritic progenitors (DcP); gray, multipotent progenitors (MPP); dark olivegreen,
+monocyte progenitors (MonoP); pink, megakaryocyte progenitors (MegK); red,
+erythroid progenitors (Ery); grey4 (Unknown). Conditions: normal bone marrow
+(NBM); wild-type (wt); fatty bone marrow (FBM); naive cells—are cells extracted
+directly from BM of respective mice without transplantation. cre is the cre control.
+b While all injected cells show a marked reduction in HSCs after transplantation
+DNMT3AMut cells exposed to FBM maintain their HSC pool which is signiﬁcantly
+higher thanall other condition (whichwere transplanted). Exact ﬁsher test was used
+****P < 0.0005 to compare proportions of HSCs between the groups. FBM_MUT vs.
+FBM_WT P = 2.3 e10−9. c Ranked GSEA analysis on differentially expressed genes
+between DNMT3AMut cells exposed to FBM cluster and other clusters exposed sig-
+niﬁcant enrichment of inﬂammatory pathways one of them was the IL-6, JAK
+and STAT3 response gene set. An expression score for every single cell was calcu-
+lated based on the expression of each of the genes in the IL-6 gene set. All com-
+parisons were performed using a two-tailed, nonpaired, nonparametric Wilcoxon
+rank-sum test with 95% conﬁdence interval with FDR multiple hypothesis. *P < 0.05,
+****P < 0.0005. FBM_mut vs. FBM_wt P = 0.01281, FBM_mut vs. Naive_mut_1y
+P = 2.18E-09. d Multiplex cytokines assay (FirePlex-96 Key Cytokines (Mouse)
+Immunoassay Panel (ab235656)) of 17 common cytokines analyzed by FACS-based
+multiplex method of serum from NBM, FBM and following PPARγi administration
+to NSG mice, without any cell’s transplantation. Data were analyzed by two-way
+ANOVA test—Sidaks multiple comparison test. The ﬁgure displays the P values.
+NBM n = 4, 3, 3, 4, 4, 4, 4, 3, 4, 4, 3, 4, 6, 4, 5, 4, 6. FBM n = 9, 7, 6, 9, 6, 6, 7, 7, 8, 8, 7, 9,
+9, 6, 7, 9, 8. FBM+PPARγi n = 5, 3, 3, 5, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 3. e Multiplex
+cytokines assay (FirePlex-96 Key Cytokines (Mouse) Immunoassay Panel
+(ab235656)) of 17 common cytokines analyzed by FACS-based multiplex method of
+BM from NBM, FBM and following PPARγi administration to NSG mice, without any
+cell’s transplantation. Data were analyzed by two-way ANOVA test—Sidaks multiple
+comparison test. The ﬁgure displays the P values. NBM n = 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3,
+4, 3, 4, 4, 4, 4. FBM n = 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 3, 4, 4, 4, 5, 5, 4. FBM+PPARγi n = 4 for
+all. f, g FACS-based multiplex method of NBM, FBM, and following PPARγi
+administration to NSG mice transplanted with 1-year-old DNMT3AMut or DNMT3AWT
+BM-derived cells. Each bar represents 4 to 5 mice. Data were analyzed by two-way
+ANOVA test—Sidaks multiple comparison test. The ﬁgure displays the P values.
+f NBM n = 4 for all. FBM n = 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 5, 5, 5, 5, 5, 4. FBM+PPARγi
+n = 4, 3, 3, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 3. g NBM n = 5 for all, except for IL-6 n = 4.
+FBM n = 5 for all. FBM+PPARγi n = 5, 3, 3, 5, 4, 3, 5, 5, 5, 5, 5, 5, 4, 3, 3, 5, 5. Source data
+are provided as a Source Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+10
+With the ultimate goal of correcting the very ﬁrst steps in leukemia
+evolution and aging.
+Methods
+Mice
+In all, 8–12 weeks male immune-deﬁcient NSG (NOD/SCID/IL-2Rgc-
+null) mice: NSG (Stock No: 005557) (The Jackson Laboratory, Bar-
+Harbor, ME, USA). NOD.Cg-Prkdcscid Il2rgtm1Wjl Tg(PGK1-KITLG*220)
+441Daw/SzJ mice (stock No: 017830) (The Jackson Laboratory, Bar-
+Harbor,
+ME,
+USA).
+NOD.Cg-Prkdcscid
+Il2rgtm1Wjl
+Tg(CMV-IL-
+3,CSF2,KITLG)1Eav/MloySzJ
+mice
+(Stock
+No.:
+013062)
+NSG-
+SGM3(The Jackson Laboratory, Bar-Harbor, ME, USA) DNMT3AR882H
+KI mice, constitutively express the human DNMT3A mutation.
+SRSF2P95H ﬂoxed mice possess loxP sites ﬂanking the endogenous
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+11
+coding region of the serine/arginine-rich splicing factor 2 (SRSF2)
+gene (Stock No: 028376) (The Jackson Laboratory, Bar-Harbor, ME,
+USA). DNMT3AR882H or SRSF2P95H were crossed with VAV Cre (Stock
+No: 008610) (The Jackson Laboratory, Bar-Harbor, ME, USA). All
+experiments were performed in accordance with institutional
+guidelines approved by the Weizmann Institute of Science Animal
+Care Committee (02630418-4).
+Patient samples
+All human samples were collected, Ficoll separated and viably frozen
+with informed consent according to procedures approved by Rambam
+Health Care Campus, Haifa, Israel IRB # 0280-09-RMB and the uni-
+versity health network (UHN) IRB # 01-0573. All samples were
+sequenced with our in house clonal hematopoiesis panel65. Informa-
+tion on all samples can be found in Supplementary Table 3.
+CD3 depletion
+CD3 cells were isolated from thawed human samples (peripheral blood
+AML sample, mobilized peripheral blood mononuclear cells (PBMCs)
+and cord blood) using magnetic beads according to the manu-
+facturer’s protocol (EasySepTM Human CD3 Positive Selection Kit II,
+StemCell Technologies, Vancouver, Canada).
+Xenotransplantation assays
+PBMCs from AML patients were CD3 depleted as described above.
+Mobilized PBMCs or cord blood were enriched for CD34+ cells using
+magnetic beads according to the manufacturer’s protocol (CD34
+MicroBead Kit, Miltenyi Biotec, Bergisch Gladbach, Germany). CD3
+depletion and CD34 enrichment were validated by ﬂow cytometry
+unless speciﬁed otherwise, 1–2.5 × 106 CD3-depleted mononuclear
+cells were injected intra-femoral (right femur) into 8–12-week-old male
+Fig. 5 | Selective advantage to DNMT3AMut BM-derived cells under methylcel-
+lulose colony assay. a Number of colonies in methylcellulose (MethoCult M3334)
+colony-forming-unit assays of DNMT3AMut and DNMT3AWT BM-derived cells. Data
+was analyzed by two-way ANOVA test—Sidaks multiple comparison test. Data are
+presented as mean values ± s.d. n = 3 biologically independent experiments.
+****P < 0.00001. b Representative photograph of the methylcellulose plating from
+(a). Scale bar: 100 μM. c–f All comparisons were performed using a two-tailed,
+nonpaired, nonparametric Mann–Whitney test compare ranks. Data presented as
+box and whiskers min to max. c Mouse-derived MSCs/adipocytes were cultured for
+10 days. Then, media was collected and IL-6 levels were analyzed by ELISA.
+**P < 0.005. MSCs n = 5, adipocytes n = 5, MSCs vs. adipocytes P = 0.0039. d One-
+year DNMT3AMut BM-derived Lin−cells were co-cultured with adipocytes/MSCs.
+After 10 days, colony-forming unit (CFU) assay was performed, in which cells were
+cultured in methylcellulose with adipocytes or MSCs-derived media. **P < 0.005.
+DNMT3AMut+MSCs n = 3, DNMT3AMut+adipocytes n = 3, DNMT3AMut+MSCs vs.
+DNMT3AMut+adipocytes P = 0.0031. e Human-derived MSCs/adipocytes were cul-
+tured for 10 days. Then media was collected and IL-6 levels were analyzed by ELISA.
+**P < 0.005. MSCs n = 4, adipocytes n = 6, MSCs vs. adipocytes P = 0.0048. f Human
+AML CD34+ cells with a DNMT3A mutation (sample #141164) were co-cultured with
+adipocytes/MSCs. After 10 days, colony-forming unit (CFU) assay was performed, in
+which cells were cultured in methylcellulose with adipocytes or MSCs-derived
+media. ***P < 0.0005. 141164 (human DNMT3A Mut)+MSCs n = 3, 141164 (human
+DNMT3A Mut)+adipocytes n = 3. 141164 (human DNMT3A Mut)+MSCs vs. 141164
+(human DNMT3A Mut)+adipocytes P = 0.0004. g Variant allele frequency (VAF)
+analysis of DNMT3A. Source data are provided as a Source Data ﬁle.
+Fig. 6 | In vivo treatment with neutralizing IL-6 antibodies. a Signiﬁcant
+engraftment decrease of DNMT3AMut BM-derived cells in NSG mice following
+administration of neutralizing IL-6 Ab. In all, 6 × 106 DNMT3AMut BM-derived cells
+were transplanted to normal bone marrow (NBM) (n = 13), and fatty bone marrow
+(FBM) (n = 11) and FBM NSG mice (n = 7) treated with neutralizing IL-6 Ab (Clone:
+MP5-20F3, Ultra-LEAF™Puriﬁed anti-mouse IL-6 Antibody, BioLegend 504512).
+Neutralizing IL-6 Ab (50 μg/mouse) was administrated to NSG mice intraperitoneal
+one day before cell transplantation and 10 days after transplantation. NBM vs. FBM
+P = 0.0145, FBM vs. FBM+ neutralizing IL-6 Ab P = 0.0427. b Secondary
+transplantation of cells from (a). To FBM NSG mice (n = 8, n = 10, n = 7, respec-
+tively). DNMT3AMut BM-derived cells do not perform any self-renewal following
+treatment with neutralizing IL-6 Ab. NBM vs. FBM P < 0.00001, FBM vs. FBM+
+neutralizing IL-6 Ab P = 0.0064. Data are presented as mean values ± SD. *P <0.05,
+**P < 0.005, ***P < 0.0005, ****P < 0.00005. Each dot represents a mouse. Data in
+this ﬁgure presented as box and whiskers min to max. All comparisons were per-
+formed using a two-tailed, nonpaired, nonparametric Mann–Whitney test compare
+ranks. Source data are provided as a Source Data ﬁle.
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+12
+mice. According to approval by the Weizmann Institute of Science
+Animal Care Committee (02630418-4): the side effects from leukemia
+are reduced by the early euthanasia. Usually, mice recovered imme-
+diately following intrafemur injection. In case animals not recovering
+within 24 h, they will be euthanized. Endpoint and criteria for early
+withdrawal: lower limb paralysis from leukemia involvement of
+pelvis bones.
+Flow cytometry
+Primary human samples and cells extracted from mice bone marrow
+were stained with the antibodies shown in Supplementary Table 4.
+Primary mouse samples and cells extracted from mice bone
+marrow were stained with the antibodies shown in Supplementary
+Table 4.
+All ﬂow cytometry analyses were performed on FirePlex (Beckman
+Coulter, Brea, CA, USA), using CytExpert software v 2.4.0.28 (Beckman
+Coulter, Brea, CA, USA).
+BM transplantation
+Freshly dissected femora and tibiae were isolated from 2-months-old
+or 1-year mice DNMT3AMut, DNMT3Ahaplo, DNMT3AWT, SRSF2Mut or control
+SRSF2WT mice CD45.2. BM was ﬂushed with a 1cc (23G) into IMDM
+(Iscove’s Modiﬁed Dulbecco’s Medium). The BM was spun at 0.3×g by
+centrifugation, and RBCs were lysed in ammonium chloride-potassium
+bicarbonate lysis buffer for 1 min. After centrifugation, cells were
+resuspended in PBS, passed through a cell strainer, and counted. Then
+6 × 106 cells were injected intrafemur into NSG (CD45.1) mice that were
+irradiated (FBM) 7 days before with low-dose irradiation (225 rad) or to
+non-irradiated (CONTROL) NSG mice. Eight weeks following cells
+transfer, mice were sacriﬁced. Right femur and the other bones (left
+femur and tibias) were cut and BM cells were ﬂushed with IMDM
+(Iscove’s Modiﬁed Dulbecco’s Medium) and analyzed by FACS.
+Engraftment was deﬁned by the presence of mCD45.2. Engraftment
+was assessed according to the presence of ≥0.1% mCD45.2 cells. Ab’s
+that were used: APC anti-mouse CD45.2 (Biolegend, clone 104), PE anti-
+mouse CD45.1 (Biolegend clone A20).
+BADGE administration
+NSG mice were treated intraperitoneally with the PPARγi (which is a
+critical transcription factor in adipogenesis) inhibitor, bisphenol ADi-
+Glycidyl Ether (BADGE) (30 mg/kg) (Sigma, cat 15138) for 7 days, irra-
+diated and treated for more 7 days following cells transplantation.
+IL-6 neutralization in vivo
+NSG mice were administrated intraperitoneally with IL-6 (50 μg /mouse)
+neutralizing Ab (BioLegend 504512) for 2 days. Then mice were irra-
+diated with low dose (225 rad), and treated intraperitoneally with a IL-6
+neutralizing Ab for 7 days, followed by DNMT3AMut or DNMT3AWT BM-
+derived cells transplantation.
+Histological analysis and adipocytes quantiﬁcation
+Mice were sacriﬁced and autopsied, and dissected tissue samples were
+ﬁxed for 24 h in 4% paraformaldehyde, dehydrated, and embedded in
+parafﬁn. Parafﬁn blocks were sectioned at 4 mm and stained with H&E.
+Images were scanned by Pannoramic SCAN II (3DHISTECH, Hungary).
+BM adipocytes were quantiﬁed by intracellular staining of the FBM
+lipid with LipidTox (a ﬂuorescent dye that stains neutral lipids; Life
+Technologies) and analyzed using ImageStream X Mark II, Luminex.
+Image stream analysis
+To quantify the number of adipocytes in mice, we needed to sacriﬁce
+three mice per sample. All bones (femur and tibia) were cut, and BM
+cells were ﬂushed with IMDM (Iscove’s Modiﬁed Dulbecco’s Medium).
+Furthermore, the bones were crushed in order to obtain the adipo-
+cytes attached to the bones. The BM was ﬁltered through 30-μm mesh,
+centrifuged and 1 ml PBS×1 and 1 ml 8% PFA were added. The sample
+was vortex, and PBS×1 was added. Next, the sample was centrifuged
+and ﬁxed with 200 μL designated ﬁxative (00-5223-56 and 00-5123-43,
+eBioscience) and incubated for 30 min at 4 °C (in the dark). Next, the
+cells were washed with 1 ml designated permeabilization buffer (00-
+8333-56, eBioscience), centrifuged, and stained with 1:100 AB (PE anti-
+mouse CD45 Antibody BLG-103106) overnight spinning in the fridge.
+The next day, the sample was centrifuged at max speed 30 s and
+washed with PBS×1 twice, and stained with 1 ml DAPI (dilute 1:1000 in
+PBS) 7 min in the ice. To quantify the number adipocytes, we used HCS
+LipidTOX™Deep Red neutral lipid stain (H34477, Thermoﬁsher). The
+LipidTOX™neutral lipid stain has an extremely high afﬁnity for neutral
+lipid droplets and can be detected by ﬂuorescence microscopy or an
+HCS reader. The sample was centrifuged, then 40 µl PBS×1 were added,
+and 1:50 LipidTOX was added to each sample66. The samples were
+quantiﬁed by ImageStream X Mark II, Luminex, and analyzed by Ima-
+geStream software.
+Whole-mount immunoﬂuorescence staining
+The procedure was performed as described previously in ref. 67. Fol-
+lowing antibodies were used: Goat anti-mouse/rat FABP4/A-FABP
+Antibody, R&D Systems, Cat#AF1443-SP; RRID: AB_2102444 and Alexa
+Fluor® 647 AfﬁniPure Donkey Anti-Goat IgG (H+L), Jackson Immu-
+noResearch, Cat#705-605-003; RRID: AB_2340436, RabbitPerilipin-1
+(D418)
+Antibody,
+CellSignaling
+Technology
+Cat#
+3470,
+RRI-
+D:AB_2167268, AB_2340436, and Alexa Fluor®488 Donkey Anti-Rab-
+bitCat#711-545-152,RRID:AB_2313584, Jackson ImmunoResearch.
+For evaluation, ﬂuorescently labeled bone tissues were placed onto
+a four-well-µ-Slide and covered in antifade or PBS to prevent tissue
+desiccation. The preparations were examined using a Leica TCS SP8
+confocal microscope and analyzed with the image analysis software
+Volocity (v6.2, Perkin Elmer) and ImageJ. In addition, bone matrix and
+adipocytes were detected using the DIC (TLD) mode of the microscope.
+Z-stacked confocal images are generated from whole mounts of
+bisected mouse bones in which the structural and cellular integrity is
+highly preserved, and they show epiphyseal/metaphyseal BM regions
+(see Supplementary Fig 2a, zoom-ins). Additional markers for adipo-
+cytes, vasculature, and bone are not necessary67,68. FABP4 is also
+expressed by endothelial cells; however, adipocytes have higher
+expression. The DIC (differential interference contrast) channel was
+additionally used for the detection of the typical unilocular morphol-
+ogy of the adipocytes (see Image S2a) and other structures. Indeed, in
+BM sections big sinusoidal vessels are often collapsing, however here
+we used protective whole mounts and the “empty” spaces here are
+trabecular bone structures (without surrounding FABP4 cells, see
+Image S2c), which are very frequently present in epiphyseal/meta-
+physeal BM. The sinusoidal vessels, with speciﬁc morphology, are
+clearly visible by lower FABP4 expression, surrounded by FABP4 low
+endothelial cells, and in the DIC channel bone structures and sinusoi-
+dal vessels are reﬂected differently (see Supplementary Fig. 2b, c).
+Colony-forming unit assay
+DNMT3AMut or DNMT3AWT mice were sacriﬁced, all bones (femur and
+tibia) were cut, and BM cells were ﬂushed with IMDM (Iscove’s Mod-
+iﬁed Dulbecco’s Medium), the cells where count and seeded at a
+density of 2 × 104 cells per replicate into cytokine-supplemented
+methylcellulose medium (MethoCult M3334, Stemcell Technologies).
+After 10–14 days, the colonies propagated and scored. The remaining
+cells were resuspended and counted, and a portion was taken for
+replating (2 × 104 cells per replicate) with human (GenScript Z03034-
+50) or mouse (GenScript Z02767-10) IL-6 or w/o.
+Human MSCs
+Primary bone marrow-derived human MSCs were generously received
+from RAMBAM hospital. The cells were thawed and suspended with a
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+13
+suitable medium that contains MEMα, 1% P/S, 1% L-glu, 10% FBS
+(MSCs media).
+Human adipocytes differentiation in vitro
+The primary human MSCs were seeded on 96-well plates with MSCs
+medium at 104 cells/well. After 2 days, when reached conﬂuence, the
+medium was changed with MesenCult Adipogenic Diff Kit, Human
+(stem cell, cat#05412) for 10–14 days until the MSCs differentiated into
+mature adipocytes.
+Mouse MSCs production
+MSCs were generated from the tibia and femur of two-month-old
+C57BL/6 mice. The bones were ﬂushed, and cells were seeded in MSC
+media in a six-well plate. Every other day, the medium was replaced.
+Mouse adipocytes differentiation in vitro
+The primary mouse MSCs were seeded on 96-well plates at 104 cells per
+well with MSCs cell media. After two days, the cells reached full con-
+ﬂuence, and the medium was replaced with MesenCult Adipogenic Diff
+Kit, mouse (stem cell, cat#05507) for 10–14 days, until the MSCs dif-
+ferentiated into mature adipocytes.
+Oil Red Staining
+Cells were washed twice with PBSX1, ﬁxed with 4% PFA and washed
+twice with distilled water. Oil red was added for an hour.
+Amplicon sequencing
+We used an amplicon-based approach to sequence DNMT3A and
+NPM1c from human samples after and before engraftment.
+DNMT3A Fw primer for amplicon sequencing:
+CTACACGACGCTCTTCCGATCTttgtttgtttgtttaactttgtg
+DNMT3A Rev for amplicon sequencing:
+CAGACGTGTGCTCTTCCGATCTcactatactgacgtctccaacat
+NPM1c Fw for amplicon sequencing:
+CTACACGACGCTCTTCCGATCTgttgaactatgcaaagagacatt
+NPM1c Rev for amplicon sequencing primer:
+CAGACGTGTGCTCTTCCGATCTagaaatgaaataagacggaaaat.
+Enrichment for mouse adipocytes for single-nuclei sequencing
+All bones (femur and tibia) were cut in both ends, put in a 0.5-mL
+microcentrifuge tube with the bottom cut off, and put into a 1.5-mL
+microcentrifuge tube. A brief centrifuge (from 0 to 11,200×g, 9 s, room
+temperature (RT)) was used to separate the fresh bone marrow. Red
+blood cells (RBC) lysing buffer (Sigma) was used to lyse RBCs. Floating
+cells were extracted from the top layer and repeatedly washed with
+PBS following centrifugation (1000×g, 5 min, RT).
+Single RNA-seq
+Cells from 2-month-old and 1-year-old DNMT3AMut or DNMT3AWT
+were injected to FBM and normal mice. Three days after injection,
+CD45.2 LSK cells were isolated. We also isolated cells from the same
+donor mice before they were injected and termed them naive cells.
+From all the above conditions LSK cells were isolated and single-cell
+sorted. For sorting, we used the following antibodies: CD45.2-APC,
+anti-mouse (BLG), Ly-6G/Ly-6C (Gr-1) FITC anti-mouse (BLG), CD11b
+FITC anti-mouse/human (BLG), CD45R/B220 FITC anti-mouse/
+human (BLG), CD4 FITC anti-mouse (BLG), TER-119 FITC anti-mouse
+(BLG), CD8a FITC anti-mouse (BLG), Sca-1-PE-Vio770 anti-mouse
+(Miltenyi), CD117 (c-kit)-BV605 anti-mouse (BLG). FACs analysis for
+LSK sorting is described in Supplementary Fig. 14a. Cells were sor-
+ted to 384 low-binding plates and sequenced according to MARS-
+seq protocol42. A total of 3923 cells were available for analysis after
+mapping. To ﬁlter empty cells and doublets we selected single cells
+with more than 450 UMIs per cells, and excluded all cells in the 3%
+upper percentile of UMI counts. After ﬁltering cells, a total of 2198
+cells were available for further analysis. We then used the Metacell
+library for noise reduction, clustering and cell type annotation43,44.
+Removal of lateral effects (cell-cycle, stress) and batch effects was
+performed using gene module analysis to ﬁlter genes used for
+Metacells grouping. The Metacell analysis partitioned 1999 cells to
+32 Metacells, while ﬁltering 199 cells as outliers. We annotated
+Metacells
+cell
+types
+based
+on
+known
+genes
+deﬁning
+cell
+populations45. The following genes were used: HSCs (Procr); MLP
+(Dntt); CMP (Mpo), MegK (Pf4); ERY (Hba-a2); MonP (Irf8), DC
+(Cd74), MPP (Fgd5 and no other conditions).
+We have used another method for single-cell clustering reduction
+of dimension and clustering and differential expression analysis based
+on the UMAP algorithm. After ﬁltration of cells in the same way we did
+for the Metacell analysis no batch effects could be noticed in the ERCC
+counts between the different conditions. We have used the clustering
+of the UMAP data to perform differential expression (DE) analysis on
+the different clusters (Supplementary Data 1).
+We have repeated the scRNA-seq experiment for validation of
+our results. One-year-old DNMT3AMut cells were injected to FBM and
+NBM mice. Then, 3 days after injection CD45.2 LSK cells were iso-
+lated. Cells were sorted to low-binding Eppendorf tubes and library
+was prepared by the 10X genomics V3 3’ kit. Libraries were
+sequenced by Novaseq. For the DNMT3AMut FBM condition we ana-
+lyzed 1228 cells with median coverage of 60,000 reads per cell and
+9440 UMIs per cells. For the DNMT3AMut NBM condition, we ana-
+lyzed 1405 cells with median coverage of 195,000 reads per cell and
+9469 UMIs per cells. We have performed the same bioinformatics
+analysis as in the ﬁrst experiment.
+To gain more insights into the characteristics of adipocytes
+under our FBM irradiation model. we have used single-nuclei RNA
+sequencing (snRNA-seq) due to the challenging fragility of lipid-
+ﬁlled adipocytes. We have adopted a protocol developed by
+others29. The protocol combines an adipocyte enrichment protocol
+(described above) followed by nuclei "cleanup" step by sorting.
+Nuclei were sorted into low-binding Eppendorf tubes, and the
+library was prepared by the 10X genomics V3 3’ kit. Libraries were
+sequenced by Novaseq. We have used the Metacell platform to
+analyze the cells. After ﬁltering empty cells and doublets, we ana-
+lyzed 4058 cells from the irradiation FBM model and 3428 cells from
+the BADGE control group. Removal of lateral effects (cell-cycle,
+stress) was performed using gene module analysis to ﬁlter genes
+used for Metacells grouping, and cells with high expression of
+mitochondrial genes were excluded. We have combined our dataset
+together with that of Baccin et al. and have annotated cells using key
+gene markers described in ref. 30. The Metacell analysis partitioned
+cells to 181 Metacells. Next, we compared the nuclei we sequenced
+to adipocytes from ref. 30. The majority of the cells in our cohort
+were monocyte/neutrophils and late erythroid cells, which had
+similar gene expression compared to the same populations in Bac-
+cin et al. We identiﬁed one Metacell and 25 cells in our cohort which
+clustered together with nine adipocytes from ref. 30, these cells had
+similar gene expression.
+GSEA analysis
+The DE genes of cluster 1 (Supplementary Data 1) were ranked based on
+fold change and analyzed using the GSEA software version 4.1.069.
+Signiﬁcant genes set had FDR q-val < 0.2. The Hallmark genes sets were
+used for the analysis.
+Gene sets scores (IL-6, TNF-α, IFN-α, and IFN-γ)
+To generate scores for the different gene sets across cells, we down-
+sampled the original umi matrix to 750 umis, and calculated the score
+per cell as the sum of all genes in the respective gene sets (Supple-
+mentary Data 3 and 4). These scores per cell were used to generate the
+plots per experimental condition in Fig. 4c and Supplementary Fig. 12.
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+14
+Statistical analysis
+In all ﬁgures and tables comparison between medians was performed
+using the Mann−Whitney U test with FDR correction for multiple
+hypothesis testing. Calculations were performed using the compar-
+e_means function of the R library ggpubr. The comparison between
+cytokine levels was analyzed by a two-way ANOVA test with Sidaks
+multiple comparison correction.
+Reporting summary
+Further information on research design is available in the Nature
+Portfolio Reporting Summary linked to this article.
+Data availability
+The sequencing data and processed data generated in this study have
+been deposited in the Array Express database (https://www.ebi.ac.uk/
+biostudies/arrayexpress) under accession codes: E-MTAB-12613, E-
+MTAB-12614, E-MTAB-12620. All relevant data are also available from
+the corresponding author upon reasonable request. Source data are
+provided with this paper.
+References
+1.
+Małkiewicz, A. & Dziedzic, M. Bone marrow reconversion—imaging
+of physiological changes in bone marrow. Pol. J. Radio. 77,
+45–50 (2012).
+2.
+Zinngrebe, J., Debatin, K. M. & Fischer-Posovszky, P. Adipocytes in
+hematopoiesis and acute leukemia: friends, enemies, or innocent
+bystanders? Leukemia 34, 2305–2316 (2020).
+3.
+Li, Y., Meng, Y. & Yu, X. The unique metabolic characteristics of
+bone marrow adipose tissue. Front. Endocrinol. 10, 1–13 (2019).
+4.
+Liu, L. F., Shen, W. J., Ueno, M., Patel, S. & Kraemer, F. B. Char-
+acterization of age-related gene expression proﬁling in bone mar-
+row and epididymal adipocytes. BMC Genomics 12, 212 (2011).
+5.
+Zhou, B. O. et al. Bone marrow adipocytes promote the regenera-
+tion of stem cells and haematopoiesis by secreting SCF. Nat. Cell
+Biol. 19, 891–903 (2017).
+6.
+Miggitsch, C. et al. Human bone marrow adipocytes display
+distinct immune regulatory properties. EBioMedicine 46,
+387–398 (2019).
+7.
+Verovskaya, E. V., Dellorusso, P. V. & Passegué, E. Losing sense of
+self and surroundings: hematopoietic stem cell aging and leukemic
+transformation. Trends Mol. Med. 25, 494–515 (2019).
+8.
+Stirewalt, D. L. et al. Tumour necrosis factor-induced gene
+expression in human marrow stroma: clues to the pathophysiology
+of MDS? Br J. Haematol. 140, 444–453 https://doi.org/10.1111/j.
+1365-2141.2007.06923.x (2008).
+9.
+Olaia, N., Valentina, N., Wenzel, P. L., Frederic, F. & Daley, G. Q. Bone
+marrow adipocytes as negative regulators of the hematopoietic
+microenvironment. Physiol. Behav. 176, 139–148 (2009).
+10.
+Spindler, T. J., Tseng, A. W., Zhou, X. & Adams, G. B. Adipocytic cells
+augment the support of primitive hematopoietic cells in Vitro but
+have no effect in the bone marrow niche under homeostatic con-
+ditions. Stem Cells Dev. 23, 434–441 (2014).
+11.
+Mattiucci, D. et al. Bone marrow adipocytes support hematopoietic
+stem cell survival. J. Cell Physiol. 233, 1500–1511 (2018).
+12.
+Lee, J. M. et al. Obesity alters the long-term ﬁtness of the hemato-
+poietic stem cell compartment through modulation of Gﬁ1
+expression. J. Exp. Med. 215, 627–644 (2018).
+13.
+Behan, J. W. et al. Adipocytes impair leukemia treatment in mice.
+Cancer Res 69, 7867–7874 (2009).
+14.
+Woolthuis, C. M. et al. Leukemic stem cells evade chemotherapy by
+metabolic adaptation to an adipose tissue niche. Cell Stem Cell 19,
+23–37 (2016).
+15.
+Aguilar-Navarro, A. G. et al. Human aging alters the spatial organi-
+zation between CD34+ hematopoietic cells and adipocytes in bone
+marrow. Stem Cell Rep. 15, 317–325 (2020).
+16.
+Boyd, A. L. et al. Acute myeloid leukaemia disrupts endogenous
+myelo-erythropoiesis bycompromising the adipocyte bone marrow
+niche. Nat. Cell Biol. 19, 1336–1347 (2017).
+17.
+Shlush, L. I. et al. Identiﬁcation of pre-leukaemic haematopoietic
+stem cells in acute leukaemia. Nature 506, 328–333 (2014).
+18.
+Shlush, L. I. Age-related clonal hematopoiesis. Blood 131,
+496–504 (2018).
+19.
+Scheller, E. L. et al. Region-speciﬁc variation in the properties of
+skeletal adipocytes reveals regulated and constitutive marrow
+adipose tissues. Nat. Commun. 6, 7808 (2015).
+20. Santagostino, S. F., Arbona, R. J. R., Nashat, M. A., White, J. R. &
+Monette, S. Pathology of aging in NOD scid gamma female mice.
+Vet. Pathol. 54, 855–869 (2017).
+21.
+Naveiras, O. et al. Bone-marrow adipocytes as negative regulators
+of the haematopoietic microenvironment. Nature 460,
+259–263 (2009).
+22. Stevens, S. K., Moore, S. G. & Kaplan, I. D. Early and late bone-
+marrow changes after irradiation: MR evaluation. Am. J. Roentgenol.
+154, 745–750 (1990).
+23. Bajaj, M. S., Kulkarni, R. S., Ghode, S. S., Limaye, L. S. & Kale, V. P.
+Irradiation-induced secretion of BMP4 by marrow cells causes
+marrow adipogenesis post-myelosuppression. Stem Cell Res. 17,
+646–653 (2016).
+24. Hooper, A. T. et al. Engraftment and reconstitution of hematopoi-
+esis is dependent on VEGFR2-mediated regeneration of sinusoidal
+endothelial. Cells Stem Cell 4, 263–274 (2009).
+25. Winkler, I. G. et al. Vascular niche E-selectin regulates hemato-
+poietic stem cell dormancy, self renewal and chemoresistance. Nat.
+Med. https://doi.org/10.1038/nm.2969 (2012).
+26. Kenswil, K. J. G. et al. Characterization of endothelial cells asso-
+ciated with hematopoietic niche formation in humans identiﬁes IL-
+33 as an anabolic factor. Cell Rep. 22, 666–678 (2018).
+27.
+Wright, H. M. et al. A synthetic antagonist for the peroxisome
+proliferator-activated receptor γ inhibits adipocyte differentiation.
+J. Biol. Chem. 275, 1873–1877 (2000).
+28. Blanchette-Mackie, E. J. et al. Perilipin is located on the surface layer
+of intracellular lipid droplets in adipocytes. J. Lipid Res. 36,
+1211–1226 (1995).
+29. Roh, H. C. et al. Simultaneous transcriptional and epigenomic
+proﬁling from speciﬁc cell types within heterogeneous tissues
+in vivo. Cell Rep. 18, 1048–1061 (2017).
+30. Baccin, C. et al. Combined single-cell and spatial transcriptomics
+reveal the molecular, cellular and spatial bone marrow niche
+organization. Nat. Cell Biol. 22, 38–48 (2020).
+31.
+Gooren, L. J. Androgens and male aging: current evidence of safety
+and efﬁcacy. Asian J. Androl. 12, 136–151 (2010).
+32. Yang, K. J. et al. Differential modulatory effects of rosiglitazone and
+pioglitazone on white adipose tissue in db/db mice. Life Sci. 87,
+405–410 (2010).
+33. Nicolini, F. E., Cashman, J. D., Hogge, D. E., Humphries, R. K. &
+Eaves, C. J. NOD/SCID mice engineered to express human IL-3, GM-
+CSF and steel factor constitutively mobilize engrafted human pro-
+genitors and compromise human stem cell regeneration. Leukemia
+18, 341–347 (2004).
+34. Jaiswal, S. et al. Age-related clonal hematopoiesis associated with
+adverse outcomes. N. Engl. J. Med. 371, 2488–2498 (2014).
+35. Shlush, L. I. et al. Tracing the origins of relapse in acute myeloid
+leukaemia to stem cells. Nature 547, 104–108 (2017).
+36. Scheller, M. et al. Hotspot DNMT3A mutations in clonal hemato-
+poiesis and acute myeloid leukemia sensitize cells to azacytidine via
+viral mimicry response. Nat. Cancer 2, 527–544 (2021).
+37. Russler-Germain, D. A. et al. The R882H DNMT3A mutation asso-
+ciated with AML dominantly inhibits wild-type DNMT3A by blocking
+its ability to form active tetramers. Cancer Cell 25, 442–454
+(2014).
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+15
+38. Abelson, S. et al. Prediction of acute myeloid leukaemia risk in
+healthy individuals. Nature 559, 400–404 (2018).
+39. Li, R. Z. M. W. Z. Hematopoietic recovery following chemotherapy is
+improved by BADGE-induced inhibition of adipogenesis. Int. J.
+Hematol. 97, 58–72 (2013).
+40. Cole, C. B. et al. Haploinsufﬁciency for DNA methyltransferase 3A
+predisposes hematopoietic cells to myeloid malignancies. J. Clin.
+Investig. 127, 3657–3674 (2017).
+41.
+Kim, E., Ilagan, J. O., Bradley, R. K. & Abdel-wahab, O. SRSF2
+mutations contribute to myelodysplasia by mutant-speciﬁc effects
+on exon recognition. Cancer Cell 27, 617–630 (2015).
+42. Keren-Shaul, H. et al. MARS-seq2.0: an experimental and analytical
+pipeline for indexed sorting combined with single-cell RNA
+sequencing. Nat. Protoc. 14, 1841–1862 (2019).
+43. Ben-Kiki, O., Bercovich, A., Lifshitz, A. & Tanay, A. Metacell-2: a
+divide-and-conquer metacell algorithm for scalable scRNA-seq
+analysis. Genome Biol. 23, 100 (2022).
+44. Baran, Y. et al. MetaCell: analysis of single-cell RNA-seq data using
+K-nn graph partitions. Genome Biol. 20, 1–19 (2019).
+45. Nestorowa, S. et al. Plenary paper HEMATOPOIESIS AND STEM
+CELLS e-blood A single-cell resolution map of mouse hemato-
+poietic stem and progenitor cell differentiation. https://doi.org/10.
+1182/blood-2016-05-716480.
+46. Becht, E. et al. Dimensionality reduction for visualizing single-cell
+data using UMAP8. Nat. Biotechnol. 37, 38–44 (2018).
+47. Li, H. et al. Dysfunctional CD8 T cells form a proliferative, dynami-
+cally regulated compartment within human melanoma. Cell 176,
+775–789.e18 (2019).
+48. Abelson, S. et al. Prediction of acute myeloid leukaemia risk in
+healthy individuals. Nature 559, 400–404 (2018).
+49. Bolton, K. L. et al. Cancer therapy shapes the ﬁtness landscape of
+clonal hematopoiesis. Nat. Genet 52, 1219–1226 (2020).
+50. Saiki, R. et al. Combined landscape of single-nucleotide variants
+and copy number alterations in clonal hematopoiesis. Nat. Med. 27,
+1239–1249 (2021).
+51.
+De-Morgan, A., Meggendorfer, M., Haferlach, C. & Shlush, L. Male
+predominance in AML is associated with speciﬁc preleukemic
+mutations. Leukemia 35, 867–870 (2021).
+52. Ogawa, S. Clonal hematopoiesis in acquired aplastic anemia. Blood
+128, 337–347 (2016).
+53. Dharan, N. J. et al. HIV is associated with an increased risk of age-
+related clonal hematopoiesis among older adults. Nat. Med. 27,
+1006–1011 (2021).
+54. Cai, Z. et al. Hyperglycemia cooperates with Tet2 heterozygosity to
+induce leukemia driven by proinﬂammatory cytokine-induced
+lncRNA Morrbid. J. Clin. Investig. 131, 1 (2021).
+55. Hormaechea-Agulla, D. et al. Chronic infection drives Dnmt3a-loss-
+of-function clonal hematopoiesis via IFNγ signaling. Cell Stem Cell
+28, 1428–1442.e6 (2021).
+56. Acuna-Hidalgo, R. et al. Ultra-sensitive sequencing identiﬁes high
+prevalence of clonal hematopoiesis-associated mutations
+throughout adult life. Am. J. Hum. Genet. 101, 50–64 (2017).
+57. McKerrell, T. et al. Leukemia-associated somatic mutations drive
+distinct patterns of age-related clonal hemopoiesis. Cell Rep. 10,
+1239–1245 (2015).
+58. Grifﬁth, J. F. et al. Bone marrow fat content in the elderly: a reversal
+of sex difference seen in younger subjects. J. Magn. Reson. Imaging
+36, 225–230 (2012).
+59. Woods, G. N. et al. Chronic kidney disease is associated with greater
+bone marrow adiposity. J. Bone Miner. Res. 33, 2158–2164 (2018).
+60. Bredella, M. A. et al. Vertebral bone marrow fat is positively asso-
+ciated with visceral fat and inversely associated with IGF-1 in obese
+women. https://doi.org/10.1038/oby.2010.106 (2011).
+61.
+Mistry, S. D. et al. Sex hormones are negatively associated with
+vertebral bone marrow fat. Bone 108, 20–24 (2018).
+62. Honigberg, M. C. et al. Premature menopause, clonal hematopoi-
+esis, and coronary artery disease in postmenopausal women. Cir-
+culation 410–423 https://doi.org/10.1161/CIRCULATIONAHA.120.
+051775 (2021).
+63. Meisel, M. et al. Microbial signals drive pre-leukaemic myeloproli-
+feration in a Tet2-deﬁcient host. https://doi.org/10.1038/s41586-
+018-0125-z (2018).
+64. van Dam, M. et al. Structure-function analysis of interleukin-6 uti-
+lizing human/murine chimeric molecules. Involvement of two
+separate domains in receptor binding. J. Biol. Chem. 268,
+15285–15290 (1993).
+65. Biezuner, T. et al. An improved molecular inversion probe based
+targeted sequencing approach for low variant allele frequency.
+NAR Genom. Bioinform. 4, lqab125 (2022).
+66. Majka, S. M. et al. Analysis and isolation of adipocytes by ﬂow cyto-
+metry. https://doi.org/10.1016/B978-0-12-411619-1.00015-X (2014).
+67. Saçma, M. et al. Haematopoietic stem cells in perisinusoidal niches
+are protected from ageing. Nat. Cell Biol. 21, 1309–1320 (2019).
+68. Theresa, L. et al. Autophagy in mesenchymal progenitors protects
+mice against bone marrow failure after severe intermittent stress.
+Blood 139, 690–703 (2021).
+69. Subramanian, A. et al. Gene set enrichment analysis: a knowledge-
+based approach for interpreting genome-wide expression proﬁles.
+Proc. Natl Acad. Sci. USA 102, 15545–15550 (2005).
+Acknowledgements
+This research was supported by the EU horizon 2020 grant project
+MAMLE ID: 714731, LLS and rising tide foundation Grant ID: RTF6005-
+19, ISF-NSFC 2427/18, ISF-IPMP-Israel Precision Medicine Program
+3165/19, ISF 1123/21, BIRAX 713023, the Ernest and Bonnie Beutler
+Research Program of Excellence in Genomic Medicine, awarded to
+LIS. LIS is an incumbent of the Ruth and Louis Leland career devel-
+opment chair. N.K. is an incumbent of the Applebaum Foundation
+Research Fellow Chair. This research was also supported by the Sagol
+Institute for Longevity Research, the Barry and Eleanore Reznik Family
+Cancer Research Fund, Steven B. Rubenstein Research Fund for
+Leukemia and Other Blood Disorders, the Rising Tide Foundation, and
+the Applebaum Foundation.
+Author contributions
+N.Z. designed and developed the study, performed mice experiments,
+cells culture, targeted sequencing, and single-cell RNA-seq, and wrote
+the manuscript. A.A.B., N.C.I., and N.R. performed single-cell RNA ana-
+lysis. S.A. and T.B. performed single-cell RNA-seq experiments. E.K.
+helped with FACs experiments. Z.P. helped with imageStream experi-
+ments. G.H. and M.S. performed whole-mount immune ﬂuorescent
+staining of BM. M.S. and T.C.M. developed DNMT3Amut mice model,
+D.L. helped with the analysis of methylation data (not presented). E.S.
+developed the FBM castration model. M.M. contributed clinical samples.
+N.Z. and N.K. Performed xenotransplantation experiments, cytokine
+experiments, L.I.S. and N.K. designed and supervised the study and
+wrote the manuscript.
+Competing interests
+L.I.S. is a consultant to Metasight Isreal LTD; and to Sequentify Israel LTD.
+The remaining authors declare no other competing interests.
+Additional information
+Supplementary information The online version contains
+supplementary material available at
+https://doi.org/10.1038/s41467-023-36906-1.
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+16
+Correspondence and requests for materials should be addressed to
+Liran I. Shlush.
+Peer review information Nature Communications Eugenia Flores-Fig-
+ueroa, Peter van Galen and the other, anonymous, reviewer(s) for their
+contribution to the peer review of this work. Peer reviewer reports are
+available.
+Reprints and permissions information is available at
+http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to jur-
+isdictional claims in published maps and institutional afﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as
+long as you give appropriate credit to the original author(s) and the
+source, provide a link to the Creative Commons license, and indicate if
+changes were made. The images or other third party material in this
+article are included in the article’s Creative Commons license, unless
+indicated otherwise in a credit line to the material. If material is not
+included in the article’s Creative Commons license and your intended
+use is not permitted by statutory regulation or exceeds the permitted
+use, you will need to obtain permission directly from the copyright
+holder. To view a copy of this license, visit http://creativecommons.org/
+licenses/by/4.0/.
+© The Author(s) 2023
+1Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot, Israel. 2Department of Computer Science and Applied Mathematics,
+Weizmann Institute of Science, Rehovot, Israel. 3Blavatnik School of Computer Science, Tel Aviv University, Tel Aviv, Israel. 4Department of Biological
+Regulation, Weizmann Institute of Science, Rehovot, Israel. 5Life Sciences Core Facilities, Weizmann Institute of Science, Rehovot, Israel. 6Institute of
+Molecular Medicine Ulm University, Ulm, Germany. 7Department of Medicine, Hematology, Oncology and Rheumatology, University Hospital Heidelberg,
+Heidelberg, Germany. 8Department of Internal Medicine V, Heidelberg University Hospital, Heidelberg, Germany. 9European Molecular Biology Laboratory
+(EMBL), Heidelberg, Germany. 10German Cancer Consortium (DKTK) and German Cancer Research Center (DKFZ), Partner Site Heidelberg,
+Heidelberg, Germany. 11IVF Unit, Galilee Medical Center, Nahariya, Israel. 12Princess Margaret Cancer Centre, University Health Network (UHN), Toronto,
+ON, Canada. 13Department of Medical Biophysics, University of Toronto, Toronto, ON, Canada. 14Department of Medicine, University of Toronto, Toronto,
+ON, Canada. 15Division of Medical Oncology and Hematology, University Health Network, Toronto, ON, Canada. 16Division of Hematology, University Health
+Network, Toronto, ON, Canada. 17Hematology and Bone Marrow Transplantation Institute Rambam Healthcare campus Haifa, Haifa, Israel. 18Theses authors
+contributed equally: N. Kaushansky, Liran I. Shlush.
+e-mail: liran.shlush@weizmann.ac.il
+Article
+https://doi.org/10.1038/s41467-023-36906-1
+Nature Communications|   (2023) 14:2070 
+17

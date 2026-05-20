@@ -1,0 +1,33 @@
+{
+  "title": "A physics-informed graph neural network to approximate docking-based binding affinity for DYRK2 in Alzheimer’s drug repurposing",
+  "authors": "Veysel Gider et al.",
+  "year": 2026,
+  "journal": "Scientific Reports",
+  "category": "general",
+  "research_question": "Can a physics-informed graph neural network (PhysDual-GCN) approximate docking-derived binding affinity scores for DYRK2, an understudied target in Alzheimer's disease, using only four FDA-approved drugs?",
+  "methods_summary": [
+    "Developed PhysDual-GCN, a dual-branch GNN that processes ligand molecular graphs and a sequence-based graph of DYRK2.",
+    "Explicitly incorporated Coulomb and Lennard-Jones interaction terms as differentiable physical energy components.",
+    "Trained on docking-derived scores (AutoDock Vina, Smina, QVina, CB-DOCK) with strict ligand-level separation to avoid circularity.",
+    "Compared predictions against classical docking tools (SeamDock, AutoDock, Vina, QVina, CB-DOCK) and AI-based method DeepPurpose."
+  ],
+  "dataset": "Four FDA-approved Alzheimer's drugs (brexpiprazole, donepezil, galantamine, rivastigmine) and DYRK2 protein sequence from UniProt; all reference labels from docking tools (no experimental binding affinities).",
+  "key_findings": [
+    "PhysDual-GCN achieved low absolute errors (MAE=0.31 kcal/mol; RMSE=0.44 kcal/mol) relative to reference docking scores.",
+    "Correctly identified stronger binders such as donepezil (−10.8 kcal/mol) and brexpiprazole (−10.0 kcal/mol).",
+    "Outperformed classical docking tools and DeepPurpose in approximating docking-derived binding affinities.",
+    "Integration of physical interaction terms enhanced interpretability and provided a computationally efficient surrogate for classical docking workflows."
+  ],
+  "relevance_score": "medium",
+  "tags": [
+    "physics-informed graph neural network",
+    "binding affinity prediction",
+    "DYRK2",
+    "Alzheimer's disease",
+    "drug repurposing",
+    "docking-derived scores",
+    "Coulomb potential",
+    "Lennard-Jones potential"
+  ],
+  "extracted_insights": "PhysDual-GCN demonstrates that integrating explicit physical energy terms (Coulomb and Lennard-Jones) into a GNN framework can improve interpretability and computational efficiency for approximating docking-based binding affinities, even with very limited ligand data (n=4). However, due to the small dataset and reliance on docking-derived pseudo-labels (with inherent uncertainty of ±0.5–1.5 kcal/mol), the results indicate agreement with computational references rather than generalizable predictive performance. The approach establishes a foundation for future large-scale, experimentally validated studies in AD drug repurposing."
+}

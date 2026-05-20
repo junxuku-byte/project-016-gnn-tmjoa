@@ -1,0 +1,41 @@
+{
+  "title": "Single-Cell Transcriptomics Reveals Riluzole as an Osteoarthritis Candidate Drug via OB-NE Signaling Modulation and CTSS/NOS1 Inhibition",
+  "authors": "Kun Liu等",
+  "year": 2026,
+  "journal": "Drug Design, Development and Therapy",
+  "category": "general",
+  "research_question": "如何通过单细胞转录组学分析骨关节炎中成骨细胞与中性粒细胞的相互作用，并基于此筛选潜在的重定位药物？",
+  "methods_summary": [
+    "单细胞RNA测序（scRNA-seq）",
+    "差异表达分析",
+    "GO富集分析",
+    "CellChat细胞通讯分析",
+    "基于网络邻近性的药物重定位分析",
+    "孟德尔随机化（MR）分析",
+    "斑马鱼OA模型体内验证",
+    "转录组测序",
+    "网络药理学",
+    "分子对接"
+  ],
+  "dataset": "人股骨头组织（3例OA患者和3例对照）",
+  "key_findings": [
+    "成骨细胞（OB）是OA的关键相关细胞，其差异表达基因富集于中性粒细胞（NE）介导的免疫通路",
+    "OA中OB与NE之间存在增强的双向信号通讯，主要由CXCL12-CXCR4和RETN-CAP1通路介导",
+    "通过药物重定位分析识别出利鲁唑（riluzole）作为候选药物",
+    "MR分析显示利鲁唑靶点SLC7A11表达与OA风险呈负相关（OR=0.84）",
+    "斑马鱼OA模型中，利鲁唑治疗显著减轻关节退变，下调CTSS、NOS1及MAPK/ERK通路关键成分",
+    "分子对接显示利鲁唑与CTSS和NOS1具有强结合亲和力"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "骨关节炎",
+    "单细胞转录组",
+    "药物重定位",
+    "利鲁唑",
+    "成骨细胞",
+    "中性粒细胞",
+    "CTSS",
+    "NOS1"
+  ],
+  "extracted_insights": "本研究首次利用单细胞转录组学揭示OA中成骨细胞与中性粒细胞之间的双向信号通讯增强，并通过网络药物重定位方法筛选出利鲁唑作为候选药物。体内实验证实利鲁唑通过抑制CTSS/NOS1及MAPK/ERK通路减轻OA进展，为OA治疗提供了新的药物重定位策略和潜在靶点。"
+}

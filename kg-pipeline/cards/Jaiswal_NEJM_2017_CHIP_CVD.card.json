@@ -1,0 +1,36 @@
+{
+  "title": "Clonal Hematopoiesis and Risk of Atherosclerotic Cardiovascular Disease",
+  "authors": "S. Jaiswal et al.",
+  "year": 2017,
+  "journal": "The New England Journal of Medicine",
+  "category": "general",
+  "research_question": "Does clonal hematopoiesis of indeterminate potential (CHIP) causally contribute to atherosclerotic cardiovascular disease?",
+  "methods_summary": [
+    "Whole-exome sequencing to detect CHIP in peripheral-blood cells from four case–control studies (4726 coronary heart disease cases, 3529 controls)",
+    "Nested case–control analysis from two prospective cohorts (BioImage and Malmö Diet and Cancer) and two retrospective case–control studies (ATVB and PROMIS) for early-onset myocardial infarction",
+    "Gene-level analysis for DNMT3A, TET2, ASXL1, and JAK2 mutations",
+    "Assessment of coronary-artery calcification via cardiac CT in BioImage participants",
+    "Experimental murine model: transplantation of Tet2 knockout bone marrow into atherosclerosis-prone Ldlr knockout mice, with high-cholesterol diet and lesion quantification",
+    "Gene-expression analysis of macrophages from Tet2 knockout mice via mRNA sequencing"
+  ],
+  "dataset": "Four case–control studies: BioImage, Malmö Diet and Cancer (MDC), Atherosclerosis, Thrombosis, and Vascular Biology Italian Study Group (ATVB), and Pakistan Risk of Myocardial Infarction Study (PROMIS); plus three prospective cohorts (Jackson Heart Study, FUSION, Framingham Heart Study) for gene-level analysis",
+  "key_findings": [
+    "CHIP carriers had 1.9 times the risk of coronary heart disease (95% CI, 1.4–2.7) in prospective cohorts and 4.0 times the risk of early-onset myocardial infarction (95% CI, 2.4–6.7) in retrospective studies",
+    "Mutations in DNMT3A, TET2, ASXL1, and JAK2 were individually associated with coronary heart disease; JAK2 V617F conferred 12.1 times the risk",
+    "CHIP carriers had higher coronary-artery calcification scores (3.3 times in those without incident coronary heart disease)",
+    "Tet2 knockout in hematopoietic cells accelerated atherosclerosis in mice, with larger aortic-root and descending aorta lesions",
+    "Tet2-deficient macrophages showed elevated expression of CXC chemokines (e.g., Cxcl1, Cxcl2, Cxcl3) and proinflammatory cytokines (Il1b, Il6), and humans with TET2 mutations had higher plasma interleukin-8 levels"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "clonal hematopoiesis",
+    "CHIP",
+    "atherosclerosis",
+    "coronary heart disease",
+    "TET2",
+    "somatic mutation",
+    "inflammation",
+    "cardiovascular risk"
+  ],
+  "extracted_insights": "CHIP, defined by somatic mutations in hematopoietic cells (e.g., DNMT3A, TET2, ASXL1, JAK2), is associated with nearly a doubling of coronary heart disease risk in humans and accelerates atherosclerosis in mice via Tet2 loss, which enhances macrophage expression of inflammatory chemokines and cytokines, suggesting a causal role for clonal hematopoiesis in atherosclerotic cardiovascular disease and potential as a modifiable risk factor."
+}

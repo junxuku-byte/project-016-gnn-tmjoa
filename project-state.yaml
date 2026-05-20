@@ -1,0 +1,100 @@
+project: project-016-chip-tmjoa
+phase: Phase 1.5
+status: literature_deep_learning + preclinical_design + gnn_drug_repositioning
+last_updated: 2026-05-16T20:30+08:00
+
+completed:
+  - 初步文献速览（Web Search, 12+篇核心文献定位）
+  - 科学逻辑链验证（7大关键环节全部确认）
+  - 领域空白确认（CHIP→TMJ 零文献）
+  - 项目确立与目录创建
+  - 核心文献精读（全11篇，含PMC全文+Abstract全数据）
+  - PDF已获取: 10篇真PDF（24MB）
+  - 知识合成报告完成（8大章节，含综合假说图）
+  - LabKG导入完成（import_project_016.py + enrich_project_016.py + enrich_project_016_phase2.py）
+  - 管道v3.2打磨（搜索[uid]格式+5层下载栈+casesid新Tab提取+日上限检测）
+  - 云图书馆复盘文档入库
+  - 朝堂议政完成（4官员讨论优化方向）
+  - 朝堂议政：首席调查官模式（靶点辩论+药物反推）完成
+  - 可干预靶点路径分析（10个靶点+完整路径图）
+  - 精读：Chen 2025 J Adv Res（训练免疫调节剂）+ LabKG导入
+  - 精读：Hu 2025 Nat Commun（Denosumab/FSTL1）+ LabKG导入
+  - FSTL1通路闭环验证（7 hops）：denosumab→rankl→rank→traf6→nf_kappa_b→fstl1→synovial_inflammation→tmjoa
+  - CKD-MBD→OA 深度文献学习（FGF23-Wnt轴机制桥接）
+  - 常规骨代谢网络导入 LabKG（70节点+106边+7桥接边）
+  - 精读：PMID 29718273 FGF23-Wnt-OA小鼠机制（首次FGF23Ab挽救OA）
+  - 精读：PMID 37562858 CKD-OA共病双向模型（世界首个）
+  - CKD-MBD/OA两篇核心文献 LabKG导入（50概念+103边）
+  - 动物为主+人体单臂验证方案设计完成
+  - 项目C启动：GNN药物重定位（LabKG导出+PyTorch框架+Node2Vec基线）
+  - 339篇TMJOA/OA药物文献检索
+  - 49篇核心文献筛选+下载（2篇成功，其余PubMed摘要获取）
+  - 药物-疾病-靶点网络大规模扩充（38新药+26新病/靶+168边）
+  - LabKG重新导出：10,110节点/14,626边
+  - **拓扑基线v2突破**：TMJ疾病节点识别修复
+  - **TMJOA药物重定位TOP 10完成**
+  - **CHIP→TMJOA假说验证**：拓扑基线同时捕获上游和下游干预点
+  - drug-disease边：4→23
+  - 预测结果保存：topology_predictions_v2_tmj_fixed.json
+  - **三库学术搜索**：PubMed验证8候选药物TMJ覆盖
+  - **关键发现**：4/8候选确认为真正空白
+  - **新文献3篇纳入**：Vit D3/TMJOA、Nell-1/FCSCs、M2 EVs
+  - **API调试**：OpenAlex+Scopus正常，web_search工具超时
+  - **文献大规模扩充启动**：
+    - PubMed批量搜索：24个检索式→1547唯一PMID
+    - OpenAlex批量搜索：5个检索式→109篇2020+文献
+    - 筛选后导入：202篇新论文纳入LabKG
+    - Project-016文献总数：45→**247篇** (+202)
+    - LabKG总量：10,110→**10,357**节点 (+247)
+
+in_progress:
+  - 文献下载管道（多批次，部分2026新文章casesid提取失败）
+  - Node2Vec嵌入训练（待重跑）
+  - GNN监督训练（等Node2Vec基线完成后）
+
+next_steps:
+  - 重新运行Node2Vec基线（数据已更新）
+  - 验证drug-disease边数量（目标>50）
+  - 运行GNN监督训练（GraphSAGE + MLP解码器）
+  - TMJOA候选药物Top-20排序
+  - 动物实验详细Protocol撰写（2026-05-23）
+  - 大鼠TMJ MIA技术确认（2026-05-20）
+  - FGF23 ELISA kit询价（2026-05-20）
+  - 朝堂议政：动物方案审议（2026-05-18）
+  - 综述初稿（2026-06-06）
+  - 动物实验启动（2026-06-01）
+
+labkg:
+  total_nodes: 10110
+  total_edges: 14626
+  project_016_nodes: 2725
+  project_016_papers: 42
+  project_016_drugs: 66
+  project_016_diseases: 55
+
+files:
+  project_plan: "project-016-chip-tmjoa/PROJECT_PLAN.md"
+  立项确认: "project-016-chip-tmjoa/立项确认报告.md"
+  literature: "00-文献/"
+  review_draft: "01-分析项目/"
+  knowledge_synthesis: "01-分析项目/CHIP-TMJOA_知识合成报告.md"
+  target_debate: "01-分析项目/CHIP-TMJOA_靶点辩论简报.md"
+  ckd_mbd_oa: "01-分析项目/CKD-MBD_OA_深度文献学习.md"
+  ckd_mbd_summary: "01-分析项目/CKD-MBD_OA_学习摘要.md"
+  chen_trained_immunity: "01-分析项目/精读_Chen_JAdvRes_2025_Trained_Immunity.md"
+  hu_denosumab: "01-分析项目/精读_Hu_NatCommun_2025_Denosumab_FSTL1.md"
+  fgf23_wnt_oa: "01-分析项目/精读_FGF23_Wnt_OA_2018_+_CKD_OA_2023.md"
+  animal_human_design: "01-分析项目/动物为主_人体单臂_设计方案.md"
+  gnn_framework: "02-gnn-drug-repositioning/models/gnn_pure_pytorch.py"
+  node2vec_baseline: "02-gnn-drug-repositioning/models/node2vec_baseline.py"
+  gnn_readme: "02-gnn-drug-repositioning/README.md"
+
+milestones:
+  M1: {name: "文献精读完成", target: "2026-05-16", status: completed}
+  M1.5: {name: "CKD-MBD→OA机制深化", target: "2026-05-16", status: completed}
+  M1.6: {name: "GNN药物重定位数据准备", target: "2026-05-16", status: completed}
+  M2: {name: "综述初稿", target: "2026-06-06", status: pending}
+  M3: {name: "综述投稿", target: "2026-06-13", status: pending}
+  M4: {name: "动物实验Protocol完成", target: "2026-05-23", status: pending}
+  M5: {name: "动物实验启动", target: "2026-06-01", status: pending}
+  M6: {name: "GNN候选药物排序完成", target: "2026-05-18", status: in_progress}

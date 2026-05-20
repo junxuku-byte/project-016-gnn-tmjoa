@@ -1,0 +1,1796 @@
+{
+  "metadata": {
+    "n_drugs": 24,
+    "n_targets": 40,
+    "n_pathways": 46,
+    "n_diseases": 15
+  },
+  "targets": [
+    "ACh",
+    "ADAMTS",
+    "ADAMTS5",
+    "Aggrecan",
+    "BMP",
+    "CD44",
+    "CHIP",
+    "COL2A1",
+    "COX-1",
+    "COX-2",
+    "Collagen",
+    "FGF",
+    "FPPS",
+    "IL-1",
+    "IL-6",
+    "INSR",
+    "IRS",
+    "KCNQ",
+    "MAPK",
+    "MMP",
+    "MMP13",
+    "NF-\u03baB",
+    "NaV1.7",
+    "PI3K",
+    "RANKL",
+    "RUNX2",
+    "SNAP-25",
+    "SNARE",
+    "STAT3",
+    "TGF-\u03b2",
+    "TLR2",
+    "TLR4",
+    "TNF",
+    "TNF-\u03b1",
+    "TRPV",
+    "Wnt",
+    "integrin",
+    "osteoclast",
+    "receptor",
+    "\u03b2-catenin"
+  ],
+  "pathways": [
+    "BMP signaling",
+    "ECM degradation",
+    "ER stress",
+    "ERK pathway",
+    "FGF signaling",
+    "JAK-STAT",
+    "K+ channel",
+    "MAPK signaling",
+    "NF-\u03baB signaling",
+    "OA cartilage degradation",
+    "PI3K-AKT",
+    "RANK/RANKL/OPG",
+    "TGF-\u03b2/Smad",
+    "Wnt signaling",
+    "Wnt/\u03b2-catenin",
+    "angiogenesis",
+    "apoptosis",
+    "autoimmune",
+    "bone metabolism",
+    "bone resorption",
+    "calcium signaling",
+    "cartilage matrix",
+    "cell adhesion",
+    "cell growth",
+    "cell survival",
+    "cholinergic signaling",
+    "farnesyl pyrophosphate synthase",
+    "general signaling",
+    "glucose uptake",
+    "hyaluronan receptor",
+    "immune response",
+    "inflammatory cytokine pathway",
+    "inflammatory response",
+    "innate immunity",
+    "insulin signaling",
+    "muscle contraction",
+    "neuronal excitability",
+    "neurotransmitter release",
+    "nociception",
+    "osteoblast differentiation",
+    "osteoclast differentiation",
+    "p38 MAPK",
+    "pain signaling",
+    "prostaglandin synthesis",
+    "protein quality control",
+    "synaptic vesicle"
+  ],
+  "drug_target_edges": [
+    [
+      "Prolotherapy",
+      "MMP"
+    ],
+    [
+      "Dextrose",
+      "IL-6"
+    ],
+    [
+      "Chondroitin",
+      "Collagen"
+    ],
+    [
+      "BGJ398",
+      "\u03b2-catenin"
+    ],
+    [
+      "Prolotherapy",
+      "TRPV"
+    ],
+    [
+      "Alendronate",
+      "RANKL"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "Aggrecan"
+    ],
+    [
+      "Dextrose",
+      "MMP"
+    ],
+    [
+      "BGJ398",
+      "receptor"
+    ],
+    [
+      "Botulinum toxin",
+      "SNARE"
+    ],
+    [
+      "Dextrose",
+      "TRPV"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "TGF-\u03b2"
+    ],
+    [
+      "Glucosamine",
+      "TNF"
+    ],
+    [
+      "Prolotherapy",
+      "Aggrecan"
+    ],
+    [
+      "BGJ398",
+      "ADAMTS"
+    ],
+    [
+      "Glucosamine",
+      "NF-\u03baB"
+    ],
+    [
+      "Zinc",
+      "BMP"
+    ],
+    [
+      "Hyaluronic acid",
+      "NF-\u03baB"
+    ],
+    [
+      "Dextrose",
+      "Aggrecan"
+    ],
+    [
+      "NSAIDs",
+      "NF-\u03baB"
+    ],
+    [
+      "Prolotherapy",
+      "TGF-\u03b2"
+    ],
+    [
+      "BGJ398",
+      "ADAMTS5"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "TNF"
+    ],
+    [
+      "NSAIDs",
+      "IL-6"
+    ],
+    [
+      "Corticosteroid",
+      "Collagen"
+    ],
+    [
+      "Hyaluronic acid",
+      "Collagen"
+    ],
+    [
+      "BGJ398",
+      "MMP"
+    ],
+    [
+      "Dextrose",
+      "TGF-\u03b2"
+    ],
+    [
+      "Insulin",
+      "RUNX2"
+    ],
+    [
+      "Prolotherapy",
+      "TNF"
+    ],
+    [
+      "Aspirin",
+      "COX-2"
+    ],
+    [
+      "Prolotherapy",
+      "TNF-\u03b1"
+    ],
+    [
+      "Hyaluronic acid",
+      "TLR2"
+    ],
+    [
+      "Dextrose",
+      "TNF"
+    ],
+    [
+      "Botulinum toxin",
+      "Aggrecan"
+    ],
+    [
+      "Prolotherapy",
+      "Collagen"
+    ],
+    [
+      "Cisplatin",
+      "NF-\u03baB"
+    ],
+    [
+      "Insulin",
+      "NF-\u03baB"
+    ],
+    [
+      "PDRN",
+      "TGF-\u03b2"
+    ],
+    [
+      "Denosumab",
+      "RANKL"
+    ],
+    [
+      "Zinc",
+      "\u03b2-catenin"
+    ],
+    [
+      "Collagen",
+      "ADAMTS"
+    ],
+    [
+      "Glucosamine",
+      "COX-2"
+    ],
+    [
+      "Botulinum toxin",
+      "SNAP-25"
+    ],
+    [
+      "NSAIDs",
+      "TGF-\u03b2"
+    ],
+    [
+      "BGJ398",
+      "FGF"
+    ],
+    [
+      "PDRN",
+      "TNF"
+    ],
+    [
+      "Collagen",
+      "IL-6"
+    ],
+    [
+      "Collagen",
+      "ADAMTS5"
+    ],
+    [
+      "NSAIDs",
+      "COX-2"
+    ],
+    [
+      "PDRN",
+      "TNF-\u03b1"
+    ],
+    [
+      "Collagen",
+      "MMP"
+    ],
+    [
+      "Glucosamine",
+      "TNF-\u03b1"
+    ],
+    [
+      "BGJ398",
+      "Wnt"
+    ],
+    [
+      "NSAIDs",
+      "TNF"
+    ],
+    [
+      "PDRN",
+      "Collagen"
+    ],
+    [
+      "Collagen",
+      "TRPV"
+    ],
+    [
+      "Glucosamine",
+      "Collagen"
+    ],
+    [
+      "NSAIDs",
+      "TNF-\u03b1"
+    ],
+    [
+      "Denosumab",
+      "NF-\u03baB"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "TNF-\u03b1"
+    ],
+    [
+      "NSAIDs",
+      "Collagen"
+    ],
+    [
+      "Botulinum toxin",
+      "ACh"
+    ],
+    [
+      "Hypertonic dextrose",
+      "TNF"
+    ],
+    [
+      "Alendronate",
+      "NF-\u03baB"
+    ],
+    [
+      "Hyaluronic acid",
+      "IL-1"
+    ],
+    [
+      "Aspirin",
+      "COX-1"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "Collagen"
+    ],
+    [
+      "Lidocaine",
+      "NaV1.7"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "IL-1"
+    ],
+    [
+      "Chondroitin",
+      "MMP"
+    ],
+    [
+      "BGJ398",
+      "MMP13"
+    ],
+    [
+      "Zinc",
+      "RANKL"
+    ],
+    [
+      "Collagen",
+      "TGF-\u03b2"
+    ],
+    [
+      "Dextrose",
+      "TNF-\u03b1"
+    ],
+    [
+      "Hypertonic dextrose",
+      "TRPV"
+    ],
+    [
+      "Riluzole",
+      "MAPK"
+    ],
+    [
+      "Prolotherapy",
+      "IL-1"
+    ],
+    [
+      "Insulin",
+      "INSR"
+    ],
+    [
+      "Dextrose",
+      "Collagen"
+    ],
+    [
+      "Collagen",
+      "TNF"
+    ],
+    [
+      "BGJ398",
+      "RUNX2"
+    ],
+    [
+      "BGJ398",
+      "BMP"
+    ],
+    [
+      "Collagen",
+      "NF-\u03baB"
+    ],
+    [
+      "Dextrose",
+      "IL-1"
+    ],
+    [
+      "Alendronate",
+      "osteoclast"
+    ],
+    [
+      "Hypertonic dextrose",
+      "Aggrecan"
+    ],
+    [
+      "Collagen",
+      "COL2A1"
+    ],
+    [
+      "NSAIDs",
+      "COX-1"
+    ],
+    [
+      "Aspirin",
+      "\u03b2-catenin"
+    ],
+    [
+      "Lidocaine",
+      "KCNQ"
+    ],
+    [
+      "Prolotherapy",
+      "receptor"
+    ],
+    [
+      "Chondroitin",
+      "TGF-\u03b2"
+    ],
+    [
+      "Riluzole",
+      "receptor"
+    ],
+    [
+      "Hypertonic dextrose",
+      "TGF-\u03b2"
+    ],
+    [
+      "Zinc",
+      "Wnt"
+    ],
+    [
+      "Dextrose",
+      "receptor"
+    ],
+    [
+      "Insulin",
+      "PI3K"
+    ],
+    [
+      "PDRN",
+      "IL-1"
+    ],
+    [
+      "Curcumin",
+      "NF-\u03baB"
+    ],
+    [
+      "Hyaluronic acid",
+      "CD44"
+    ],
+    [
+      "Chondroitin",
+      "TNF"
+    ],
+    [
+      "Collagen",
+      "MMP13"
+    ],
+    [
+      "Chondroitin",
+      "TNF-\u03b1"
+    ],
+    [
+      "Chondroitin",
+      "NF-\u03baB"
+    ],
+    [
+      "Collagen",
+      "integrin"
+    ],
+    [
+      "Collagen",
+      "Aggrecan"
+    ],
+    [
+      "NSAIDs",
+      "IL-1"
+    ],
+    [
+      "Hypertonic dextrose",
+      "TNF-\u03b1"
+    ],
+    [
+      "Bisphosphonate",
+      "RANKL"
+    ],
+    [
+      "Alendronate",
+      "CHIP"
+    ],
+    [
+      "PDRN",
+      "receptor"
+    ],
+    [
+      "Lidocaine",
+      "TRPV"
+    ],
+    [
+      "Hypertonic dextrose",
+      "Collagen"
+    ],
+    [
+      "Hyaluronic acid",
+      "TLR4"
+    ],
+    [
+      "Hypertonic dextrose",
+      "IL-1"
+    ],
+    [
+      "NSAIDs",
+      "receptor"
+    ],
+    [
+      "Denosumab",
+      "osteoclast"
+    ],
+    [
+      "Zinc",
+      "RUNX2"
+    ],
+    [
+      "Collagen",
+      "TNF-\u03b1"
+    ],
+    [
+      "Alendronate",
+      "FPPS"
+    ],
+    [
+      "Hypertonic dextrose",
+      "receptor"
+    ],
+    [
+      "Collagen",
+      "Collagen"
+    ],
+    [
+      "Glucosamine",
+      "MMP"
+    ],
+    [
+      "Curcumin",
+      "COX-2"
+    ],
+    [
+      "D5W",
+      "TRPV"
+    ],
+    [
+      "Curcumin",
+      "STAT3"
+    ],
+    [
+      "Collagen",
+      "IL-1"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "IL-6"
+    ],
+    [
+      "Zinc",
+      "NF-\u03baB"
+    ],
+    [
+      "Cisplatin",
+      "receptor"
+    ],
+    [
+      "Hyaluronic acid",
+      "TRPV"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "MMP"
+    ],
+    [
+      "Zinc",
+      "Collagen"
+    ],
+    [
+      "Insulin",
+      "IRS"
+    ],
+    [
+      "BGJ398",
+      "MAPK"
+    ],
+    [
+      "Prolotherapy",
+      "IL-6"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "TRPV"
+    ],
+    [
+      "NSAIDs",
+      "RANKL"
+    ],
+    [
+      "Aspirin",
+      "Wnt"
+    ],
+    [
+      "Aspirin",
+      "NF-\u03baB"
+    ],
+    [
+      "Collagen",
+      "receptor"
+    ]
+  ],
+  "target_pathway_edges": [
+    [
+      "MAPK",
+      "MAPK signaling"
+    ],
+    [
+      "SNARE",
+      "synaptic vesicle"
+    ],
+    [
+      "INSR",
+      "glucose uptake"
+    ],
+    [
+      "PI3K",
+      "cell survival"
+    ],
+    [
+      "CHIP",
+      "protein quality control"
+    ],
+    [
+      "RANKL",
+      "osteoclast differentiation"
+    ],
+    [
+      "IL-1",
+      "inflammatory cytokine pathway"
+    ],
+    [
+      "IRS",
+      "PI3K-AKT"
+    ],
+    [
+      "Collagen",
+      "cartilage matrix"
+    ],
+    [
+      "TGF-\u03b2",
+      "cell growth"
+    ],
+    [
+      "RUNX2",
+      "bone metabolism"
+    ],
+    [
+      "CHIP",
+      "ER stress"
+    ],
+    [
+      "TLR4",
+      "inflammatory response"
+    ],
+    [
+      "ADAMTS",
+      "OA cartilage degradation"
+    ],
+    [
+      "IL-6",
+      "JAK-STAT"
+    ],
+    [
+      "IL-6",
+      "NF-\u03baB signaling"
+    ],
+    [
+      "TRPV",
+      "nociception"
+    ],
+    [
+      "STAT3",
+      "immune response"
+    ],
+    [
+      "FPPS",
+      "farnesyl pyrophosphate synthase"
+    ],
+    [
+      "IRS",
+      "insulin signaling"
+    ],
+    [
+      "\u03b2-catenin",
+      "Wnt signaling"
+    ],
+    [
+      "KCNQ",
+      "K+ channel"
+    ],
+    [
+      "Aggrecan",
+      "cartilage matrix"
+    ],
+    [
+      "NF-\u03baB",
+      "inflammatory response"
+    ],
+    [
+      "RUNX2",
+      "osteoblast differentiation"
+    ],
+    [
+      "MMP",
+      "OA cartilage degradation"
+    ],
+    [
+      "SNAP-25",
+      "synaptic vesicle"
+    ],
+    [
+      "KCNQ",
+      "neuronal excitability"
+    ],
+    [
+      "IL-6",
+      "inflammatory cytokine pathway"
+    ],
+    [
+      "CD44",
+      "cell adhesion"
+    ],
+    [
+      "ACh",
+      "muscle contraction"
+    ],
+    [
+      "Wnt",
+      "Wnt/\u03b2-catenin"
+    ],
+    [
+      "ADAMTS5",
+      "ECM degradation"
+    ],
+    [
+      "FGF",
+      "FGF signaling"
+    ],
+    [
+      "MAPK",
+      "p38 MAPK"
+    ],
+    [
+      "TNF",
+      "NF-\u03baB signaling"
+    ],
+    [
+      "BMP",
+      "TGF-\u03b2/Smad"
+    ],
+    [
+      "osteoclast",
+      "bone resorption"
+    ],
+    [
+      "TLR2",
+      "innate immunity"
+    ],
+    [
+      "TNF-\u03b1",
+      "NF-\u03baB signaling"
+    ],
+    [
+      "MMP13",
+      "ECM degradation"
+    ],
+    [
+      "ADAMTS5",
+      "OA cartilage degradation"
+    ],
+    [
+      "FGF",
+      "angiogenesis"
+    ],
+    [
+      "TRPV",
+      "pain signaling"
+    ],
+    [
+      "RANKL",
+      "bone metabolism"
+    ],
+    [
+      "INSR",
+      "insulin signaling"
+    ],
+    [
+      "receptor",
+      "general signaling"
+    ],
+    [
+      "TNF",
+      "inflammatory cytokine pathway"
+    ],
+    [
+      "MMP13",
+      "OA cartilage degradation"
+    ],
+    [
+      "NF-\u03baB",
+      "NF-\u03baB signaling"
+    ],
+    [
+      "COX-2",
+      "prostaglandin synthesis"
+    ],
+    [
+      "FPPS",
+      "bone metabolism"
+    ],
+    [
+      "TNF-\u03b1",
+      "inflammatory cytokine pathway"
+    ],
+    [
+      "COX-1",
+      "prostaglandin synthesis"
+    ],
+    [
+      "TLR2",
+      "inflammatory response"
+    ],
+    [
+      "TNF",
+      "apoptosis"
+    ],
+    [
+      "integrin",
+      "cell adhesion"
+    ],
+    [
+      "Collagen",
+      "ECM degradation"
+    ],
+    [
+      "CD44",
+      "hyaluronan receptor"
+    ],
+    [
+      "Wnt",
+      "Wnt signaling"
+    ],
+    [
+      "NaV1.7",
+      "nociception"
+    ],
+    [
+      "PI3K",
+      "PI3K-AKT"
+    ],
+    [
+      "TNF-\u03b1",
+      "apoptosis"
+    ],
+    [
+      "ADAMTS",
+      "ECM degradation"
+    ],
+    [
+      "BMP",
+      "BMP signaling"
+    ],
+    [
+      "MAPK",
+      "ERK pathway"
+    ],
+    [
+      "SNARE",
+      "neurotransmitter release"
+    ],
+    [
+      "TGF-\u03b2",
+      "TGF-\u03b2/Smad"
+    ],
+    [
+      "NaV1.7",
+      "pain signaling"
+    ],
+    [
+      "\u03b2-catenin",
+      "Wnt/\u03b2-catenin"
+    ],
+    [
+      "SNAP-25",
+      "neurotransmitter release"
+    ],
+    [
+      "COX-2",
+      "inflammatory response"
+    ],
+    [
+      "IL-1",
+      "NF-\u03baB signaling"
+    ],
+    [
+      "TLR4",
+      "innate immunity"
+    ],
+    [
+      "TGF-\u03b2",
+      "BMP signaling"
+    ],
+    [
+      "osteoclast",
+      "osteoclast differentiation"
+    ],
+    [
+      "MMP",
+      "ECM degradation"
+    ],
+    [
+      "COL2A1",
+      "cartilage matrix"
+    ],
+    [
+      "Aggrecan",
+      "ECM degradation"
+    ],
+    [
+      "ACh",
+      "cholinergic signaling"
+    ],
+    [
+      "STAT3",
+      "JAK-STAT"
+    ]
+  ],
+  "pathway_disease_edges": [
+    [
+      "cartilage matrix",
+      "OA"
+    ],
+    [
+      "OA cartilage degradation",
+      "OA"
+    ],
+    [
+      "apoptosis",
+      "OA"
+    ],
+    [
+      "OA cartilage degradation",
+      "TMJ OA"
+    ],
+    [
+      "bone metabolism",
+      "Knee OA"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "Osteoarthritis"
+    ],
+    [
+      "ECM degradation",
+      "cartilage degradation"
+    ],
+    [
+      "bone metabolism",
+      "synovitis"
+    ],
+    [
+      "immune response",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "angiogenesis",
+      "Osteoarthritis"
+    ],
+    [
+      "angiogenesis",
+      "temporomandibular joint"
+    ],
+    [
+      "inflammatory response",
+      "Osteoarthritis"
+    ],
+    [
+      "Wnt signaling",
+      "bone loss"
+    ],
+    [
+      "MAPK signaling",
+      "Osteoarthritis"
+    ],
+    [
+      "osteoclast differentiation",
+      "TMJOA"
+    ],
+    [
+      "BMP signaling",
+      "TMD"
+    ],
+    [
+      "ECM degradation",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "TMJ"
+    ],
+    [
+      "angiogenesis",
+      "OA"
+    ],
+    [
+      "nociception",
+      "TMD"
+    ],
+    [
+      "osteoclast differentiation",
+      "Osteoporosis"
+    ],
+    [
+      "calcium signaling",
+      "Osteoporosis"
+    ],
+    [
+      "BMP signaling",
+      "cartilage degradation"
+    ],
+    [
+      "JAK-STAT",
+      "temporomandibular joint"
+    ],
+    [
+      "OA cartilage degradation",
+      "TMJOA"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "OA"
+    ],
+    [
+      "JAK-STAT",
+      "TMJ"
+    ],
+    [
+      "bone metabolism",
+      "Osteoarthritis"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "TMJ OA"
+    ],
+    [
+      "ECM degradation",
+      "Osteoarthritis"
+    ],
+    [
+      "ERK pathway",
+      "Osteoporosis"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "bone loss"
+    ],
+    [
+      "JAK-STAT",
+      "OA"
+    ],
+    [
+      "Wnt signaling",
+      "Osteoporosis"
+    ],
+    [
+      "Wnt/\u03b2-catenin",
+      "Osteoarthritis"
+    ],
+    [
+      "Wnt/\u03b2-catenin",
+      "temporomandibular joint"
+    ],
+    [
+      "pain signaling",
+      "TMJ"
+    ],
+    [
+      "JAK-STAT",
+      "TMJ OA"
+    ],
+    [
+      "p38 MAPK",
+      "temporomandibular joint"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "TMD"
+    ],
+    [
+      "osteoclast differentiation",
+      "Knee OA"
+    ],
+    [
+      "p38 MAPK",
+      "OA"
+    ],
+    [
+      "osteoclast differentiation",
+      "synovitis"
+    ],
+    [
+      "apoptosis",
+      "TMJ"
+    ],
+    [
+      "ERK pathway",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "general signaling",
+      "TMD"
+    ],
+    [
+      "BMP signaling",
+      "Osteoarthritis"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "TMJOA"
+    ],
+    [
+      "BMP signaling",
+      "temporomandibular joint"
+    ],
+    [
+      "cartilage matrix",
+      "TMJ OA"
+    ],
+    [
+      "ER stress",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "cartilage degradation"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "Osteoporosis"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "temporomandibular joint"
+    ],
+    [
+      "ERK pathway",
+      "cartilage degradation"
+    ],
+    [
+      "JAK-STAT",
+      "TMJOA"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "TMJ"
+    ],
+    [
+      "apoptosis",
+      "TMJ OA"
+    ],
+    [
+      "ERK pathway",
+      "synovitis"
+    ],
+    [
+      "protein quality control",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "FGF signaling",
+      "Osteoarthritis"
+    ],
+    [
+      "angiogenesis",
+      "TMJ"
+    ],
+    [
+      "MAPK signaling",
+      "temporomandibular joint"
+    ],
+    [
+      "inflammatory response",
+      "TMJ"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "OA"
+    ],
+    [
+      "bone metabolism",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "ER stress",
+      "Osteoarthritis"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "TMJ OA"
+    ],
+    [
+      "p38 MAPK",
+      "TMJOA"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "inflammatory response",
+      "OA"
+    ],
+    [
+      "MAPK signaling",
+      "OA"
+    ],
+    [
+      "cartilage matrix",
+      "TMJOA"
+    ],
+    [
+      "protein quality control",
+      "Osteoarthritis"
+    ],
+    [
+      "ER stress",
+      "OA"
+    ],
+    [
+      "JAK-STAT",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "apoptosis",
+      "TMJOA"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "Osteoarthritis"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "temporomandibular joint"
+    ],
+    [
+      "osteoblast differentiation",
+      "Osteoarthritis"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "Knee OA"
+    ],
+    [
+      "bone metabolism",
+      "TMJ"
+    ],
+    [
+      "ECM degradation",
+      "temporomandibular joint"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "synovitis"
+    ],
+    [
+      "ERK pathway",
+      "Osteoarthritis"
+    ],
+    [
+      "general signaling",
+      "Osteoarthritis"
+    ],
+    [
+      "general signaling",
+      "temporomandibular joint"
+    ],
+    [
+      "ECM degradation",
+      "TMJ"
+    ],
+    [
+      "Wnt/\u03b2-catenin",
+      "TMJ"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "TMJOA"
+    ],
+    [
+      "bone metabolism",
+      "OA"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "OA"
+    ],
+    [
+      "JAK-STAT",
+      "bone loss"
+    ],
+    [
+      "osteoblast differentiation",
+      "OA"
+    ],
+    [
+      "ECM degradation",
+      "OA"
+    ],
+    [
+      "general signaling",
+      "OA"
+    ],
+    [
+      "angiogenesis",
+      "TMJOA"
+    ],
+    [
+      "cartilage matrix",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "Wnt/\u03b2-catenin",
+      "OA"
+    ],
+    [
+      "inflammatory response",
+      "TMJOA"
+    ],
+    [
+      "OA cartilage degradation",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "ECM degradation",
+      "TMJ OA"
+    ],
+    [
+      "MAPK signaling",
+      "TMJOA"
+    ],
+    [
+      "apoptosis",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "Wnt/\u03b2-catenin",
+      "bone loss"
+    ],
+    [
+      "BMP signaling",
+      "TMJ"
+    ],
+    [
+      "cartilage matrix",
+      "Knee OA"
+    ],
+    [
+      "OA cartilage degradation",
+      "cartilage degradation"
+    ],
+    [
+      "nociception",
+      "temporomandibular joint"
+    ],
+    [
+      "cartilage matrix",
+      "synovitis"
+    ],
+    [
+      "OA cartilage degradation",
+      "Knee OA"
+    ],
+    [
+      "nociception",
+      "TMJ"
+    ],
+    [
+      "BMP signaling",
+      "OA"
+    ],
+    [
+      "apoptosis",
+      "synovitis"
+    ],
+    [
+      "FGF signaling",
+      "temporomandibular joint"
+    ],
+    [
+      "BMP signaling",
+      "TMJ OA"
+    ],
+    [
+      "bone metabolism",
+      "TMJOA"
+    ],
+    [
+      "FGF signaling",
+      "TMJ"
+    ],
+    [
+      "ECM degradation",
+      "TMJOA"
+    ],
+    [
+      "bone metabolism",
+      "Hip OA"
+    ],
+    [
+      "osteoclast differentiation",
+      "Osteoarthritis"
+    ],
+    [
+      "FGF signaling",
+      "OA"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "TMD"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "bone loss"
+    ],
+    [
+      "Wnt/\u03b2-catenin",
+      "Osteoporosis"
+    ],
+    [
+      "RANK/RANKL/OPG",
+      "Osteoporosis"
+    ],
+    [
+      "p38 MAPK",
+      "Osteoporosis"
+    ],
+    [
+      "inflammatory response",
+      "Knee OA"
+    ],
+    [
+      "JAK-STAT",
+      "TMD"
+    ],
+    [
+      "inflammatory response",
+      "bone loss"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "cartilage degradation"
+    ],
+    [
+      "OA cartilage degradation",
+      "Osteoarthritis"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "TMJ"
+    ],
+    [
+      "BMP signaling",
+      "TMJOA"
+    ],
+    [
+      "protein quality control",
+      "OA"
+    ],
+    [
+      "Wnt signaling",
+      "Osteoarthritis"
+    ],
+    [
+      "ERK pathway",
+      "temporomandibular joint"
+    ],
+    [
+      "ER stress",
+      "bone loss"
+    ],
+    [
+      "Wnt signaling",
+      "temporomandibular joint"
+    ],
+    [
+      "general signaling",
+      "TMJ"
+    ],
+    [
+      "ECM degradation",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "Wnt signaling",
+      "TMJ"
+    ],
+    [
+      "JAK-STAT",
+      "cartilage degradation"
+    ],
+    [
+      "pain signaling",
+      "TMD"
+    ],
+    [
+      "BMP signaling",
+      "Osteoporosis"
+    ],
+    [
+      "JAK-STAT",
+      "synovitis"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "p38 MAPK",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "protein quality control",
+      "bone loss"
+    ],
+    [
+      "ERK pathway",
+      "OA"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "TMJ OA"
+    ],
+    [
+      "Wnt signaling",
+      "OA"
+    ],
+    [
+      "cartilage matrix",
+      "TMD"
+    ],
+    [
+      "FGF signaling",
+      "TMJOA"
+    ],
+    [
+      "autoimmune",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "ECM degradation",
+      "Knee OA"
+    ],
+    [
+      "ECM degradation",
+      "synovitis"
+    ],
+    [
+      "JAK-STAT",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "apoptosis",
+      "TMD"
+    ],
+    [
+      "p38 MAPK",
+      "cartilage degradation"
+    ],
+    [
+      "inflammatory response",
+      "Osteoporosis"
+    ],
+    [
+      "cartilage matrix",
+      "cartilage degradation"
+    ],
+    [
+      "MAPK signaling",
+      "Osteoporosis"
+    ],
+    [
+      "p38 MAPK",
+      "synovitis"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "Osteoarthritis"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "temporomandibular joint"
+    ],
+    [
+      "ER stress",
+      "Osteoporosis"
+    ],
+    [
+      "osteoclast differentiation",
+      "Hip OA"
+    ],
+    [
+      "apoptosis",
+      "cartilage degradation"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "TMD"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "TMJOA"
+    ],
+    [
+      "JAK-STAT",
+      "Osteoarthritis"
+    ],
+    [
+      "protein quality control",
+      "Osteoporosis"
+    ],
+    [
+      "ERK pathway",
+      "TMJOA"
+    ],
+    [
+      "inflammatory response",
+      "TMD"
+    ],
+    [
+      "MAPK signaling",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "cartilage degradation"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "Osteoporosis"
+    ],
+    [
+      "bone metabolism",
+      "Osteoporosis"
+    ],
+    [
+      "osteoblast differentiation",
+      "Osteoporosis"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "synovitis"
+    ],
+    [
+      "osteoclast differentiation",
+      "TMJ"
+    ],
+    [
+      "pain signaling",
+      "Osteoarthritis"
+    ],
+    [
+      "pain signaling",
+      "temporomandibular joint"
+    ],
+    [
+      "inflammatory response",
+      "cartilage degradation"
+    ],
+    [
+      "p38 MAPK",
+      "Osteoarthritis"
+    ],
+    [
+      "MAPK signaling",
+      "cartilage degradation"
+    ],
+    [
+      "inflammatory response",
+      "synovitis"
+    ],
+    [
+      "cartilage matrix",
+      "Osteoarthritis"
+    ],
+    [
+      "osteoclast differentiation",
+      "OA"
+    ],
+    [
+      "MAPK signaling",
+      "synovitis"
+    ],
+    [
+      "cartilage matrix",
+      "temporomandibular joint"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "OA cartilage degradation",
+      "temporomandibular joint"
+    ],
+    [
+      "cartilage matrix",
+      "TMJ"
+    ],
+    [
+      "OA cartilage degradation",
+      "TMJ"
+    ],
+    [
+      "apoptosis",
+      "Osteoarthritis"
+    ],
+    [
+      "apoptosis",
+      "temporomandibular joint"
+    ],
+    [
+      "ECM degradation",
+      "TMD"
+    ]
+  ]
+}

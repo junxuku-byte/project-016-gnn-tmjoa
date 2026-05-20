@@ -1,0 +1,1104 @@
+doi: 10.1210/endocr/bqz016
+Endocrinology, XXXX 2020, XX(XX):1–16    https://academic.oup.com/endo    1
+R E S E A R C H  A R T I C L E
+Inhibition of FGFR Signaling Partially Rescues Osteoarthritis in 
+Mice Overexpressing High Molecular Weight FGF2 Isoforms
+Liping Xiao,1 Donyell Williams,1 and Marja M Hurley1
+1Department of Medicine, Division of Endocrinology and Metabolism, School of Medicine, UConn Health, 
+Farmington, CT, 06030-3023
+ORCiD numbers: 0000-0002-9763-3001 (L. Xiao).
+Fibroblast growth factor 2 (FGF2) and fibroblast growth factor receptors (FGFRs) are key regulatory 
+factors in osteoarthritis (OA). HMWTg mice overexpress the high molecular weight FGF2 isoforms 
+(HMWFGF2) in osteoblast lineage and phenocopy both Hyp mice (which overexpress the HMWFGF2 
+isoforms in osteoblasts and osteocytes) and humans with X-linked hypophosphatemia (XLH). We 
+previously reported that, similar to Hyp mice and XLH subjects who develop OA, HMWTg mice also 
+develop an OA phenotype associated with increased degradative enzymes and increased FGFR1 
+compared with VectorTg mice. Therefore, in this study, we examined whether in vivo treatment 
+with the FGFR tyrosine kinase inhibitor NVP-BGJ398 (BGJ) would modulate development of the 
+OA phenotype in knee joints of HMWTg mice. VectorTg and HMWTg mice (21 days of age) were 
+treated with vehicle or BGJ for 13 weeks. Micro–computed tomography images revealed irregular 
+shape and thinning of the subchondral bone with decreased trabecular number and thickness 
+within the epiphyses of vehicle-treated HMWTg knees, which was partially rescued following 
+BGJ treatment. Articular cartilage thickness was decreased in vehicle-treated HMWTg mice, 
+and was restored to the cartilage thickness of VectorTg mice in the BGJ-treated HMWTg group. 
+Increased OA degradative enzymes present in HMWTg vehicle-treated joints decreased after BGJ 
+treatment. OA in HMWTg mice was associated with increased Wnt signaling that was rescued 
+by BGJ treatment. This study demonstrates that overexpression of the HMWFGF2 isoforms in 
+preosteoblasts results in osteoarthropathy that can be partially rescued by FGFR inhibitor via 
+reduction in activated Wnt signaling. (Endocrinology XX: 0–0, 2020)
+Key Words:  FGF receptor inhibitor, osteoarthritis, cartilage, FGF2 HMWTg mice
+O
+steoarthritis (OA) is the most common form of 
+arthritis and has a major negative impact on human 
+health and cost to the health care system. Degenerative 
+osteoarthropathy, a form of OA, is prevalent in young 
+individuals with X-linked hypophosphatemia (XLH) 
+(1) and common to all older XLH patients; it is as-
+sociated with significant morbidity (2, 3), and there 
+is no effective therapy. The Hyp mouse homolog of 
+XLH also develops severe OA (4, 5). We previously re-
+ported that transgenic mice that overexpress the high 
+molecular weight (HMW) fibroblast growth factor 2 
+(FGF2) isoforms (HMWFGF2) in osteoblast lineage 
+cells (HMWTg mice) phenocopy the Hyp mouse (which 
+overexpress HMWFGF2 in osteoblasts and osteocytes) 
+(6); the HMWTg mice spontaneously develop OA, as 
+do Hyp mice and XLH patients (7). The OA phenotype 
+in HMWTg is associated with increased FGF23 and in-
+creased fibroblast growth factor receptor 1 (FGFR1) ex-
+pression in their joints (7).
+Classical findings in the early stages of OA include 
+degeneration of the articular cartilage (8), osteophyte 
+Abbreviations:  ADAMTS5, 
+disintegrin 
+and 
+metalloproteinase 
+with 
+thrombospondin motifs 5; BGJ, NVP-BGJ398; BV/TV, bone volume/tissue volume; 
+Col10, type X collagen; FGF2, fibroblast growth factor 2; FGFR, fibroblast growth 
+factor receptor; HMW, high molecular weight; HMWFGF2, high molecular 
+weight FGF2 isoform; LMW, low molecular weight;LRP5, low-density lipoprotein 
+receptor-related protein 5; microCT, micro–computed tomography; MMP-13, 
+matrix metalloproteinase 13; OA, osteoarthritis; qRT-PCR, real‐time quantitative 
+reverse-transcriptase polymerase chain reaction; Tb.N, trabecular number; Tb.
+Sp, trabecular spacing;Tb.Th, trabecular thickness;WT, wild-type; XLH, X-linked 
+hypophosphatemia.
+ISSN Online 1945-7170
+Published by Oxford University Press on behalf of the Endocrine Society 2020.
+Received 6 September 2019. Accepted 2 January 2020.
+First Published Online 4 January 2020.
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+2    Xiao et al    FGFR Inhibitor and Osteoarthritis in HMWTg Mice
+Endocrinology, XXXX 2020, XX(XX):1–16
+formation (9), and thinning of the subchondral bone 
+due to increases in bone resorption, followed by scler-
+osis of bone in later stages (10). In the articular cartilage, 
+increased catabolic activity results in breakdown of the 
+matrix due to upregulation of metalloprotease enzymes, 
+including matrix metalloproteinase 13 (MMP-13) and a 
+disintegrin and metalloproteinase with thrombospondin 
+motifs 5 (ADAMTS5) (11–13).
+ Several reports have indicated a role for members 
+of the fibroblast growth factor (FGF) family, especially 
+FGF2, in modulating cartilage and joint homeostasis 
+(14, 15). There is conflicting evidence which demon-
+strates both catabolic and anabolic potential of FGF2 
+in the joint. Specifically, exogenous FGF2 simulates 
+MMP-13 and ADAMTS5 production in articular car-
+tilage explants in vitro (14, 16) and the level of FGF2 
+in OA synovial fluid is markedly increased compared 
+with that of healthy knees (15), consistent with a cata-
+bolic function. However as previously reported, Fgf2 
+knockout (Fgf2ALLKO) mice develop spontaneous and 
+surgically-induced OA more frequently and severely 
+compared with their wild-type (WT) littermates (16, 
+17), providing support for an anabolic role for FGF2 
+in the joint.
+Of significance, the FGF2 gene encodes multiple 
+protein isoforms, including several HMW isoforms as 
+well as a low molecular weight (LMW) isoform. The 
+LMW isoform (18 kDA) is translated from the methio-
+nine AUG start codon, whereas the HMW isoforms are 
+initiated from CUG codons upstream of the LMW start 
+site (18). While there are 3 HMWFGF2 isoforms (22, 
+22.5, 24 kDa) in humans, there are only 2 HMWFGF2 
+isoforms (21, 22  kDa) in rodents. All HMWFGF2 
+isoforms contain a nuclear localization sequence where 
+they function as intracrine factors (19). In humans and 
+rodents there is 1 LMWFGF2 isoform, which does not 
+have a signal peptide but is transported out of the cell to 
+act as an autocrine/paracrine growth factor (19). Of rele-
+vance, we previously reported that mice that overexpress 
+the HMWFGF2 isoforms in osteoprogenitor cells de-
+velop degenerative joint disease (7), associated with al-
+tered FGFR signaling.
+The scientific literature reveals that the role of FGFRs 
+in OA is also controversial. FGFR1 is known to have 
+an important role in OA development in humans and 
+mice (20, 21). Binding of FGF2 to FGFR1 leads to a 
+cascade of events that are typically catabolic in articular 
+chondrocytes, including activation of mitogen-activated 
+protein kinase (MAPK) pathways (22). FGF2 also binds 
+to FGFR3 with high affinity, and activation of FGFR3 
+has been shown to have anabolic effects in articular 
+cartilage (23, 24). Previous studies have shown that the 
+development of OA could be due to the activation of 
+hypertrophic differentiation of articular chondrocytes 
+(25) and increased/activation of multiple signaling path-
+ways (26).
+There are many receptors and ligands that con-
+tribute to the complexity of OA, and little knowledge 
+of their downstream signaling pathways contributing 
+to the osteoarthropathy observed in Hyp mice or hu-
+mans with XLH. As noted, FGFRs activate multiple 
+downstream signaling pathways including Wnt/β-
+catenin signaling in chondrocytes (27). Modulation of 
+Wnt signaling can have differing effects on cartilage 
+homeostasis (28–30). We previously reported (31) that 
+there was a reduction in the Wnt inhibitors Sost and 
+Dkk1in the joints of HMWTg mice, associated with 
+increased canonical Wnt pathway activation. These 
+findings were consistent with reports by other inves-
+tigators that increased Sost and Dkk1 levels are pro-
+tective against cartilage degradation in OA in mice 
+(28, 29). We also reported that the OA phenotype in 
+HMWTg joints was associated with an increase in the 
+Wnt receptor low-density lipoprotein receptor-related 
+protein 5 (LRP5) and decreased LRP6 (31), sup-
+porting the studies of other investigators that LRP5 is 
+necessary for Wnt-induced cartilage degradation via 
+upregulation of MMPs (30).
+The aim of this study was to examine whether treat-
+ment with an FGFR tyrosine kinase inhibitor would 
+modulate the development of OA phenotype in HMWTg 
+mice as well as the WNT downstream signaling path-
+ways that induce activation of transcription factors and 
+genes that regulate expression of hypertrophic genes/
+protein. The results of this novel study are of particular 
+importance given the fact that there are no reports 
+of the efficacy of FGFR inhibitors in modulating OA 
+phenotype in XLH or Hyp mice, and this study for the 
+first time shows the potential efficacy of FGFR blockade 
+in OA treatment.
+Materials and Methods
+Experimental animals
+The UConn Health Institute of Animal Care and Use 
+Committee approved all animal protocols. We previously 
+reported on the generation and characterization of the long 
+bone phenotype of the HMWTg mice, which overexpress 
+HMW isoforms of hFGF2 in a bone-specific manner (6). 
+Col3.6-HMWFgf2 isoform-IRES-GFPsaph was constructed 
+by replacing a CAT fragment in previously made Col3.6-CAT-
+IRES-GFPsaph with a human HMWFgf2 cDNA between AfeI 
+and ScaI sites. This expression construct is capable of concur-
+rently overexpressing the human HMWFGF2 isoforms (32) 
+and GFPsaph from a single bicistronic mRNA. Generation of 
+the Fgf2 cDNAs was previously described (32). As a control, 
+a Col3.6-IRES/GFPsaph (VectorTg) construct was created 
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+doi: 10.1210/endocr/bqz016
+https://academic.oup.com/endo    3
+and purified according to standard protocols. Microinjections 
+into the pronucleus of fertilized oocytes were performed at 
+the Gene Targeting & Transgenic Facility at UConn Health. 
+Founder mice of the F2 (FVBN) strain were mated with wild-
+type mice to establish individual transgenic lines. Homozygote 
+mice were generated by mating heterozygote male with het-
+erozygote female. Both male and female mice were used in 
+this study.
+FGFR inhibitor treatment
+NVP-BGJ398 (BGJ) is a novel selective pan-specific 
+FGFR inhibitor. BGJ (2  mg/kg body weight; Chemie Tek, 
+Indianapolis, IN) or vehicle only (hydrochloric acid 3.5 mM, 
+dimethyl sulfoxide 5%) was administered to VectorTg and 
+HMWTg mice by daily subcutaneous injection for 13 weeks. 
+Injection was initiated at 21 days of age. The mice were sac-
+rificed at 4 months of age for sample collection. Most data 
+reported in this study are from both male and female mice, 
+unless otherwise specified. Mice were euthanized by carbon 
+dioxide for sample collection.
+Radiological analyses and micro–computed 
+tomography (microCT)
+As previously described (31), digital x-ray images of 
+murine knee joints taken in the sagittal plane were obtained 
+with a UltraFocus from Faxitron Bioptics LLC (Tucson, 
+AZ) and taken under constant conditions. Imaging of knee 
+architecture was performed using ex vivo microCT (μCT40, 
+ScanCo Medical, Bruttisellen, Switzerland). The regions of 
+subchondral trabecular bone of the epiphysis in the femur and 
+tibia were analyzed by 3-dimensional microCT for the fol-
+lowing morphometric parameters: bone volume/tissue volume 
+(BV/TV), trabecular thickness (Tb.Th), trabecular number 
+(Tb.N), and trabecular spacing (Tb.Sp).
+Histologic assessment
+Whole knee joints were removed and fixed in 4% 
+paraformaldehyde for 48 hours, then decalcified with 14% 
+EDTA solution at 4°C for 7 days. Samples were processed for 
+paraffin embedding in a frontal orientation and 6-μm sections 
+were obtained. Following de-paraffinization and rehydration 
+of the sections, Safranin-O staining of glycosaminoglycans 
+was performed using 0.1% aqueous Safranin-O and counter-
+stained with Weigert’s iron hematoxylin and 0.02% aqueous 
+Fast Green. Alkaline phosphatase staining was performed by 
+incubating tissue with 100 mM Tris-HCl buffer (pH, 8.2) for 
+10 minutes, followed by incubation with Vector Blue Alkaline 
+Phosphatase Substrate (Vector Laboratories Inc, Burlingame, 
+CA) for 30 minutes. All histological images were captured 
+using a Nikon TS100 microscope interfaced with SPOT 
+software. Articular cartilage thickness was determined by 
+measuring the mean distance from the articular cartilage sur-
+face to the subchondral bone interface in Safranin-O stained 
+sections using the OsteoMeasure image analysis system (R 
+& M Biometrics, Nashville, TN) equipped with a Nikon 
+E400 microscope (Nikon Inc., Melville, NY). The severity 
+of cartilage destruction was assessed histologically using 
+Safranin-O stained sections using the Osteoarthritis Research 
+Society International (OARSI) histologic scoring system (33) 
+on all articular surfaces within each representative section 
+from each knee.
+RNA isolation and real time PCR
+After removal of skin and muscle from the mice, total RNA 
+was isolated from whole knee joints, including all structures 
+of the joint above the growth plate as previously described 
+(7). Samples were snap-frozen by liquid nitrogen and TRIzol 
+reagent (Invitrogen, Carlsbad, CA) was used to extract RNA 
+from the tissue. For real‐time quantitative RT-PCR (qRT-
+PCR) analysis, RNA was reverse‐transcribed using the RNA 
+to cDNA EcoDry™ Premix (Oligo dT) (Takara Bio USA 
+Inc., Mountain View, CA). qPCR was carried out using the 
+iTaq™ Universal SYBR® Green Supermix on a MyiQ™ in-
+strument (BIO‐RAD Laboratories Inc., Hercules, CA). β-Actin 
+was used as an internal reference for each sample. mRNA 
+was normalized to the β‐Actin mRNA level and expressed as 
+the fold‐change relative to the first sample for each experi-
+mental group. The primers for the genes of interest are listed 
+in Table 1.
+Immunohistochemistry
+Immunohistochemical staining was performed as previ-
+ously described (31) on 6-μm paraffin embedded sections 
+using the ImmPRESSTM HRP REAGENT KITs (VectorTg 
+Laboratories, 
+Burlingame, 
+CA). After 
+sections 
+were 
+de-paraffinized and rehydrated, slides underwent antigen re-
+trieval by incubation at 60°C with 10  mM sodium citrate 
+buffer for overnight. Endogenous peroxidase activity was 
+then blocked by incubating sections with 3% hydrogen per-
+oxide in water for 15 minutes. Following blocking sections 
+with 10% serum for 30 minutes at room temperature, the 
+slides were incubated with primary antibodies in blocking 
+buffer overnight at 4°C. A negative control slide was used 
+each time, which was instead incubated with blocking serum 
+Table 1.  Primer Used in qRT-PCR
+Gene
+Forward
+Reverse
+βActin
+5’-atggctggggtgttgaaggt-3’
+5’-atctggcaccacaccttctacaa-3’
+Fgfr1c
+5’-gactgctggagttaatacca-3’
+5’-ctggtctctcttccagggct-3’
+Fgfr3
+5’-gttctctctttgtagactgc-3’
+5’-agtacctggcagcacca-3’
+Fgf18 
+5’-aaggagtgcgtgttcattgag-3’ 
+5’-agcccacataccaaccagagt-3’
+Col10a1
+5’-gggaccccaaggacctaaag-3’
+5’-gcccaactagacctatctcacct-3’
+Mmp13
+5’-ctttggcttagaggtgactgg-3’
+5’-aggcactccacatcttggttt-3’
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+4    Xiao et al    FGFR Inhibitor and Osteoarthritis in HMWTg Mice
+Endocrinology, XXXX 2020, XX(XX):1–16
+overnight. Details of the primary antibodies used, which in-
+clude antibodies against FGF2 (34), FGF23 (35), pFGFR1 
+(36), pFGFR3 (37), SOX9 (38), MMP13 (39), ADAMTS5 
+(40), WNT7b (41), pLRP5 (42), pLPR6 (43), DKK1 (44), 
+SOST (45), AXIN2 (46), pGSK3β (47), and active β-
+actin (48), are in Table 2. Slides were then washed with 
+phosphate-buffered saline and incubated with the appro-
+priate biotinylated secondary antibody at room temperature 
+for 30 minutes. Finally, slides were washed and developed 
+with DAB Peroxidase Substrate kit (VectorTg Laboratories, 
+Burlingame, CA), and counterstained with Harris hema-
+toxylin.The percentage of positive staining area was quanti-
+fied using ImageJ64.
+Serum intact FGF23 and estradiol measurement
+Serum was prepared from blood that was collected from 
+euthanized animals by cardiac puncture. Mice were euthan-
+ized at 24 hours after the last injection. Serum intact FGF23 
+level was measured suing a Mouse/Rat FGF-23 (Intact) ELISA 
+Kit (Immutopics Inc, San Clemente, CA, USA) (49). Serum es-
+tradiol was measured using a Estradiol Parameter Assay Kit 
+(R&D STSTEMS, Minneapolis, MN, USA) following the 
+manufacturer’s instruction.
+Statistical analysis
+Experimental values are reported as mean  ±  standard 
+error (SE). ANOVA followed by least significant difference 
+(LSD) for post hoc multiple comparisons was used. SPSS soft-
+ware was used for statistical analysis (IBM Corp., Armonk, 
+NY), and the results were considered significantly different 
+at P < 0.05.
+Results
+Radiological and morphometric changes in knee 
+joints of VectorTg and HMWTg mice treated 
+with vehicle or BGJ
+We previously reported that HMWTg knees dis-
+played an OA phenotype and increased FGFR1 expres-
+sion, and since FGFRs play a role in the pathogenesis 
+of OA, we assessed whether blocking FGFRs could 
+rescue the OA phenotype in HMWTg mice. As shown 
+by digital radiography, the flattened tibia plateau, nar-
+rowing of the joint space, osteophytes, and uneven joint 
+surfaces in the HMWTg vehicle-treated group was res-
+cued following BGJ treatment in both male and female 
+mice (Fig. 1a, arrows). Three-dimensional microCT 
+images showed erosion of articular cartilage in the 
+vehicle-treated HMWTg group, whereas BGJ treatment 
+resulted in a phenotype resembling that of the VectorTg 
+groups in both sexes (Fig. 1b, arrows). Two-dimensional 
+sagittal microCT images reveal irregular shape and 
+thinning of the subchondral bone in HMWTg vehicle-
+treated mice, which was rescued following BGJ treat-
+ment in both sexes (Fig. 2a, arrows). Three-dimensional 
+morphometric parameters calculated from microCT 
+of femoral and tibiae epiphyses showed the altered 
+trabecular architecture indicative of early OA in both 
+sexes. Specifically, there was significantly decreased BV/
+TV, Tb.Th, and Tb.N, as well as increased Tb.Sp in the 
+femoral epiphysis of HMWTg vehicle-treated knees 
+Table 2.  Antibody Table
+Protein 
+Target
+RRID
+Antibody Name
+Manufacture/Catalog 
+Number
+Species Raised  
+(Monoclonal/Polyclonal)
+Dilution
+FGF-2
+AB_631497
+FGF-2 (147) antibody
+Santa Cruz, sc-79
+Rabbit, polyclonal
+1/50
+FGF-23
+AB_2104623
+Anti-Mouse Fgf-23 antibody
+R&D Systems, MAB26291
+Rat, monoclonal
+1/50
+pFGFR1
+AB_963497
+Anti-Human FGFR1, phospho 
+(Tyr654) antibody
+Abnova, PAB0471
+Rabbit, polyclonal
+1/50
+pFGFR-3
+AB_2103530
+p-FGFR-3 (Tyr 724) antibody
+Santa Cruz, sc-33 041
+Rabbit, polyclonal
+1/100
+SOX9
+AB_2665492
+Sox9 (D8G8H) antibody
+Cell Signaling Technology, 
+#82630
+Rabbit, monoclonal
+1/600
+MMP13
+AB_776416
+Anti-Human MMP13 antibody Abcam, ab39012
+Rabbit, polyclonal
+1/100
+ADAMTS5
+AB_2222327
+ADAMTS5 antibody
+Abcam, ab41037
+Rabbit, polyclonal
+1/100
+WNT7b
+AB_11172941
+Wnt7b antibody
+GeneTex, GTX114881
+Rabbit, polyclonal
+1/100
+pLRP5
+AB_2721918
+LRP5 (phospho T1492)  
+antibody 
+Abcam, ab203306
+Rabbit, polyclonal
+1/100
+pLRP6
+AB_10858068
+Phospho-LRP6 (Ser1490)  
+Antibody
+Bioss, bs-3253R
+Rabbit, polyclonal
+1/100
+DKK1
+AB_2091333
+DKK1 antibody
+Abcam, ab61034
+Rabbit, polyclonal
+1/100
+SOST
+AB_2195345
+Goat Anti-Mouse Sost  
+antibody
+R&D Systems, AF1589
+Goat, polyclonal
+1/100
+AXIN2
+AB_10900607
+AXIN2 antibody
+Sigma-Aldrich, 
+SAB3500619
+Rabbit, polyclonal
+1/100
+pGSK3β
+AB_1310290
+GSK3 beta (phospho Y216) 
+antibody
+Abcam, ab75745
+Rabbit, polyclonal
+1/50
+Active βActin
+AB_2798251
+Non-phospho (Active) 
+β-Catenin (Ser33/37/
+Thr41) (D13A1) antibody
+Cell Signaling Technology, 
+#8814
+Rabbit, monoclonal
+1/100
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+doi: 10.1210/endocr/bqz016
+https://academic.oup.com/endo    5
+compared with VectorTg vehicle-treated epiphyses in 
+both sexes. BGJ treatment significantly increased ab-
+normal BV/TV and Tb.Th in the femoral epiphyses of 
+HMWTg male mice. (Fig. 2b and 2c). There was sig-
+nificantly decreased BV/TV and Tb.Th in the tibial 
+epiphyses of HMWTg vehicle-treated knees compared 
+with VectorTg vehicle-treated epiphyses of both sexes. 
+Trabecular spacing was significantly increased in the 
+tibial epiphysis of HMWTg vehicle-treated knees com-
+pared with VectorTg vehicle-treated epiphyses in male 
+mice. BGJ treatment significantly increased BV/TV of 
+tibial epiphyses of HMWTg male mice (Fig. 2b and c). 
+BGJ reduced BV/TV, Tb.N, and increased Tb.Sp in the 
+femoral epiphysis of female VectorTg mice. BGJ also 
+reduced Tb.N, and increased Tb.Sp in tibial epiphysis of 
+female VectorTg mice.
+Histological changes in articular cartilage of 
+VectorTg and HMWTg mice treated with vehicle 
+or BGJ
+Articular 
+cartilage 
+integrity 
+was 
+determined 
+histologically using Safranin-O staining to examine pro-
+teoglycan content in VectorTg and HMWTg mice with 
+and without BGJ treatment. A  dramatic decrease in 
+Safranin-O staining (proteoglycan content) was found 
+in HMWTg knees, particularly on the lateral aspect 
+(Fig. 3a, arrows), which was partially rescued with BGJ 
+treatment in both sexes. OsteoMeasure analysis showed 
+Figure 1.  Radiographic and microCT images of knee joint from VectorTg and HMWTg mice treated with vehicle or BGJ. (a) Sagittal 
+digital x-ray images of HMWTg knees show the flattened tibia plateau, narrowing of the joint space, osteophytes, and uneven joint surfaces in 
+the HMWTg vehicle-treated group in both male and female mice, which was rescued following BGJ treatment in both sexes. (b) Representative 
+3-dimensional microCT images show erosion of articular cartilage in the HMWTg vehicle-treated group in both male and female mice, whereas BGJ 
+treatment resulted in a phenotype resembling that of the VectorTg groups in both sexes. Representative images from n = 7–9 males/group, n = 7–8 
+females/group.
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+6    Xiao et al    FGFR Inhibitor and Osteoarthritis in HMWTg Mice
+Endocrinology, XXXX 2020, XX(XX):1–16
+Figure 2.  MicroCT analysis of subchondral bone of knee joint from VectorTg and HMWTg mice treated with vehicle or BGJ. (a) 
+Representative 2-dimensional sagittal microCT images reveal irregular shape and thinning of the subchondral bone in HMWTg vehicle-treated group 
+in both male and female mice, which was rescued following BGJ treatment in both sexes. Morphometric parameters calculated from 3-dimensional 
+microCT of femoral and tibiae epiphyses of (b) male and (c) female mice. There is significantly decreased bone volume per total volume (BV/TV), 
+trabecular thickness (Tb.Th), trabecular number (Tb.N), and increased trabecular spacing (Tb.Sp) in femoral epiphysis of HMWTg vehicle-treated 
+knees compared with VectorTg vehicle-treated epiphyses in both sexes. BGJ treatment significantly increased abnormal BV/TV and Tb.Th in male 
+mice. There were significantly decreased BV/TV and Tb.Th in tibia epiphysis of HMWTg vehicle-treated knees compared with VectorTg vehicle-treated 
+epiphyses in both genders. BGJ treatment significantly increased abnormal BV/TV in male mice. n = 7–9 males/group, n = 7–8 females/group. 
+*compared with VectorTg-vehicle group P < 0.05; #compared with corresponding vehicle group P < 0.05 by 2-way ANOVA.
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+doi: 10.1210/endocr/bqz016
+https://academic.oup.com/endo    7
+that the average articular cartilage thickness was sig-
+nificantly decreased in HMWTg vehicle-treated knees 
+compared with VectorTg vehicle-treated knees, which 
+was partially rescued with BGJ treatment in both sexes 
+(Fig. 3b). Mean total joint OA score was significantly 
+increased in the HWTg-vehicle group compared with 
+the VectorTg-vehicle group in both male and female 
+mice, which was partially reversed with BGJ treatment 
+in both sexes (Fig. 3c). Alkaline phosphatase staining 
+was used to visualize the expression and localization 
+of calcified cartilage along with hypertrophic chon-
+drocytes, which was markedly increased in HMWTg 
+vehicle-treated joints, invading the noncalcified area of 
+the articular cartilage (indicating that the tidemark or 
+mineralization front is moving towards the superficial 
+layer of the cartilage, a sign of OA development), com-
+pared with the VectorTg vehicle-treated group in both 
+sexes. These were partially normalized with BGJ treat-
+ment (Fig. 3d, arrows).
+Expression of OA markers in knees of VectorTg 
+and HMWTg mice treated with vehicle or BGJ
+Since FGF2 signal through the receptors FGFR1 and 
+FGFR3, which have been implicated in OA disease, we 
+examined their mRNA and protein expression in knees. 
+FGFR1c mRNA expression was significantly increased 
+in whole joints of HMWTg vehicle-treated mice com-
+pared with VectorTg vehicle-treated mice; BGJ treat-
+ment significantly increased FGFR1c mRNA expression 
+in VectorTg mice, but not in HMWTg mice (Fig. 4a). 
+FGFR3c mRNA was significantly decreased in HMWTg 
+mice treated with vehicle, and BGJ treatment signifi-
+cantly decreased FGFR3c mRNA in VectorTg mice but 
+not in HMWTg mice (Fig. 4b). FGF18 has been reported 
+to protect against OA, and thus increased levels could 
+reflect an early repair process. We found that Fgf18 
+mRNA was significantly increased by 47% in HMWTg 
+vehicle-treated joints compared with VectorTg vehicle-
+treated joints; this effect was rescued (counteracted) by 
+BGJ treatment (Fig. 4c).
+We also examined the OA marker genes that are typic-
+ally upregulated in OA articular cartilage, including type 
+X collagen (Col10, hypertrophic chondrocyte marker) 
+and MMP13 (the major aggrecan degrading enzyme 
+in murine cartilage). Both Col10 and Mmp13 mRNA 
+expression were significantly increased in HMWTg 
+vehicle-treated joints compared with VectorTg vehicle-
+treated joints, which was rescued with BGJ treatment 
+(Fig. 4d and 4e).
+Since the Col1 promoter drives FGF2 overexpression 
+in osteoblast lineage in HMWTg mice, we examined 
+FGF2 protein in the knees by immunohistochemistry 
+staining. As shown in Fig. 5a and 5e, FGF2 expression in 
+chondrocytes of articular cartilage was similar among 4 
+groups. However, FGF2 expression in the osteocytes of 
+subchondral bone was markedly increased in HMWTg 
+vehicle-treated mice. BGJ treatment did not alter FGF2 
+expression in either VectorTg mice or HMWTg mice 
+(red arrows).
+Since we previously reported that HMWTg mice 
+overexpress the HMWFGF2 isoforms, which results 
+in increased FGF23 expression in serum and bone, 
+we examined FGF23 expression in knees and serum. 
+FGF23 protein expression was significantly increased in 
+the chondrocytes of articular cartilage and osteocytes of 
+subchondral bone in knees from HMWTg vehicle-treated 
+mice compared with VectorTg vehicle-treated mice. BGJ 
+treatment significantly rescued abnormal FGF23 ex-
+pression in articular cartilage (black arrow), but not 
+in subchondral bone (red arrows) (Fig. 5b, f, and g). 
+We also found significantly increased serum FGF23 
+levels in HMWTg vehicle-treated mice compared with 
+VectorTg vehicle-treated mice. BGJ treatment sig-
+nificantly increased FGF23 serum level in VectorTg 
+mice, but significantly decreased serum FGF23 level in 
+HMWTg mice (Fig. 5h).
+OA associated with XLH is seen in both sexes; how-
+ever, to ensure that the FGFR inhibition did not modu-
+late estrogen expression, which is important in bone 
+homeostasis, we measured serum estrogen levels and 
+found no significant differences either by genotype or 
+treatment. In vehicle-treated and BGJ-treated VectorTg 
+mice, estradiol levels were 61 pg/mL and 52 pg/mL, re-
+spectively. In vehicle-treated HMWTg and BGJ-treated 
+HMWTg mice, serum estradiol levels were 73 pg/mL 
+and 63 pg/mL respectively. 
+Since FGFR1c mRNA was increased, we performed 
+immunohistochemistry for the phosphorylated active 
+form of FGFR1. Immunohistochemistry staining re-
+vealed that phosphorylated FGFR1 protein was local-
+ized in the articular cartilage and meniscus of the joints, 
+and there is significantly increased phosphorylated 
+FGFR1 (pFGFR1) expression in HMWTg-vehicle group 
+compared with VectorTg-vehicle group, which was res-
+cued with BGJ treatment (Fig. 5c and 5i, arrow). We 
+also assessed phosphorylated FGFR3 protein expression 
+and show that this was similar among all four groups 
+(Fig. 5d and 5j.
+As noted, studies have shown there is an increase in 
+SOX9 expression in human chondrocytes of early-stage 
+OA, as well as in murine osteoarthritic cartilage, particu-
+larly in areas of developing osteophytes, therefore we 
+examined the SOX9 protein by immunohistochemistry. 
+As shown in Fig. 6a and 6d, SOX9 protein expression 
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+8    Xiao et al    FGFR Inhibitor and Osteoarthritis in HMWTg Mice
+Endocrinology, XXXX 2020, XX(XX):1–16
+Figure 3.  Comparison of proteoglycan content and alkaline phosphatase of knee joint from VectorTg and HMWTg mice treated with 
+vehicle or BGJ. (a) Safranin-O stained representative images showed a dramatic decrease in proteoglycan content in HMWTg knees (arrows) in both 
+male and female mice, which was partially rescued with BGJ treatment in both sexes. (b) Mean lateral tibial articular cartilage thickness analyzed by 
+OsteoMeasure showed a decrease in cartilage thickness in both male and female HMWTg mice, which was partially rescued with BGJ treatment in 
+both sexes. n = 7–9 males/group, n = 7–8 females/group. *compared with VectorTg-vehicle group P < 0.05; #compared with corresponding vehicle 
+group P < 0.05 by 2-way ANOVA. (c) Mean total joint OA score was significantly increased HWTg-vehicle group compared with VectorTg-vehicle 
+group in both male and female mice, which was partially rescued with BGJ treatment in both sexes. n = 7–9 males/group, n = 7–8 females/group. 
+*compared with VectorTg-vehicle group P < 0.05; #compared with corresponding vehicle group P < 0.05 by 2-way ANOVA. (d) Alkaline phosphatase 
+staining showed more alkaline phosphatase-positive articular chondrocytes in HMWTg vehicle-treated joints of both male and female mice, these 
+were partially normalized with BGJ treatment in both sexes. Representative images from n = 7–9 males/group, n = 7–8 females/group.
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+doi: 10.1210/endocr/bqz016
+https://academic.oup.com/endo    9
+was significantly increased in chondrocytes of articular 
+cartilage of knees from the HMWTg-vehicle group 
+compared with the VectorTg-vehicle group, which 
+was rescued with BGJ treatment (arrow). In addition, 
+immunohistochemistry was utilized to determine the lo-
+calization and expression of MMP13 and ADAMTS5. 
+In HMWTg vehicle-treated knee joints, expression 
+of MMP13 and ADAMTS5 was markedly increased 
+particularly in the articular cartilage, compared with 
+VectorTg vehicle-treated mice; these were rescued with 
+BGJ treatment (Fig. 6b, 6c, 6e, 6f, arrows).
+Expression of Wnt signaling components in 
+VectorTg and HMWTg knee joints treated with 
+vehicle or BGJ
+Previously we reported that canonical Wnt signaling 
+contributes to the OA phenotype observed in HMWTg 
+mice (31). To determine if the rescue effect of BGJ on 
+OA in HMWTg is through regulating Wnt signaling, 
+we examined protein expression of components of the 
+Wnt signaling pathway. Ligand WNT7B was greatly 
+increased in HMWTg vehicle-treated cartilage com-
+pared with VectorTg vehicle-treated group, which 
+was rescued with BGJ treatment (Fig. 7a and 7e, 
+arrow). Phosphorylated receptor LRP5 was strongly 
+expressed in HMWTg vehicle-treated cartilage com-
+pared with VectorTg vehicle-treated group, which 
+was rescued with BGJ treatment (Fig. 7b and 7f, 
+arrow). Interestingly, phosphorylated receptor LRP6 
+protein was decreased in HMWTg vehicle-treated 
+and HMWTg BGJ-treated articular cartilage, com-
+pared with VectorTg cartilage (Fig. 7c and 7g, arrows). 
+DKK1, an inhibitor of Wnt signaling, protein expres-
+sion was significantly decreased in chondrocytes of ar-
+ticular cartilage of HMWTg-vehicle knees compared 
+with VectorTg vehicle-treated mice, which was rescued 
+with BGJ treatment (Fig. 7d and 7h, arrows). SOST, 
+a Wnt inhibitor, was only expressed in osteocytes in 
+the subchondral bone, but not expressed in articular 
+cartilage. SOST expression in the subchondral bone of 
+HMWTg vehicle-treated mice was much lower than 
+VectorTg vehicle-treated mice, which was rescued with 
+BGJ treatment (Fig. 8a and 8e, red arrows). AXIN2 
+(a member of the ß-catenin destruction complex, ul-
+timately leading to the degradation of ß-catenin) was 
+increased in the cartilage of HMWTg vehicle-treated 
+mice compared with VectorTg vehicle-treated mice, 
+indicating Wnt signaling activation. BGJ treatment 
+markedly inhibited the increased AXIN2 in HMWTg 
+mice (Fig. 8b and 8f, arrow). Phosphorylated inactive 
+GSK3β, a downstream component of canonical Wnt 
+signaling, was strongly expressed in HMWTg vehicle-
+treated cartilage compared with VectorTg vehicle-treated 
+and VectorTg BGJ-treated groups, and was rescued with 
+BGJ treatment (Fig. 8c and 8g, arrow). To determine 
+the effect of blocking FGFR signaling on the specific-
+ally canonical Wnt signaling, in which β-catenin does 
+not become degraded, we examined nonphosphorylated 
+ß-catenin (active form) by immunohistochemistry. 
+As shown in Fig. 8d and 8h (arrow), active β-catenin 
+protein expression was significantly increased in ar-
+ticular cartilage of knees from HMWTg-vehicle group 
+compared with VectorTg-vehicle group, which was res-
+cued with BGJ treatment.
+Discussion
+We previously reported that HMWTg mice demon-
+strated OA affecting the knees at 2 months of age and 
+progressively worsening by 18 months of age to total 
+destruction of the knee joints and complete loss of ar-
+ticular cartilage with osteophyte formation, as demon-
+strated by microCT and histomorphometry (7). We also 
+reported a progressive decrease in proteoglycan content, 
+thinning of the articular cartilage, and increased pro-
+duction of proteolytic degradative enzymes MMP13 
+and ADAMTS5 in the knee joints, as determined by 
+gene and protein analysis (7). Since these earlier studies 
+(7, 31) also demonstrated an increase in FGFR1 mRNA 
+and protein, our goals were to (1) determine whether 
+earlier in vivo treatment of weanling HMWTg mice 
+with the FGFR inhibitor BGJ would modulate the de-
+velopment of the OA phenotype; and (2) whether FGFR 
+Figure 4.  Effect of BGJ on OA regulatory genes and OA marker genes in knees of VectorTg and HMWTg mice. RNA extracted from 
+whole knee joint was used for gene expression. qPCR analysis of (a) Fgfr1c, (b) Fgfr3c, (c) Fgf18, (d) Col10, and (e) Mmp13. n = 7–9 males/group. 
+*compared with VectorTg-vehicle group P < 0.05; #compared with corresponding vehicle group P < 0.05 by 2-way ANOVA.
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+10    Xiao et al    FGFR Inhibitor and Osteoarthritis in HMWTg Mice
+Endocrinology, XXXX 2020, XX(XX):1–16
+Figure 5.  Effect of BGJ on OA regulatory proteins in knees of VectorTg and HMWTg mice. Representative immunohistochemical staining 
+images for (a) FGF2, (b) FGF23, (c) pFGFR1, and (d) pFGFR3. Quantitative analysis of percentage of positive staining area for (e) FGF2 in subchondral 
+bone, (f) FGF23 in articular cartilage, (g) FGF23 in subchondral bone, (i) pFGFR1 in articular cartilage, and (j) pFGFR3 in articular cartilage. (h) 
+Serum FGF23 level. (a and e) FGF2 immunohistochemical staining showed that FGF2 expression in cartilage was similar among 4 groups. However, 
+FGF2 expression in the osteocytes of subchondral bone was markedly increased in the HMWTg vehicle-treated group; BGJ treatment did not alter 
+FGF2 expression in either VectorTg mice or HMWTg mice, n = 4–5 males/group. (b, f, and g) FGF23 protein expression was significantly increased 
+in chondrocyte of articular cartilage and osteocytes of subchondral bone in knees from HMWTg vehicle-treated mice compared with VectorTg 
+vehicle-treated mice. BGJ treatment significantly rescued abnormal FGF23 expression in articular cartilage, but not in subchondral bone, n = 7–9 
+males/group. (h) Serum FGF23 level was significantly increased in HMWTg vehicle-treated mice compared with VectorTg vehicle-treated mice. BGJ 
+treatment significantly increased FGF23 serum level in VectorTg mice, but significantly decreased serum FGF23 level in HMWTg mice, n = 7–9 males/
+group. (c and i) phosphorylated FGFR1 (pFGFR1) was significantly increased in HMWTg-vehicle group compared with VectorTg-vehicle group, which 
+was rescued with BGJ treatment, n = 7–9 males/group. (d and j) pFGFR3 protein expression was similar among all 4 groups, n = 4–5 males/group. 
+*compared with VectorTg-vehicle group P < 0.05; #compared with corresponding vehicle group P < 0.05 by 2-way ANOVA.
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+doi: 10.1210/endocr/bqz016
+https://academic.oup.com/endo    11
+inhibition would modulate aberrant Wnt signaling in 
+the articular cartilage of HMWTg mice.
+In the present studies we observed OA changes in all 
+components of the knee joint, including the articular 
+cartilage and subchondral bone of the HMWTg male 
+mice, which were partially rescued by in vivo admin-
+istration of the FGFR inhibitor BGJ. Consistent with 
+this earlier report, we confirmed microCT abnormal-
+ities of the epiphysis in HMWTg male and now dem-
+onstrate similar abnormalities in the epiphysis of 
+HMWTg female mice. BGJ rescued the epiphyseal bone 
+abnormalities in male but not female HMWTg mice. 
+Interestingly, we observed a negative effect of BGJ treat-
+ment in VectorTg female mice. Our observation that 
+FGFR tyrosine kinase inhibitor negatively affected the 
+bone parameters in VectorTg female mice is consistent 
+with FGFR expression on the ovaries and this inhibition 
+in normal bone homeostasis could alter FGF regulation 
+of estrogen, which is important in maintaining bone 
+mass (50). However, our result demonstrated no signifi-
+cant difference in serum estradiol level based on geno-
+type or treatment, suggesting that there was no effect of 
+Figure 6.  Effect of BGJ on OA marker proteins in knees of VectorTg and HMWTg mice. (a and d) Representative immunohistochemical 
+staining images for (a) SOX9, (b) MMP13, and (c) ADAMTS5. Quantitative analysis of percentage of positive staining area for (d) SOX9, (e) MMP13, 
+and (f) ADAMTS5 in articular cartilage. (a and d) SOX9 protein expression was significantly increased in chondrocytes of articular cartilage of 
+knees from HMWTg-vehicle group compared with VectorTg-vehicle group, which was rescued with BGJ treatment, n = 7–9 males/group. (b and e) 
+MMP13 and (c and f) ADAMTS5 expression were increased in knees of HMWTg vehicle-treated mice compared with VectorTg vehicle-treated mice; 
+these were rescued with BGJ treatment, n = 7–9 males/group. *compared with VectorTg-vehicle group P < 0.05; #compared with corresponding 
+vehicle group P < 0.05 by 2-way ANOVA.
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+12    Xiao et al    FGFR Inhibitor and Osteoarthritis in HMWTg Mice
+Endocrinology, XXXX 2020, XX(XX):1–16
+BGJ on estradiol. As discussed earlier, previous studies 
+have shown that the progression of OA may be caused 
+by increased hypertrophic differentiation of articular 
+chondrocytes and mineralization of the articular car-
+tilage (25). Interestingly, increased alkaline phosphatase 
+was observed in articular cartilage of vehicle-treated 
+HMWTg knees, which was rescued by FGFR inhib-
+ition. These results suggest that FGFR inhibitor can 
+block the increased chondrocytic differentiation and 
+thus prevent the migration of the mineralization front/
+tidemark towards the nonmineralized articular cartilage 
+in HMWTg knee joints.
+Figure 7.  Effect of BGJ on Wnt signaling component proteins in knees of VectorTg and HMWTg mice. Representative 
+immunohistochemical staining images for (a) WNT7b, (b) phosphorylated LRP5 (pLRP5), (c) pLRP6, and (d) DKK1. Quantitative analysis of 
+percentage of positive staining area for (e) WNT7b, (f) pLRP5, (g) pLRP6, and (h) DKK1 in articular cartilage. (a and e) WNT7b was greatly increased 
+in HMWTg vehicle-treated cartilage compared with VectorTg vehicle-treated group, which was rescued with BGJ treatment, n = 7–9 males/group. 
+(b and f) pLRP5 was strongly expressed in HMWTg vehicle-treated cartilage compared with VectorTg vehicle-treated group, which was rescued 
+with BGJ treatment, n = 7–9 males/group. (c and g) pLRP6 protein was decreased in HMWTg vehicle-treated and HMWTg BGJ-treated articular 
+cartilage, compared with VectorTg cartilage, n = 7–9 males/group. (d and h) DKK1 was significantly decreased in chondrocytes of articular cartilage 
+of HMWTg-vehicle knees compared with VectorTg vehicle-treated mice, which was rescued with BGJ treatment, n = 4–5 males/group. *compared 
+with VectorTg-vehicle group P < 0.05; #compared with corresponding vehicle group P < 0.05 by 2-way ANOVA.
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+doi: 10.1210/endocr/bqz016
+https://academic.oup.com/endo    13
+XLH patients develop OA that can be severe enough 
+to warrant joint replacement (51) and Hyp mice, a 
+homolog of XLH that overexpresses HMWFGF2 
+isoforms in osteocytes, also develop OA (5). While 
+FGFR1 is increased in human OA chondrocytes and me-
+diates cartilage destruction (21), and genetic inhibition 
+of FGFR1 in knee cartilage attenuates the degeneration 
+of articular cartilage in adult mice (22), there have been 
+Figure 8.  Effect of BGJ on Wnt signaling component proteins in knees of VectorTg and HMWTg mice. Representative 
+immunohistochemical staining images for (a) SOST, (b) AXIN2, (c) phosphorylated GSK3β (pGSK3β), and (d) active β-catenin. Quantitative analysis 
+of percentage of positive staining area for (e) SOST in subchondral bone, (f) AXIN2 in articular cartilage, (g) pGSK3β in articular cartilage, and 
+(h) active β-catenin in articular cartilage. (a and e) SOST was only expressed in osteocytes in the subchondral bone, but not expressed in articular 
+cartilage. SOST expression in the subchondral bone of HMWTg vehicle-treated mice was much lower than VectorTg vehicle-treated mice, which 
+was rescued with BGJ treatment, n = 4–5 males/group. (b and f) AXIN2 was increased in the cartilage of HMWTg vehicle-treated mice compared 
+with VectorTg vehicle-treated mice. BGJ treatment markedly inhibited the increased AXIN2 in HMWTg mice, n = 4–5 males/group. (c and g) 
+pGSK3β was strongly expressed in HMWTg vehicle-treated cartilage compared with VectorTg vehicle-treated and VectorTg BGJ-treated groups, 
+and was rescued with BGJ treatment, n = 7–9 males/group. (d and h) Active β-Catenin protein expression was significantly increased in articular 
+cartilage of knees from HMWTg-vehicle group compared with VectorTg-vehicle group, which was rescued with BGJ treatment, n = 7–9 males/
+group. *compared with VectorTg-vehicle group P < 0.05; #compared with corresponding vehicle group P < 0.05 by 2-way ANOVA.
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+14    Xiao et al    FGFR Inhibitor and Osteoarthritis in HMWTg Mice
+Endocrinology, XXXX 2020, XX(XX):1–16
+no reported studies of the efficacy of FGFR inhibition 
+on the OA phenotype, either in XLH patients or in Hyp 
+mice (which HMWTg mice phenocopy).
+The interplay of FGFR1 and FGFR3 is important 
+in cartilage homeostasis, with the preponderance of 
+studies supporting FGFR1 being catabolic and FGFR3 
+being anabolic. Specifically, FGFR3 was found to be de-
+creased in human OA chondrocytes (52), it increased 
+anabolic activity in cartilage (53), and its ablation in-
+creased murine OA (54). Given that the FGFR inhibitor 
+BGJ is not specific for FGFR1, we also examined the 
+potential contribution of modulation of FGFR3 to the 
+OA phenotype. We observed an increase in FGFR1 
+mRNA in the whole knee joint as well as phosphoryl-
+ated FGFR1 protein in knee articular cartilage, which 
+was reduced by BGJ. In contrast, FGFR3 mRNA was 
+significantly reduced in vehicle-treated HMWTg knees 
+and was not rescued by BGJ. This would suggest that in 
+HMWTg mice, activation of FGFR1 was the major con-
+tributor to the observed OA phenotype.
+Altered Wnts and Wnt-related proteins have been re-
+ported in OA and although quite complex, modulating 
+the Wnt pathway is considered a promising target for OA 
+therapy using small molecule inhibitors (55). However, 
+small molecule FGFR inhibitors such as BGJ, have 
+not typically been under consideration, since there are 
+limited studies on FGFR modulation of Wnt signaling 
+contributing to OA. Of relevance to this study, we pre-
+viously reported by gene and protein analysis that there 
+was increased Wnt signaling in HMWTg OA whole 
+knee joints demonstrated by decreased Dkk1, Sost, and 
+Lrp6 expression with increased Wnt5a, Wnt7b, Lrp5, 
+Axin2, phospho-GSK3β, Lef1, and nuclear β-catenin 
+accumulation (31) associated with increased FGFR1. 
+In the same study, we also reported that there was in-
+creased FGFR1, increased canonical WNT7b, and in-
+creased GSK3β in articular chondrocytes harvested 
+from HMWTg knee joints (31).
+ We also previously reported that FGF23 contributed 
+to OA phenotype in HMWTg mice via aberrant Wnt 
+signaling and that in vivo administration of FGF23 neu-
+tralizing antibody partially rescued the OA phenotype in 
+HMWTg mice (31). Since FGF23 signals via FGFR, acti-
+vation of FGF23/FGFR/Wnt could contribute to the OA 
+phenotype in HMWTg mice. It has been reported that 
+selective ablation of FGFR1 in osteocytes reduced FGF23 
+expression in bone (56), and we observed a significant de-
+crease in serum FGF23 in the BGJ-treated HMWTg mice. 
+Thus, it is possible that FGFR blockade resulted in re-
+duced FGF23, leading to reduced Wnt activity with par-
+tial rescue of the OA phenotype observed in this study.
+Although the FGF receptor inhibitor BGJ is cur-
+rently in clinical use for treatment of certain diseases 
+(57), and BGJ was shown by Wohrle et al (58) to ameli-
+orate rickets and hypophosphatemia in the Hyp and 
+Dmp1ko mouse models, there are no reports of its ef-
+ficacy in osteoarthropathy. Since Hyp mice overexpress 
+HMWFGF2 isoforms in osteocytes (6), it will be of 
+interest to determine whether, consistent with the 
+present study, FGFR inhibition also partially rescues the 
+OA phenotype in Hyp mice.
+Acknowledgments
+Financial Support:  This project is supported in part by 
+National Institutes of Health grant NIH AR072985-05A1. 
+Author Contributions:  MMH conceived and coordinated 
+the study. MMH designed the study. LX performed and ana-
+lyzed the experiments shown. MH and LX wrote the paper. 
+DW provided technical assistance. All authors reviewed the re-
+sults and approved the final version of the manuscript. MMH 
+is the guarantor of the manuscript. The content is solely the re-
+sponsibility of the authors and does not necessarily represent 
+the official views of the National Institutes of Health.
+Additional Information
+Correspondence:  Marja Hurley, MD, Department of 
+Medicine MC-3023, UConn Health, 263 Farmington Avenue, 
+Farmington, CT 06030-3105. E-mail: hurley@uchc.edu.
+Disclosure Summary:  The authors declare that they have 
+no conflicts of interest with the contents of this article.
+References
+	 1.	 Econs MJ, Francis F. Positional cloning of the PEX gene: new in-
+sights into the pathophysiology of X-linked hypophosphatemic 
+rickets. Am J Physiol. 1997;273(4):F489–F498.
+	 2.	 Hardy DC, Murphy WA, Siegel BA, Reid IR, Whyte MP. X-linked 
+hypophosphatemia in adults: prevalence of skeletal radiographic 
+and scintigraphic features. Radiology. 1989;171(2):403–414.
+	 3.	 Reid IR, Hardy DC, Murphy WA, Teitelbaum SL, Bergfeld MA, 
+Whyte MP. X-linked hypophosphatemia: a clinical, biochemical, 
+and histopathologic assessment of morbidity in adults. Medicine 
+(Baltimore). 1989;68(6):336–352.
+	 4.	 Liang G, Katz LD, Insogna KL, Carpenter TO, Macica CM. Survey 
+of the enthesopathy of X-linked hypophosphatemia and its char-
+acterization in Hyp mice. Calcif Tissue Int. 2009;85(3):235–246.
+	 5.	 Liang  G, Vanhouten  J, Macica  CM. An atypical degenera-
+tive osteoarthropathy in Hyp mice is characterized by a loss 
+in the mineralized zone of articular cartilage. Calcif Tissue Int. 
+2011;89(2):151–162.
+	 6.	 Xiao  L, Naganawa  T, Lorenzo  J, Carpenter  TO, Coffin  JD, 
+Hurley MM. Nuclear isoforms of fibroblast growth factor 2 are 
+novel inducers of hypophosphatemia via modulation of FGF23 
+and KLOTHO. J Biol Chem. 2010;285(4):2834–2846.
+	 7.	 Meo Burt P, Xiao L, Dealy C, Fisher MC, Hurley MM. FGF2 
+high molecular weight isoforms contribute to osteoarthropathy 
+in male mice. Endocrinology. 2016;159(6):2386–2396.
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+doi: 10.1210/endocr/bqz016
+https://academic.oup.com/endo    15
+	 8.	 Karvonen RL, Negendank WG, Teitge RA, Reed AH, Miller PR, 
+Fernandez-Madrid F. Factors affecting articular cartilage thickness 
+in osteoarthritis and aging. J Rheumatol. 1994;21(7):1310–1318.
+	 9.	 Altman  R, Asch  E, Bloch  D, Bole  G, Borenstein  D, Brandt  K, 
+Christy W, Cooke TD, Greenwald R, Hochberg M. Development 
+of criteria for the classification and reporting of osteoarth-
+ritis. Classification of osteoarthritis of the knee. Diagnostic and 
+Therapeutic Criteria Committee of the American Rheumatism 
+Association. Arthritis Rheum. 1986;29(8):1039–1049.
+	10.	 Hayami T, Pickarski M, Zhuo Y, Wesolowski GA, Rodan GA, 
+Duong 
+LT. 
+Characterization 
+of 
+articular 
+cartilage 
+and 
+subchondral bone changes in the rat anterior cruciate ligament 
+transection and meniscectomized models of osteoarthritis. Bone. 
+2006;38(2):234–243.
+	11.	 Mitchell  PG, Magna  HA, Reeves  LM, Lopresti-Morrow  LL, 
+Yocum  SA, Rosner  PJ, Geoghegan  KF, Hambor  JE. Cloning, 
+expression, and type II collagenolytic activity of matrix 
+metalloproteinase-13 from human osteoarthritic cartilage. J Clin 
+Invest. 1996;97(3):761–768.
+	12.	 Glasson SS, Askew R, Sheppard B, Carito B, Blanchet T, Ma HL, 
+Flannery  CR, Peluso  D, Kanki  K, Yang  Z, Majumdar  MK, 
+Morris  EA. Deletion of active ADAMTS5 prevents cartilage 
+degradation in a murine model of osteoarthritis. Nature. 
+2005;434(7033):644–648.
+	13.	 Stanton  H, Rogerson  FM, East  CJ, Golub  SB, Lawlor  KE, 
+Meeker CT, Little CB, Last K, Farmer PJ, Campbell IK, Fourie AM, 
+Fosang AJ. ADAMTS5 is the major aggrecanase in mouse car-
+tilage in vivo and in vitro. Nature. 2005;434(7033):648–652.
+	14.	 Orito K, Koshino T, Saito T. Fibroblast growth factor 2 in syn-
+ovial fluid from an osteoarthritic knee with cartilage regener-
+ation. J Orthop Sci. 2003;8(3):294–300.
+	15.	 Im HJ, Li X, Muddasani P, Kim GH, Davis F, Rangan J, et al. 
+Basic fibroblast growth factor accelerates matrix degradation via 
+a neuro‐endocrine pathway in human adult articular chondro-
+cytes. J. Cell Physiol 2008;215(2):452–463.
+	16.	 Chia SL, Sawaji Y, Burleigh A, McLean C, Inglis J, Saklatvala J, 
+Vincent  T. Fibroblast growth factor 2 is an intrinsic 
+chondroprotective agent that suppresses ADAMTS-5 and delays 
+cartilage degradation in murine osteoarthritis. Arthritis Rheum. 
+2009;60(7):2019–2027.
+	17.	 Burt PM, Xiao L, Doetschman T, Hurley MM. Ablation of low-
+molecular-weight FGF2 isoform accelerates murine osteoarthritis 
+while loss of high-molecular-weight FGF2 isoforms offers protec-
+tion. J Cell Physiol. 2019;234(4):4418–4431.
+	18.	 Okada-Ban  M, Thiery  JP, Jouanneau  J. Fibroblast growth 
+factor-2. Int J Biochem Cell Biol. 2000;32(3):263–267.
+	19.	 Azhar  M, Yin  M, Zhou  M, Li  H, Mustafa  M, Nusayr  E, 
+Keenan JB, Chen H, Pawlosky S, Gard C, Grisham C, Sanford LP, 
+Doetschman T. Gene targeted ablation of high molecular weight 
+fibroblast growth factor-2. Dev Dyn. 2009;238(2):351–357.
+	20.	 Ellman  MB, Yan  D, Ahmadinia  K, Chen  D, An  HS, Im  HJ. 
+Fibroblast growth factor control of cartilage homeostasis. J Cell 
+Biochem. 2013;114(4):735–742.
+	21.	 Yan D, Chen D, Cool SM, van Wijnen AJ, Mikecz K, Murphy G, 
+Im  HJ. Fibroblast growth factor receptor 1 is principally re-
+sponsible for fibroblast growth factor 2-induced catabolic ac-
+tivities in human articular chondrocytes. Arthritis Res Ther. 
+2011;13(4):R130.
+	22.	 Weng T, Yi L, Huang J, Luo F, Wen X, Du X, Chen Q, Deng C, 
+Chen D, Chen L. Genetic inhibition of fibroblast growth factor re-
+ceptor 1 in knee cartilage attenuates the degeneration of articular 
+cartilage in adult mice. Arthritis Rheum. 2012;64(12):3982–3992.
+	23.	 Muddasani P, Norman JC, Ellman M, van Wijnen AJ, Im HJ. Basic 
+fibroblast growth factor activates the MAPK and NFkappaB 
+pathways that converge on Elk-1 to control production of matrix 
+metalloproteinase-13 by human adult articular chondrocytes. J 
+Biol Chem. 2007;282(43):31409–31421.
+	24.	 Davidson  D, Blanc  A, Filion  D, Wang  H, Plut  P, Pfeffer  G, 
+Buschmann MD, Henderson JE. Fibroblast growth factor (FGF) 
+18 signals through FGF receptor 3 to promote chondrogenesis. J 
+Biol Chem. 2005;280(21):20509–20515.
+	25.	 Li X, Ellman MB, Kroin JS, Chen D, Yan D, Mikecz K, Ranjan KC, 
+Xiao G, Stein GS, Kim SG, Cole B, van Wijnen AJ, Im HJ. Species-
+specific biological effects of FGF-2 in articular cartilage: impli-
+cation for distinct roles within the FGF receptor family. J Cell 
+Biochem. 2012;113(7):2532–2542.
+	26.	 Zhong L, Huang X, Karperien M, Post JN. The regulatory role of 
+signaling crosstalk in hypertrophy of MSCs and human articular 
+chondrocytes. Int J Mol Sci. 2015;16(8):19225–19247.
+	27.	 Buchtova M, Oralova V, Aklian A, Masek J, Vesela I, Ouyang Z, 
+Obadalova T, Konecna Z, Spoustova T, Pospisilova T, Matula P, 
+Varecha  M, Balek  L, Gudernova  I, Jelinkova  I, Duran  I, 
+Cervenkova  I, Murakami  S, Kozubik  A, Dvorak  P, Bryja  V, 
+Krejci P. Fibroblast growth factor and canonical WNT/β-catenin 
+signaling cooperate in suppression of chondrocyte differentiation 
+in experimental models of FGFR signaling in cartilage. Biochim 
+Biophys Acta. 2015;1852(5):839–850.
+	28.	 Chan  BY, Fuller  ES, Russell  AK, Smith  SM, Smith  MM, 
+Jackson MT, Cake MA, Read RA, Bateman JF, Sambrook PN, 
+Little CB. Increased chondrocyte sclerostin may protect against 
+cartilage degradation in osteoarthritis. Osteoarthritis Cartilage. 
+2011;19(7):874–885.
+	29.	 Oh  H, Chun  CH, Chun  JS. Dkk-1 expression in chondrocytes 
+inhibits experimental osteoarthritic cartilage destruction in mice. 
+Arthritis Rheum. 2012;64(8):2568–2578.
+	30.	 Shin  Y, Huh  YH, Kim  K, Kim  S, Park  KH, Koh  JT, Chun  JS, 
+Ryu JH. Low-density lipoprotein receptor-related protein 5 gov-
+erns Wnt-mediated osteoarthritic cartilage destruction. Arthritis 
+Res Ther. 2014;16(1):R37.
+	31.	 Meo Burt P, Xiao L, Hurley MM. FGF23 regulates Wnt/β-catenin 
+signaling-mediated osteoarthritis in mice overexpressing high-
+molecular-weight FGF2. Endocrinology. 2018;159(6):2386–2396.
+	32.	 Florkiewicz  RZ, Sommer  A. Human basic fibroblast growth 
+factor gene encodes four polypeptides: three initiate trans-
+lation from non-AUG codons. Proc Natl Acad Sci U S A. 
+1989;86(11):3978–3981.
+	33.	 Glasson SS, Chambers MG, Van Den Berg WB, Little CB. The 
+OARSI histopathology initiative - recommendations for histo-
+logical assessments of osteoarthritis in the mouse. Osteoarthritis 
+Cartilage. 2010;18(Suppl 3):S17–S23.
+	34.	 RRID: AB_631497, https://scicrunch.org/resolver/AB_631794.
+	35.	 RRIS: AB_2104623, https://scicrunch.org/resolver/AB_2104623.
+	36.	 RRID: AB_963497, https://scicrunch.org/resolver/AB_963497.
+	37.	 RRID: AB_2103530, https://scicrunch.org/resolver/AB_2103530.
+	38.	 RRID: AB_2665492, https://scicrunch.org/resolver/AB_2665492.
+	39.	 RRID: AB_776416, https://scicrunch.org/resolver/AB_776416.
+	40.	 RRID: AB_2222327, https://scicrunch.org/resolver/AB_2222327.
+	41.	 RRID: 
+AB_11172941, 
+https://scicrunch.org/resolver/
+AB_11172941.
+	42.	 RRID: AB_2721918, https://scicrunch.org/resolver/AB_2721918.
+	43.	 RRID: 
+AB_10858068, 
+https://scicrunch.org/resolver/
+AB_10858068.
+	44.	 RRID: AB_2091333, https://scicrunch.org/resolver/AB_2091333.
+	45.	 RRID: AB_2195345, https://scicrunch.org/resolver/AB_2195345.
+	46.	 RRID: 
+AB_10900607, 
+https://scicrunch.org/resolver/
+AB_10900607.
+	47.	 RRID: AB_1310290, https://scicrunch.org/resolver/AB_1310290.
+	48.	 RRID: AB_2798251, https://scicrunch.org/resolver/AB_2798251.
+	49.	 RRID: AB_2813726, https://scicrunch.org/resolver/AB_2813726.
+	50.	 Price CA. Mechanisms of fibroblast growth factor signaling in the 
+ovarian follicle. J Endocrinol. 2016;228(2):R31–R43.
+	51.	 Mills  ES, Iorio  L, Feinn  RS, Duignan  KM, Macica  CM. 
+Joint replacement in X-linked hypophosphatemia. J Orthop. 
+2019;16(1):55–60.
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020
+16    Xiao et al    FGFR Inhibitor and Osteoarthritis in HMWTg Mice
+Endocrinology, XXXX 2020, XX(XX):1–16
+	52.	 Davidson  D, Blanc  A, Filion  D, Wang  H, Plut  P, Pfeffer  G, 
+Buschmann MD, Henderson JE. Fibroblast growth factor (FGF) 
+18 signals through FGF receptor 3 to promote chondrogenesis. J 
+Biol Chem. 2005;280(21):20509–20515.
+	53.	 Valverde-Franco G, Binette JS, Li W, Wang H, Chai S, Laflamme F, 
+Tran-Khanh  N, Quenneville  E, Meijers  T, Poole  AR, Mort  JS, 
+Buschmann MD, Henderson JE. Defects in articular cartilage me-
+tabolism and early arthritis in fibroblast growth factor receptor 3 
+deficient mice. Hum Mol Genet. 2006;15(11):1783–1792.
+	54.	 Tang J, Su N, Zhou S, Xie Y, Huang J, Wen X, Wang Z, Wang Q, 
+Xu W, Du X, Chen H, Chen L. Fibroblast growth factor receptor 
+3 inhibits osteoarthritis progression in the knee joints of adult 
+mice. Arthritis Rheumatol. 2016;68(10):2432–2443.
+	55.	 Wang Y, Fan X, Xing L, Tian F. Wnt signaling: a promising target 
+for osteoarthritis therapy. Cell Commun Signal. 2019;17(1):97.
+	56.	 Xiao Z, Huang J, Cao L, Liang Y, Han X, Quarles LD. Osteocyte-
+specific deletion of Fgfr1 suppresses FGF23. PLoS One. 
+2014;9(8):e104154.
+	57.	 Nogova  L, Sequist  LV, Perez  Garcia  JM, et  al. Evaluation of 
+BGJ398, a fibroblast growth factor receptor 1–3 kinase inhibitor, 
+in patients with advanced solid tumors harboring genetic alter-
+ations in fibroblast growth factor receptors: results of a global 
+phase I, dose-escalation and dose-expansion study. J Clin Oncol. 
+2017;35(2):157–165.
+	58.	 Wöhrle  S, Henninger  C, Bonny  O, Thuery  A, Beluch  N, 
+Hynes NE, Guagnano V, Sellers WR, Hofmann F, Kneissel M, 
+Graus  Porta  D. Pharmacological inhibition of fibroblast 
+growth factor (FGF) receptor signaling ameliorates FGF23-
+mediated hypophosphatemic rickets. J Bone Miner Res. 
+2013;28(4):899–911.
+Downloaded from https://academic.oup.com/endo/article-abstract/161/1/bqz016/5696655 by Shanghai Jiao Tong University user on 05 January 2020

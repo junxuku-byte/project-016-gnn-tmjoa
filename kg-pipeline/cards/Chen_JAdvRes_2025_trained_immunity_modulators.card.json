@@ -1,0 +1,30 @@
+{
+  "title": "Trained immunity modulators: A new frontier in immunoregulation and disease intervention",
+  "authors": "Jiao Chen et al.",
+  "year": 2025,
+  "journal": "Journal of Advanced Research",
+  "category": "general",
+  "research_question": "How do trained immunity modulators (inducers and suppressors) regulate innate immune memory, and what are their therapeutic potentials and limitations in immune-related diseases?",
+  "methods_summary": [
+    "Review of molecular mechanisms underlying trained immunity, including metabolic and epigenetic reprogramming",
+    "Classification and mechanistic analysis of trained immunity modulators (vaccines, polysaccharides, nanobiologics, endogenous mediators, etc.)",
+    "Evaluation of dual roles of trained immunity in infectious diseases, chronic inflammatory disorders, and cancer"
+  ],
+  "dataset": "Not applicable (review article)",
+  "key_findings": [
+    "Trained immunity modulators include inducers (e.g., BCG, MMR, β-glucan, LPS) and suppressors, which reprogram innate immune cells via metabolic and epigenetic changes",
+    "Trained immunity provides heterologous protection against infections but can exacerbate chronic inflammatory diseases and cancer progression",
+    "Combining trained immunity inducers with immunotherapies (e.g., checkpoint inhibitors) shows promise for enhanced anti-tumor efficacy"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "trained immunity",
+    "innate immune memory",
+    "immunomodulators",
+    "BCG vaccine",
+    "β-glucan",
+    "epigenetic reprogramming",
+    "cancer immunotherapy"
+  ],
+  "extracted_insights": "Trained immunity represents a paradigm shift in immunology, where innate immune cells acquire memory-like properties through metabolic and epigenetic reprogramming. This review comprehensively categorizes modulators (inducers and suppressors) and highlights their dual roles: beneficial in infection control and cancer therapy, but detrimental in chronic inflammation. Key modulators like BCG and β-glucan show clinical potential, especially when combined with adaptive immunotherapies, though challenges remain in balancing efficacy and safety."
+}

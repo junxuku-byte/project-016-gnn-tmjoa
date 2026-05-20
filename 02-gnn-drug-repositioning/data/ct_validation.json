@@ -1,0 +1,195 @@
+{
+  "method": "ClinicalTrials.gov independent validation",
+  "search_date": "2026-05-20",
+  "results": [
+    {
+      "rank": 1,
+      "drug": "Dextrose",
+      "score": 0.34789884090423584,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 2,
+      "drug": "Hypertonic dextrose",
+      "score": 0.34693408012390137,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 3,
+      "drug": "Prolotherapy",
+      "score": 0.34396037459373474,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 4,
+      "drug": "Chondroitin",
+      "score": 0.33153292536735535,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 5,
+      "drug": "Dextrose prolotherapy",
+      "score": 0.32756027579307556,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 6,
+      "drug": "PDRN",
+      "score": 0.3153609037399292,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 7,
+      "drug": "Zinc",
+      "score": 0.2939423620700836,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 8,
+      "drug": "BGJ398",
+      "score": 0.266010046005249,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 9,
+      "drug": "Resveratrol",
+      "score": 0.25939276814460754,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 10,
+      "drug": "Quercetin",
+      "score": 0.24736134707927704,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 11,
+      "drug": "Curcumin",
+      "score": 0.2430538833141327,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 12,
+      "drug": "Aspirin",
+      "score": 0.23589950799942017,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 13,
+      "drug": "Metformin",
+      "score": 0.21646571159362793,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 14,
+      "drug": "Insulin",
+      "score": 0.18931779265403748,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 15,
+      "drug": "Fisetin",
+      "score": 0.18876872956752777,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 16,
+      "drug": "Alendronate",
+      "score": 0.18344934284687042,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 17,
+      "drug": "Riluzole",
+      "score": 0.16301827132701874,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 18,
+      "drug": "Cisplatin",
+      "score": 0.15819910168647766,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 19,
+      "drug": "EGCG",
+      "score": 0.15529729425907135,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    },
+    {
+      "rank": 20,
+      "drug": "Denosumab",
+      "score": 0.15071086585521698,
+      "ct_tmj_count": 0,
+      "ct_oa_tmj_count": 0,
+      "ct_gen_oa_count": 0,
+      "ct_evidence": "none"
+    }
+  ],
+  "summary": {
+    "ct_strong": 0,
+    "ct_moderate": 0,
+    "ct_weak": 0,
+    "ct_none": 20,
+    "ct_any": 0,
+    "bgj398_ct_tmj": 0,
+    "bgj398_gen_oa": 0
+  }
+}

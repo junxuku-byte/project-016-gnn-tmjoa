@@ -1,0 +1,33 @@
+41084405	Comparison of NSAID therapy alone versus combined NSAID and home exercise therap	RCT/Meta but conclusion unclear from abstract
+40273050	FGF18 induces chondrogenesis and anti-osteoarthritic effects in a mouse model fo	conflicting keywords need resolution
+38867545	Efficiency of Glucosamine in Treating Temporomandibular Joint Osteoarthritis: A 	RCT/Meta but conclusion unclear from abstract
+39092654	Can treatment with chondroitin and glucosamine sulphate prevent changes in the a	conflicting keywords need resolution
+38821656	INTRA-ARTICULAR PHARMACOLOGICAL INJECTIONS FOR TEMPOROMANDIBULAR JOINT OSTEOARTH	RCT/Meta but conclusion unclear from abstract
+37608244	Hyaluronic acid injections for pain relief and functional improvement in patient	conflicting keywords need resolution
+36890529	Does intra-articular injection of tenoxicam after arthrocentesis heal outcomes o	conflicting keywords need resolution
+35994388	Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular 	conflicting keywords need resolution
+33775650	A Systematic Review of Rat Models With Temporomandibular Osteoarthritis Suitable	RCT/Meta but conclusion unclear from abstract
+30814387	Long-term effectiveness of arthrocentesis with and without hyaluronic acid injec	conflicting keywords need resolution
+29244893	Effectiveness of Intra-Articular Injections of Sodium Hyaluronate or Corticoster	conflicting keywords need resolution
+28879245	Effects of High-Dose Capsaicin on TMD Subjects: A Randomized Clinical Study.	conflicting keywords need resolution
+	Injection of sodium hyaluronate compared with a corticosteroid in the treatment 	RCT/Meta but conclusion unclear from abstract
+	[Application of dental chairside evidence-based medicine for the treatment tempo	RCT/Meta but conclusion unclear from abstract
+	Dextrose Prolotherapy for Knee Osteoarthritis: A Randomized Controlled Trial	RCT/Meta but conclusion unclear from abstract
+	The use of intra‐articular Na‐hyaluronate as a potential chondroprotective devic	conflicting keywords need resolution
+	Clinical effectiveness of manual therapy for the management of musculoskeletal a	RCT/Meta but conclusion unclear from abstract
+	Effect of self-assembled peptide&amp;ndash;mesenchymal stem cell complex on the 	conflicting keywords need resolution
+	Early results of low-level laser application for masticatory muscle pain: a doub	conflicting keywords need resolution
+	Effects of a Physical Therapy Protocol in Patients with Chronic Migraine and Tem	conflicting keywords need resolution
+	Utilizing the RAIN method and Graph SAGE Model to Identify Effective Drug Combin	RCT/Meta but conclusion unclear from abstract
+	Bayesian Meta-Analysis of Multiple Continuous Treatments: An Application to Anti	RCT/Meta but conclusion unclear from abstract
+	A data science approach to drug safety: Semantic and visual mining of adverse dr	RCT/Meta but conclusion unclear from abstract
+	Identifying Heterogeneous Treatment Effects in Multiple Outcomes using Joint Con	RCT/Meta but conclusion unclear from abstract
+	FlexPro MD®, a Combination of Krill Oil, Astaxanthin and Hyaluronic Acid, Reduce	conflicting keywords need resolution
+	Trehalose enhances bone fracture healing in a rat sleep deprivation model	conflicting keywords need resolution
+	Inducible co-stimulatory molecule (ICOS) alleviates paclitaxel-induced neuropath	conflicting keywords need resolution
+	Randomized, double-blind, placebo-controlled pilot study of metformin as an adju	conflicting keywords need resolution
+	Meta-analysis of proteomics data from osteoblasts, bone, and blood: Insights int	conflicting keywords need resolution
+41770501	Comparative efficacy of transdermal buprenorphine versus diclofenac in the manag	RCT/Meta but conclusion unclear from abstract
+40972625	The global, regional, and national burden attributable to low bone mineral densi	RCT/Meta but conclusion unclear from abstract
+	Comparative effectiveness of oral pharmacologic interventions for knee osteoarth	RCT/Meta but conclusion unclear from abstract
+41727032	Discovery of TDP-43 aggregation inhibitors via a hybrid machine learning framewo	conflicting keywords need resolution

@@ -1,0 +1,33 @@
+{
+  "title": "Intra-articular Pharmacological Injections for Temporomandibular Joint Osteoarthritis Are Comparable to Placebo",
+  "authors": "Elliot Abt",
+  "year": 2024,
+  "journal": "Journal of Evidence-Based Dental Practice",
+  "category": "TMJ",
+  "research_question": "In adult patients with temporomandibular joint osteoarthritis (TMJ OA), is the intra-articular injection of either corticosteroids (CCS), hyaluronic acid (HA), platelet-rich plasma (PRP), or placebo effective in reducing joint pain?",
+  "methods_summary": [
+    "Systematic review with network meta-analysis of randomized controlled trials",
+    "Search of PubMed, Embase, Cochrane Central Register of Controlled Trials, and gray literature via ClinicalTrials.gov",
+    "Two reviewers independently assessed risk of bias using dimensions of quality in RCTs",
+    "Network meta-analysis allowing direct and indirect comparisons, including with placebo"
+  ],
+  "dataset": "9 randomized controlled trials involving 316 patients with TMJ OA",
+  "key_findings": [
+    "Intra-articular injections of CCS, HA, or PRP had no significant effect on pain reduction compared with placebo",
+    "CCS injection was significantly worse than placebo for short-term pain reduction (MD = 1.73; 95% CI 0.37-3.09)",
+    "Most results were not statistically significant, with wide confidence intervals and heterogeneity",
+    "Only one study had a large sample (102 patients); the rest were small and underpowered"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "temporomandibular joint osteoarthritis",
+    "intra-articular injections",
+    "corticosteroids",
+    "hyaluronic acid",
+    "platelet-rich plasma",
+    "placebo",
+    "network meta-analysis",
+    "pain reduction"
+  ],
+  "extracted_insights": "Current best evidence from a well-conducted network meta-analysis indicates that intra-articular injections of corticosteroids, hyaluronic acid, or platelet-rich plasma for TMJ OA do not provide superior pain reduction compared to placebo. The findings are limited by small sample sizes, heterogeneity, and unclear risk of bias in included studies, highlighting the need for larger, high-quality RCTs. Clinicians should exercise caution in using these injections for TMJ OA."
+}

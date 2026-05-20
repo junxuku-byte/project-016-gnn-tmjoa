@@ -1,0 +1,1317 @@
+Jawbone mesenchymal stromal
+cells attenuate acute
+inﬂammation via hematopoietic
+niche reinforcement
+Xinyu Wang 1†, Qianye Chen2†, Jiping Sun3†, Zihan Huang1,
+Zijian Zhang1, Tingwei Lu1, Xiangru Huang1, Siyuan Sun1,
+Yuanqi Liu1, Houwen Pan 1, Li Mei5, Paul R. Cooper5,
+Qinggang Dai5*, Lei Shen3* and Lingyong Jiang1*
+1Center of Craniofacial Orthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University
+School of Medicine, Shanghai Research Institute of Stomatology, Shanghai, China, 2Department of Oral
+and Maxillofacial-Head and Neck Oncology, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong
+University School of Medicine, Shanghai, China, 3Center for Immune-Related Diseases at Shanghai
+Institute of Immunology, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai,
+China, 4Faculty of Dentistry, Sir John Walsh Research Institute, University of Otago, Dunedin, New
+Zealand, 5Shanghai Key Laboratory of Stomatology, The 2nd Dental Center, Shanghai Ninth People’s
+Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai Research Institute of Stomatology,
+Shanghai, China
+Background: The bone marrow microenvironment, comprising various cell types
+and
+molecular
+signals,
+ﬁnely
+orchestrates
+the
+self-renewal
+and
+lineage
+commitment
+of
+hematopoietic
+stem
+cells
+(HSCs).
+Although
+most
+investigations have centered on mesenchymal stem cells (MSCs) from long
+bones, the distinct properties and immunoregulatory functions of craniofacial
+bone marrow derived MSCs remain largely unexplored. Notably, jawbone MSCs
+not only exhibit a robust capacity for promoting hematopoietic regeneration but
+also offer therapeutic potential in infectious diseases.
+Methods: Using an optimized enzymatic digestion protocol, we obtained a highly
+viable
+single-cell
+suspension
+from
+mouse
+jawbone
+in
+vitro.
+Single-cell
+sequencing was then performed to explore the interactions between jawbone
+MSCs and HSCs, while tissue immunoﬂuorescence clariﬁed their spatial
+distribution.
+In
+vitro
+osteogenic
+and
+adipogenic
+differentiation
+assays
+conﬁrmed the multilineage potential of jawbone MSCs. A biomimetic co-
+culture system, designed to emulate the bone marrow niche, was employed
+to assess the impact of jawbone MSCs on HSC differentiation, which was
+evaluated via ﬂow cytometry. Mechanistic insights into HSC changes were
+gleaned from RT-qPCR and cellular immunoﬂuorescence. Subsequently, an
+LPS-induced
+acute
+infection
+model
+was
+established
+to
+evaluate
+the
+therapeutic efﬁcacy of jawbone MSCs. Finally, comprehensive analysis of
+single-cell sequencing data, in conjunction with RT-qPCR ﬁndings, elucidated
+the regulatory pathways through which jawbone MSCs promote hematopoiesis.
+Results: Single-cell sequencing revealed a robust interaction between jawbone
+MSCs and HSCs. Tissue immunoﬂuorescence demonstrated that in the mouse
+jawbone, MSCs and HSCs were located in close spatial proximity. In vitro
+osteogenic and adipogenic induction experiments showed that jawbone MSCs
+possess considerable multilineage differentiation potential. Co-culture assays
+further indicated that jawbone MSCs induce HSCs to differentiate into various
+OPEN ACCESS
+EDITED BY
+Andrea Barbero,
+University Hospital of Basel, Switzerland
+REVIEWED BY
+Huang Li,
+Nanjing University, China
+Juan Li,
+Sichuan University, China
+*CORRESPONDENCE
+Lingyong Jiang,
+jianglingyong@sjtu.edu.cn
+Lei Shen,
+lshen@shsmu.edu.cn
+Qinggang Dai,
+daiqinggang@126.com
+†These authors have contributed equally to this
+work and share ﬁrst authorship
+RECEIVED 21 March 2025
+ACCEPTED 20 May 2025
+PUBLISHED 11 August 2025
+CITATION
+Wang X, Chen Q, Sun J, Huang Z, Zhang Z, Lu T,
+Huang X, Sun S, Liu Y, Pan H, Mei L, Cooper PR,
+Dai Q, Shen L and Jiang L (2025) Jawbone
+mesenchymal stromal cells attenuate acute
+inﬂammation via hematopoietic
+niche reinforcement.
+Front. Bioeng. Biotechnol. 13:1596143.
+doi: 10.3389/fbioe.2025.1596143
+COPYRIGHT
+© 2025 Wang, Chen, Sun, Huang, Zhang, Lu,
+Huang, Sun, Liu, Pan, Mei, Cooper, Dai, Shen
+and Jiang. This is an open-access article
+distributed under the terms of the Creative
+Commons Attribution License (CC BY). The use,
+distribution or reproduction in other forums is
+permitted, provided the original author(s) and
+the copyright owner(s) are credited and that the
+original publication in this journal is cited, in
+accordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with these
+terms.
+Frontiers in Bioengineering and Biotechnology
+frontiersin.org
+01
+TYPE Original Research
+PUBLISHED 11 August 2025
+DOI 10.3389/fbioe.2025.1596143
+immune cell types, particularly promoting B cell generation. RT-qPCR and
+immunoﬂuorescence assays conﬁrmed that pivotal transcription factors, such as
+PAX5, were activated in B cells. In an in vivo infection model, jawbone MSCs
+exhibited signiﬁcant anti-infective capabilities, effectively reducing mortality and
+systemic inﬂammation in infected mice. A deeper analysis of the single-cell
+sequencing data revealed that jawbone MSCs mainly facilitate hematopoiesis by
+secreting CXCL12.
+Conclusion: Through single-cell sequencing, in vitro multilineage induction, co-
+culture systems, and a mouse model of LPS-induced acute infection, this study
+systematically elucidates the close interplay between jawbone MSCs and HSCs, as
+well as their pivotal roles in immune modulation and anti-infective responses. The
+ﬁndings demonstrate that jawbone MSCs not only exhibit robust multilineage
+differentiation potential but also secrete CXCL12 and activate key B cell
+transcription factors (such as PAX5). This process signiﬁcantly promotes HSC
+differentiation into B cells, improves survival rates in infected mice, and
+attenuates systemic inﬂammation. These results establish a strong foundation
+for further investigation into the applications of jawbone MSCs in immune
+regulation and disease therapy.
+KEYWORDS
+jawbone mesenchymal stem cells, hematopoietic stem cells, acute infection, exocrine,
+cell therapy
+1 Introduction
+The bone marrow microenvironment, comprising various cell
+types and molecular signals, precisely orchestrates the self-renewal
+and lineage commitment of hematopoietic stem cells (Pinho and
+Frenette, 2019). While the marrow in long bones plays a pivotal role
+in
+hematopoiesis
+and
+immune
+homeostasis,
+it
+undergoes
+degenerative structural and functional changes with advancing
+age (de Haan and Lazare, 2018). Aging disrupts the marrow
+niche in long bones, characterized by red marrow conversion
+into yellow marrow, an increased number of adipocytes, and
+declining hematopoietic stem cell functionality (Ross et al., 2024).
+These cumulative impairments reduce the regenerative potential of
+hematopoietic
+progenitors,
+eventually
+compromising
+effective
+immune responses and heightening susceptibility to infections,
+tumors, and other illnesses (Nakamura-Ishizu et al., 2020).
+Recent evidence indicates that not all regions of the bone
+marrow exhibit uniform senescent deterioration. Compared with
+long bone marrow, the craniofacial bone marrow niche displays
+superior resistance to aging. Jawbone marrow maintains a high
+proportion of hematopoietic progenitors throughout life, retaining
+robust self-renewal and differentiation capacities (Koh et al., 2024).
+These observations underscore the unique strengths of jawbone
+marrow in sustaining hematopoietic function, modulating immune
+responses, and conferring anti-aging beneﬁts, thereby broadening
+the theoretical framework of the bone–immune axis.
+Notably, craniofacial bones differ signiﬁcantly from long bones
+in their physiological properties, architecture, and functions
+(Aghaloo et al., 2010). During embryonic development, jaw
+osteoblasts primarily derive from neural crest cells, whereas those
+in long bones originate mainly from the mesoderm—leading to
+distinctions in developmental pathways, functional regulation, and
+responsiveness to external stimuli (Yang et al., 2024). Moreover, jaw
+osteoblasts play specialized roles in sustaining and remodeling the
+alveolar bone microenvironment (Fleischmannova et al., 2010).
+Beyond bone formation, they interact with root ﬁbrous tissues
+and the periodontal ligament to ensure tooth stability. These
+differences in embryonic origin, differentiation control, and
+functionality imply that jawbone mesenchymal stem cells may
+possess distinctive physiological features.
+Hematopoietic stem cells, which exhibit self-renewal and
+multilineage differentiation potential, generate multiple immune
+cell types (Eibel et al., 2014). Primarily located in the bone
+marrow, hematopoietic stem cells support B cell differentiation
+and maturation. Immature B cells undergo gene rearrangement
+in the marrow, expressing functional B cell receptors and advancing
+through various B-cell precursor stages (Zhong et al., 2023), before
+migrating to peripheral lymphoid organs (e.g., spleen and lymph
+nodes) to complete maturation and execute immune functions
+(Doores, 2023). Their differentiation is regulated by diverse
+biological
+signals,
+including
+antigens,
+cytokines,
+and
+helper
+T cells (Kloc et al., 2024). Due to the jawbone’s distinctive
+marrow cavity and chronic exposure to oral microorganisms, it
+hosts a specialized immune microenvironment (Cekici et al., 2000).
+Within the jawbone, B cells produce immunoglobulins (IgA, IgG,
+IgM) to combat oral pathogens, bolstering antibody-mediated
+immunity during periodontitis (Zou et al., 2022; Zhang et al.,
+2024). Under conditions of jawbone or odontogenic infection,
+B cells also secrete the anti-inﬂammatory cytokine IL-10, limiting
+excessive immune responses and promoting bone repair and
+regeneration (Shi et al., 2020; Liu et al., 2024). However, whether
+direct interactions exist between jaw osteoblasts and B cells, as well
+as the precise underlying mechanisms, remains unclear.
+In this study, we systematically mapped the spatial relationships
+between mesenchymal stem cells and hematopoietic stem cells
+within mouse jawbone tissue. Using in vitro co-culture systems,
+we explored how jawbone mesenchymal stem cells regulate
+hematopoietic stem cell differentiation and development and
+Frontiers in Bioengineering and Biotechnology
+frontiersin.org
+02
+Wang et al.
+10.3389/fbioe.2025.1596143
+investigated the speciﬁc mechanisms involved. Moreover, by
+establishing a mouse model of acute infection, we demonstrated
+the
+remarkable
+immunotherapeutic
+efﬁcacy
+of
+jawbone
+mesenchymal stem cells. These ﬁndings offer valuable insights for
+immune regulation and therapeutic strategies in infectious diseases.
+2 Materials and methods
+2.1 Animals
+Col1-CreERT2 transgenic mice (C57BL/6 background) were
+genetically crossed with ROSA26-loxP-tdTomato reporter strains
+to
+establish
+a
+dual-recombinant
+lineage
+(Col1-CreERT2;
+tdTomato+). Male specimens at 6 weeks postnatal development
+were selected for all experimental cohorts. The parental Col1-
+CreERT2 strain and ROSA26Sortm14 (CAG-tdTomato) Hze/J
+line were obtained through academic collaboration with Dr. Bin
+Zhou’s laboratory at the Shanghai Institutes for Biological Sciences,
+Chinese Academy of Sciences. This combinatorial genetic strategy
+enables precise lineage tracing of collagen type I-expressing
+mesenchymal progenitors and their cellular derivatives through
+tamoxifen-inducible ﬂuorescent labeling. Experimental animals
+were
+maintained
+in
+pathogen-free
+facilities
+with
+controlled
+environmental parameters (ambient temperature 22°C ± 2°C,
+relative humidity 52% ± 3%), receiving autoclaved rodent chow
+and sterile hydration ad libitum. All investigative procedures
+received institutional review board approval (Ethics Committee
+of Ninth People’s Hospital Afﬁliated to Shanghai Jiao Tong
+University School of Medicine.
+2.2 Isolation and culture of mouse jawbone
+mesenchymal stem cells
+Following cervical dislocation, the mice were immersed in
+75% ethanol for 15 min. After removing the facial skin, both
+mandibles were dissected and placed in PBS. Periosteum and
+adjoining connective tissues were carefully stripped away, and
+the mandibles were rinsed 2–3 times with PBS until all traces of
+blood were cleared. Bone tissues were ﬁrst minced into
+approximately 1 mm3 fragments using sterile ophthalmic
+scissors,
+followed
+by
+digestion
+with
+collagenase
+I.
+An
+appropriate amount of 0.1% collagenase type I was added, and
+the tissue was digested for 10 min; the supernatant was again
+discarded. Subsequently, four rounds of digestion were carried
+out with 0.1% collagenase type I for 20 min each at 37°C. The
+supernatants collected from these four steps were transferred to a
+centrifuge tube, and 5 mL of α-MEM containing 10% FBS was
+added to halt digestion. The combined solution was passed
+through a 150-mesh ﬁlter three times, then centrifuged at
+300 ×g for 10 min, after which the supernatant was discarded.
+The cell pellet was resuspended in expansion medium (α-MEM
+supplemented
+with
+10%
+FBS
+[HyClone],
+1%
+penicillin/
+streptomycin [Gibco]), thoroughly mixed, and counted. Cells
+were cultured at 37°C in a 5% CO2 incubator. The medium was
+replaced every 3 days until 80%–90% conﬂuence was achieved,
+after which cells were subcultured with 0.25% trypsin-EDTA
+(Gibco). Cells at passages 3–5 (P3–P5) were utilized for all
+downstream experiments.
+2.3 Multilineage differentiation assays
+of cells
+For osteogenic differentiation, cells were seeded at a density of
+2 × 105 cells/mL in osteogenic induction medium (OriCell) and
+cultured for 21 days. For adipogenic differentiation, cells were
+seeded
+at
+1.5
+×
+105
+cells/mL
+in
+adipogenic
+induction
+medium (OriCell).
+2.4 Adipogenic differentiation staining
+Lipid droplets were stained with Oil Red O (Oricell). Brieﬂy,
+cells were ﬁxed with 4% paraformaldehyde, incubated with Oil Red
+O working solution for 10 min, washed with PBS, and imaged.
+2.5 Alkaline phosphatase staining of cells
+Cultured osteoprogenitor cells underwent 7-day osteogenic
+differentiation
+induction.
+Following
+medium
+aspiration,
+specimens were subjected to triple PBS washing cycles and 15-
+min ﬁxation in 4% paraformaldehyde (PFA) at ambient conditions
+(22°C ± 1°C). Cellular alkaline phosphatase activity was visualized
+using BCIP/NBT chromogenic substrates (Beyotime, China) per
+manufacturer’s protocol. Substrate incubation proceeded in light-
+protected environments at 37°C until distinct violet chromogenic
+products emerged (15–30 min observation window). Termination
+was achieved through triple deionized water rinses, with staining
+intensity quantitatively reﬂecting enzymatic activity levels through
+spectrophotometric analysis.
+2.6 Alizarin red staining of cells
+Three-week
+osteogenic
+culture
+with
+biweekly
+medium
+replenishment
+facilitated
+extracellular
+matrix
+mineralization.
+Post-culture processing included PBS washing sequences and 10-
+min PFA ﬁxation at standard laboratory conditions. Mineralized
+nodules were identiﬁed through 20-min Alizarin Red S (pH 4.2,
+Beyotime, China) immersion at 24°C, followed by destaining with
+calcium-free aqueous solutions until negative controls demonstrated
+optical clarity. Quantitative assessment of calcium accumulation was
+performed through acetic acid extraction and spectrophotometric
+measurement at 405 nm, with positive mineralization evidenced by
+characteristic crimson staining patterns under phase-contrast
+microscopy.
+2.7 Lin−Sca1+c-kit (LSK) cells sorting
+After euthanizing the mice, the femurs and tibias were isolated
+using ophthalmic scissors. In brief, all surrounding muscles were
+removed, and a syringe ﬁlled with PBS containing 2% FBS was used
+Frontiers in Bioengineering and Biotechnology
+frontiersin.org
+03
+Wang et al.
+10.3389/fbioe.2025.1596143
+to ﬂush the bone marrow cavities. A cell suspension was generated
+by grinding the cells through a needle. The cells were treated with
+red blood cell lysis buffer for 5 min to lyse all red blood cells,
+followed by washing with PBS. The cells were then stained for
+30 min with anti-mouse lineage cocktail, Sca1, and c-Kit antibodies.
+Finally, the LSK cells were sorted using ﬂow cytometry.
+2.8 Co-culture assay
+Added content: A Transwell system (0.4 μm pore size, Corning)
+was used. MSCs of different concentrations (5 × 104, 2.5 × 105, and
+5 × 105 cells per well) were seeded in the upper chamber, while LSK
+cells (5 × 104) cells per well were placed in the lower chamber. After
+7 days of co-culture, cells from lower chambers were collected
+for analysis.
+2.9 Flow cytometry
+After collecting the cells, they were centrifuged (300 g, 4°C,
+5 min) and resuspended in ﬂow cytometry buffer, with the cell
+concentration adjusted to 1-2 × 106 cells/mL. An appropriate
+volume of the cell suspension (~100 µL per tube) was aliquoted
+into ﬂow cytometry tubes. Fluorescently labeled antibodies
+(targeting CD3, CD4, CD8, CD19, B220, CD11b, Gr-1, etc.)
+and a viability dye (such as 7-AAD or PI) were added to each
+tube,
+following
+the
+manufacturer’s
+recommended
+antibody
+concentrations, and gently mixed. The cell mixtures were
+incubated at 4°C in the dark for 30 min. After incubation, 1 mL
+of ﬂow cytometry buffer was added to wash the cells, followed by
+centrifugation at 300 g, 4°C, for 5 min. The supernatant was
+aspirated, and the cells were resuspended in 500 µL of ﬂow
+cytometry buffer, ready for ﬂow cytometric analysis. Flow
+cytometry was performed to analyze the stained cells, with
+appropriate lasers and ﬁlters set to detect each ﬂuorescent
+marker. After excluding dead cell signals, ﬂuorescence signals
+from T cells (CD3, CD4, CD8), B cells (CD19, B220), and
+myeloid cells (CD11b, Gr-1) were sequentially detected.
+2.10 RT-qPCR
+RNA was extracted from the cells using a kit (Vazyme, FastPure
+Cell/Tissue
+Total
+RNA
+Isolation
+Kit)
+according
+to
+the
+manufacturer’s instructions. RNA was then reverse-transcribed
+into cDNA using the Takara reverse transcription kit. PCR was
+performed using SYBR Green PreMix (Tiangen) on a LightCycler
+96 system (Roche, Basel, Switzerland) to quantify mRNA levels. The
+2−ΔΔCT method was used to analyze the RT-PCR data. The primer
+sequences used in this study are listed in Supplementary Table S1.
+2.11 Preparation of frozen sections of
+alveolar tissue
+Following euthanasia, the oral cavity was opened with scissors
+and forceps to expose the alveolar region. Soft tissues around the
+jawbone were removed with care to prevent damage to the alveolar
+bone and teeth. The alveolar tissue was excised in a single piece and
+immediately placed in PBS to clear any residual blood. It was then
+transferred into 4% PFA at 4°C for 24 h. After ﬁxation, the sample
+was immersed in 30% sucrose at 4°C overnight (usually 12–24 h)
+until it sank, indicating complete dehydration. Excess solution was
+gently blotted away, and the tissue was positioned in a mold ﬁlled
+with optimal cutting temperature (OCT) compound so that it
+would be correctly oriented for sectioning. The mold was ﬂash-
+frozen on dry ice or in liquid nitrogen and stored at −80°C once
+fully solidiﬁed. For cryosectioning, the frozen block was moved
+from −80°C to a cryostat (approximately −20°C) and allowed to
+equilibrate for 10–20 min. The tissue was mounted on the cryostat
+stage and sectioned at a thickness of 10–12 µm. Each section was
+carefully placed on a chilled slide, ensuring it lay ﬂat and remained
+intact. Slides can be kept at −20°C for short-term storage or
+at −80°C for longer durations.
+2.12 Immunoﬂuorescence staining
+Frozen sections were taken from −20°C or −80°C storage and
+brieﬂy allowed to air-dry at room temperature (RT) for 10 min.
+They were then ﬁxed with 4% paraformaldehyde (PFA) at 4°C for
+10–15 min. After three 5-min washes in PBS, sections were
+permeabilized with 0.1% Triton X-100 (in PBS) for 10–15 min
+and washed again three times, 5 min each. Next, a blocking
+solution (5% BSA or 10% normal goat serum) was applied in a
+humid chamber at 37°C for 30 min to minimize nonspeciﬁc
+binding. The blocking solution was removed, and diluted
+primary
+antibodies
+were
+added
+to
+cover
+the
+sections.
+Incubations took place overnight at 4°C or for 1–2 h at 37°C.
+Following another trio of 5-min washes in PBS, a ﬂuorescently
+labeled secondary antibody was applied and protected from light
+for 1 h at 37°C or 1–2 h at 4°C. After three more 5-min washes in
+PBS, DAPI solution (1 μg/mL) was added for 5–10 min at RT in the
+dark to stain nuclei, then washed off in three additional 5-min PBS
+rinses. Finally, antifade mounting medium was placed on each
+section, and a coverslip was carefully lowered to avoid bubbles and
+ensure complete coverage. The prepared sections were examined
+under a ﬂuorescence microscope using appropriate channels for
+both the target antigen and DAPI.
+2.13 Establishment of mouse acute
+infection model
+Male C57BL/6 mice (6–8 weeks old) were randomly assigned
+to
+groups
+and
+labeled.
+They
+fasted
+for
+12
+h
+prior
+to
+experimentation but had free access to water. An LPS solution
+at 5 mg/kg was prepared according to each mouse’s body weight,
+then diluted with normal saline. Intraperitoneal injection was
+performed using a syringe positioned slightly to the side of the
+lower abdominal midline; the injection volume was minimized to
+reduce the risk of organ damage. Afterward, mice were placed in a
+warm setting and closely monitored for body temperature, weight,
+activity, and overall condition, with prompt intervention for any
+abnormalities. All mice were euthanized at 7 days post-infection
+Frontiers in Bioengineering and Biotechnology
+frontiersin.org
+04
+Wang et al.
+10.3389/fbioe.2025.1596143
+FIGURE 1
+Analyzing the interaction between mesenchymal stem cells and hematopoietic stem cells in the jawbone. (A) Mandibles from 6-weeks-old C57BL/
+6 mice were processed using mechanical shear and collagenase digestion to create single-cell suspensions, followed by high-throughput single-cell
+RNA sequencing (ScRNA-seq). (B) UMAP-based dimensionality reduction clusters the cells into distinct groups. (C) Bubble plot illustrating the expression
+of characteristic genes across different clusters. (D) Intercellular communication network showing ligand–receptor interaction weights. (E) Gene
+Ontology (GO) enrichment bar chart depicting key biological pathways. (F) Representative multiplex immunoﬂuorescence images highlighting Sca-1
+(green), TdTomato (red), and DAPI (blue) signals within mandible tissue.
+Frontiers in Bioengineering and Biotechnology
+frontiersin.org
+05
+Wang et al.
+10.3389/fbioe.2025.1596143
+through intraperitoneal administration of 200 mg/kg sodium
+pentobarbital. Unconsciousness was veriﬁed by absent pedal
+reﬂex
+prior
+to
+subsequent
+procedures,
+consistent
+with
+institutional ethical guidelines.
+2.14 ELISA
+Peripheral serum was collected from mice, and the cell-free
+supernatants were stored at −80°C until analysis. Samples were
+diluted with PBS at the speciﬁed ratio and the concentrations of
+IL-6 and IFN-γ were measured using commercially available
+ELISA
+kits
+(Biolegend)
+according
+to
+the
+manufacturer’s
+instructions. During the assay, a microplate reader (BioTek
+Epoch) was used to measure the optical density (OD) of both
+standards and samples, and cytokine concentrations were
+calculated
+based
+on
+the
+standard
+curve
+to
+ensure
+data
+accuracy and reproducibility.
+2.15 Statistical analyses
+All statistical assessments were carried out using GraphPad
+Prism 9, employing Student’s t-test or ANOVA to determine
+signiﬁcance. A p-value <0.05 (*p < 0.05, **p < 0.01, ***p <
+0.001, ****p < 0.0001) was considered statistically signiﬁcant.
+3 Results
+3.1 Single-cell sequencing-based analysis of
+the relationship between mesenchymal
+stem cells and hematopoietic stem cells in
+the jawbone
+In order to investigate how mesenchymal stem cells (MSCs)
+and hematopoietic stem cells (HSCs) interact within mouse
+jawbone tissue, we isolated mandibles from six-week-old adult
+mice and performed single-cell sequencing. Owing to the
+inherent hardness of jawbone, its high level of extracellular
+matrix mineralization, and the tightly connected cellular
+architecture, conventional enzymatic digestion methods often
+fail to produce single-cell suspensions from this tissue. Drawing
+on earlier publications, we adopted an optimized protocol that
+combines enzymatic digestion with mechanical disruption (Jin
+et al., 2023). Speciﬁcally, collagenase and trypsin digestion were
+paired with gentle mechanical grinding, enabling us to maximize
+cell viability and increase the yield of single cells. By applying
+this approach, we successfully obtained highly viable single-cell
+suspensions, which were then subjected to high-throughput
+single-cell transcriptome sequencing on the 10x Genomics
+platform
+to
+further
+dissect
+both
+the
+heterogeneity
+and
+functional attributes of jawbone cells (Figure 1A). We utilized
+UMAP (Uniform Manifold Approximation and Projection) for
+dimensional reduction and visualization of the resulting single-
+cell data, categorizing the cells into eight distinct clusters based
+on their gene expression patterns (Figure 1B). A bubble plot
+illustrated the expression of various genes across these clusters,
+with bubble size and color signifying gene expression levels;
+changes in size and color reﬂect the overall expression strength
+and abundance for each gene in different cell populations
+(Figure 1C). To investigate interactions among these cell
+groups, we employed CellChat to analyze the inter-cluster
+signaling. A network diagram was used to depict interaction
+weights,
+representing
+communication
+strength
+between
+different cell populations. Each node indicates a particular
+cell cluster, while the thickness and color of connecting lines
+convey the magnitude of their interactions. Notably, MSCs
+exhibited strong associations with several immune cell types,
+most prominently B cells and neutrophils (Figure 1D). Gene
+Ontology (GO) enrichment analysis of MSCs showed that key
+biological pathways such as extracellular matrix organization,
+immune effector processes, and immune response modulation
+were
+signiﬁcantly
+enriched
+(Figure
+1E).
+In
+addition,
+we
+conducted
+multiplex
+immunoﬂuorescence
+staining
+to
+characterize the spatial distribution of MSCs and HSCs in the
+mouse mandible. We employed ﬂuorescent tracer mice to label
+Col1+
+mesenchymal
+stem
+cells
+and
+their
+progeny.
+The
+ﬂuorescence signals of Tdtomato+ mesenchymal stem cells
+were
+found
+to
+be
+closely
+localized
+to
+those
+of
+Sca1+
+hematopoietic stem cells (Figure 1F). Taken together, these
+ﬁndings
+suggest
+that
+in
+the
+mouse
+jawbone
+microenvironment, there is a potential interactive relationship
+between bone marrow-derived mesenchymal stem cells and
+hematopoietic stem cells.
+3.2 Assessment of the multilineage
+differentiation potential of jawbone
+mesenchymal stem cells
+MSCs are a type of adult stem cell with multipotent
+differentiation
+capacities,
+enabling
+them
+to
+give
+rise
+to
+osteoblasts, chondrocytes, and adipocytes. While the osteogenic
+and adipogenic potentials of MSCs from long bones have been
+extensively investigated, there has been comparatively little
+systematic evaluation of the in vitro differentiation abilities of
+mouse jawbone MSCs. In light of the jawbone’s critical role in oral
+repair and regenerative medicine, we explored the in vitro
+differentiation potential of mouse jawbone MSCs. Using the
+enzymatic digestion method described previously, we obtained a
+single-cell suspension from the jawbone. After 7 days of culture,
+the adherent cells were identiﬁed as jawbone MSCs. Flow
+cytometry analysis revealed that these adherent cells strongly
+expressed the typical MSC markers CD29 and CD90, while
+being negative for the hematopoietic marker CD45 (Figure 2A).
+Following 7 days of osteogenic induction, alkaline phosphatase
+(ALP) staining indicated elevated ALP secretion. By day 14 of
+osteogenic induction, the jawbone MSCs had formed distinct
+mineralized calcium nodules (Figure 2B). RT-qPCR analyses
+showed that compared with the non-induced control group, the
+expression levels of osteogenesis-associated genes (Runx2, Osx,
+Ocn, and Alp) were signiﬁcantly upregulated and positively
+correlated
+with
+the
+induction
+period
+(Figure
+2C).
+Immunoﬂuorescence
+staining
+further
+demonstrated
+that
+osteogenic markers OPN and RUNX2 increased in expression
+Frontiers in Bioengineering and Biotechnology
+frontiersin.org
+06
+Wang et al.
+10.3389/fbioe.2025.1596143
+in a time-dependent manner (Figure 2D). When these cultured
+MSCs underwent adipogenic induction, they likewise exhibited
+robust
+adipogenic
+potential
+relative
+to
+their
+non-induced
+counterparts
+(Figure
+2E).
+Taken
+together,
+these
+ﬁndings
+indicate that by employing an optimized enzymatic digestion
+protocol, we successfully isolated and expanded jawbone MSCs
+in
+vitro,
+which
+display
+strong
+multipotent
+differentiation
+capacities.
+FIGURE 2
+Multidirectional differentiation potential of jawbone mesenchymal stem cells. (A) Flow cytometric analysis of cell surface markers CD29, CD90, and
+CD45. (B) Alkaline phosphatase (ALP) staining on day 0 vs. day 7 (upper panels) and Alizarin Red S (ARS) staining on day 0 vs. day 14 (lower panels) reveal
+progressive osteogenic maturation over time. Scale bar, 50 µm. (C) Relative mRNA levels of the osteogenic markers Runx2, Osx, Ocn, and Alp at days 0, 7,
+and 14. Bars represent the mean ± standard error; statistical signiﬁcance is indicated. (D) Immunoﬂuorescent detection of osteopontin (OPN, red)
+and RUNX2 (yellow), with nuclei counterstained by DAPI (blue), shows increased signal intensity on days 7 and 14. Scale bar, 10 µm. (E) In vitro adipogenic
+induction and differentiation of jawbone mesenchymal stem cells. Scale bar, 50 µm.
+Frontiers in Bioengineering and Biotechnology
+frontiersin.org
+07
+Wang et al.
+10.3389/fbioe.2025.1596143
+3.3 Constructing an in vitro biomimetic bone
+marrow microenvironment to validate the
+regulatory effects of jawbone mesenchymal
+stem cells on hematopoietic stem cells
+A Transwell co-culture system was established under optimized
+conditions to simulate a biomimetic bone marrow environment. MSCs
+were cultured in the upper chamber to establish the experimental
+system for studying intercellular communication. A Transwell insert
+with 0.4-µm pores permitted the exchange of soluble proteins and other
+factors while preventing direct cell–cell contact. Additionally, the entire
+system was maintained in a low-oxygen environment (5% O2) to
+approximate the hypoxic niche found in actual bone marrow. By
+reﬁning the seeding densities of MSCs and HSCs and adjusting co-
+culture duration, we further replicated the densely packed, dynamic
+interactions characteristic of bone marrow. The use of specialized stem
+FIGURE 3
+Mesenchymal stem cells from jawbone induce differentiation of hematopoietic stem cells into different types of immune cells in vitro. (A)
+Experimental schematic, IF immunoﬂuorescence. (B) Representative gating strategy. (C) Flow cytometry plots (left) and quantiﬁcation (right) showing live
+cell percentages (FVS−) under increasing MSC concentrations. (D) Proportions of B220+ B cells rise in a dose-dependent manner with higher MSC
+concentrations, illustrating the MSCs’ potential to drive B cell development. (E) CD11b+ myeloid cells also display a mild yet statistically signiﬁcant
+increase, indicative of broader hematopoietic support by jawbone MSCs. (F) CD3+ T cells exhibit a modest but notable uptick under co-culture with
+higher MSC concentrations. Bar graphs represent mean ± SEM, and asterisks denote levels of statistical signiﬁcance. Statistical analysis of the ratio and
+quantity of live cells and B cells. n = 3 for each group (*p < 0.05, **p < 0.01, ***p < 0.001 and ****p < 0.0001). “CON” refers to the group without MSCs
+addition, “×1,” “×5,” and “×10” indicate MSC-to-target cell co-culture ratios (1:1, 5:1, 10:1).
+Frontiers in Bioengineering and Biotechnology
+frontiersin.org
+08
+Wang et al.
+10.3389/fbioe.2025.1596143
+cell culture medium provided biochemical signals analogous to those of
+the endogenous marrow microenvironment, resulting in a reliable
+in vitro platform for examining how MSC-secreted factors inﬂuence
+hematopoiesis (Figure 3A). Different quantities of jawbone MSCs (5 ×
+104, 2.5 × 105, and 5 × 105 cells per well) were placed in the upper
+chamber to establish an osteogenic cell density gradient, while LSK cells
+(5 × 104 cells per well) were cultured in the lower chamber. Before co-
+culture, a standard gating strategy was used to remove nonviable cells,
+ensuring that only the targeted cell population proceeded to the
+following analyses. After 7 days, immune cells in the lower chamber
+were collected and assessed. Flow cytometry, also employing a standard
+gating procedure, was performed to track the differentiation and
+maturation of three classic immune cell populations: CD3+ T cells,
+CD11b+ myeloid cells, and B220+ B cells (Figure 3B). Results indicated
+that jawbone MSCs increased overall immune cell activity in a
+concentration-dependent
+manner
+(Figure
+3C)
+and
+likewise
+promoted the formation of diverse immune cell types (Figures
+3D–F). Notably, MSCs elevated the proportion of B cells by nearly
+threefold (Figure 3D). Taken together, these ﬁndings demonstrate that
+jawbone MSCs effectively enhance the generation of downstream
+immune cells derived from hematopoietic stem cells, particularly
+facilitating the development and survival of B cells.
+3.4 Jawbone mesenchymal stem cells
+promote the development of hematopoietic
+stem cells into B cells via Pax5
+EBF1, RAG1, IL7R, and Pax5 are critical transcription factors
+involved in B cell development, playing indispensable roles in
+FIGURE 4
+Jawbone mesenchymal stem cells promote hematopoietic stem cell generation through PAX5. (A–D) RT-qPCR is used to detect key transcription
+genes during B cell development. n = 9 for each group. (E) Immunoﬂuorescence detection of the expression abundance of Pax5 and B220 in immune
+cells. (F, G) Calculation and analysis of the Mean Fluorescence Intensity (MFI). n = 3 for each group (*p < 0.05, **p < 0.01, ***p < 0.001 and ****p < 0.0001).
+“CON” refers to the group without MSCs addition, “×1,” “×5,” and “×10” indicate MSC-to-target cell co-culture ratios (1:1, 5:1, 10:1).
+Frontiers in Bioengineering and Biotechnology
+frontiersin.org
+09
+Wang et al.
+10.3389/fbioe.2025.1596143
+immunoglobulin gene rearrangement, B cell receptor expression,
+and B cell maturation. Using RT-qPCR, we compared the expression
+of key regulatory genes under co-culture and monoculture
+conditions. The results showed that, compared to HSCs cultured
+alone, those stimulated by MSCs exhibited elevated expression of
+Ebf1, Rag1, Il7r, and Pax5 (Figures 4A–D). Among these, Pax5
+functions as a central regulator of B cell differentiation and
+maturation. Immunoﬂuorescence staining revealed that MSCs
+signiﬁcantly
+upregulated
+Pax5
+expression
+in
+hematopoietic
+lineage
+precursor
+cells,
+indicating
+their
+potential
+role
+in
+promoting
+B
+cell
+differentiation
+(Figure
+4E).
+Quantitative
+ﬂuorescence analysis revealed a pronounced positive correlation
+between MSCs density and the expression of PAX5 and B220
+(Figures 4F–G).
+3.5 Jawbone mesenchymal stem cells can
+be used to treat acute infections
+To further examine the therapeutic effects of jawbone MSCs in
+vivo, we employed a mouse model of lipopolysaccharide (LPS)–
+induced infection. Mice were divided into a control group and an
+infection group; the latter received LPS injections to elicit
+inﬂammation. Following this, infected mice were treated with
+MSCs or PBS (placebo) and monitored over a seven-day period.
+At the end of the study, survival rates and serum cytokine levels were
+evaluated (Figure 5A). Monitoring mortality revealed that the LPS
+group experienced a high death rate, whereas the MSC-treated
+group demonstrated markedly improved survival, indicating that
+MSCs confer protection against LPS-induced lethality (Figure 5B).
+Further evaluation of systemic inﬂammation was conducted by
+measuring serum IFN-γ and IL-6 levels. These analyses showed a
+marked increase in inﬂammatory cytokines in LPS-infected mice,
+which was signiﬁcantly reduced by MSC treatment, suggesting a
+notable anti-inﬂammatory effect of jawbone MSCs (Figures 5C–D).
+These ﬁndings demonstrate that in an acute LPS-induced infection
+model, jawbone MSC therapy not only improves survival rates but
+also lowers levels of inﬂammatory cytokines.
+3.6 Jawbone mesenchymal stem cells
+produce CXCL12 to regulate hematopoiesis
+To further investigate which cytokines secreted by jawbone
+MSCs
+govern
+the
+differentiation
+and
+development
+of
+hematopoietic
+stem
+cells,
+we
+performed
+an
+in-depth
+reanalysis of our previously obtained single-cell sequencing
+data of jawbone tissue. An intercellular interaction heatmap
+revealed strong associations between MSCs and hematopoietic
+stem cells (Figure 6A). By examining the relative contributions
+of paired ligand–receptor interactions, we found that the
+Cxcl2–Cxcr2 and Cxcl12–Cxcr4 axes exhibited notably higher
+contributions compared to other pairs, suggesting that these two
+pathways play a particularly signiﬁcant role in the biological
+processes
+under
+study
+(Figure
+6B).
+UMAP
+dimensional
+reduction further showed high CXCL12 expression within
+MSC
+subpopulations
+(Figure
+6C).
+Consistent
+with
+these
+observations,
+qPCR
+analyses
+demonstrated
+a
+signiﬁcant
+FIGURE 5
+Jawbone mesenchymal stem cells can be used to treat acute infections. (A) Experimental schematic. Mice were divided into a control group (no
+LPS), and an infection group that received LPS injections. Animals in the infection group were then treated with either mesenchymal stem cells (MSCs) or
+PBS for 7 days. Survival rates and serum cytokine levels were assessed. (B) Survival curves. The MSC-treated group (blue line) exhibits a markedly higher
+survival rate compared to the untreated LPS group (red line). (C, D) Serum IFN-γ and IL6 concentrations, measured via ELISA.
+Frontiers in Bioengineering and Biotechnology
+frontiersin.org
+10
+Wang et al.
+10.3389/fbioe.2025.1596143
+upregulation of Cxcl12 during the osteogenic differentiation of
+jawbone MSCs (Figure 6D). In summary, we preliminarily
+demonstrated that jawbone MSCs may regulate the function
+of HSCs through CXCL12 (Figure 6E).
+4 Discussion
+Due to their distinct differentiation pathway and unique oral
+marrow microenvironment, jaw MSCs exhibit functionalities in
+bone repair and immune modulation that markedly differ from
+those derived from long bones. Studies indicate that jawbone-
+derived bone marrow mesenchymal stem cells, in comparison
+with those from the femur, display superior osteogenic and
+angiogenic differentiation potential (Lin et al., 2021). B cells,
+which play a central role in immune regulation, antibody
+production,
+and
+adaptive
+immune
+responses,
+are
+highly
+dependent on their interactions with surrounding cells for
+development (Rastogi et al., 2022; Mauri, 2010). Osteoblasts,
+primarily
+known
+for
+their
+roles
+in
+bone
+formation
+and
+remodeling, have been shown to signiﬁcantly modulate immune
+cell development through the secretion of cytokines and growth
+factors (Long, 2011; Wen et al., 2024). Within this framework, the
+interaction between osteoblasts and B lymphocytes in the jawbone
+FIGURE 6
+Jawbone mesenchymal stem cells regulate hematopoiesis through secretory function. (A) Heatmap of ligand–receptor interplay among various cell
+populations, where deeper hues indicate stronger interactions. (B) Bar chart displaying the relative contributions of prominent ligand–receptor pairs;
+CXCL2–CXCR2 and CXCL12–CXCR4 emerge as key axes of communication. (C) UMAP visualization of single cells, color-coded by Cxcl12 expression
+levels. (D) qPCR results showing a time-dependent increase in Cxcl12 mRNA during osteogenic differentiation (days 0, 7, and 14). (E) Schematic
+summarizing the mechanism by which jawbone MSCs secrete CXCL12 to support HSCs development, thereby modulating immune function.
+Frontiers in Bioengineering and Biotechnology
+frontiersin.org
+11
+Wang et al.
+10.3389/fbioe.2025.1596143
+has gained considerable attention in the ﬁeld of osteoimmunology.
+Elucidating the molecular crosstalk between these cells within the
+jawbone
+microenvironment
+is
+critical
+for
+advancing
+our
+understanding
+of
+bone
+metabolism,
+periodontal
+disease
+progression, and bone regeneration. Furthermore, these insights
+offer new perspectives on how bone-derived signals may contribute
+to the regulation of local immune responses and broader
+systemic health.
+In our study, we provide the ﬁrst systematic description of
+the spatial relationship between osteoblasts and B cells within
+the
+jawbone
+of
+mice.
+Through
+histological
+analysis
+and
+immunoﬂuorescence labeling, we observed a close physical
+proximity between these 2 cell types, suggesting a potential
+interaction within the local microenvironment. This spatial
+adjacency implies that osteoblasts may directly inﬂuence
+B
+cell
+behavior
+through
+cell-cell
+contact
+or
+paracrine
+signaling. Furthermore, our in vitro co-culture experiments
+and subsequent analytical techniques revealed a pivotal role
+of jaw osteoblasts in promoting B cell development and
+differentiation.
+The
+experimental
+data
+demonstrate
+that
+osteoblasts exhibit a signiﬁcant capacity to support B cell
+maturation, a process mediated through the secretion of
+soluble factors. These ﬁndings underscore the importance of
+the jaw osteoblasts’ secretory functions in maintaining local
+immune homeostasis and suggest their broader role in the
+regulation
+of
+immune
+responses
+within
+the
+bone
+microenvironment.
+Since
+our
+previous studies demonstrated
+that
+BMSCs
+signiﬁcantly promote the differentiation of HSCs into B cells,
+we focused here on elucidating the mechanisms by which MSCs
+enhance B-cell development. To further clarify the molecular
+basis of jaw osteoblast-mediated B-cell regulation, we performed
+an in-depth analysis of their secretory factors and downstream
+signaling pathways. Single-cell RNA sequencing revealed that
+CXCL12 serves as the pivotal chemokine mediating the crosstalk
+between MSCs and B-cell differentiation. CXCL12, a chemokine
+predominantly secreted by MSCs, plays a pivotal role in immune
+and stem cell trafﬁcking by binding to its receptor CXCR4. As a
+multifunctional bioactive factor, CXCL12 is critically involved in
+tissue repair and immune modulation (Sudo et al., 1993; Miller
+et al., 2002). Moreover, our molecular analyses demonstrated that
+cytokines
+secreted
+by
+jaw
+osteoblasts
+can
+activate
+the
+transcriptional activity of Pax5, a master regulator in B cell
+development. Pax5 is known to drive the differentiation of
+B cells from progenitor stages to mature states (Cobaleda
+et al., 2007). Therefore, by activating the Pax5 signaling
+pathway, jaw osteoblasts provide a supportive niche that
+enhances B cell maturation and functionality.
+In this study, we employed an optimized enzymatic digestion
+approach to isolate and culture MSCs derived from the mandibles
+of adult C57 mice, and demonstrated their robust multilineage
+differentiation potential in vitro. Single-cell sequencing revealed
+a strong interplay between jawbone MSCs and HSCs. Using
+multiplex
+tissue
+immunoﬂuorescence,
+we
+observed
+that
+jawbone MSCs and HSCs were spatially adjacent within the
+mouse alveolar bone. Further development of a co-culture
+system conﬁrmed that these jawbone MSCs promote immune
+cell development and differentiation in a dose-dependent
+manner.
+RT-qPCR
+analyses
+indicated
+that
+mandibular
+osteoblasts can transcriptionally activate various B cell–related
+genes,
+including
+Ebf1,
+Rag1,
+Il7r,
+and
+Pax5;
+notably,
+Pax5 functions as a pivotal transcription factor in B cell
+development. Immunoﬂuorescence results showed that, under
+jawbone osteogenic induction, Pax5 expression was signiﬁcantly
+elevated in B cells. An in vivo infection model further
+demonstrated that jawbone MSCs provide effective therapeutic
+beneﬁts for infectious diseases.
+5 Conclusion
+Altogether, our ﬁndings suggest that murine jawbone MSCs
+secrete CXCL12 and other growth factors to establish a bone
+marrow
+microenvironment
+conducive
+to
+HSC
+survival
+and
+maturation, offering new insights into the immunomodulatory
+effects of stem cells and possible strategies for addressing
+infection-related clinical challenges.
+Data availability statement
+The original contributions presented in the study are included in
+the article/Supplementary Material, further inquiries can be directed
+to the corresponding authors.
+Ethics statement
+The animal study was approved by the Ethics Committee of
+Ninth People’s Hospital Afﬁliated to Shanghai Jiao Tong University
+School of Medicine. The study was conducted in accordance with
+the local legislation and institutional requirements.
+Author contributions
+XW: Writing – review and editing, Writing – original draft. QC:
+Writing – original draft. JS: Writing – review and editing,
+Writing – original draft. ZH: Writing – original draft, Data
+curation. ZZ: Writing – original draft. TL: Writing – original
+draft,
+Methodology,
+Data
+curation,
+Supervision.
+XH:
+Methodology,
+Writing
+–
+original
+draft,
+Supervision,
+Data
+curation. SS: Writing – original draft, Investigation, Software,
+Conceptualization.
+YL:
+Writing
+–
+original
+draft.
+HP:
+Writing – original draft. LM: Writing – review and editing. PC:
+Writing – review and editing. QD: Writing – review and editing,
+Writing – original draft. LS: Writing – review and editing,
+Writing
+–
+original
+draft.
+LJ:
+Writing
+–
+original
+draft,
+Writing – review and editing.
+Funding
+The author(s) declare that ﬁnancial support was received for the
+research and/or publication of this article. This investigation received
+multilevel ﬁnancial backing from the following sources: National
+Frontiers in Bioengineering and Biotechnology
+frontiersin.org
+12
+Wang et al.
+10.3389/fbioe.2025.1596143
+research programs: NNSFC grants (82430032, 81870740, 82071083,
+82271006, 82101048); National megaproject support: Ministry of
+Science and Technology Key R&D Program (2024YFC2510700);
+Municipal scientiﬁc support: Shanghai Science Fund (22ZR1436700)
+and STCSM International Collaboration Program (23410713600);
+Provincial research initiatives: Hainan Province Natural Science
+Foundation (824MS152); Clinical development frameworks: SHDC
+Clinical
+Innovation
+Program
+(SHDC2020CR4084);
+Institutional
+cross-disciplinary
+projects:
+SJTUSM
+Biomaterials
+Consortium
+(2022LHB02) and Biobank Development Fund (YBKB202216);
+Hospital-level
+innovation
+support:
+Ninth
+People’s
+Hospital
+Exploration Grant (JYYC003) and Talent Development Program
+(20221809); University-industry collaborative funding: SJTU Cross-
+disciplinary Research Fund (YG2023ZD14).
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be
+construed as a potential conﬂict of interest.
+Generative AI statement
+The author(s) declare that no Generative AI was used in the
+creation of this manuscript.
+Publisher’s note
+All claims expressed in this article are solely those of the authors
+and
+do
+not
+necessarily
+represent
+those
+of
+their
+afﬁliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+Supplementary material
+The Supplementary Material for this article can be found online
+at: https://www.frontiersin.org/articles/10.3389/fbioe.2025.1596143/
+full#supplementary-material
+References
+Aghaloo, T. L., Chaichanasakul, T., Bezouglaia, O., Kang, B., Franco, R., Dry, S., et al.
+(2010). Osteogenic potential of mandibular vs. long-bone marrow stromal cells. J. Dent.
+Res. 89 (11), 1293–1298. doi:10.1177/0022034510378427
+Cekici, A., Kantarci, A., Hasturk, H., and Van Dyke, T. E. (2000). Inﬂammatory and
+immune pathways in the pathogenesis of periodontal disease. Periodontol. 64 (1), 57–80.
+doi:10.1111/prd.12002
+Cobaleda, C., Schebesta, A., Delogu, A., and Busslinger, M. (2007). Pax5: the guardian
+of B cell identity and function. Nat. Immunol. 8 (5), 463–470. doi:10.1038/ni1454
+de Haan, G., and Lazare, S. S. (2018). Aging of hematopoietic stem cells. Blood 131 (5),
+479–487. doi:10.1182/blood-2017-06-746412
+Doores, K. J. (2023). Humoral immunity to phlebovirus infection. Ann. N. Y. Acad.
+Sci. 1530 (1), 23–31. doi:10.1111/nyas.15080
+Eibel, H., Kraus, H., Sic, H., Kienzler, A. K., and Rizzi, M. (2014). B cell biology: an
+overview. Curr. Allergy Asthma Rep. 14 (5), 434. doi:10.1007/s11882-014-0434-8
+Fleischmannova, J., Matalova, E., Sharpe, P., Misek, I., and Radlanski, R. (2010). Formation
+of the tooth-bone interface. J. Dent. Res. 89 (2), 108–115. doi:10.1177/0022034509355440
+Jin, A., Xu, H., Gao, X., Sun, S., Yang, Y., Huang, X., et al. (2023). ScRNA-seq reveals a
+distinct osteogenic progenitor of alveolar bone. J. Dent. Res. 102 (6), 645–655. doi:10.
+1177/00220345231159821
+Kloc, M., Halasa, M., Kubiak, J. Z., and Ghobrial, R. M. (2024). Invertebrate
+immunity, natural transplantation immunity, somatic and germ cell parasitism, and
+transposon defense. Int. J. Mol. Sci. 25 (2), 1072. doi:10.3390/ijms25021072
+Koh, B. I., Mohanakrishnan, V., Jeong, H. W., Park, H., Kruse, K., Choi, Y. J., et al.
+(2024). Adult skull bone marrow is an expanding and resilient haematopoietic reservoir.
+Nature 636 (8041), 172–181. doi:10.1038/s41586-024-08163-9
+Lin, W., Li, Q., Zhang, D., Zhang, X., Qi, X., Wang, Q., et al. (2021). Mapping the
+immune microenvironment for mandibular alveolar bone homeostasis at single-cell
+resolution. Bone Res. 9 (1), 17. doi:10.1038/s41413-021-00141-5
+Liu,Z.,Luo,X.,andXu,R.(2024).Interactionbetweenimmuno-stemduallineagesinjaw bone
+formation and injury repair. Front. Cell Dev. Biol. 12, 1359295. doi:10.3389/fcell.2024.1359295
+Long, F. (2011). Building strong bones: molecular regulation of the osteoblast lineage.
+Nat. Rev. Mol. Cell Biol. 13 (1), 27–38. doi:10.1038/nrm3254
+Mauri, C. (2010). Regulation of immunity and autoimmunity by B cells. Curr. Opin.
+Immunol. 22 (6), 761–767. doi:10.1016/j.coi.2010.10.009
+Miller, J. P., Izon, D., DeMuth, W., Gerstein, R., Bhandoola, A., and Allman, D.
+(2002). The earliest step in B lineage differentiation from common lymphoid
+progenitors is critically dependent upon interleukin 7. J. Exp. Med. 196 (5),
+705–711. doi:10.1084/jem.20020784
+Nakamura-Ishizu, A., Ito, K., and Suda, T. (2020). Hematopoietic stem cell
+metabolism during development and aging. Dev. Cell 54 (2), 239–255. doi:10.1016/j.
+devcel.2020.06.029
+Pinho, S., and Frenette, P. S. (2019). Haematopoietic stem cell activity and interactions with
+the niche. Nat. Rev. Mol. Cell Biol. 20 (5), 303–320. doi:10.1038/s41580-019-0103-9
+Rastogi, I., Jeon, D., Moseman, J. E., Muralidhar, A., Potluri, H. K., and McNeel, D. G.
+(2022). Role of B cells as antigen presenting cells. Front. Immunol. 13, 954936. doi:10.
+3389/ﬁmmu.2022.954936
+Ross, J. B., Myers, L. M., Noh, J. J., Collins, M. M., Carmody, A. B., Messer, R. J., et al.
+(2024). Depleting myeloid-biased haematopoietic stem cells rejuvenates aged immunity.
+Nature 628 (8006), 162–170. doi:10.1038/s41586-024-07238-x
+Shi, T., Jin, Y., Miao, Y., Wang, Y., Zhou, Y., and Lin, X. (2020). IL-10 secreting B cells
+regulate periodontal immune response during periodontitis. Odontology 108 (3),
+350–357. doi:10.1007/s10266-019-00470-2
+Sudo, T., Nishikawa, S., Ohno, N., Akiyama, N., Tamakoshi, M., Yoshida, H., et al.
+(1993). Expression and function of the interleukin 7 receptor in murine lymphocytes.
+Proc. Natl. Acad. Sci. U. S. A. 90 (19), 9125–9129. doi:10.1073/pnas.90.19.9125
+Wen, L., Liu, Z., Zhou, L., Liu, Z., Li, Q., Geng, B., et al. (2024). Bone and extracellular
+signal-related kinase 5 (ERK5). Biomolecules 14 (5), 556. doi:10.3390/biom14050556
+Yang, Y., Dai, Q., Gao, X., Zhu, Y., Chung, M. R., Jin, A., et al. (2024). Occlusal force
+orchestrates alveolar bone homeostasis via Piezo1 in female mice. J. Bone Min. Res. 39
+(5), 580–594. doi:10.1093/jbmr/zjae032
+Zhang, M., Liu, Y., Afzali, H., and Graves, D. T. (2024). An update on periodontal
+inﬂammation and bone loss. Front. Immunol. 15, 1385436. doi:10.3389/ﬁmmu.2024.
+1385436
+Zhong, X., Moresco, J. J., Keller, K., Lazaro, D. R., Ely, C., Moresco, E. M. Y., et al.
+(2023). Essential requirement for IER3IP1 in B cell development. Proc. Natl. Acad. Sci.
+U. S. A. 120 (46), e2312810120. doi:10.1073/pnas.2312810120
+Zou, J., Zeng, Z., Xie, W., and Zeng, Z. (2022). Immunotherapy with regulatory T and
+B cells in periodontitis. Int. Immunopharmacol. 109, 108797. doi:10.1016/j.intimp.
+2022.108797
+Frontiers in Bioengineering and Biotechnology
+frontiersin.org
+13
+Wang et al.
+10.3389/fbioe.2025.1596143

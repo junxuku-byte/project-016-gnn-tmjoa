@@ -1,0 +1,1261 @@
+A physics-informed graph neural 
+network to approximate docking-
+based binding affinity for DYRK2 in 
+Alzheimer’s drug repurposing
+Veysel Gider1 & Cafer Budak2
+Alzheimer’s disease (AD) requires the discovery of new therapeutic targets, but traditional molecular 
+docking methods for virtual screening are often computationally expensive. This study introduces 
+PhysDual-GCN, a physics-informed graph neural network designed to approximate docking-derived 
+binding affinity scores for DYRK2, an understudied yet biologically relevant target in Alzheimer’s 
+disease (AD). The model jointly processes ligand molecular graphs and a sequence-based graph 
+representation of DYRK2, while explicitly incorporating Coulomb and Lennard–Jones interaction terms 
+as analytical physical energy components. Because no experimentally measured binding affinities are 
+available for DYRK2-drug pairs, all reference labels used for evaluation were obtained exclusively from 
+widely used classical docking tools (AutoDock Vina, Smina, QVina, CB-DOCK). These tools exhibit 
+an inherent uncertainty of approximately ± 0.5–1.5 kcal/mol, which constrains the interpretability 
+of absolute deviations. PhysDual-GCN was trained solely on docking-derived scores and evaluated 
+using a strict ligand-level separation to avoid circularity during model development. Due to the 
+limited number of ligands (n = 4 FDA-approved AD drugs: brexpiprazole, donepezil, galantamine, 
+rivastigmine), the results should be viewed as agreement with computational references rather than 
+generalizable predictive performance. The model achieved low absolute errors (MAE = 0.31 kcal/mol; 
+RMSE = 0.44 kcal/mol) relative to the reference docking scores and correctly identified stronger binders 
+such as donepezil (− 10.8 kcal/mol) and brexpiprazole (− 10.0 kcal/mol). These findings demonstrate 
+that integrating physical interaction terms into a GNN framework can enhance interpretability while 
+providing a computationally efficient surrogate for classical docking workflows. Overall, PhysDual-
+GCN offers a biologically meaningful and explainable approximation tool for DYRK2 interaction 
+scoring. While the present results are constrained by the small number of compounds and the absence 
+of 3D protein features, the approach establishes a foundation for future large-scale, experimentally 
+validated studies in AD drug repurposing.
+Keywords  Physics-informed graph neural networks, Binding affinity prediction, DYRK2 kinase, Alzheimer’s 
+disease, Drug repurposing, Docking-derived interaction energies
+Alzheimer’s disease (AD) represents a significant health burden, particularly for the elderly population, with 
+numerous social and economic consequences. There are currently an estimated 50 million people living 
+with dementia worldwide, but this number is expected to rise to 152 million by 20501. AD is a devastating 
+neurodegenerative disorder that destroys cognitive function, causes memory loss and personality changes2 and 
+eventually leads to disability and death3. Despite all progress, the rapidly increasing number of Alzheimer’s cases 
+poses a major challenge and problem for global healthcare systems.
+This disease has been researched for years, but an effective treatment has not yet been found. Current 
+treatments aim to alleviate the symptoms and delay the progression of the disease, but they do not offer a cure. 
+The current state of Alzheimer’s treatment makes the development of new therapeutic approaches urgent. The 
+scientific community is currently focusing on the discovery of new biomolecular pathways that go beyond the 
+established targets.
+1Distance Education Application and Research Center, Batman University, Batman, Türkiye. 2Department of 
+Electrical-Electronic Engineering, Dicle University, Diyarbakır, Türkiye. email: veysel.gider@batman.edu.tr
+OPEN
+Scientific Reports |         (2026) 16:8357 
+1
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports
+Many strategies (such as drug repurposing) have enabled researchers to find new therapeutic uses for 
+existing drugs, leading to rapid advances in computer-aided drug discovery in recent years. The Food and Drug 
+Administration (FDA) has approved nilvadipine and losartan for heart disease and metformin and liraglutide 
+for diabetes and depression to investigate their brain-protective and cognitive function-enhancing properties in 
+the treatment of AD (Table 1). Despite all this, the mechanisms of action of drugs on the under-researched target 
+molecule dual specificity tyrosine phosphorylation regulated kinase 2 (DYRK2) are still unknown. Although 
+DYRK family kinases have been studied in various neurological contexts, DYRK2 remains significantly 
+underexplored in AD, and no experimentally validated interaction mechanisms have yet been reported.
+Methods based on artificial intelligence demonstrate considerable potential for predicting drug-target 
+interactions via established procedures34–36 emphasize that virtual screening and molecular docking utilizing 
+deep learning methodologies are crucial for contemporary drug development. Graph neural networks (GNNs) 
+are algorithmic models that facilitate the representation of molecular structures as graphs, enabling the 
+recognition of intricate topological properties and chemical bond interactions37. Research conducted by38,39, 
+and40 indicates that models employing sophisticated GNN architectures, including GraphDTA, GraphATT-
+DTA, GEFormerDTA, and DHAG-DTA, have superior prediction accuracy and biological interpretability 
+relative to conventional techniques. The integration of conventional blind docking methods with AI-enhanced 
+predictions yields findings that are both more precise and more interpretable41–44. Substantial advancements 
+have been achieved in GNN-based binding affinity predictions; nevertheless, there is a lack of targeted research 
+on DYRK2 applications. Furthermore, previous works rarely integrate explicit biophysical interaction terms into 
+GNN frameworks, leaving a methodological gap between classical scoring functions and modern deep learning 
+models.
+In addition, most existing GNN-based affinity prediction studies rely on large datasets with experimentally 
+measured binding affinities. However, in the case of DYRK2, no experimentally validated binding affinity data 
+currently exist for FDA-approved Alzheimer’s drugs, which creates a unique low-data challenge. This limitation 
+also means that previous studies offer no benchmark for DYRK2-specific predictions, reinforcing the need for 
+Drug application area
+Treatment
+Drug
+Phase and clinical status
+Cardiovascular disorders
+Cerebrovascular circulation
+Dihydroergocristine4 (DB13345)
+Research
+Hypertension
+Valsartan5 (DB00177)
+Research
+Isradipine3 (DB00270)
+Research
+Telmisartan7 (DB00966)
+Phase I (NCT02471833)
+Perindopril8 (DB00790)
+Phase II (NCT02085265)
+Losartan9 (DB00678)
+Phase III (NCT02913664)
+Carvedilol10 (DB01136)
+Phase IV (NCT01354444)
+Nilvadipine11 (DB06712)
+Phase IV (NCT02017340)
+Nimodipine12 (DB00393)
+Phase IV (NCT00814658)
+Metabolic disorders
+Diabetes mellitus
+Liraglutide13 (DB06655)
+Phase II (NCT01843075)
+Metformin14 (DB00331)
+Phase II (NCT00620191)
+Pioglitazone15 (DB01132)
+Phase II (NCT00982202)
+Benfotiamine16 (DB11748)
+Phase II (NCT02292238)
+Hypercholesterolemia
+Pitavastatin17 (DB08860)
+Phase II (NCT00548145)
+Atorvastatin17 (DB01076)
+Phase II (NCT02913664)
+Simvastatin18 (DB00641)
+Phase II (NCT01439555)
+Nervous system or mental disorders
+Erectile dysfunction
+Sildenafil19 (DB00203)
+Research
+Tadalafil20 (DB00820)
+Phase II (NCT02450253)
+Amyotrophic lateral sclerosis
+Riluzole21 (DB00740)
+Phase II (NCT01703117)
+Depressive disorder
+Paroxetine22  (DB00715)
+Research
+Parkinson’s disease
+Rasagiline23 (DB01367)
+Phase II (NCT02359552)
+Schizophrenia
+Clozapine24 (DB00363)
+Research
+Epilepsy
+Levetiracetam25 (DB01202)
+Phase II (NCT03489044)
+Urea cycle disorders
+Benzoic Acid26 (DB03793)
+Phase II (NCT01600469)
+Others
+Cutaneous T-cell lymphoma
+Bexarotene27 (DB00307)
+Phase II (NCT01782742)
+Acute promyelocytic leukemia
+Tamibarotene28 (DB04942)
+Phase II (NCT01120002)
+Infection
+Minocycline29 (DB01017)
+Phase II (NCT01463384)
+Malaria
+Methylene Blue30 (DB09241)
+Phase II (NCT02380573)
+Mast cell tumors in animals
+Masitinib31 (DB11526)
+Phase III (NCT01872598)
+Psoriasis
+Acitretin32 (DB00459)
+Phase II (NCT01078168)
+Severe acne
+Isotretinoin33  (DB00982)
+Phase II (NCT01560585)
+Table 1.  Summary of FDA-approved and investigational drugs in the treatment of AD.
+ 
+Scientific Reports |         (2026) 16:8357 
+2
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+computational surrogate models that can approximate classical docking scores when experimental references 
+are unavailable.
+Furthermore, although several works have combined machine learning with protein–ligand docking, 
+relatively few studies explicitly incorporate physical interaction components—such as Coulombic electrostatics 
+or Lennard–Jones potentials—into the learning process, creating a methodological gap between physics-based 
+scoring functions and purely data-driven architectures. This lack of hybrid approaches is particularly relevant for 
+understudied protein targets like DYRK2, where physically meaningful constraints may help improve stability 
+and interpretability in low-data scenarios.
+In this study, a GNN model (PhysDual-GCN) incorporating physical energy calculations was developed 
+to predict the binding affinities between DYRK2, the target protein selected for the treatment of Alzheimer’s 
+symptoms, and four FDA-approved drugs (brexpiprazole, donepezil, galantamine, and rivastigmine). Our 
+approach differs from standard methods by acting as a computational surrogate that learns the underlying 
+physical scoring functions of classical docking tools. This allows for the rapid identification of strong DYRK2 
+interactions, significantly accelerating the screening process while maintaining consistency with established 
+physics-based simulations. Instead of relying solely on statistical patterns, our model integrates physical energy 
+terms to bridge the gap between accurate but slow docking simulations and fast but often uninterpretable deep 
+learning predictions. Our model predictions outperformed established classical and AI-based docking methods 
+such as SeamDock (AutoDock, Vina, QVina)45,46, CB-DOCK47 and DeepPurpose48.
+However, it is important to clarify that no experimentally measured binding affinities exist for the DYRK2-
+Alzheimer’s drug pairs. Consequently, all reference values used in this study are docking-derived computational 
+estimations rather than true experimental measurements. These docking tools typically exhibit an intrinsic 
+uncertainty of approximately ± 0.5–1.5 kcal/mol, which should be considered when interpreting performance. 
+Moreover, because only four ligands (n = 4) are available for evaluation, our claims are limited to consistency 
+with these computational references and do not imply broad generalizability.
+The rest of this manuscript is organized as follows: section “Methods” presents the methodology, data, and 
+GNN architecture; section “Results explains the results along with the experimental design and comparative 
+analysis; section “Discussion” discusses the main findings and limitations; and section “Conclusions and future 
+work” concludes the study and provides directions for future research.
+Methods
+The methodological framework of this study is structured to develop a physics-informed GNN model (PhysDual-
+GCN) capable of predicting the binding affinities between DYRK2 and four FDA-approved Alzheimer’s drugs. 
+The methodological workflow includes data preparation, feature extraction, physical energy calculations, model 
+architecture, and training procedures. Importantly, no experimentally measured binding affinities exist for 
+DYRK2-drug pairs; therefore, all reference values used for evaluation were obtained exclusively from molecular 
+docking tools and were not used during model training or hyperparameter optimization to avoid circularity.
+Flowchart
+The main objective of this study is to show how a GNN model based on physics knowledge (Coulomb and 
+Lennard–Jones potential) can predict the binding affinities of FDA-approved AD drugs to DYRK2, a biologically 
+important but understudied therapeutic target. By integrating physical energy terms into the GNN framework, 
+we propose an innovative and biologically interpretable AI-based approach for drug discovery.
+Figure 1 illustrates the proposed approach, which enhances a physics-informed GNN model by explicitly 
+incorporating physics-based energy calculations (e.g., Coulomb and Lennard–Jones potentials) alongside the 
+GNN’s learned predictions. Drug SMILES and DYRK2 sequence data are provided both as input to the GNN and 
+as input for analytical physical energy computations. The outputs of these two complementary components are 
+fused to yield a more robust and accurate prediction of binding energy scores, leveraging both learned patterns 
+and established physical interaction principles.
+The study was designed with a systematic, four-stage workflow:
+	 (i)	 Data preprocessing—ensuring accurate representation and format conversion of drugs and proteins—is 
+critical for model learning.
+	(ii)	 Modeling—designing a physically informed GNN architecture for biologically meaningful predictions.
+	(iii)	 Training and evaluation—learning model parameters, monitoring loss curves and evaluating performance 
+against objective metrics.
+	(iv)	 Comparative analysis—demonstrating the advantages of GNN predictions by comparing them with classi­
+cal and other AI-based methods.
+The sequential and consistent application of these steps ensures the scientific validity and reproducibility of the 
+study.
+Ligand and target representations
+The drugs utilized in this investigation were depicted using the Simplified Molecular Input Line Entry System 
+(SMILES), which conveys molecular structures in a two-dimensional, succinct, and reversible format. SMILES 
+facilitates efficient storing and processing while maintaining essential chemical features, including atom kinds, 
+bond types, and aromaticity. This property renders it the most prevalent type of representation. The RDKit 
+package was utilized to transform SMILES sequences into a molecular graphical representation, with atoms 
+represented as nodes and bonds as edges. Moreover, the model’s input format was engineered to accommodate 
+other formats, not only SMILES.
+Scientific Reports |         (2026) 16:8357 
+3
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+The target protein, DYRK2, was modeled as a sequential graph constructed from the amino acid sequence. 
+Each residue in the sequence is represented as a node, and adjacent residues are connected by edges that reflect 
+the biological sequence order. This representation preserves the topological context of the protein. This is also 
+very important to capture the interaction potential of the protein in a biologically meaningful way.
+Graph-based representations show the connections between nodes (atoms or residues) and the structural 
+effects of binding sites better than traditional vector-based encodings, which enables the model to more effectively 
+learn and predict biologically meaningful drug–target interactions. No ligand in the dataset was shared across 
+training/validation/testing partitions, ensuring strict ligand-level separation.
+Datasets
+In this study, four FDA-approved drugs (brexpiprazole, donepezil, galantamine and rivastigmine) were used 
+for the symptomatic treatment of AD. The molecular structures, drug properties, mechanisms of action and 
+approval status of these drugs were extracted from the DrugBank and PubChem databases in SMILES format 
+(see Table 2). The target protein, DYRK2, is a kinase involved in the development and functional regulation 
+of neurons and was extracted from the Protein Data Bank (PDB) and UniProt. The amino acid sequence and 
+structure were converted into a diagram to model the interaction of the drugs with the protein in a meaningful 
+way.
+In creating the dataset, we focused on three main points:
+	(1)	 Selection of Alzheimer’s drugs that are currently used in clinics and have proven safety,
+	(2)	 Selection of DYRK2 as an important but less researched target for treatment
+Drug
+Drug properties
+Brexpiprazole
+This is an atypical antipsychotic medication prescribed to alleviate agitation associated with Alzheimer’s disease. Potential side effects may include symptoms 
+similar to a cold, dizziness, elevated blood sugar levels, and an increased risk of stroke. It is usually taken once daily in tablet form50,51
+Donepezil
+This cholinesterase inhibitor is prescribed to manage symptoms across the spectrum of Alzheimer’s disease severity by preventing the breakdown of 
+acetylcholine in the brain. Potential side effects include nausea, vomiting, diarrhea, insomnia, muscle cramps, fatigue, and weight loss. Administration typically 
+involves a once-daily tablet regimen50,51
+Galantamine
+This medication is a cholinesterase inhibitor used to manage mild to moderate Alzheimer’s symptoms. It functions by impeding the breakdown of 
+acetylcholine and stimulating nicotinic receptors in the brain to augment acetylcholine release. Potential side effects may include nausea, vomiting, diarrhea, 
+decreased appetite, weight loss, dizziness, and headache. It is available in extended-release capsule form for once-daily administration or in tablet or liquid 
+form for twice-daily dosing50,51
+Rivastigmine
+This cholinesterase inhibitor is employed to manage symptoms ranging from mild to severe in Alzheimer’s disease by impeding the breakdown of acetylcholine 
+and butyrylcholine in the brain. Possible adverse effects encompass nausea, vomiting, diarrhea, weight loss, indigestion, reduced appetite, anorexia, and muscle 
+weakness. Administration typically involves either twice-daily capsules or once-daily application via a transdermal patch replaced daily50,51
+Table 2.  Drug-related public drugs.
+ 
+Fig. 1.  Illustrates the flowchart the proposed approach for analyzing drug–protein interactions.
+ 
+Scientific Reports |         (2026) 16:8357 
+4
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+	(3)	 Generation of Computational Reference Labels: Due to the scarcity of high-throughput wet-lab experi­
+mental binding data for DYRK2, we employed consensus docking scores generated by AutoDock Vina 
+as high-confidence pseudo-labels (computational ground truth) for model training and evaluation. This 
+strategy allows the GNN to learn the complex non-linear mapping of physical interactions defined by the 
+docking scoring function.
+Additionally, the chemical diversity of the drugs chosen for our study was illustrated using the Tree MAP 
+(TMAP) algorithm, which depicted their distribution within chemical space, and both two-dimensional (2D) 
+and three-dimensional (3D) molecular structures were produced to enable further analysis. The computational 
+study was completed using TMAP visualization to distinctly illustrate the chemical space encompassed by 
+the selected ligands. This visualization methodology enables an intuitive examination of the structural and 
+physicochemical characteristics of the compounds, hence elucidating the rationale for their selection49. The 
+primary use of TMAP visualization in our study is solely as an explanatory and descriptive instrument, without 
+influencing computational predictions or contributing to quantitative outcomes.
+The combination of data sources and formats yields a robust, biologically significant, and appropriate dataset 
+for the analysis of molecular structures and the identification of drugs pertinent to AD.
+The drugs listed in Table 2 are promising as alternative or complementary treatment options to existing 
+therapies as they target the novel protein DYRK2. Investigating these compounds at the molecular level opens up 
+new possibilities for expanding therapeutic options, optimizing drug delivery and increasing efficacy.
+The TMAP image in Fig. 2 shows two-dimensional visualizations of the relevant drugs in the drug space. 
+The TMAP method enables the separate visualization of the different properties of drugs and provides access to 
+general information about them.
+Using the TMAP algorithm, we created a visual representation of the chemical space of the drugs selected 
+for analysis and analyzed drug pairs. TMAP provided us with an overview of the drug pairs in the datasets and 
+allowed us to visualize the relevant drugs. Figure 3 shows the position of the drugs on the TMAP map and 
+facilitates the understanding of the chemical similarities and relationships between the drugs.
+Figure 4 illustrates the two-dimensional and three-dimensional chemical structures of the drugs. This 
+graphic depicts the molecular structure of the drugs, illustrating its atoms, bonds, and chemical groups. The 
+two-dimensional structure of pharmaceuticals is employed to comprehend their chemical composition and 
+structural characteristics. These visualizations are essential instruments in drug design and drug interaction 
+research.
+The amino acid sequence of DYRK2 was obtained from UniProt and used to construct a sequence-based 
+protein graph. Each amino acid residue was treated as a node, and peptide bonds were represented as edges. 
+Although this approach does not capture 3D spatial conformations, it aligns with common practices in sequence-
+based GNN representations. Furthermore, no experimentally measured DYRK2–ligand binding data were 
+available to directly parameterize 3D interactions, which is acknowledged as a limitation. A secondary contact 
+graph was generated from predicted 3D coordinates (AlphaFold2 model) and used in ablation experiments but 
+not in the main architecture.
+Table 3 shows the structure of the protein DYRK2, which belongs to the protein kinase family and plays a 
+role in cell growth and/or development. This protein is characterized by its ability to autophosphorylate at kinase 
+Fig. 2.  FDA-approved drugs visualization using TMAP (Tree MAP) method.
+ 
+Scientific Reports |         (2026) 16:8357 
+5
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+domains and tyrosine residues. DYRK2 exhibits tyrosine autophosphorylation and catalytic phosphorylation 
+of histones H3 and H2B in vitro. These results suggest that DYRK2 is a potential therapeutic target for AD and 
+should be investigated further.
+Figures 5 and 6 present data on the target protein DYRK2, which was selected as a target among all proteins, 
+similar to drugs, and represents an important research area for understanding its interaction with DYRK2.
+Figure 6 illustrates DYRK2 protein kinase along with important structural details. The structural information 
+provided in Fig. 7 is essential for understanding the mechanism of action of DYRK2 and its potential as a drug 
+target. It assists researchers and drug developers in designing potential drug candidates that can interact with 
+and inhibit DYRK2, which could lead to the development of effective therapeutics against AD and contribute to 
+the management of AD.
+GNN model and mathematical formulation
+GNNs, the recommended method, have recently offered a promising approach in drug discovery. GNNs 
+process graph structures using neighborhood matrix representations for feature extraction, drawing on the 
+neural network principles of CNNs and RNNs. The development of GNNs has led to the creation of Graph 
+Convolutional Networks (GCNs) and Graph Attention Networks (GATs), which apply various techniques to 
+collect information from neighboring nodes and create node-level or graph-level representations, as well as 
+GraphSAGE. GCNs are widely used due to their simple architectures and their ability to achieve excellent results 
+in various applications.
+GNNs fundamentally comprise numerous interconnected components that collaboratively process and 
+analyze data according to their graph structures. The distinct elements of GNNs execute diverse functions such 
+as feature extraction, dimensionality reduction, and hierarchical representation learning, enabling GNNs to 
+excel in drug discovery, protein-ligand binding prediction, and other graph-related challenges. Fully connected 
+layers are utilized for final predictions, whereas aggregation layers execute functions like graph classification37.
+GNNs have demonstrated their analytical capabilities in several drug discovery applications, especially in 
+the formulation of therapies for AD52–54. GNNs excel in processing graph-structured data, rendering them 
+suitable for predicting drug-target interactions and identifying prospective disease candidates for Alzheimer’s 
+and Parkinson’s disorders.
+The GNN model extracts molecular graph characteristics through its distinctive architecture. The GNN 
+model predicts drug–protein binding affinities by integrating node and edge properties together with their 
+relationships. A GNN functions according to the comprehensive method depicted in Fig. 8.
+The fundamental GNN has two main approaches: node embedding and information aggregation function.
+The fundamental principle of the node embedding method is that each node is positioned in relation to its local 
+neighbors. The positioning of a node is directly affected by the locations and characteristics of its neighboring 
+nodes. The embedding of each node is influenced by its neighboring nodes, facilitating the capturing of the 
+node’s local structural characteristics. The information-gathering function illustrates the process of collecting 
+data from the neighboring nodes utilizing the neural network architecture. In this phase of the methodology, 
+each node is modified based on the attributes and data of its neighboring nodes, and the aggregated information 
+Fig. 3.  Visualized structures of selected drugs from all FDA-approved drugs.
+ 
+Scientific Reports |         (2026) 16:8357 
+6
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+is integrated into its own update. This guarantees the transmission of information among nodes, as each node 
+autonomously updates itself based on the data received from adjacent nodes.
+These two primary techniques are the essential concepts that facilitate the performance and efficacy of GNNs. 
+The node embedding and information aggregation capabilities allow GNNs to effectively analyze graph data 
+and represent intricate structural relationships. This renders GNNs potent instruments for comprehending and 
+uncovering the interactions and relationships among nodes in graph data.
+The GNN model utilized in this article is based on a comprehensive mathematical formulation, which is 
+elaborated upon below.
+Figure 9 shows the graph G = (V, E), where V  stands for the set of nodes and E ⊆V xV  for the set 
+of edges. Each node, vi ∈V  is characterized by a vector of attributes, li. while each edge, (vi, vj) ∈E is 
+characterized by a vector of attributes, ei,j. This configuration defines a neighborhood function, Ne(vi), which 
+efficiently assigns a set of neighboring nodes to each, vi ∈V  as, Ne(vi) = {vj : (vi, vj) ∈E55,56.
+Fig. 4.  2D and 3D representation of drugs.
+ 
+Scientific Reports |         (2026) 16:8357 
+7
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+For each node, vi in the set V , an initial state, si is first assigned as, s0
+i = li. The iterative update procedure 
+for all vertices runs simultaneously until either convergence is achieved or a maximum number of iterations is 
+reached. During this process, each node actively contacts its neighboring nodes by exchanging messages. At each 
+step k, the state, sk
+i of the vertex, vi is determined based on its previous state, sk−1
+i
+and the messages received 
+from its neighboring nodes, vj ∈Ne(vi) as given in Eq. (1)55,56.
+	
+sk
+i = F (
+sk−1
+i
+, A ({M (vi, vj, k) : vj ∈Ne (vi)}))
+
+(1)
+In the context of Eq. (1), the message passing function M is responsible for defining the message sent from vertex 
+vj to vi at step k. Additionally, the neighborhood aggregation function A plays a role in collecting messages 
+from all neighbors of vertex vi. Lastly, the state update function, F is employed to calculate the new state of the 
+vertex. Our specific formulation for M involves concatenating the state of the source node sk−1
+j
+ with the label 
+of the edge ei,j (between vertices vi and vj), as represented in Eq. (2).
+	
+M (vi, vj, k) = (
+sk−1
+j
+, ei,j
+)
+
+(2)
+In Eqs. (3–4), two distinct neighborhood aggregation functions are used in the context of GNNs. These functions 
+determine how incoming messages from neighboring nodes are aggregated to update the state of a specific node 
+in the graph.
+Fig. 5.  Representation of protein DYRK2 among all proteins.
+ 
+Protein structure features
+Description
+Family
+Protein kinase
+Role
+Cellular growth and/or development
+Structural similarity
+Kinase domains
+Autophosphorylation
+Ability to autophosphorylate on tyrosine residues
+Substrates
+Histones H3 and H2B
+Catalytic activity
+Demonstrated in vitro tyrosine autophosphorylation and phosphorylation of histones H3 and H2B
+Sequence
+MHHHHHHSSGVDLGTENLYFQSMGKVKATPMTPEQAMKQYMQKLTAFEHHEIFSYPEIYFLGLNAKK 
+RQGMTGGPNNGGYDDDQGSYVQVPHDHVAYRYEVLKVIGKGSFGQVVKAYDHKVHQHVALKMVR 
+NEKRFHRQAAEEIRILEHLRKQDKDNTMNVIHMLENFTFRNHICMTFELLSMNLYELIKKNKFQGFSL 
+PLVRKFAHSILQCLDALHKNRIIHCDLKPENILLKQQGRSGIKVIDFGSSCYEHQRVYTYIQSRFYRAPEVIL 
+GARYGMPIDMWSLGCILAELLTGYPLLPGEDEGDQLACMIELLGMPSQKLLDASKRAKNFVSSKGYPRYCT 
+VTTLSDGSVVLNGGRSRRGKLRGPPESREWGNALKGCDDPLFLDFLKQCLEWDPAVRMTPGQALRHP 
+WLRRRLP
+Table 3.  Protein structure of DYRK2.
+ 
+Scientific Reports |         (2026) 16:8357 
+8
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+	
+Aavg = ({M (vi, vj, k) : vj ∈Ne (vi)}) =
+1
+Ne(vi)
+
+
+j:vj∈Ne(vi)
+M (vi, vj, k) 
+(3)
+	
+Asum = ({M (vi, vj, k) : vj ∈Ne (vi)}) =
+∑
+j:vj∈Ne(vi)
+M (vi, vj, k)
+(4)
+Based on the introduction of the hyperparameter coefficient “a,” we can incorporate a choice between the 
+aggregation functions Aavg and Asum,. By assigning values of 
+1
+|Ne(vi)|  or 1 to “a,” respectively, we can select the 
+appropriate aggregation function. Consequently, the updated form of Eq. (1) is expressed as shown in Eq. (5).
+Fig. 7.  Structure of DYRK2 protein kinase.
+ 
+Fig. 6.  Representation of protein DYRK2 among all proteins.
+ 
+Scientific Reports |         (2026) 16:8357 
+9
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+	
+sk
+i = F
+
+sk−1
+i
+, a
+∑
+j:vj∈Ne(vi)
+(
+sk−1
+j
+, ei,j
+)
+
+
+(5)
+The state update process in the GNN model involves iteratively updating the states of vertices in the graph 
+until convergence or reaching a maximum iteration number (kmax). The state of each vertex vi at iteration k is 
+denoted as sk
+i , and it is calculated based on its previous state sk−1
+i
+ and the received messages from its neighbors.
+The convergence of the state update process is assessed by evaluating if the distance between the current 
+state, sk
+i , and the preceding state, sk−1
+i
+, becomes insignificant, indicating that the change in state from one 
+iteration to the subsequent is minimal. This can be quantified using the Euclidean norm, represented as, ?.?. The 
+convergence criterion is expressed as: ?sk
+i −sk−1
+i
+? <∈. ∈, where ϵ  is a minor threshold value and serves as 
+a hyperparameter that defines the degree of difference deemed insignificant. When the convergence criterion is 
+satisfied for all vertices in the graph, specifically, ?sk
+i −sk−1
+i
+? <∈. ∈ for all vi ∈V , the state update process 
+is said to have converged, and the final states sk
+i  are regarded as the converged states of the vertices.
+However, if the convergence condition is not met after kmax iterations, the state update process stops 
+regardless of whether the states have fully converged. In such cases, the states sk
+i  at iteration kmax are considered 
+the final states of the vertices.
+It’s important to note that the values of ε and kmax are hyperparameters that need to be carefully chosen 
+during the model training process. Setting ϵ  too small may result in slower convergence or even premature 
+convergence, while setting it too large may lead to less accurate results. Similarly, setting kmax too small may 
+not allow enough iterations for the states to converge fully, while setting it too large may lead to unnecessary 
+computational overhead. Therefore, these hyperparameters should be tuned and optimized based on the specific 
+problem and dataset at hand. Our model consists of two main branches. These are.
+•	 The drug part: Our model uses two Graph Convolutional Networks (GCN) to process the molecular graph.
+•	 Protein part: The protein sequence is encoded as a simple graph with linear residue connections.
+Fig. 9.  Structural properties of a graph.
+ 
+Fig. 8.  General principle of GNN.
+ 
+Scientific Reports |         (2026) 16:8357 
+10
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+The hidden features of both parts are combined and fused. Our model includes physical interaction energies via 
+Coulomb and Lennard–Jones potentials, calculated from atomic distances and embedded as auxiliary properties. 
+The final prediction layer gives the binding energy in kcal/mol.
+Physical energy contributions
+In order to increase the biological likelihood of predictions, we include two basic physical energy terms in 
+addition to the learned properties of our model. These are: Coulomb potential and Lennard–Jones potential. 
+These contributions explicitly take into account electrostatic and van der Waals interactions between atoms and 
+ground the predictions in fundamental biophysical principles.
+Coulomb and Lennard–Jones interactions
+The Coulomb potential models the electrostatic interaction between charged particles57:
+	
+ECoul =
+∑
+i,j
+qiqj
+4πε0εrrij 
+(6)
+where qi​ and qj​ are the partial charges of atoms i and j, rij​ is the distance between them, and ϵ 0 (Epsilon)​ is 
+the permittivity constant.
+•	 Ligand partial charges qi were computed using Gasteiger charge assignment.
+•	 Protein residue atomic charges were obtained from the AMBER ff14SB force field.
+•	 The dielectric constant was set to ϵ r = 4, following standard implicit solvent approximations.
+•	 Distances rijwere measured in ångströms (Å).
+•	 Units were converted to kcal/mol using standard electrostatic conversion factors.
+Lennard–Jones Interaction.
+The Lennard–Jones potential defines the balance between attractive and repulsive van der Waals forces as in 
+Eqs. 7 and 857–59:
+	
+ELJ =
+∑
+i, j
+4εij
+[(
+σij
+rij
+)12
+−
+(
+σij
+rij
+)6]
+
+(7)
+•	 σ  and ϵ  parameters for ligand atoms were obtained from GAFF, while protein parameters were taken from 
+ff14SB.
+•	 Lorentz–Berthelot combining rules were applied for mixed atom types.
+•	 An 8 Å cutoff distance was used, with a smooth switching function applied between 6 and 8 Å.
+•	 All LJ contributions were scaled to maintain numerical stability and prevent gradient explosion.
+The total physical energy contribution is calculated as the sum of these two terms:
+	
+Ephys = EC + ELJ
+(8)
+Incorporating these physical energy terms ensures that the model not only learns statistical patterns from the 
+data but also respects biophysical interactions underlying drug–protein binding, resulting in more interpretable 
+and biologically meaningful predictions.
+Differentiability
+Both Coulomb and Lennard–Jones energy functions were implemented as differentiable PyTorch modules, 
+allowing gradients to flow back through all physical calculations.
+Scaling
+Energy values are min–max normalized to [0,1] before concatenation with learned embeddings.
+Implementation details of physical terms
+Partial atomic charges for ligands were calculated using the Gasteiger–Marsili method via RDKit, while DYRK2 
+residue charges were obtained from the AMBER ff14SB force field to maintain unit consistency across protein–
+ligand electrostatics. Coulombic interactions were evaluated using a uniform dielectric constant (ϵ = 4), a widely 
+used approximation for protein interior electrostatics in docking-based scoring functions. Lennard–Jones van 
+der Waals parameters (σ and ϵ ) were derived from GAFF and AMBER atom type libraries and applied under 
+the standard 12–6 formulation in Eqs. (6–8). A non-bonded cutoff distance of 8 Å was selected to approximate 
+short-range interaction behavior while preserving computational efficiency. All physical energy contributions 
+were expressed in kcal/mol and min–max normalized prior to concatenation with GNN-learned embeddings to 
+ensure numerical stability and compatibility with the model’s latent feature space.
+Model architecture
+The proposed model consists of three main phases:
+Scientific Reports |         (2026) 16:8357 
+11
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+	1.	 Feature extraction: molecular and protein representations are encoded into graph-based latent features by 
+the relevant branches of the network.
+	2.	 Feature fusion and enrichment: The extracted features are combined and enriched with physical energy 
+terms (Coulomb and Lennard–Jones potentials) to increase biological interpretability.
+	3.	 Prediction: The combined feature vector is run through fully concatenated layers to determine the predicted 
+binding energy in kcal/mol.
+The drug branch consists of two GCN layers that process the molecular graph of the ligand. The protein branch 
+encodes the linear sequence of amino acids as a simple graph and preserves sequential dependencies. After 
+embedding, the latent representations from both branches are combined with the calculated physical interaction 
+energies and passed through dense layers to obtain the final regression output.
+Figure 10 illustrates the structural features and parameters of the proposed method, namely the GNN model. 
+Configured in three stages, the first stage involves obtaining the SMILES structures of each drug (four different 
+drugs were utilized) and the protein sequence (DYRK2). In the second stage, embeddings for these input data 
+types (molecule and protein) are generated. Finally, in the third stage, the model’s other parameters are adjusted. 
+The output data consists of drug–protein binding energies.
+Fig. 10.  Architecture and key parameters of the proposed physics- informed GNN model for the prediction of 
+drug–protein binding affinity.
+ 
+Scientific Reports |         (2026) 16:8357 
+12
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+Comparative methods
+To compare our proposed PhysDual-GCN model, we compared the model’s prediction results with several 
+established computational methods. Classic docking tools such as SeamDock, AutoDock, Vina, and QVina rely 
+on geometric optimisation and empirical scoring functions to predict binding energies. Although effective, these 
+methods have limited ability to capture the full topological and contextual relationships within molecular and 
+protein structures. CB-DOCK has also been included as a blind docking approach that prioritises conformational 
+sampling of the binding site.
+In addition, Deep Purpose—a deep learning framework based on convolutional neural networks—was used 
+as a representative AI-based method for drug–target interaction prediction. However, DeepPurpose does not 
+explicitly incorporate physical interaction terms and primarily learns from statistical patterns in the data.
+The new GNN model can combine the structure of graphs and physical interactions, which helps it make 
+predictions that are more relevant and easier to understand, showing clear benefits compared to older methods 
+and other AI-based techniques.
+Training and evaluation
+All experiments were conducted on a machine with 32 GB RAM and an NVIDIA® RTX™ 3060 GPU, using 
+Python and PyTorch Geometric. The PhysDual-GCN was trained using the following settings:
+•	 Optimizer: Adam.
+•	 Learning rate: 5 × 10−4.
+•	 Weight decay: 1 × 10−5.
+•	 Dropout: 0.2.
+•	 Batch size: 1 ligand–protein pair.
+•	 Epochs: 300.
+•	 Early stopping: patience of 30 epochs.
+Hyperparameters were selected using randomized search. During hyperparameter tuning, docking-derived 
+reference scores were not used for model selection, ensuring a clean separation between development and 
+evaluation.
+All models were trained using five different random seeds to assess variability, and performance metrics were 
+averaged across runs. No docking-derived energies were ever used for training or model selection.
+The GNN predictions were evaluated against results from classical docking tools (SeamDock, AutoDock, 
+Vina, QVina, CB-DOCK) and the AI-based DeepPurpose framework for benchmarking purposes using the 
+same drug–target pairs. The proposed model’s performance was evaluated objectively through this comparative 
+assessment against established approaches.
+Performance evaluation
+The predictive performance of the model was assessed using standard regression metrics to quantify accuracy 
+and reliability:
+Mean absolute error (MAE)  This equation measures the average magnitude of absolute errors. It provides an 
+interpretable indicator of the overall forecast error60.
+	
+MAE = 1
+n
+n
+
+i=1
+|yi −yi|
+(9)
+Mean squared error (MSE)  In this equation, unlike the previous one, it provides an interpretable indication of 
+larger errors by calculating the squared differences before taking the mean60.
+	
+MSE = 1
+n
+n
+
+i=1
+(yi −yi)2
+(10)
+Root mean squared error (RMSE)  Represents the square root of MSE, maintaining the original unit of meas­
+urement60.
+	
+RMSE =
+√
+MSE
+(11)
+Coefficient of determination (R2)  It calculates by taking the square root of the MSE60.
+	
+R2 = 1 −
+
+(yi −yi)2
+
+(yi −¯y)2 
+(12)
+The three metrics evaluate distinct aspects of prediction quality because MAE shows total error size while 
+RMSE emphasizes big deviations and R2 measures model explanatory power. The three metrics together offer 
+a complete assessment of how well the model predicts drug–target binding affinities both precisely and reliably.
+Scientific Reports |         (2026) 16:8357 
+13
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+Avoiding circularity in evaluation
+Since the model uses docking-derived scores as reference values only for final testing, care was taken to avoid 
+any circular dependencies:
+•	 No docking value was used during training or validation.
+•	 No docking value influenced early stopping or hyperparameter tuning.
+•	 All comparisons to docking tools were performed strictly post-training.
+This ensures that PhysDual-GCN functions as a surrogate approximator rather than a tool that implicitly 
+memorizes docking values.
+Results
+The ability to predict drug–target interactions with high accuracy is emerging as a critical drug development 
+requirement for under-researched targets such as DYRK2 in AD. This allows researchers to screen for new 
+ligands and repurpose existing drugs for novel therapeutic applications. These approaches could accelerate 
+research and reduce costs, especially in diseases such as AD, where effective and safe treatments are urgently 
+needed. Because no experimentally measured binding affinities exist for these DYRK2-drug pairs, all evaluations 
+in this section rely exclusively on docking-derived reference values. Therefore, the results presented here reflect 
+agreement with computational docking tools rather than experimental validation.
+Figure 11 illustrates the training loss curve across epochs. MSE decreases sharply during the first 20 epochs, 
+indicating rapid learning and convergence to near-optimal parameters. Afterward, the loss stabilizes and remains 
+low and steady throughout the remaining epochs. This behavior suggests that the model achieves balanced 
+learning and does not exhibit overfitting, even after 300 epochs of training. The smooth convergence also reflects 
+the stabilizing effect of incorporating physics-based interaction terms in the model.
+Table 4 summarizes the binding energies of the selected drugs with DYRK2. Negative binding energies reflect 
+thermodynamically stable drug–target interactions, with more negative values indicating stronger binding 
+affinity. Again, these values originate from docking tools rather than experimental assays, and thus represent 
+computational approximations.
+Rank
+Drug-name
+Target protein-name
+Binding score
+ kcal/mol
+1.
+Brexpiprazole
+DYRK2
+− 10.00
+2.
+Donepezil
+DYRK2
+− 10.80
+3.
+Galantamin
+DYRK2
+− 7.6
+4.
+Rivastigmine
+DYRK2
+− 6.9
+Table 4.  drug–protein binding energies (kcal/mol).
+ 
+Fig. 11.  Training loss values over 300 epochs showing convergence and stability.
+ 
+Scientific Reports |         (2026) 16:8357 
+14
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+The results show that donepezil has the strongest binding affinity to DYRK2 (− 10.80 kcal/mol) followed 
+by brexpiprazole (− 10.00 kcal/mol). These drugs probably form very stable interactions with DYRK2, which 
+makes them good candidates for further investigation as potential inhibitors of this little studied kinase in AD. 
+However, these interpretations should be viewed cautiously, as they are based on docking scoring functions 
+rather than experimentally validated ΔG values.
+Donepezil, a well-established cholinesterase inhibitor, has the most negative binding energy among the tested 
+drugs, which is consistent with its high affinity for neural targets and suggests possible additional mechanisms 
+involving DYRK2. Brexpiprazole, an atypical antipsychotic, also shows strong binding, suggesting potential 
+neuroprotective or modulatory effects beyond its current indications.
+Galantamine (− 7.60 kcal/mol) and rivastigmine (− 6.90 kcal/mol) have weaker yet stable binding to DYRK2. 
+These differences may be due to reduced structural complementarity and different binding dynamics within the 
+DYRK2 active site.
+These findings collectively suggest that donepezil and brexpiprazole are good lead compounds for DYRK2-
+targeted strategies, which need further in silico, in vitro, and potentially in vivo validation. Meanwhile, the 
+moderate affinity of galantamine and rivastigmine supports their possible role as scaffolds for optimization.
+Comparative analysis
+The performance of our model was benchmarked against classical docking tools (SeamDock, Vina, Smina, 
+QVina, CB-DOCK) and the deep learning-based framework DeepPurpose. Table 5 summarizes the predicted 
+binding energies by each method45–48.
+Figure 12 compares the calculated reference binding energies of DYRK2 inhibitors with the predictions 
+obtained from our GNN-based model, using AutoDock Vina as the reference tool. In particular, predictions 
+for Donepezil and Brexpiprazole closely align with the Vina benchmark, while Galantamine and Rivastigmine 
+predictions fall within acceptable error margins relative to the reference Vina values. This comparison highlights 
+our model’s high predictive accuracy and its competitive performance against established docking tools. This 
+indicates the model’s ability to approximate the behavior of docking scoring functions, rather than demonstrating 
+predictive generalization to unseen chemical spaces.
+Table 5 summarizes the predicted binding energies of DYRK2 inhibitors generated by various classical docking 
+tools, AI-based approaches, and our proposed PhysDual-GCN model. Classical docking methods, including 
+Vina, Smina, Qvina, and CB-DOCK, exhibit similar performance with minor variations due to differences in 
+optimization and search strategies. AI-based methods such as DeepPurpose provide reasonable predictions but 
+tend to slightly underestimate binding affinities. Notably, the proposed PhysDual-GCN model achieves the most 
+favorable binding energy predictions for Donepezil and Brexpiprazole, closely matching classical docking results 
+while offering improved biological interpretability. The success of PhysDual-GCN lies in its ability to reproduce 
+docking trends through physics-guided feature integration rather than through memorization of experimental 
+data.
+Training performance and error analysis
+Figure 13 shows the regression analysis of predicted versus actual binding energies (ΔG) for DYRK2 
+inhibitors using the PhysDual-GCN model. The regression line (R2 = 0.99) closely follows the ideal y = x line, 
+demonstrating excellent predictive performance. However, because only four ligands (n = 4) are available, R2 is 
+not statistically meaningful for generalization claims and should be interpreted solely as the degree of fit to the 
+docking reference tool.
+Table  6 provides a detailed breakdown of the PhysDual-GCN model’s regression performance metrics 
+across the four DYRK2 inhibitors. Among these compounds, the model achieves the lowest error metrics for 
+Brexpiprazole (MSE = 0.19, R2 = 0.985), closely followed by Donepezil, indicating particularly strong predictive 
+capability for these molecules. Galantamine and Rivastigmine exhibit slightly higher error values (MSE = 0.32 
+and 0.37, respectively), yet these remain within acceptable bioinformatics thresholds. Given the extremely small 
+dataset, these values should be understood only as agreement with the Vina reference scores and not as estimates 
+of real experimental affinity accuracy.
+The evaluation metrics (MSE, MAE, RMSE, and percentage error) in Fig.  14 provide a comprehensive 
+view of the model’s performance across different criteria. The MAE shows the lowest value among the metrics 
+Model/tool
+Category
+Binding score (kcal/mol)
+Brexpiprazole
+Donepezil
+Galantamine
+Rivastigmine
+SeamDock45,46
+Web-based (AutoDock)
+− 8.56
+− 8.35
+− 5.56
+− 5.57
+Vina (Reference)46
+CLI Docking Tool (Reference)
+− 9.9
+− 10.6
+− 7.4
+− 7.0
+Smina46
+Optimized Vina
+− 10.1
+− 10.6
+− 7.4
+− 6.8
+Qvina46
+Fast Vina
+− 9.9
+− 10.6
+− 7.4
+− 7.0
+CB-DOCK47
+Blind Docking
+− 9.9
+− 10.9
+− 8.1
+− 7.3
+DeepPurpose48
+AI-based CNN Model
+− 9.6
+− 9.1
+− 8.2
+− 7.7
+PhysDual-GCN
+GNN + Physics (our model)
+− 10.0
+− 10.8
+− 7.6
+− 6.9
+Table 5.  Comparison of PhysDual-GCN predictions with reference docking tools. Significant values are in 
+bold.
+ 
+Scientific Reports |         (2026) 16:8357 
+15
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+Fig. 13.  Regression plot of predicted versus actual binding energies for DYRK2 inhibitors using the PhysDual-
+GCN model. (This plot demonstrates the fitting accuracy of the model to the training reference labels.)
+ 
+Fig. 12.  Comparison of experimental binding energies, Vina predictions, and GNN model predictions for 
+DYRK2 inhibitors (Donepezil, Brexpiprazole, Galantamine, Rivastigmine).
+ 
+Scientific Reports |         (2026) 16:8357 
+16
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+because it measures average deviation which makes the model resistant to small variations while maintaining 
+its ability to detect main data patterns. The RMSE shows a small increase above the MAE because it reacts more 
+strongly to outliers but this does not negatively impact overall performance. The percentage errors remain low 
+for all compounds at less than 5%, which demonstrates the model’s stable agreement with reference docking 
+predictions. These metrics do not establish experimental validity but rather quantitate the model’s ability to 
+approximate docking-derived values.
+The results demonstrate that our PhysDual-GCN model functions as a reliable and interpretable computational 
+surrogate for approximating docking scores of DYRK2 inhibitors in AD research. However, further work 
+incorporating larger ligand sets and experimental validation is necessary before broader claims can be made.
+Discussion
+This study developed and applied a physics-informed GNN to assess the interaction of FDA-approved AD 
+drugs with the DYRK2 protein as a prospective treatment target. The strong alignment between PhysDual-
+GCN predictions and the reference Vina scores confirms that our model successfully captures the biophysical 
+interaction rules used in classical docking. Because no experimentally measured binding affinities exist for the 
+DYRK2-drug pairs examined in this study, all evaluations rely exclusively on docking-derived reference scores. 
+As a result, the predictive performance reported here should be interpreted as the model’s ability to reproduce 
+the scoring behavior of classical docking tools rather than its capacity to estimate true biochemical affinity. This 
+constraint, combined with the small ligand set (n = 4), limits the generalization scope of our findings; however, 
+the strong agreement between PhysDual-GCN and multiple docking benchmarks demonstrates that the model 
+effectively captures the underlying energetic trends encoded in these tools. Consequently, the results reflect 
+a reliable computational surrogate for docking-based affinity estimation, while also highlighting the need for 
+expanded ligand datasets and experimental validation in future work.
+Fig. 14.  Visualization of MSE, MAE, RMSE, and percentage error values for DYRK2 inhibitors predicted by 
+the PhysDual-GCN model.
+ 
+Drug
+MSE
+MAE
+RMSE
+R2
+%Error
+Brexpiprazole
+0.19
+0.31
+0.44
+0.985
+%2,99
+Donepezil
+0.24
+0.35
+0.49
+0.975
+%3.38
+Galantamine
+0.32
+0.41
+0.57
+0.962
+%4.26
+Rivastigmine
+0.37
+0.47
+0.61
+0.953
+%4,81
+Table 6.  Comparative performance metrics (MAE, RMSE, MSE, R2, and percentage error) of the PhysDual-
+GCN model for DYRK2 inhibitors. R2 values reflect the degree of fit of PhysDual-GCN to docking-derived 
+reference scores and do not indicate statistical generalization, as the dataset includes only four ligands (n = 4). 
+Therefore, these values should be interpreted solely as measures of agreement with the reference docking tool 
+rather than predictive validity for broader chemical space.
+ 
+Scientific Reports |         (2026) 16:8357 
+17
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+The binding affinities of donepezil and brexpiprazole, recorded at − 10.8 kcal/mol and − 10.0 kcal/mol 
+respectively, strongly aligned with the conventional docking outcomes (CB-DOCK: − 10.9 kcal/mol for 
+donepezil, Vina: − 10.6 kcal/mol). These values should be interpreted strictly as computational approximations, 
+given that no experimental binding energies for DYRK2-drug interactions exist. The measured energy values 
+align with the ranges outlined in the proposed AD inhibitors61, suggesting that donepezil exerts therapeutic 
+benefits via DYRK2 regulation, in addition to its established cholinesterase inhibition. The reduced binding 
+energy of galantamine (− 7.6 kcal/mol) and rivastigmine (− 6.9 kcal/mol) indicates their inadequate structural 
+compatibility with DYRK2. The data furnish significant insights into developing therapeutic strategies aimed at 
+targeting DYRK2 for the treatment of AD, though experimental verification will be required to confirm these 
+computational trends.
+The model demonstrated biologically acceptable prediction accuracy, with brexpiprazole achieving a mean 
+absolute error (MAE) of 0.31, a root mean square error (RMSE) of 0.44, and a R2 of 0.985. However, because the 
+dataset contains only four ligands, R2 values should not be interpreted as indicators of statistical generalization 
+but instead as markers of how closely the model reproduces the docking tool’s outputs. The minimal percentage 
+errors for donepezil (3.38%) and brexpiprazole (2.99%) further illustrate the model’s robustness, but the 
+marginally elevated errors for galantamine (4.26%) and rivastigmine (4.81%) are likely attributable to enhanced 
+molecular flexibility and binding heterogeneity.
+Although previous AD research has primarily concentrated on DYRK1A and its involvement in tau 
+hyperphosphorylation61, recent findings suggest that DYRK2 plays a significant role in synaptic plasticity, 
+axonal development, and memory functions62,63. To our knowledge, no prior binding prediction studies have 
+particularly focused on DYRK2. Thus, this study constitutes the first documented attempt to apply a physics-
+informed GNN to forecast DYRK2 inhibitor interactions, addressing a notable gap in the literature and offering 
+a new computational direction for AD-focused drug discovery.
+As summarized in Table 7, previous studies in the field have primarily relied on either conventional docking 
+techniques or standard deep learning models, with no integration of biophysical principles or focus on DYRK2. 
+By combining a physics-informed GNN framework with an understudied target, our study contributes a novel, 
+more interpretable, and biologically grounded approach to AD drug discovery.
+  
+However, some limitations remain. The 3D structural features of DYRK2 have not been explicitly included, 
+as the model is currently based on sequence-based graphs. This prevents the model from capturing long-range 
+residue interactions, pocket topology, and protonation-dependent structural effects, which are essential for 
+accurate binding prediction. Furthermore, the evaluation was limited to four compounds, and generalizability to 
+larger and more diverse datasets should be evaluated in future studies. Additionally, physical energy terms have 
+been calculated using simplified charge and distance parameters. While sufficient for approximating docking 
+trends, these simplified assumptions limit the quantitative accuracy of absolute energy estimation. Future 
+improvements, such as integrating the target protein’s full 3D structural data, expanding the compound library, 
+and experimentally validating the predictions, will further enhance the usability and translation potential of the 
+proposed model.
+In conclusion, this study demonstrates the potential of physics-informed GNN-based models to generate 
+biologically meaningful and reliable predictions, particularly for understudied targets like DYRK2. Our findings 
+contribute to the development of innovative therapeutic strategies for AD and underscore the value of integrating 
+advanced AI models with biophysical insights. Nonetheless, experimental validation and structural refinement 
+remain essential steps for translating these computational predictions into actionable therapeutic hypotheses.
+Conclusions and future work
+This study illustrates the efficacy of a physics-informed GNN model in forecasting the binding affinities of 
+FDA-approved medicines to DYRK2, a promising but underexplored therapeutic target in Alzheimer’s disease. 
+The model generated predictions that nearly matched traditional docking techniques while offering enhanced 
+biological interpretability, especially for donepezil (− 10.8 kcal/mol) and brexpiprazole (− 10.0 kcal/mol). Because 
+Reference
+Purpose of the study
+Used method
+Application
+64
+Artificial intelligence in AD diagnostics
+Artificial Intelligence (AI), CNN
+Alzheimer’s Disease
+65
+Exploring Novel Drug Design Strategies Targeting Alzheimer’s Disease through 
+Pharmacoinformatics-Assisted Tools
+Artificial Intelligence (AI)
+Alzheimer’s Disease
+66
+Computational Modeling of DYRK1A Inhibitors as Potential Anti-Alzheimer Agents
+Computational Models
+Alzheimer’s Disease
+67
+Combined computational approaches for developing new anti-Alzheimer drug candidates
+3D-QSAR, molecular docking and 
+molecular dynamics
+Alzheimer’s Disease
+68
+In silico drug repositioning for the treatment of Alzheimer’s
+Molecular docking and gene 
+expression data
+Ligand–protein inverse 
+docking and gene 
+expression data mining
+69
+Deep Learning Prognostic Model for Early Prediction of Alzheimer’s Disease Based on 
+Hippocampal Mrg Data
+Deep Learning
+Early Prediction of 
+Alzheimer’s Disease
+61
+Targeting DYRK1A-Induced Hyperphosphorylation of Amyloid-Beta and Tau Protein in 
+Alzheimer’s Disease: A Therapeutic Approach
+Molecular modeling (AutoDock 
+Vina, Smina, and idock)
+Alzheimer’s Disease, 
+DYRK1A
+Table 7.  Selected studies in the literature on Alzheimer’s disease and DYRK family protein kinases.
+ 
+Scientific Reports |         (2026) 16:8357 
+18
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+no experimental binding data exist for these ligands, all comparisons in this work are relative to docking-derived 
+reference values, and the conclusions should be interpreted within this computational context.
+By integrating physical energy parameters, the model not only identifies statistical patterns but also elucidates 
+the fundamental biophysical interactions, yielding predictions that are both precise and biologically credible. 
+Comparative assessments demonstrate that our methodology either surpasses or equals the performance of 
+existing docking tools (AutoDock, Vina, Smina) and the AI-driven DeepPurpose, attaining reduced error rates 
+and elevated R2 values. However, the small dataset (n = 4) limits the statistical significance of these metrics; thus, 
+the reported performance reflects the model’s capacity to emulate docking scoring functions rather than broad 
+predictive generalization. The results underscore the model’s trustworthiness, evidenced by the low MAE (0.31) 
+and RMSE (0.44), within the scope of the docking-based evaluation.
+Nevertheless, this study has limitations, including the use of a linear sequence-based representation of 
+DYRK2 rather than its full 3D structure, the evaluation on only four compounds, and the use of simplified 
+physical energy parameters. Future work may focus on the following directions:
+•	 Integrate three-dimensional structural features of DYRK2 into the model.
+•	 Test the model on larger and more diverse drug libraries.
+•	 Refine the physical energy calculations with more precise parameters.
+•	 Extend the approach to other DYRK family proteins and neurodegenerative diseases.
+•	 Validate predictions through clinical-level experimental studies.
+Future work will integrate fully 3D protein–ligand interaction fields, larger ligand sets, and experimental affinity 
+data where available, as the current evaluation is limited to docking-based reference scores. These steps will be 
+essential to translate the model’s computational performance into experimentally validated therapeutic insights.
+Within the limitations of a docking-derived evaluation and a small ligand set, the proposed physics-informed 
+GNN model provides a promising, interpretable surrogate for estimating DYRK2–ligand interaction trends. 
+With future integration of 3D structural data and experimental validation, PhysDual-GCN may serve as a 
+complementary tool in AD-focused virtual screening pipelines.
+Data availability
+The data analyzed in this study comprised a re-analysis of existing datasets, openly accessible at the sources cited 
+in the reference sections50,51. Additional information regarding the data can be found at the following links: 
+[https://go.drugbank.com/drugs](https://go.drugbank.com/drugs) and ​[​h​t​t​p​s​:​/​/​p​u​b​c​h​e​m​.​n​c​b​i​.​n​l​m​.​n​i​h​.​g​o​v​/​]​(​h​
+t​t​p​s​:​/​/​p​u​b​c​h​e​m​.​n​c​b​i​.​n​l​m​.​n​i​h​.​g​o​v​) .The code, trained model parameters, and input data used in this study are 
+publicly available at: ​[​h​t​t​p​s​:​/​/​g​i​t​h​u​b​.​c​o​m​/​S​t​a​r​N​N​T​/​P​h​y​s​D​u​a​l​-​G​C​N​]​(​h​t​t​p​s​:​/​g​i​t​h​u​b​.​c​o​m​/​S​t​a​r​N​N​T​/​P​h​y​s​D​u​a​l​-​G​
+C​N​) .
+Received: 20 May 2025; Accepted: 2 January 2026
+References
+	 1.	 Porsteinsson, A. P., Isaacson, R. S., Knox, S., Sabbagh, M. N. & Rubino, I. Diagnosis of early Alzheimer’s disease: Clinical practice 
+in 2021. J. Prev. Alzheimer’s Disease 8, 371–386. https://doi.org/10.14283/jpad.2021.23 (2021).
+	 2.	 Zhao, L. Alzheimer’s disease facts and figures. Alzheimers Dement. 16(3), 391–460. https://doi.org/10.1002/alz.12068 (2020).
+	 3.	 Karch, C. M., Cruchaga, C. & Goate, A. M. Alzheimer’s disease genetics: From the bench to the clinic. Neuron 83(1), 11–26. ​h​t​t​p​s​
+:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​n​e​u​r​o​n​.​2​0​1​4​.​0​5​.​0​4​1​ (2014).
+	 4.	 Lei, X. et al. The FDA-approved natural product Dihydroergocristine reduces the production of the Alzheimer’s disease amyloid-β 
+peptides. Sci. Rep. 5(1), 16541. https://doi.org/10.1038/srep16541 (2015).
+	 5.	 Wang, J. et al. Valsartan lowers brain β-amyloid protein levels and improves Spatial learning in a mouse model of Alzheimer 
+disease. J. Clin. Investig. 117(11), 3393–3402. https://doi.org/10.1172/JCI31547 (2007).
+	 6.	 Anekonda, T. S. et al. L-type voltage-gated calcium channel Blockade with Isradipine as a therapeutic strategy for Alzheimer’s 
+disease. Neurobiol. Dis. 41(1), 62–70. https://doi.org/10.1016/j.nbd.2010.08.020 (2011).
+	 7.	 Torika, N., Asraf, K., Cohen, H. & Fleisher-Berkovich, S. Intranasal Telmisartan ameliorates brain pathology in five Familial 
+Alzheimer’s disease mice. Brain. Behav. Immun. 64, 80–90. https://doi.org/10.1016/j.bbi.2017.04.001 (2017).
+	 8.	 Dong, Y. F. et al. Perindopril, a centrally active angiotensin‐converting enzyme inhibitor, prevents cognitive impairment in mouse 
+models of Alzheimer’s disease. FASEB J. 25(9), 2911–2920. https://doi.org/10.1096/fj.11-182873 (2011).
+	 9.	 Ongali, B. et al. Angiotensin II type 1 receptor blocker Losartan prevents and rescues cerebrovascular, neuropathological and 
+cognitive deficits in an Alzheimer’s disease model. Neurobiol. Dis. 68, 126–136. https://doi.org/10.1016/j.nbd.2014.04.018 (2014).
+	10.	 Wang, J. et al. Carvedilol as a potential novel agent for the treatment of Alzheimer’s disease. Neurobiol. Aging 32(12), 2321–e1. ​h​t​t​
+p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​n​e​u​r​o​b​i​o​l​a​g​i​n​g​.​2​0​1​0​.​0​5​.​0​0​4 (2011).
+	11.	 de Jong, D. L. et al. Effects of nilvadipine on cerebral blood flow in patients with Alzheimer disease: A randomized trial. 
+Hypertension 74(2), 413420. https://doi.org/10.1161/HYPERTENSIONAHA.119.12892 (2019).
+	12.	 Sanz, J. M. et al. Nimodipine inhibits IL-1β release stimulated by amyloid β from microglia. Br. J. Pharmacol. 167(8), 1702–1711. 
+https://doi.org/10.1111/j.1476-5381.2012.02112.x (2012).
+	13.	 McClean, P. L. & Hölscher, C. Liraglutide can reverse memory impairment, synaptic loss and reduce plaque load in aged APP/PS1 
+mice, a model of Alzheimer’s disease. Neuropharmacology 76, 57–67. https://doi.org/10.1016/j.neuropharm.2013.08.005 (2014).
+	14.	 Ou, Z. et al. Metformin treatment prevents amyloid plaque deposition and memory impairment in APP/PS1 mice. Brain. Behav. 
+Immun. 69, 351–363. https://doi.org/10.1016/j.bbi.2017.12.009 (2018).
+	15.	 Toba, J. et al. PPARγ agonist Pioglitazone improves cerebellar dysfunction at pre-Aβ deposition stage in APPswe/PS1dE9 
+Alzheimer’s disease model mice. Biochem. Biophys. Res. Commun. 473(4), 1039–1044. https://doi.org/10.1016/j.bbrc.2016.04.012 
+(2016).
+	16.	 Pan, X. et al. Powerful beneficial effects of Benfotiamine on cognitive impairment and β-amyloid deposition in amyloid precursor 
+protein/presenilin-1 Transgenic mice. Brain 133(5), 1342–1351. https://doi.org/10.1093/brain/awq069 (2010).
+	17.	 Kurata, T. et al. Atorvastatin and Pitavastatin improve cognitive function and reduce senile plaque and phosphorylated Tau in aged 
+APP mice. Brain Res. 1371, 161–170. https://doi.org/10.1016/j.brainres.2010.11.067 (2011).
+Scientific Reports |         (2026) 16:8357 
+19
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+	18.	 Yamamoto, N. et al. Simvastatin and Atorvastatin facilitates amyloid β-protein degradation in extracellular spaces by increasing 
+Neprilysin secretion from astrocytes through activation of MAPK/E rk1/2 pathways. Glia 64(6), 952–962. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​2​
+/​g​l​i​a​.​2​2​9​7​4​ (2016).
+	19.	 Cuadrado-Tejedor, M. et al. Sildenafil restores cognitive function without affecting β‐amyloid burden in a mouse model of 
+Alzheimer’s disease. Br. J. Pharmacol. 164(8), 2029–2041. https://doi.org/10.1111/j.1476-5381.2011.01517.x (2011).
+	20.	 García-Barroso, C. et al. Tadalafil crosses the blood–brain barrier and reverses cognitive dysfunction in a mouse model of AD. 
+Neuropharmacology 64, 114–123. https://doi.org/10.1016/j.neuropharm.2012.06.052 (2013).
+	21.	 Hunsberger, H. C. et al. Riluzole rescues glutamate alterations, cognitive deficits, and Tau pathology associated with P301L Tau 
+expression. J. Neurochem. 135(2), 381–394. https://doi.org/10.1111/jnc.13230 (2015).
+	22.	 Nelson, R. L. et al. Prophylactic treatment with Paroxetine ameliorates behavioral deficits and retards the development of amyloid 
+and Tau pathologies in 3xTgAD mice. Exp. Neurol. 205(1), 166–176. https://doi.org/10.1016/j.expneurol.2007.01.037 (2007).
+	23.	 Weinreb, O., Badinter, F., Amit, T., Bar-Am, O. & Youdim, M. B. Effect of long-term treatment with Rasagiline on cognitive deficits 
+and related molecular cascades in aged mice. Neurobiol. Aging 36(9), 2628–2636. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​n​e​u​r​o​b​i​o​l​a​g​i​n​g​.​2​0​1​5​.​0​
+5​.​0​0​9 (2015).
+	24.	 Choi, Y. et al. Clozapine improves memory impairment and reduces Aβ level in the Tg-APPswe/PS1dE9 mouse model of 
+Alzheimer’s disease. Mol. Neurobiol. 54, 450–460. https://doi.org/10.1007/s12035-015-9636-x (2017).
+	25.	 Sanchez, P. E. et al. Levetiracetam suppresses neuronal network dysfunction and reverses synaptic and cognitive deficits in an 
+Alzheimer’s disease model. Proceedings of the National Academy of Sciences, 109(42), E2895-E2903. (2012). ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​7​
+3​/​p​n​a​s​.​1​1​2​1​0​8​1​1​0​9​
+	26.	 Lin, C. H. et al. Benzoate, a D-amino acid oxidase inhibitor, for the treatment of early-phase Alzheimer disease: A randomized, 
+double-blind, placebo-controlled trial. Biol. Psychiatry 75(9), 678–685. https://doi.org/10.1016/j.biopsych.2013.08.010 (2014).
+	27.	 Pierrot, N. et al. Targretin improves cognitive and biological markers in a patient with Alzheimer’s disease. J. Alzheimers Dis. 49(2), 
+271–276. https://doi.org/10.3233/JAD-150405 (2016).
+	28.	 Kawahara, K. et al. Oral administration of synthetic retinoid Am80 (tamibarotene) decreases brain β-amyloid peptides in APP23 
+mice. Biol. Pharm. Bull. 32(7), 1307–1309. https://doi.org/10.1248/bpb.32.1307 (2009).
+	29.	 Cai, Z., Yan, Y. & Wang, Y. Minocycline alleviates beta-amyloid protein and Tau pathology via restraining neuroinflammation 
+induced by diabetic metabolic disorder. Clin. Interv. Aging. 1089–1095. https://doi.org/10.2147/CIA.S46536 (2013).
+	30.	 Medina, D. X., Caccamo, A. & Oddo, S. Methylene blue reduces Aβ levels and rescues early cognitive deficit by increasing 
+proteasome activity. Brain Pathol. 21(2), 140–149. https://doi.org/10.1111/j.1750-3639.2010.00430.x (2011).
+	31.	 Folch, J. et al. Masitinib for the treatment of mild to moderate Alzheimer’s disease. Expert Rev. Neurother. 15(6), 587–596. ​h​t​t​p​s​:​/​/​
+d​o​i​.​o​r​g​/​1​0​.​1​5​8​6​/​1​4​7​3​7​1​7​5​.​2​0​1​5​.​1​0​4​5​4​1​9​ (2015).
+	32.	 Endres, K. et al. Increased CSF APPs-α levels in patients with Alzheimer disease treated with acitretin. Neurology 83(21), 1930–
+1935. https://doi.org/10.1212/WNL.0000000000001017 (2014).
+	33.	 Ormerod, A. D. et al. Influence of isotretinoin on hippocampal-based learning in human subjects. Psychopharmacology 221, 667–
+674. https://doi.org/10.1007/s00213-011-2611-y (2012).
+	34.	 Lavecchia, A. Deep learning in drug discovery: Opportunities, challenges and future prospects. Drug Discovery Today 24(10), 
+2017–2032. https://doi.org/10.1016/j.drudis.2019.07.006 (2019).
+	35.	 Siddiqui, B. et al. Artificial intelligence in computer-aided drug design (cadd) tools for the finding of potent biologically active 
+small molecules: Traditional to modern approach. Comb. Chem. High Throughput Screen. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​2​1​7​4​/​0​1​1​3​8​6​2​0​7​3​3​3​4​
+0​6​2​2​4​1​0​1​5​0​4​3​3​4​3 (2025).
+	36.	 Wu, Y. et al. The role of artificial intelligence in drug screening, drug design, and clinical trials. Front. Pharmacol. 15, 1459954. 
+https://doi.org/10.3389/fphar.2024.1459954 (2024).
+	37.	 Budak, C., Mençik, V. & Gider, V. Determining similarities of COVID-19–lung cancer drugs and affinity binding mode analysis by 
+graph neural network-based GEFA method. J. Biomol. Struct. Dynamics 41(2), 659–671. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​8​0​/​0​7​3​9​1​1​0​2​.​2​0​2​1​.​2​
+0​1​0​6​0​1​ (2023).
+	38.	 Bae, H. & Nam, H. GraphATT-DTA: Attention-based novel representation of interaction to predict drug-target binding affinity. 
+Biomedicines 11(1), 67. https://doi.org/10.3390/biomedicines11010067 (2022).
+	39.	 Liu, Y., Xing, L., Zhang, L., Cai, H. & Guo, M. GEFormerDTA: Drug target affinity prediction based on transformer graph for early 
+fusion. Sci. Rep. 14(1), 7416. https://doi.org/10.1038/s41598-024-57879-1 (2024).
+	40.	 Wang, C. et al. DHAG-DTA: Dynamic hierarchical affinity graph model for Drug-Target binding affinity prediction. IEEE Trans. 
+Comput. Biology Bioinf. https://doi.org/10.1109/TCBBIO.2025.3531938 (2025).
+	41.	 Zhang, Y. et al. A survey of drug-target interaction and affinity prediction methods via graph neural networks. Comput. Biol. Med. 
+163, 107136. https://doi.org/10.1016/j.compbiomed.2023.107136 (2023).
+	42.	 Jiang, M. et al. Sequence-based drug-target affinity prediction using weighted graph neural networks. BMC Genom. 23(1), 449. 
+https://doi.org/10.1186/s12864-022-08648-9 (2022).
+	43.	 Gao, M. et al. Graphormerdti: A graph transformer-based approach for drug-target interaction prediction. Comput. Biol. Med. 173, 
+108339. https://doi.org/10.1016/j.compbiomed.2024.108339 (2024).
+	44.	 Cheng, F. et al. Artificial intelligence and open science in discovery of disease-modifying medicines for Alzheimer’s disease. Cell. 
+Rep. Med. 5(2). https://doi.org/10.1016/j.xcrm.2023.101379 (2024).
+	45.	 Forli, S. et al. Computational protein–ligand docking and virtual drug screening with the AutoDock suite. Nat. Protoc. 11(5), 
+905–919. https://doi.org/10.1038/nprot.2016.051 (2016).
+	46.	 Murail, S., De Vries, S. J., Rey, J., Moroy, G. & Tufféry, P. SeamDock: An interactive and collaborative online docking resource to 
+assist small compound molecular docking. Front. Mol. Biosci. 8, 716466. https://doi.org/10.3389/fmolb.2021.716466 (2021).
+	47.	 Liu, Y. et al. CB-Dock: A web server for cavity detection-guided protein–ligand blind docking. Acta Pharmacol. Sin. 41(1), 138–
+144. https://doi.org/10.1038/s41401-019-0228-6 (2020).
+	48.	 Huang, K. et al. DeepPurpose: A deep learning library for drug–target interaction prediction. Bioinformatics 36(22–23), 5545–
+5547. https://doi.org/10.1093/bioinformatics/btaa1005 (2020).
+	49.	 Probst, D. & Reymond, J. L. Visualization of very large high-dimensional data sets as minimum spanning trees. J. Cheminform. 
+12(1), 1–13. https://doi.org/10.1186/s13321-020-0416-x (2020).
+	50.	 DrugBank Online. Retrieved March, 2025, from (2025). https://go.drugbank.com/drugs
+	51.	 PubChem Online. Retrieved March, 2025, from (2025). https://pubchem.ncbi.nlm.nih.gov/
+	52.	 Abuhantash, F., Abu Hantash, M. K. & AlShehhi, A. Comorbidity-based framework for Alzheimer’s disease classification using 
+graph neural networks. Sci. Rep. 14(1), 21061. https://doi.org/10.1038/s41598-024-72321-2 (2024).
+	53.	 Duan, Z., Lee, C. & Zhang, J. ExAD-GNN: Explainable graph neural network for Alzheimer’s disease state prediction from single-
+cell data. APSIPA Trans. Signal. Inform. Process. 12(5). https://doi.org/10.1561/116.00000239 (2023).
+	54.	 Hernández-Lorenzo, L. et al. On the limits of graph neural networks for the early diagnosis of Alzheimer’s disease. Sci. Rep. 12(1), 
+17632. https://doi.org/10.1038/s41598-022-21491-y (2022).
+	55.	 Gider, V. & Budak, C. Instruction of molecular structure similarity and scaffolds of drugs under investigation in Ebola virus 
+treatment by atom-pair and graph network: A combination of favipiravir and molnupiravir. Comput. Biol. Chem. 101, 107778. 
+https://doi.org/10.1016/j.compbiolchem.2022.107778 (2022).
+	56.	 Bongini, P., Bianchini, M. & Scarselli, F. Molecular generative graph neural networks for drug discovery. Neurocomputing 450, 
+242–252. https://doi.org/10.1016/j.neucom.2021.04.039 (2021).
+Scientific Reports |         (2026) 16:8357 
+20
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/
+	57.	 P Allen, M. Introduction to molecular dynamics simulation. Comput. Soft Matter: Synth. Polym. Proteins 23(1), 1–28 (2004). ​h​t​t​p​
+s​:​/​/​j​u​s​e​r​.​f​z​-​j​u​e​l​i​c​h​.​d​e​/​r​e​c​o​r​d​/​1​5​2​5​8​1​/​f​i​l​e​s​/​F​Z​J​-​2​0​1​4​-​0​2​1​9​3​.​p​d​f
+	58.	 Férey, N. et al. Multisensory VR interaction for protein-docking in the corsaire project. Virtual Real. 13(4), 273–293. ​h​t​t​p​s​:​/​/​d​o​i​.​o​
+r​g​/​1​0​.​1​0​0​7​/​s​1​0​0​5​5​-​0​0​9​-​0​1​3​6​-​z​ (2009).
+	59.	 Xie, S. R., Rupp, M. & Hennig, R. G. Ultra-fast interpretable machine-learning potentials. Npj Comput. Mater. 9(1), 162. ​h​t​t​p​s​:​/​/​d​
+o​i​.​o​r​g​/​1​0​.​1​0​3​8​/​s​4​1​5​2​4​-​0​2​3​-​0​1​0​9​2​-​7​ (2023).
+	60.	 Chicco, D., Warrens, M. J. & Jurman, G. The coefficient of determination R-squared is more informative than SMAPE, MAE, 
+MAPE, MSE and RMSE in regression analysis evaluation. Peerj Comput. Sci. 7, e623. https://doi.org/10.7717/peerj-cs.623 (2021).
+	61.	 Shukla, R., Kumar, A., Kelvin, D. J. & Singh, T. R. Disruption of DYRK1A-induced hyperphosphorylation of amyloid-beta and Tau 
+protein in Alzheimer’s disease: An integrative molecular modeling approach. Front. Mol. Biosci. 9, 1078987. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​3​3​8​
+9​/​f​m​o​l​b​.​2​0​2​2​.​1​0​7​8​9​8​7​ (2023).
+	62.	 Lindberg, M. F. & Meijer, L. Dual-specificity, tyrosine phosphorylation-regulated kinases (DYRKs) and cdc2-like kinases (CLKs) 
+in human disease, an overview. Int. J. Mol. Sci. 22(11), 6047. https://doi.org/10.3390/ijms22116047 (2021).
+	63.	 Santos-Durán, G. N. & Barreiro-Iglesias, A. Roles of dual specificity tyrosine-phosphorylation-regulated kinase 2 in nervous 
+system development and disease. Front. NeuroSci. 16, 994256. https://doi.org/10.3389/fnins.2022.994256 (2022).
+	64.	 Logan, R., Zerbey, S. S. & Miller, S. J. The future of artificial intelligence for Alzheimer’s disease diagnostics. Adv. Alzheimer’s 
+Disease 10(4), 53–59. https://doi.org/10.4236/aad.2021.104005 (2021).
+	65.	 Arrué, L. et al. New drug design avenues targeting Alzheimer’s disease by pharmacoinformatics-aided tools. Pharmaceutics, 14(9), 
+1914. (2022). https://doi.org/10.3390/pharmaceutics14091914
+	66.	 Serrano-Candelas, E., Carpio, L. E. & Gozalbes, R. Computational modeling of DYRK1A inhibitors as potential Anti-Alzheimer 
+agents. In Computational Modeling of Drugs against Alzheimer’s Disease (295–324). New York: Springer. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​7​
+/​9​7​8​-​1​-​0​7​1​6​-​3​3​1​1​-​3​_​1​0​ (2023).
+	67.	 Nour, H. et al. Combined computational approaches for developing new anti-Alzheimer drug candidates: 3D-QSAR, molecular 
+docking and molecular dynamics studies of Liquiritigenin derivatives. Heliyon 8(12). ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​h​e​l​i​y​o​n​.​2​0​2​2​.​e​1​1​9​9​
+1​ (2022).
+	68.	 Xie, H. et al. In Silico drug repositioning for the treatment of Alzheimer’s disease using molecular docking and gene expression 
+data. RSC Adv. 6(100), 98080–98090. https://doi.org/10.1039/C6RA21941A (2016).
+	69.	 Li, H., Habes, M. & Fan, Y. O4-04‐02: A deep learning prognostic model for early prediction of Alzheimer’s disease based on 
+hippocampal MRI data. Alzheimer’s Dement. 14(7S_Part_26), P1407–P1409. https://doi.org/10.1016/j.jalz.2018.06.2928 (2018).
+Author contributions
+Cafer Budak contributed to the research design and writing. Veysel Gider was involved in implementing the 
+research, analyzing the results, and manuscript writing. All authors participated in result discussions and con­
+tributed to the final manuscript.
+Funding
+The authors gratefully acknowledge financial support from the Dicle University Scientific Research Projects 
+Coordination Office (DÜBAP) under Project Nos: DÜBAP-ENGINEERING.23.016 and DÜBAP-ENGINEER­
+ING.25.024.
+Declarations
+Competing interests
+The authors declare no competing interests.
+Additional information
+Correspondence and requests for materials should be addressed to V.G.
+Reprints and permissions information is available at www.nature.com/reprints.
+Publisher’s note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+Open Access   This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give 
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and 
+indicate if changes were made. The images or other third party material in this article are included in the article’s 
+Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included 
+in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy 
+of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+© The Author(s) 2026 
+Scientific Reports |         (2026) 16:8357 
+21
+| https://doi.org/10.1038/s41598-026-35102-7
+www.nature.com/scientificreports/

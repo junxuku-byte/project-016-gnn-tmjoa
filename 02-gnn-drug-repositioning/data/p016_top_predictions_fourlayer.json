@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "version": "phase3_fourlayer",
+    "checkpoint": "/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data/models/p016_gnn_fourlayer.pt",
+    "total_candidates": 478,
+    "val_auc": 1.0
+  },
+  "top_20": [
+    {
+      "rank": 1,
+      "drug": "Vitamin D",
+      "disease": "Osteoarthritis",
+      "score": 0.6488,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 2,
+      "drug": "Vitamin D",
+      "disease": "TMD",
+      "score": 0.6453,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 3,
+      "drug": "Vitamin D",
+      "disease": "TMJOA",
+      "score": 0.6415,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 4,
+      "drug": "Vitamin D",
+      "disease": "TMJ",
+      "score": 0.6342,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 5,
+      "drug": "Vitamin D",
+      "disease": "Knee OA",
+      "score": 0.6337,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 6,
+      "drug": "Vitamin D",
+      "disease": "Osteoporosis",
+      "score": 0.6321,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 7,
+      "drug": "Vitamin D",
+      "disease": "Hip OA",
+      "score": 0.6146,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 8,
+      "drug": "Methylprednisolone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.3885,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 9,
+      "drug": "Methylprednisolone",
+      "disease": "Hip OA",
+      "score": 0.3371,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 10,
+      "drug": "Quercetin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.3279,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 11,
+      "drug": "Quercetin",
+      "disease": "TMD",
+      "score": 0.3114,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 12,
+      "drug": "Quercetin",
+      "disease": "TMJOA",
+      "score": 0.3074,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 13,
+      "drug": "Quercetin",
+      "disease": "TMJ",
+      "score": 0.2999,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 14,
+      "drug": "Quercetin",
+      "disease": "Knee OA",
+      "score": 0.2994,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 15,
+      "drug": "Atorvastatin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.2984,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 16,
+      "drug": "Quercetin",
+      "disease": "Osteoporosis",
+      "score": 0.2978,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 17,
+      "drug": "Quercetin",
+      "disease": "Hip OA",
+      "score": 0.2815,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 18,
+      "drug": "Atorvastatin",
+      "disease": "Osteoporosis",
+      "score": 0.2699,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 19,
+      "drug": "Zonisamide",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.2653,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 20,
+      "drug": "Diclofenac",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.2492,
+      "mechanism_paths": []
+    }
+  ],
+  "top_10_tmjoa": [
+    {
+      "rank": 1,
+      "drug": "Vitamin D",
+      "disease": "TMJOA",
+      "score": 0.6415,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 2,
+      "drug": "Quercetin",
+      "disease": "TMJOA",
+      "score": 0.3074,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 3,
+      "drug": "Tanezumab",
+      "disease": "TMJOA",
+      "score": 0.1133,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 4,
+      "drug": "Statin",
+      "disease": "TMJOA",
+      "score": 0.113,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 5,
+      "drug": "Resveratrol",
+      "disease": "TMJOA",
+      "score": 0.1084,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 6,
+      "drug": "Chondroitin",
+      "disease": "TMJOA",
+      "score": 0.0693,
+      "mechanism_paths": [
+        "Chondroitin → TNF-α → apoptosis → TMJOA",
+        "Chondroitin → TNF-α → NF-κB signaling → TMJOA",
+        "Chondroitin → TNF-α → inflammatory cytokine pathway → TMJOA"
+      ]
+    },
+    {
+      "rank": 7,
+      "drug": "Curcumin",
+      "disease": "TMJOA",
+      "score": 0.0537,
+      "mechanism_paths": [
+        "Curcumin → NF-κB → NF-κB signaling → TMJOA",
+        "Curcumin → NF-κB → inflammatory response → TMJOA"
+      ]
+    },
+    {
+      "rank": 8,
+      "drug": "Metformin",
+      "disease": "TMJOA",
+      "score": 0.0451,
+      "mechanism_paths": []
+    },
+    {
+      "rank": 9,
+      "drug": "Rapamycin",
+      "disease": "TMJOA",
+      "score": 0.0027,
+      "mechanism_paths": []
+    }
+  ]
+}

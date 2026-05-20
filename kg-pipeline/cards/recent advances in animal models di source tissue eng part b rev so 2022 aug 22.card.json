@@ -1,0 +1,32 @@
+{
+  "title": "Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis",
+  "authors": "Dongyun Wang et al.",
+  "year": 2022,
+  "journal": "Tissue Engineering",
+  "category": "TMJ",
+  "research_question": "如何通过动物模型、诊断方法和治疗策略的进展来更好地理解颞下颌关节骨关节炎（TMJOA）的病理生理并开发有效治疗方案？",
+  "methods_summary": [
+    "综述了化学诱导（CFA、MIA、VEGF、胶原酶、福尔马林）、手术操作（椎间盘穿孔、变形、移位、切除术、髁突切除术）、机械刺激（错颌、咬合抬高）和基因修饰（Shox2、Prg4、DDR-1敲除）等TMJOA动物模型构建方法",
+    "总结了影像学（Micro-CT、MRI）、分子技术（ELISA、qPCR、Western blot检测炎症因子）、组织化学染色（HE、TB、SO、Masson、TRAP、TUNEL）和组织形态计量学等诊断方法",
+    "归纳了保守治疗（手法治疗、夹板、药物）和先进治疗（新型药物递送系统如水凝胶、脂质纳米粒、介孔二氧化硅纳米粒，以及组织工程策略包括细胞、支架和生长因子）"
+  ],
+  "dataset": "文献综述，涵盖小鼠、大鼠、兔、小型猪、猴等动物模型研究数据",
+  "key_findings": [
+    "TMJOA动物模型可通过化学、手术、机械和基因修饰等多种方法诱导，各有优缺点",
+    "诊断需结合影像学、分子生物学和组织学多模态方法",
+    "新型药物递送系统（如水凝胶、纳米粒）可延长药物在关节内的滞留时间",
+    "组织工程策略（MSCs、ADMSCs、iPSCs、软骨细胞结合天然或合成支架及生长因子）显示出修复TMJ组织的潜力",
+    "当前模型、诊断和治疗方法仍处于早期阶段，存在局限性"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "颞下颌关节骨关节炎",
+    "动物模型",
+    "诊断",
+    "治疗",
+    "组织工程",
+    "药物递送",
+    "综述"
+  ],
+  "extracted_insights": "该综述系统总结了TMJOA动物模型的构建方法（化学、手术、机械、基因修饰）、多模态诊断技术（影像、分子、组织学）以及从保守治疗到先进药物递送系统和组织工程策略的治疗进展，指出当前研究仍处于早期阶段，未来需要更可靠的模型、更精准的诊断和更有效的再生治疗方法。"
+}

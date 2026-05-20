@@ -1,0 +1,309 @@
+{
+  "target_disease": "TMJOA",
+  "top_k": 20,
+  "model": "HeteroGNN (A+B+C)",
+  "predictions": [
+    {
+      "rank": 1,
+      "drug": "Dextrose",
+      "score": 0.34789884090423584,
+      "pubmed_hits": 218,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:41952965",
+        "PMID:41949169",
+        "PMID:41607324"
+      ]
+    },
+    {
+      "rank": 2,
+      "drug": "Hypertonic dextrose",
+      "score": 0.34693408012390137,
+      "pubmed_hits": 18,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:41949169",
+        "PMID:41607324",
+        "PMID:41556986"
+      ]
+    },
+    {
+      "rank": 3,
+      "drug": "Prolotherapy",
+      "score": 0.34396037459373474,
+      "pubmed_hits": 55,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:41949169",
+        "PMID:41744528",
+        "PMID:41607324"
+      ]
+    },
+    {
+      "rank": 4,
+      "drug": "Chondroitin",
+      "score": 0.33153292536735535,
+      "pubmed_hits": 82,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:41010878",
+        "PMID:40362273",
+        "PMID:39092654"
+      ]
+    },
+    {
+      "rank": 5,
+      "drug": "Dextrose prolotherapy",
+      "score": 0.32756027579307556,
+      "pubmed_hits": 47,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:41949169",
+        "PMID:41607324",
+        "PMID:41556986"
+      ]
+    },
+    {
+      "rank": 6,
+      "drug": "PDRN",
+      "score": 0.3153609037399292,
+      "pubmed_hits": 3,
+      "evidence_level": "moderate",
+      "sample_pmids": [
+        "PMID:41607324",
+        "PMID:41546790",
+        "PMID:41466543"
+      ]
+    },
+    {
+      "rank": 7,
+      "drug": "Zinc",
+      "score": 0.2939423620700836,
+      "pubmed_hits": 100,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:41977500",
+        "PMID:41629196",
+        "PMID:41538894"
+      ]
+    },
+    {
+      "rank": 8,
+      "drug": "BGJ398",
+      "score": 0.266010046005249,
+      "pubmed_hits": 0,
+      "evidence_level": "none",
+      "sample_pmids": []
+    },
+    {
+      "rank": 9,
+      "drug": "Resveratrol",
+      "score": 0.25939276814460754,
+      "pubmed_hits": 11,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:41912865",
+        "PMID:41191163",
+        "PMID:36319994"
+      ]
+    },
+    {
+      "rank": 10,
+      "drug": "Quercetin",
+      "score": 0.24736134707927704,
+      "pubmed_hits": 6,
+      "evidence_level": "moderate",
+      "sample_pmids": [
+        "PMID:41235659",
+        "PMID:36657583",
+        "PMID:34101970"
+      ]
+    },
+    {
+      "rank": 11,
+      "drug": "Curcumin",
+      "score": 0.2430538833141327,
+      "pubmed_hits": 8,
+      "evidence_level": "moderate",
+      "sample_pmids": [
+        "PMID:41509980",
+        "PMID:39234119",
+        "PMID:34145065"
+      ]
+    },
+    {
+      "rank": 12,
+      "drug": "Aspirin",
+      "score": 0.23589950799942017,
+      "pubmed_hits": 25,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:35849918",
+        "PMID:35125343",
+        "PMID:34384858"
+      ]
+    },
+    {
+      "rank": 13,
+      "drug": "Metformin",
+      "score": 0.21646571159362793,
+      "pubmed_hits": 7,
+      "evidence_level": "moderate",
+      "sample_pmids": [
+        "PMID:39356320",
+        "PMID:33505470",
+        "PMID:33462708"
+      ]
+    },
+    {
+      "rank": 14,
+      "drug": "Insulin",
+      "score": 0.18931779265403748,
+      "pubmed_hits": 146,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:41786534",
+        "PMID:41498747",
+        "PMID:41491833"
+      ]
+    },
+    {
+      "rank": 15,
+      "drug": "Fisetin",
+      "score": 0.18876872956752777,
+      "pubmed_hits": 1,
+      "evidence_level": "weak",
+      "sample_pmids": [
+        "PMID:42074255"
+      ]
+    },
+    {
+      "rank": 16,
+      "drug": "Alendronate",
+      "score": 0.18344934284687042,
+      "pubmed_hits": 18,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:41378917",
+        "PMID:41128017",
+        "PMID:40345077"
+      ]
+    },
+    {
+      "rank": 17,
+      "drug": "Riluzole",
+      "score": 0.16301827132701874,
+      "pubmed_hits": 1,
+      "evidence_level": "weak",
+      "sample_pmids": [
+        "PMID:37678938"
+      ]
+    },
+    {
+      "rank": 18,
+      "drug": "Cisplatin",
+      "score": 0.15819910168647766,
+      "pubmed_hits": 51,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:42049033",
+        "PMID:40169778",
+        "PMID:39504967"
+      ]
+    },
+    {
+      "rank": 19,
+      "drug": "EGCG",
+      "score": 0.15529729425907135,
+      "pubmed_hits": 5,
+      "evidence_level": "moderate",
+      "sample_pmids": [
+        "PMID:28487468",
+        "PMID:28103535",
+        "PMID:27474626"
+      ]
+    },
+    {
+      "rank": 20,
+      "drug": "Denosumab",
+      "score": 0.15071086585521698,
+      "pubmed_hits": 7,
+      "evidence_level": "moderate",
+      "sample_pmids": [
+        "PMID:33707134",
+        "PMID:32713617",
+        "PMID:31950466"
+      ]
+    }
+  ],
+  "known_positives_validation": [
+    {
+      "drug": "Bisphosphonate",
+      "pubmed_hits": 111,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:41378917",
+        "PMID:41128017"
+      ]
+    },
+    {
+      "drug": "Botulinum toxin",
+      "pubmed_hits": 326,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:42121161",
+        "PMID:42062988"
+      ]
+    },
+    {
+      "drug": "Collagen",
+      "pubmed_hits": 998,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:42140801",
+        "PMID:42124726"
+      ]
+    },
+    {
+      "drug": "Corticosteroid",
+      "pubmed_hits": 425,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:42058481",
+        "PMID:42037303"
+      ]
+    },
+    {
+      "drug": "Glucosamine",
+      "pubmed_hits": 42,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:41091224",
+        "PMID:41010878"
+      ]
+    },
+    {
+      "drug": "Hyaluronic acid",
+      "pubmed_hits": 407,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:42141321",
+        "PMID:42134190"
+      ]
+    },
+    {
+      "drug": "NSAIDs",
+      "pubmed_hits": 350,
+      "evidence_level": "strong",
+      "sample_pmids": [
+        "PMID:41957190",
+        "PMID:41952911"
+      ]
+    }
+  ],
+  "summary": {
+    "novel_predictions_with_evidence": 19,
+    "total_novel_predictions": 20,
+    "discovery_rate": "19/20"
+  }
+}

@@ -1,0 +1,33 @@
+41084405	Comparison of NSAID therapy alone versus combined NSAID and home exercise therapy in patients with temporomandibular joint osteoarthritis and arthralgia.
+40273050	FGF18 induces chondrogenesis and anti-osteoarthritic effects in a mouse model for TMJ degeneration.
+38867545	Efficiency of Glucosamine in Treating Temporomandibular Joint Osteoarthritis: A Meta-Analytic Umbrella Review.
+39092654	Can treatment with chondroitin and glucosamine sulphate prevent changes in the articular disc caused by temporomandibular joint osteoarthritis?
+38821656	INTRA-ARTICULAR PHARMACOLOGICAL INJECTIONS FOR TEMPOROMANDIBULAR JOINT OSTEOARTHRITIS ARE COMPARABLE TO PLACEBO.
+37608244	Hyaluronic acid injections for pain relief and functional improvement in patients with temporomandibular disorders: An umbrella review of systematic reviews.
+36890529	Does intra-articular injection of tenoxicam after arthrocentesis heal outcomes of temporomandibular joint osteoarthritis? A randomized clinical trial.
+35994388	Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis.
+33775650	A Systematic Review of Rat Models With Temporomandibular Osteoarthritis Suitable for the Study of Emerging Prolonged Intra-Articular Drug Delivery Systems.
+30814387	Long-term effectiveness of arthrocentesis with and without hyaluronic acid injection for treatment of temporomandibular joint osteoarthritis.
+29244893	Effectiveness of Intra-Articular Injections of Sodium Hyaluronate or Corticosteroids for Intracapsular Temporomandibular Disorders: A Systematic Review and Meta-Analysis.
+28879245	Effects of High-Dose Capsaicin on TMD Subjects: A Randomized Clinical Study.
+	?
+	?
+	?
+	?
+	?
+	?
+	?
+	?
+	?
+	?
+	?
+	?
+	?
+	?
+	?
+	?
+	?
+41770501	Comparative efficacy of transdermal buprenorphine versus diclofenac in the management of knee osteoarthritis: a randomized controlled trial with network pharmacology insights.
+40972625	The global, regional, and national burden attributable to low bone mineral density, 1990-2020: an analysis of a modifiable risk factor from the Global Burden of Disease Study 2021.
+	?
+41727032	Discovery of TDP-43 aggregation inhibitors via a hybrid machine learning framework.

@@ -1,0 +1,33 @@
+{
+  "title": "Clinical effectiveness of manual therapy for the management of musculoskeletal and non-musculoskeletal conditions: systematic review and update of UK evidence report",
+  "authors": "Clar C et al.",
+  "year": 2014,
+  "journal": "Chiropractic & Manual Therapies",
+  "category": "general",
+  "research_question": "To update and extend the UK evidence report on the clinical effectiveness of manual therapy for musculoskeletal and non-musculoskeletal conditions, focusing on areas previously rated as inconclusive or negative or not covered.",
+  "methods_summary": [
+    "Systematic review with literature search of over 10 databases (August 2011, updated March 2013).",
+    "Inclusion of systematic reviews, RCTs, controlled clinical trials, cohort studies, and qualitative studies.",
+    "Quality assessment using AMSTAR, Cochrane Risk of Bias, CRD checklist, and CASP.",
+    "Evidence rating based on consistency, study size, and quality (high, moderate, inconclusive).",
+    "Comparison of new evidence against ratings from the Bronfort et al. UK evidence report."
+  ],
+  "dataset": "25,539 records identified; 178 new studies included (72 systematic reviews, 96 RCTs, 10 non-randomized primary studies).",
+  "key_findings": [
+    "Most inconclusive or moderate evidence ratings from the UK evidence report were confirmed.",
+    "Evidence ratings changed from inconclusive to moderate in only three cases: manipulation/mobilisation with exercise for rotator cuff disorder, spinal mobilisation for cervicogenic headache, and mobilisation for miscellaneous headache.",
+    "Evidence for non-musculoskeletal conditions was mostly rated as inconclusive.",
+    "Overall, limited high-quality evidence for manual therapy effectiveness; most evidence was low to moderate quality and inconsistent."
+  ],
+  "relevance_score": "medium",
+  "tags": [
+    "manual therapy",
+    "systematic review",
+    "musculoskeletal",
+    "non-musculoskeletal",
+    "clinical effectiveness",
+    "chiropractic",
+    "osteopathy"
+  ],
+  "extracted_insights": "The review confirms that manual therapy evidence remains largely inconclusive for many conditions, with only a few upgrades from inconclusive to moderate. High-quality evidence is scarce, and methodological diversity limits conclusions. Further research is needed, particularly for non-musculoskeletal conditions."
+}

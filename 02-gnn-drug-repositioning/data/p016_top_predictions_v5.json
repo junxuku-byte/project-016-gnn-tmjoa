@@ -1,0 +1,2616 @@
+{
+  "metadata": {
+    "version": "v5_0",
+    "checkpoint": "/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data/models/p016_gnn_v5_best.pt",
+    "total_candidates": 478,
+    "scored_at": "2026-05-19T20:30:00+08:00"
+  },
+  "top_20_overall": [
+    {
+      "rank": 1,
+      "drug": "Spironolactone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.2046
+    },
+    {
+      "rank": 2,
+      "drug": "Spironolactone",
+      "disease": "Hip OA",
+      "score": 0.1809
+    },
+    {
+      "rank": 3,
+      "drug": "Rapamycin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.1459
+    },
+    {
+      "rank": 4,
+      "drug": "Rapamycin",
+      "disease": "Osteoarthritis",
+      "score": 0.1336
+    },
+    {
+      "rank": 5,
+      "drug": "Rapamycin",
+      "disease": "Knee OA",
+      "score": 0.1281
+    },
+    {
+      "rank": 6,
+      "drug": "Rapamycin",
+      "disease": "Hip OA",
+      "score": 0.1278
+    },
+    {
+      "rank": 7,
+      "drug": "Rapamycin",
+      "disease": "Osteoporosis",
+      "score": 0.1249
+    },
+    {
+      "rank": 8,
+      "drug": "Rapamycin",
+      "disease": "TMJOA",
+      "score": 0.1242
+    },
+    {
+      "rank": 9,
+      "drug": "Rapamycin",
+      "disease": "TMD",
+      "score": 0.1189
+    },
+    {
+      "rank": 10,
+      "drug": "Vitamin D",
+      "disease": "TMJ",
+      "score": 0.0639
+    },
+    {
+      "rank": 11,
+      "drug": "Vitamin D",
+      "disease": "Osteoarthritis",
+      "score": 0.0568
+    },
+    {
+      "rank": 12,
+      "drug": "Vitamin D",
+      "disease": "Knee OA",
+      "score": 0.0543
+    },
+    {
+      "rank": 13,
+      "drug": "Vitamin D",
+      "disease": "Hip OA",
+      "score": 0.0541
+    },
+    {
+      "rank": 14,
+      "drug": "Vitamin D",
+      "disease": "Osteoporosis",
+      "score": 0.0528
+    },
+    {
+      "rank": 15,
+      "drug": "Vitamin D",
+      "disease": "TMJOA",
+      "score": 0.0524
+    },
+    {
+      "rank": 16,
+      "drug": "Vitamin D",
+      "disease": "TMD",
+      "score": 0.0501
+    },
+    {
+      "rank": 17,
+      "drug": "Fluoxetine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0435
+    },
+    {
+      "rank": 18,
+      "drug": "Omeprazole",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0413
+    },
+    {
+      "rank": 19,
+      "drug": "Omeprazole",
+      "disease": "Hip OA",
+      "score": 0.0356
+    },
+    {
+      "rank": 20,
+      "drug": "Flurbiprofen",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0311
+    }
+  ],
+  "top_10_tmjoa": [
+    {
+      "rank": 1,
+      "drug": "Rapamycin",
+      "disease": "TMJOA",
+      "score": 0.1242
+    },
+    {
+      "rank": 2,
+      "drug": "Vitamin D",
+      "disease": "TMJOA",
+      "score": 0.0524
+    },
+    {
+      "rank": 3,
+      "drug": "Chondroitin",
+      "disease": "TMJOA",
+      "score": 0.0005
+    },
+    {
+      "rank": 4,
+      "drug": "Resveratrol",
+      "disease": "TMJOA",
+      "score": 0.0003
+    },
+    {
+      "rank": 5,
+      "drug": "Curcumin",
+      "disease": "TMJOA",
+      "score": 0.0001
+    },
+    {
+      "rank": 6,
+      "drug": "Metformin",
+      "disease": "TMJOA",
+      "score": 0.0
+    },
+    {
+      "rank": 7,
+      "drug": "Quercetin",
+      "disease": "TMJOA",
+      "score": 0.0
+    },
+    {
+      "rank": 8,
+      "drug": "Statin",
+      "disease": "TMJOA",
+      "score": 0.0
+    },
+    {
+      "rank": 9,
+      "drug": "Tanezumab",
+      "disease": "TMJOA",
+      "score": 0.0
+    }
+  ],
+  "top_10_tmj": [
+    {
+      "rank": 1,
+      "drug": "Vitamin D",
+      "disease": "TMJ",
+      "score": 0.0639
+    },
+    {
+      "rank": 2,
+      "drug": "Resveratrol",
+      "disease": "TMJ",
+      "score": 0.0004
+    },
+    {
+      "rank": 3,
+      "drug": "Curcumin",
+      "disease": "TMJ",
+      "score": 0.0001
+    },
+    {
+      "rank": 4,
+      "drug": "Metformin",
+      "disease": "TMJ",
+      "score": 0.0
+    },
+    {
+      "rank": 5,
+      "drug": "Quercetin",
+      "disease": "TMJ",
+      "score": 0.0
+    },
+    {
+      "rank": 6,
+      "drug": "Tanezumab",
+      "disease": "TMJ",
+      "score": 0.0
+    }
+  ],
+  "all_predictions": [
+    {
+      "drug": "Spironolactone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.2046
+    },
+    {
+      "drug": "Spironolactone",
+      "disease": "Hip OA",
+      "score": 0.1809
+    },
+    {
+      "drug": "Rapamycin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.1459
+    },
+    {
+      "drug": "Rapamycin",
+      "disease": "Osteoarthritis",
+      "score": 0.1336
+    },
+    {
+      "drug": "Rapamycin",
+      "disease": "Knee OA",
+      "score": 0.1281
+    },
+    {
+      "drug": "Rapamycin",
+      "disease": "Hip OA",
+      "score": 0.1278
+    },
+    {
+      "drug": "Rapamycin",
+      "disease": "Osteoporosis",
+      "score": 0.1249
+    },
+    {
+      "drug": "Rapamycin",
+      "disease": "TMJOA",
+      "score": 0.1242
+    },
+    {
+      "drug": "Rapamycin",
+      "disease": "TMD",
+      "score": 0.1189
+    },
+    {
+      "drug": "Vitamin D",
+      "disease": "TMJ",
+      "score": 0.0639
+    },
+    {
+      "drug": "Vitamin D",
+      "disease": "Osteoarthritis",
+      "score": 0.0568
+    },
+    {
+      "drug": "Vitamin D",
+      "disease": "Knee OA",
+      "score": 0.0543
+    },
+    {
+      "drug": "Vitamin D",
+      "disease": "Hip OA",
+      "score": 0.0541
+    },
+    {
+      "drug": "Vitamin D",
+      "disease": "Osteoporosis",
+      "score": 0.0528
+    },
+    {
+      "drug": "Vitamin D",
+      "disease": "TMJOA",
+      "score": 0.0524
+    },
+    {
+      "drug": "Vitamin D",
+      "disease": "TMD",
+      "score": 0.0501
+    },
+    {
+      "drug": "Fluoxetine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0435
+    },
+    {
+      "drug": "Omeprazole",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0413
+    },
+    {
+      "drug": "Omeprazole",
+      "disease": "Hip OA",
+      "score": 0.0356
+    },
+    {
+      "drug": "Flurbiprofen",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0311
+    },
+    {
+      "drug": "Flurbiprofen",
+      "disease": "Knee OA",
+      "score": 0.0268
+    },
+    {
+      "drug": "Flurbiprofen",
+      "disease": "Hip OA",
+      "score": 0.0267
+    },
+    {
+      "drug": "Flurbiprofen",
+      "disease": "Osteoporosis",
+      "score": 0.0261
+    },
+    {
+      "drug": "Corticosteroid",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0243
+    },
+    {
+      "drug": "Corticosteroid",
+      "disease": "Hip OA",
+      "score": 0.0209
+    },
+    {
+      "drug": "Corticosteroid",
+      "disease": "Osteoporosis",
+      "score": 0.0204
+    },
+    {
+      "drug": "Pembrolizumab",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0174
+    },
+    {
+      "drug": "Pembrolizumab",
+      "disease": "Hip OA",
+      "score": 0.0149
+    },
+    {
+      "drug": "Fluconazole",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0071
+    },
+    {
+      "drug": "Fluconazole",
+      "disease": "Osteoporosis",
+      "score": 0.0059
+    },
+    {
+      "drug": "Famotidine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0054
+    },
+    {
+      "drug": "Fentanyl",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0053
+    },
+    {
+      "drug": "Fentanyl",
+      "disease": "Knee OA",
+      "score": 0.0046
+    },
+    {
+      "drug": "Famotidine",
+      "disease": "Hip OA",
+      "score": 0.0046
+    },
+    {
+      "drug": "Fentanyl",
+      "disease": "Hip OA",
+      "score": 0.0046
+    },
+    {
+      "drug": "Fentanyl",
+      "disease": "Osteoporosis",
+      "score": 0.0045
+    },
+    {
+      "drug": "Valacyclovir",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0032
+    },
+    {
+      "drug": "Valacyclovir",
+      "disease": "Hip OA",
+      "score": 0.0027
+    },
+    {
+      "drug": "Valacyclovir",
+      "disease": "Osteoporosis",
+      "score": 0.0027
+    },
+    {
+      "drug": "Sitagliptin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0027
+    },
+    {
+      "drug": "Diacerein",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0024
+    },
+    {
+      "drug": "Sitagliptin",
+      "disease": "Osteoporosis",
+      "score": 0.0022
+    },
+    {
+      "drug": "Fexofenadine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0014
+    },
+    {
+      "drug": "GSK2831781",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0012
+    },
+    {
+      "drug": "Fexofenadine",
+      "disease": "Osteoporosis",
+      "score": 0.0012
+    },
+    {
+      "drug": "Buprenorphine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0011
+    },
+    {
+      "drug": "Zonisamide",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.001
+    },
+    {
+      "drug": "Simvastatin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0009
+    },
+    {
+      "drug": "Buprenorphine",
+      "disease": "Knee OA",
+      "score": 0.0009
+    },
+    {
+      "drug": "Buprenorphine",
+      "disease": "Hip OA",
+      "score": 0.0009
+    },
+    {
+      "drug": "Buprenorphine",
+      "disease": "Osteoporosis",
+      "score": 0.0009
+    },
+    {
+      "drug": "Zonisamide",
+      "disease": "Knee OA",
+      "score": 0.0009
+    },
+    {
+      "drug": "Zonisamide",
+      "disease": "Hip OA",
+      "score": 0.0008
+    },
+    {
+      "drug": "Zonisamide",
+      "disease": "Osteoporosis",
+      "score": 0.0008
+    },
+    {
+      "drug": "Methylphenidate",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0008
+    },
+    {
+      "drug": "Simvastatin",
+      "disease": "Hip OA",
+      "score": 0.0008
+    },
+    {
+      "drug": "Methylphenidate",
+      "disease": "Knee OA",
+      "score": 0.0007
+    },
+    {
+      "drug": "Methylphenidate",
+      "disease": "Hip OA",
+      "score": 0.0007
+    },
+    {
+      "drug": "Methylphenidate",
+      "disease": "Osteoporosis",
+      "score": 0.0007
+    },
+    {
+      "drug": "Methylphenidate",
+      "disease": "TMD",
+      "score": 0.0007
+    },
+    {
+      "drug": "Piroxicam",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0007
+    },
+    {
+      "drug": "Timolol",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0006
+    },
+    {
+      "drug": "Collagen",
+      "disease": "Hip OA",
+      "score": 0.0006
+    },
+    {
+      "drug": "Collagen",
+      "disease": "Osteoporosis",
+      "score": 0.0006
+    },
+    {
+      "drug": "Piroxicam",
+      "disease": "Knee OA",
+      "score": 0.0006
+    },
+    {
+      "drug": "Hyaluronic acid",
+      "disease": "Hip OA",
+      "score": 0.0006
+    },
+    {
+      "drug": "Hyaluronic acid",
+      "disease": "Osteoporosis",
+      "score": 0.0006
+    },
+    {
+      "drug": "Piroxicam",
+      "disease": "Hip OA",
+      "score": 0.0006
+    },
+    {
+      "drug": "Chondroitin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0006
+    },
+    {
+      "drug": "Piroxicam",
+      "disease": "Osteoporosis",
+      "score": 0.0006
+    },
+    {
+      "drug": "Timolol",
+      "disease": "Hip OA",
+      "score": 0.0005
+    },
+    {
+      "drug": "Ketamine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0005
+    },
+    {
+      "drug": "Chondroitin",
+      "disease": "Knee OA",
+      "score": 0.0005
+    },
+    {
+      "drug": "Chondroitin",
+      "disease": "Hip OA",
+      "score": 0.0005
+    },
+    {
+      "drug": "Chondroitin",
+      "disease": "Osteoporosis",
+      "score": 0.0005
+    },
+    {
+      "drug": "Chondroitin",
+      "disease": "TMJOA",
+      "score": 0.0005
+    },
+    {
+      "drug": "Ketamine",
+      "disease": "Knee OA",
+      "score": 0.0004
+    },
+    {
+      "drug": "Montelukast",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0004
+    },
+    {
+      "drug": "Ketamine",
+      "disease": "Osteoporosis",
+      "score": 0.0004
+    },
+    {
+      "drug": "Ketamine",
+      "disease": "Hip OA",
+      "score": 0.0004
+    },
+    {
+      "drug": "Diclofenac",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0004
+    },
+    {
+      "drug": "Edaravone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0004
+    },
+    {
+      "drug": "Naloxone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0004
+    },
+    {
+      "drug": "Pioglitazone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0004
+    },
+    {
+      "drug": "Montelukast",
+      "disease": "Hip OA",
+      "score": 0.0004
+    },
+    {
+      "drug": "Resveratrol",
+      "disease": "TMJ",
+      "score": 0.0004
+    },
+    {
+      "drug": "Diclofenac",
+      "disease": "Knee OA",
+      "score": 0.0004
+    },
+    {
+      "drug": "Quetiapine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0004
+    },
+    {
+      "drug": "Diclofenac",
+      "disease": "Osteoporosis",
+      "score": 0.0003
+    },
+    {
+      "drug": "Edaravone",
+      "disease": "Knee OA",
+      "score": 0.0003
+    },
+    {
+      "drug": "Naloxone",
+      "disease": "Knee OA",
+      "score": 0.0003
+    },
+    {
+      "drug": "Diclofenac",
+      "disease": "Hip OA",
+      "score": 0.0003
+    },
+    {
+      "drug": "Levofloxacin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0003
+    },
+    {
+      "drug": "Edaravone",
+      "disease": "Osteoporosis",
+      "score": 0.0003
+    },
+    {
+      "drug": "Naloxone",
+      "disease": "Osteoporosis",
+      "score": 0.0003
+    },
+    {
+      "drug": "Edaravone",
+      "disease": "Hip OA",
+      "score": 0.0003
+    },
+    {
+      "drug": "Edaravone",
+      "disease": "TMD",
+      "score": 0.0003
+    },
+    {
+      "drug": "Naloxone",
+      "disease": "Hip OA",
+      "score": 0.0003
+    },
+    {
+      "drug": "Pioglitazone",
+      "disease": "Hip OA",
+      "score": 0.0003
+    },
+    {
+      "drug": "Resveratrol",
+      "disease": "Knee OA",
+      "score": 0.0003
+    },
+    {
+      "drug": "Modafinil",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0003
+    },
+    {
+      "drug": "Resveratrol",
+      "disease": "Osteoporosis",
+      "score": 0.0003
+    },
+    {
+      "drug": "Resveratrol",
+      "disease": "Hip OA",
+      "score": 0.0003
+    },
+    {
+      "drug": "Resveratrol",
+      "disease": "TMJOA",
+      "score": 0.0003
+    },
+    {
+      "drug": "Resveratrol",
+      "disease": "TMD",
+      "score": 0.0003
+    },
+    {
+      "drug": "Quetiapine",
+      "disease": "Hip OA",
+      "score": 0.0003
+    },
+    {
+      "drug": "Meloxicam",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0003
+    },
+    {
+      "drug": "Levofloxacin",
+      "disease": "Osteoporosis",
+      "score": 0.0003
+    },
+    {
+      "drug": "Levofloxacin",
+      "disease": "Hip OA",
+      "score": 0.0003
+    },
+    {
+      "drug": "Modafinil",
+      "disease": "Knee OA",
+      "score": 0.0003
+    },
+    {
+      "drug": "Meloxicam",
+      "disease": "Knee OA",
+      "score": 0.0002
+    },
+    {
+      "drug": "Modafinil",
+      "disease": "Osteoporosis",
+      "score": 0.0002
+    },
+    {
+      "drug": "Modafinil",
+      "disease": "Hip OA",
+      "score": 0.0002
+    },
+    {
+      "drug": "Fasinumab",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0002
+    },
+    {
+      "drug": "Meloxicam",
+      "disease": "Osteoporosis",
+      "score": 0.0002
+    },
+    {
+      "drug": "Meloxicam",
+      "disease": "Hip OA",
+      "score": 0.0002
+    },
+    {
+      "drug": "Meloxicam",
+      "disease": "TMD",
+      "score": 0.0002
+    },
+    {
+      "drug": "Guanfacine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0002
+    },
+    {
+      "drug": "Bisacodyl",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0002
+    },
+    {
+      "drug": "Tretinoin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0002
+    },
+    {
+      "drug": "Guanfacine",
+      "disease": "Knee OA",
+      "score": 0.0002
+    },
+    {
+      "drug": "Guanfacine",
+      "disease": "Osteoporosis",
+      "score": 0.0002
+    },
+    {
+      "drug": "Amoxicillin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0002
+    },
+    {
+      "drug": "Isotretinoin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0002
+    },
+    {
+      "drug": "Nivolumab",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0002
+    },
+    {
+      "drug": "Guanfacine",
+      "disease": "Hip OA",
+      "score": 0.0002
+    },
+    {
+      "drug": "Bisacodyl",
+      "disease": "Hip OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Tretinoin",
+      "disease": "Osteoporosis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Tretinoin",
+      "disease": "Hip OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Baclofen",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Theophylline",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Domperidone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Isotretinoin",
+      "disease": "Hip OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Nivolumab",
+      "disease": "Hip OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Cyclobenzaprine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Dexamethasone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Lorentixont",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Methylprednisolone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Baclofen",
+      "disease": "Knee OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Theophylline",
+      "disease": "Knee OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Baclofen",
+      "disease": "Osteoporosis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Baclofen",
+      "disease": "TMD",
+      "score": 0.0001
+    },
+    {
+      "drug": "Theophylline",
+      "disease": "Osteoporosis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Domperidone",
+      "disease": "Osteoporosis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Baclofen",
+      "disease": "Hip OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Theophylline",
+      "disease": "TMD",
+      "score": 0.0001
+    },
+    {
+      "drug": "Budesonide",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Cyclobenzaprine",
+      "disease": "Knee OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Theophylline",
+      "disease": "Hip OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Tadalafil",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Cyclobenzaprine",
+      "disease": "Osteoporosis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Dexamethasone",
+      "disease": "Osteoporosis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Cyclobenzaprine",
+      "disease": "Hip OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Dexamethasone",
+      "disease": "Hip OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Methylprednisolone",
+      "disease": "Hip OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Alfentanil",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Digoxin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Alfentanil",
+      "disease": "Knee OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Alfentanil",
+      "disease": "Osteoporosis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Alfentanil",
+      "disease": "TMD",
+      "score": 0.0001
+    },
+    {
+      "drug": "Alfentanil",
+      "disease": "Hip OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Bupropion",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Curcumin",
+      "disease": "TMJ",
+      "score": 0.0001
+    },
+    {
+      "drug": "Curcumin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Clonidine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Tenoxicam",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Fulranumab",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Bupropion",
+      "disease": "Knee OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Curcumin",
+      "disease": "Knee OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Bupropion",
+      "disease": "Osteoporosis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Bupropion",
+      "disease": "Hip OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Clonidine",
+      "disease": "Knee OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Curcumin",
+      "disease": "Osteoporosis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Curcumin",
+      "disease": "TMD",
+      "score": 0.0001
+    },
+    {
+      "drug": "Tenoxicam",
+      "disease": "Knee OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Curcumin",
+      "disease": "TMJOA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Curcumin",
+      "disease": "Hip OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Clonidine",
+      "disease": "Osteoporosis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Clonidine",
+      "disease": "TMD",
+      "score": 0.0001
+    },
+    {
+      "drug": "Clonidine",
+      "disease": "Hip OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Tenoxicam",
+      "disease": "Osteoporosis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Warfarin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Tenoxicam",
+      "disease": "TMD",
+      "score": 0.0001
+    },
+    {
+      "drug": "Tenoxicam",
+      "disease": "Hip OA",
+      "score": 0.0001
+    },
+    {
+      "drug": "Corticosteroid_systemic_longterm",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Doxorubicin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0001
+    },
+    {
+      "drug": "Glucosamine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Rosiglitazone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Doxorubicin",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Metoprolol",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Orphenadrine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Risperidone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Glucosamine",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Glucosamine",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Glucosamine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Rosiglitazone",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Orphenadrine",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Mirtazapine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Rosiglitazone",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Orphenadrine",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Metoprolol",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Orphenadrine",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Risperidone",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Levetiracetam",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Orphenadrine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Risperidone",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Anastrozole",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ipratropium",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Letrozole",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Glipizide",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Levetiracetam",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Mirtazapine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Nitrous oxide",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Valproic acid",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Levetiracetam",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Levetiracetam",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Ibuprofen",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ipratropium",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Nitrous oxide",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Metformin",
+      "disease": "TMJ",
+      "score": 0.0
+    },
+    {
+      "drug": "Glipizide",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Letrozole",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Metformin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Nitrous oxide",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Nitrous oxide",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Senna",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Valproic acid",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Ibuprofen",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Ibuprofen",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Ibuprofen",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ibuprofen",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Loratadine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Metformin",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Metformin",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Metformin",
+      "disease": "TMJOA",
+      "score": 0.0
+    },
+    {
+      "drug": "Bisphosphonate",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Azithromycin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Metformin",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Quercetin",
+      "disease": "TMJ",
+      "score": 0.0
+    },
+    {
+      "drug": "Bisphosphonate",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Quercetin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Naltrexone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Morphine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Bisphosphonate",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Bisphosphonate",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Enalapril",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Bisphosphonate",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Oseltamivir",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Quercetin",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Naltrexone",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Lansoprazole",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Morphine",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Quercetin",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Sertraline",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Quercetin",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Naltrexone",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Quercetin",
+      "disease": "TMJOA",
+      "score": 0.0
+    },
+    {
+      "drug": "Quercetin",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Morphine",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Naltrexone",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Pantoprazole",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Morphine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Oseltamivir",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "5-Fluorouracil",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Lansoprazole",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Doxycycline",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Codeine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Sertraline",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Sodium valproate",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Exemestane",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Diphenhydramine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Esomeprazole",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Pantoprazole",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "NSAIDs",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "PRP",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Varenicline",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Codeine",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Leuprolide",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Sodium valproate",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Doxycycline",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Amlodipine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Codeine",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Nicotine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Codeine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Methadone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Sodium valproate",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ranitidine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Sodium valproate",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Varenicline",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Diphenhydramine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Indomethacin_high_dose",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "NSAIDs",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Esomeprazole",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "PRP",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Varenicline",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "NSAIDs",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Paclitaxel",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Salbutamol",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Varenicline",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "PRP",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Nicotine",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Varenicline",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Methadone",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Methocarbamol",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Nicotine",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Nicotine",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Amlodipine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Lithium",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Methadone",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Nicotine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Atenolol",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Methadone",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Indomethacin_high_dose",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ranitidine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Indomethacin_high_dose",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Methocarbamol",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Caffeine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Salbutamol",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Methocarbamol",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Methocarbamol",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Lithium",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Caffeine",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Atenolol",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Caffeine",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Caffeine",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Caffeine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Sildenafil",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Rosuvastatin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Metronidazole",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Riluzole",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Xenon",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Remdesivir",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Riluzole",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Brimonidine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Tizanidine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Xenon",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Metronidazole",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Olanzapine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Rosuvastatin",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Riluzole",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Metronidazole",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Xenon",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Cetirizine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Riluzole",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Losartan",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Xenon",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Riluzole",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Xenon",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Tizanidine",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Esketamine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Remdesivir",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Cisplatin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Triamcinolone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Tizanidine",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Brimonidine",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Tizanidine",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Olanzapine",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Tizanidine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "M40403",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Finasteride",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Metoclopramide",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Esketamine",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Cetirizine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Esketamine",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Esketamine",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Cisplatin",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Tapentadol",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Esketamine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Methotrexate_high_dose",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Aluminum hydroxide",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Sufentanil",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Triamcinolone",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Finasteride",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Tapentadol",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Statin",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Sufentanil",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Tapentadol",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Statin",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Midazolam",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Tapentadol",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Sufentanil",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Statin",
+      "disease": "TMJOA",
+      "score": 0.0
+    },
+    {
+      "drug": "Propofol",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Phenobarbital",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Statin",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Aluminum hydroxide",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Sufentanil",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Insulin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Etomidate",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Voriconazole",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Acitretin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Midazolam",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Phenobarbital",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Insulin",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Ketoprofen",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Heparin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Atomoxetine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Haloperidol",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ipilimumab",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ketoprofen",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Moxifloxacin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ketoprofen",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Ketoprofen",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Atomoxetine",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Escitalopram",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ketoprofen",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Atomoxetine",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Itraconazole",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ipilimumab",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Atomoxetine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Clarithromycin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Cyclophosphamide",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ketamine_anesthesia",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Moxifloxacin",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Tanezumab",
+      "disease": "TMJ",
+      "score": 0.0
+    },
+    {
+      "drug": "Adapalene",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Tamsulosin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Tanezumab",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Itraconazole",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Clarithromycin",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Cyclophosphamide",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ketamine_anesthesia",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Clarithromycin",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Teriparatide",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ketamine_anesthesia",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Loperamide",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Tanezumab",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Ziconotide",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Tanezumab",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Bupivacaine",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Botulinum toxin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Tanezumab",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Adapalene",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Tanezumab",
+      "disease": "TMJOA",
+      "score": 0.0
+    },
+    {
+      "drug": "Hydrocodone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Tamsulosin",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Tanezumab",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Goserelin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Oxycodone",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ziconotide",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Loperamide",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Bupivacaine",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Phenytoin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Botulinum toxin",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Hydrocodone",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Ziconotide",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Bupivacaine",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Bupivacaine",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Oxycodone",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Botulinum toxin",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Ziconotide",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Hydrocodone",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Bupivacaine",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Botulinum toxin",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Oxycodone",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Hydrocodone",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Acyclovir",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Oxycodone",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Phenytoin",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Carisoprodol",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Furosemide",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Glyburide",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Carisoprodol",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Carisoprodol",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Carisoprodol",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Carisoprodol",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Glyburide",
+      "disease": "Hip OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Latanoprost",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Atorvastatin",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Latanoprost",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Atorvastatin",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Lornoxicam",
+      "disease": "Rheumatoid arthritis",
+      "score": 0.0
+    },
+    {
+      "drug": "Lornoxicam",
+      "disease": "Knee OA",
+      "score": 0.0
+    },
+    {
+      "drug": "Lornoxicam",
+      "disease": "TMD",
+      "score": 0.0
+    },
+    {
+      "drug": "Lornoxicam",
+      "disease": "Osteoporosis",
+      "score": 0.0
+    },
+    {
+      "drug": "Lornoxicam",
+      "disease": "Hip OA",
+      "score": 0.0
+    }
+  ]
+}

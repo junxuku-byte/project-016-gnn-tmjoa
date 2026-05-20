@@ -1,0 +1,405 @@
+{
+  "metadata": {
+    "model": "DrugRepositionGNN (HeteroSAGE)",
+    "checkpoint": ".tmp/p016_gnn_best.pt",
+    "best_val_auc": 0.9714,
+    "total_predictions": 6871,
+    "date": "2026-05-18"
+  },
+  "top20_global": [
+    {
+      "drug": "Infliximab",
+      "disease": "Migraine",
+      "score": 0.8294773101806641,
+      "is_tmj": false
+    },
+    {
+      "drug": "Prednisone",
+      "disease": "Migraine",
+      "score": 0.8224048614501953,
+      "is_tmj": false
+    },
+    {
+      "drug": "Xenon",
+      "disease": "Migraine",
+      "score": 0.8215764760971069,
+      "is_tmj": false
+    },
+    {
+      "drug": "Metoclopramide",
+      "disease": "Migraine",
+      "score": 0.819021463394165,
+      "is_tmj": false
+    },
+    {
+      "drug": "Sufentanil",
+      "disease": "Migraine",
+      "score": 0.8150564432144165,
+      "is_tmj": false
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "disease": "Migraine",
+      "score": 0.8143170475959778,
+      "is_tmj": false
+    },
+    {
+      "drug": "Theophylline",
+      "disease": "Migraine",
+      "score": 0.8135156631469727,
+      "is_tmj": false
+    },
+    {
+      "drug": "Teriparatide",
+      "disease": "Migraine",
+      "score": 0.8104111552238464,
+      "is_tmj": false
+    },
+    {
+      "drug": "Acyclovir",
+      "disease": "Migraine",
+      "score": 0.8089116811752319,
+      "is_tmj": false
+    },
+    {
+      "drug": "Nitrous oxide",
+      "disease": "Migraine",
+      "score": 0.8053498864173889,
+      "is_tmj": false
+    },
+    {
+      "drug": "Indomethacin_high_dose",
+      "disease": "Migraine",
+      "score": 0.803909182548523,
+      "is_tmj": false
+    },
+    {
+      "drug": "Varenicline",
+      "disease": "Migraine",
+      "score": 0.8036293387413025,
+      "is_tmj": false
+    },
+    {
+      "drug": "Brimonidine",
+      "disease": "Migraine",
+      "score": 0.8017355799674988,
+      "is_tmj": false
+    },
+    {
+      "drug": "Paclitaxel",
+      "disease": "Migraine",
+      "score": 0.8015468716621399,
+      "is_tmj": false
+    },
+    {
+      "drug": "Midazolam",
+      "disease": "Migraine",
+      "score": 0.8010061979293823,
+      "is_tmj": false
+    },
+    {
+      "drug": "Valdecoxib",
+      "disease": "Migraine",
+      "score": 0.800277590751648,
+      "is_tmj": false
+    },
+    {
+      "drug": "Rituximab",
+      "disease": "Migraine",
+      "score": 0.8001932501792908,
+      "is_tmj": false
+    },
+    {
+      "drug": "Naloxone",
+      "disease": "Migraine",
+      "score": 0.797483503818512,
+      "is_tmj": false
+    },
+    {
+      "drug": "Naltrexone",
+      "disease": "Migraine",
+      "score": 0.7961442470550537,
+      "is_tmj": false
+    },
+    {
+      "drug": "Pembrolizumab",
+      "disease": "Migraine",
+      "score": 0.7897905111312866,
+      "is_tmj": false
+    }
+  ],
+  "top20_tmj": [
+    {
+      "drug": "Prednisone",
+      "disease": "TMD",
+      "score": 0.3377420902252197,
+      "is_tmj": true
+    },
+    {
+      "drug": "Sufentanil",
+      "disease": "TMD",
+      "score": 0.3249216377735138,
+      "is_tmj": true
+    },
+    {
+      "drug": "Ciprofloxacin",
+      "disease": "TMD",
+      "score": 0.3237623870372772,
+      "is_tmj": true
+    },
+    {
+      "drug": "Theophylline",
+      "disease": "TMD",
+      "score": 0.32194849848747253,
+      "is_tmj": true
+    },
+    {
+      "drug": "Valdecoxib",
+      "disease": "TMD",
+      "score": 0.3026700019836426,
+      "is_tmj": true
+    },
+    {
+      "drug": "Allopurinol",
+      "disease": "TMD",
+      "score": 0.2837221026420593,
+      "is_tmj": true
+    },
+    {
+      "drug": "Bisacodyl",
+      "disease": "TMD",
+      "score": 0.2823410630226135,
+      "is_tmj": true
+    },
+    {
+      "drug": "Quetiapine",
+      "disease": "TMD",
+      "score": 0.27581700682640076,
+      "is_tmj": true
+    },
+    {
+      "drug": "Olanzapine",
+      "disease": "TMD",
+      "score": 0.2751024663448334,
+      "is_tmj": true
+    },
+    {
+      "drug": "Growth factor",
+      "disease": "TMD",
+      "score": 0.2740960717201233,
+      "is_tmj": true
+    },
+    {
+      "drug": "Montelukast",
+      "disease": "TMD",
+      "score": 0.26576876640319824,
+      "is_tmj": true
+    },
+    {
+      "drug": "Diphenhydramine",
+      "disease": "TMD",
+      "score": 0.26525092124938965,
+      "is_tmj": true
+    },
+    {
+      "drug": "Doxycycline",
+      "disease": "TMD",
+      "score": 0.23792360723018646,
+      "is_tmj": true
+    },
+    {
+      "drug": "Remdesivir",
+      "disease": "TMD",
+      "score": 0.23762468993663788,
+      "is_tmj": true
+    },
+    {
+      "drug": "Etoricoxib",
+      "disease": "TMD",
+      "score": 0.23509807884693146,
+      "is_tmj": true
+    },
+    {
+      "drug": "Piroxicam",
+      "disease": "TMD",
+      "score": 0.23460139334201813,
+      "is_tmj": true
+    },
+    {
+      "drug": "Senna",
+      "disease": "TMD",
+      "score": 0.22804029285907745,
+      "is_tmj": true
+    },
+    {
+      "drug": "Latanoprost",
+      "disease": "TMD",
+      "score": 0.2236771285533905,
+      "is_tmj": true
+    },
+    {
+      "drug": "Probenecid",
+      "disease": "TMD",
+      "score": 0.22359280288219452,
+      "is_tmj": true
+    },
+    {
+      "drug": "Isotretinoin",
+      "disease": "TMD",
+      "score": 0.2221525013446808,
+      "is_tmj": true
+    }
+  ],
+  "tmj_positive_in_train": [
+    {
+      "drug": "Mesenchymal stem cell",
+      "disease": "TMJOA",
+      "label": 0.5
+    },
+    {
+      "drug": "Fisetin",
+      "disease": "TMJ",
+      "label": 0.3
+    },
+    {
+      "drug": "Collagen",
+      "disease": "TMJOA",
+      "label": 0.5
+    },
+    {
+      "drug": "Mesenchymal stem cell",
+      "disease": "TMD",
+      "label": 0.5
+    },
+    {
+      "drug": "NSAIDs",
+      "disease": "TMJOA",
+      "label": 0.5
+    },
+    {
+      "drug": "Ozone",
+      "disease": "TMJ",
+      "label": 0.5
+    },
+    {
+      "drug": "Bisphosphonate",
+      "disease": "TMJ",
+      "label": 0.5
+    },
+    {
+      "drug": "Collagen",
+      "disease": "TMJ",
+      "label": 0.5
+    },
+    {
+      "drug": "Hyaluronic acid",
+      "disease": "TMJ",
+      "label": 0.5
+    },
+    {
+      "drug": "NSAIDs",
+      "disease": "TMJ",
+      "label": 1.0
+    },
+    {
+      "drug": "NSAIDs",
+      "disease": "TMJOA",
+      "label": 0.5
+    },
+    {
+      "drug": "Glucosamine",
+      "disease": "TMJOA",
+      "label": 1.0
+    },
+    {
+      "drug": "NSAIDs",
+      "disease": "TMD",
+      "label": 0.5
+    },
+    {
+      "drug": "Hyaluronic acid",
+      "disease": "TMJOA",
+      "label": 0.5
+    },
+    {
+      "drug": "Ozone",
+      "disease": "TMJOA",
+      "label": 0.5
+    },
+    {
+      "drug": "NSAIDs",
+      "disease": "TMD",
+      "label": 1.0
+    },
+    {
+      "drug": "Avocado-soybean unsaponifiables",
+      "disease": "TMJ",
+      "label": 0.5
+    },
+    {
+      "drug": "Hyaluronic acid",
+      "disease": "TMJOA",
+      "label": 0.5
+    },
+    {
+      "drug": "Glucosamine",
+      "disease": "TMJOA",
+      "label": 0.5
+    },
+    {
+      "drug": "Botulinum toxin",
+      "disease": "TMJ",
+      "label": 0.5
+    },
+    {
+      "drug": "NSAIDs",
+      "disease": "TMD",
+      "label": 1.0
+    },
+    {
+      "drug": "PRP",
+      "disease": "TMD",
+      "label": 0.5
+    },
+    {
+      "drug": "Glucosamine",
+      "disease": "TMJ",
+      "label": 1.0
+    },
+    {
+      "drug": "Hyaluronic acid",
+      "disease": "TMJ",
+      "label": 0.5
+    },
+    {
+      "drug": "Hyaluronic acid",
+      "disease": "TMJ",
+      "label": 0.5
+    },
+    {
+      "drug": "Avocado-soybean unsaponifiables",
+      "disease": "TMJ",
+      "label": 1.0
+    },
+    {
+      "drug": "Hyaluronic acid",
+      "disease": "TMJ",
+      "label": 0.5
+    },
+    {
+      "drug": "Glucosamine",
+      "disease": "TMJOA",
+      "label": 1.0
+    },
+    {
+      "drug": "Omega-3",
+      "disease": "TMJ",
+      "label": 0.5
+    },
+    {
+      "drug": "Hyaluronic acid",
+      "disease": "TMD",
+      "label": 0.5
+    }
+  ]
+}

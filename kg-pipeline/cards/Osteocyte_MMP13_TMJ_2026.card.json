@@ -1,0 +1,33 @@
+{
+  "title": "Osteocyte-Intrinsic MMP13 Exacerbates Injury-Induced Temporomandibular Joint Osteoarthritis",
+  "authors": "Cristal S. Yee et al.",
+  "year": 2025,
+  "journal": "Osteoarthritis and Cartilage",
+  "category": "TMJ",
+  "research_question": "Does osteocytic MMP13 play a causal role in temporomandibular joint osteoarthritis (TMJOA) progression, similar to its role in knee OA?",
+  "methods_summary": [
+    "Generated DMP1-cre+/-;MMP13fl/fl mice with osteocyte-intrinsic MMP13 deletion",
+    "Induced TMJOA via intra-articular monosodium iodoacetate (MIA) injection in 12-week-old male mice",
+    "Evaluated TMJ and knee joint pathology using histology (Safranin-O/Fast Green, Ploton silver stain, Picrosirius red, TRAP stain, IHC/IF) and microCT",
+    "Performed statistical analysis using two-way ANOVA with post-hoc Tukey test"
+  ],
+  "dataset": "16-week-old male DMP1-cre+/-;MMP13fl/fl mice and Cre-negative littermate controls (mixed FVB and C57BL/6 background); n=6-9 per group for TMJ studies, n=6-11 per group for knee studies",
+  "key_findings": [
+    "Osteocytic MMP13 deficiency protected TMJ from MIA-induced cartilage degeneration and subchondral bone changes",
+    "MIA increased osteocyte lacunar density in control TMJs but not in DMP1-cre+/-;MMP13fl/fl TMJs",
+    "Osteocytic MMP13 deficiency prevented injury-induced subchondral bone plate thickening in both TMJ and knee",
+    "Baseline TMJ phenotype was unaffected by osteocytic MMP13 deletion, unlike knee which showed baseline OA",
+    "Collagen organization in TMJ subchondral bone was unchanged across all groups"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "TMJOA",
+    "osteocyte",
+    "MMP13",
+    "perilacunocanalicular remodeling",
+    "subchondral bone",
+    "monosodium iodoacetate",
+    "joint-specific mechanisms"
+  ],
+  "extracted_insights": "Osteocytic MMP13 is required for injury-induced TMJOA progression but not for TMJ homeostasis at baseline, contrasting with its role in knee OA where deficiency causes baseline degeneration. This highlights joint-specific differences in osteocyte-mediated bone-cartilage crosstalk and suggests that targeting osteocytic MMP13 could protect against TMJOA without affecting normal TMJ function."
+}

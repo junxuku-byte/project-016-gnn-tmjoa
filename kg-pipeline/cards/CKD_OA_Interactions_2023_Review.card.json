@@ -1,0 +1,29 @@
+{
+  "title": "Disease-modifying interactions between chronic kidney disease and osteoarthritis: a new comorbid mouse model",
+  "authors": "Julovi SM et al.",
+  "year": 2023,
+  "journal": "RMD Open",
+  "category": "general",
+  "research_question": "What are the disease-modifying interactions between chronic kidney disease (CKD) and osteoarthritis (OA) in a comorbid mouse model?",
+  "methods_summary": [
+    "Male C57BL/6 mice underwent 5/6 nephrectomy (5/6Nx) to induce CKD, with or without destabilisation of medial meniscus (DMM) to induce OA, or sham surgeries.",
+    "OA pathology and CKD were assessed 12 weeks post-induction using blinded histology scoring, micro-CT, immunohistochemistry for osteoclast and MMP-13 activity, and serum analysis of bone metabolic markers."
+  ],
+  "dataset": "70 male C57BL/6 mice (8-10 weeks old) divided into four groups: sham, 5/6Nx-sham, DMM, and 5/6Nx-DMM.",
+  "key_findings": [
+    "5/6Nx alone did not induce cartilage pathology but increased synovial MMP-13 expression and subchondral bone osteoclastic activity, reducing subchondral trabecular bone volume and mineral density.",
+    "DMM alone induced typical OA pathology (cartilage damage, subchondral bone sclerosis, osteophytes, synovitis) and also caused renal fibrosis and proteinuria.",
+    "5/6Nx significantly reduced DMM-induced cartilage pathology and osteophyte formation, associated with reduced subchondral bone volume and density and inhibition of osteoclast activation.",
+    "Bidirectional disease-modifying interactions were observed: CKD altered OA bone remodeling, and OA affected renal morphology and function."
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "chronic kidney disease",
+    "osteoarthritis",
+    "comorbid mouse model",
+    "subchondral bone",
+    "MMP-13",
+    "osteoclast"
+  ],
+  "extracted_insights": "This first preclinical comorbid CKD-OA model demonstrates significant bidirectional disease-modifying interactions, with CKD reducing OA severity via altered subchondral bone remodeling, while OA induces renal pathology, highlighting potential cross-talk mechanisms."
+}

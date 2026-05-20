@@ -1,0 +1,1122 @@
+104
+D E N N O R S K E T A N N L E G E F O R E N I N G S T I D E N D E 2016; 1 2 6 N R 2
+T E M A: S M E R T E O G S M E R T E L I N D R I N G
+Nor Tannlegeforen Tid. 2015; 125: 104–12
+Anders Wänman, Malin Ernberg and Thomas List
+Guidelines in the management of orofacial pain/
+TMD
+An evidence-based approach
+Authors
+Anders Wänman, Professor, DDS, PhD. Faculty of Medicine,
+Umeå University, Umeå
+Malin Ernberg, Professor, DDS, PhD. Karolinska Institutet,
+Stockholm
+Thomas List, Professor, DDS, PhD. Malmö University, Malmö
+Pain and dysfunction related to the jaw joint and jaw muscles are
+conditions dentists face regularly in their dental practice. It is
+essential that the individual patient is examined from both a
+dental and a psychosocial perspective since co-morbidities bet-
+ween temporomandibular disorders (TMD) and other conditions,
+such as widespread pain, systemic inflammatory disorders, and
+depression as well as impaired general health is common.
+The Swedish government initiated a scrutiny review of the sci-
+entific literature in dentistry for the purpose of developing nati-
+onal guidelines in dentistry. One policy area was orofacial pain
+and TMD. The review included systematic reviews, randomized
+clinical trials, clinical trials, and observational studies of high
+quality published between 1965 and 2014. The scrutiny review is
+unique since it also included health economic analyses and the
+directive to arrive at a statement for every possible condition
+that may be encountered in the dental clinic, even when the sci-
+entific evidence was insufficient for an evidence-based state-
+ment.
+Counseling and a behavioral approach, which aim to change
+maladaptive behaviors, are considered first-line interventions.
+Evidence of effect and analysis of cost effectiveness support the
+use of occlusal appliances and jaw exercises, which for limited
+periods, may be combined with non-steroidal anti-inflammatory
+drugs.
+Clinical relevance box
+Dentist should provide patients with:
+• Temporomandibular disorders (unspecified): behavior-
+directed treatment (priority 4), instruction in jaw exercises
+(priority 4), treatment with a stabilization appliance (prio-
+rity 4) or pharmacological treatment with NSAIDs
+(priority 5).
+• Symptomatic disc displacement with reduction: treatment
+with a stabilization appliance (priority 5) or coordination
+exercise (priority 6).
+• Symptomatic disc displacement without reduction: instruc-
+tion in stretching exercises of the jaw (priority 4), treat-
+ment with a stabilization appliance (priority 6), or
+instruction in coordination exercise (priority 6).
+• Arthralgia of the TMJ: pharmacological treatment with
+NSAIDs (priority 4), treatment with a stabilization appli-
+ance (priority 4), or instruction in jaw exercises (priority 5).
+• Myalgia: treatment with a stabilization appliance (priority
+4) or instruction in jaw stretching exercises (priority 5);
+optional: treatment with soft appliances (priority 6) or par-
+tially covering frontal appliances (priority 7).
+• Traumatizing occlusal contacts: selective occlusal adjust-
+ment (priority 5).
+• Bruxism and tooth wear with risk for progression: treat-
+ment with a stabilization appliance (priority 5 – 6).
+Dentists should not provide patients with:
+• Temporomandibular disorders (unspecified): treatment with
+low-level laser (priority 8) or TENS (priority 9).
+• Myalgia: treatment with occlusal adjustment (priority 9), or
+intramuscular injections of botulinum toxin (priority 10) or
+diazepam (priority 10)
+• Acute arthralgia: occlusal adjustment (not to do).
+• Symptomatic disc displacement without reduction: treat-
+ment with TENS (priority 9).
+• Bruxism: treatment with TENS (priority 10).
+• Dysocclusion (phantom bite): occlusal adjustment (not to
+do).
+D E N N O R S K E T A N N L E G E F O R E N I N G S TIDENDE 2 0 1 6 ; 1 2 6 N R 2
+105
+n 2008, the Swedish government tasked The Ministry of Health
+and Welfare in Sweden to develop national guidelines for den-
+tal care and indicators of good dental health care for adults.
+The aim was to highlight effective measures with the best possi-
+ble evidence. One of the seven chosen policy areas was orofacial
+pain and temporomandibular disorders (TMD). TMD refers to
+musculoskeletal conditions in the jaw, face, and temple regions,
+including symptoms such as pain, temporomandibular joint
+(TMJ) sounds, impaired jaw opening, and associated headaches.
+The estimated prevalence of treatment need of these conditions
+is in the range 5 – 15 % (higher in women than in men), while
+available statistics indicate that only 0.5 – 1.5 % receive treat-
+ment within the Swedish dental health care system, although
+TMD affects patients’ quality of life negatively. It should be emp-
+hasized that it is considered essential that the individual patient
+is examined from both a dental and a psychosocial perspective
+since co-morbidities between TMD and other conditions, such as
+widespread pain, systemic inflammatory disorders, and depres-
+sion as well as impaired general health are common.
+Method (Table 1)
+A National Board Librarian conducted a literature search bet-
+ween 1965 and 2008 in these databases (Table 1): Medline/Pub-
+Med, the Cochrane Database of Systematic Reviews, Database of
+Abstracts of Reviews of Effects, Health Technology Assessment
+Database, and Cochrane Central Register of Controlled Trials.
+Twelve specialists (10 in TMD and 2 in maxillofacial surgery) re-
+viewed the results of the search; all had a PhD degree. The revi-
+ewers systematically assessed the publications in a pair-wise au-
+dit system using the Grading of Recommendations Assessment,
+Development and Evaluation (GRADE) (1). The treatment me-
+thods were grouped as follows: behavior treatment, jaw exerci-
+ses, sensory stimulation, pharmacological therapy, occlusal ap-
+pliances, occlusal correction, and temporomandibular joint sur-
+gery. Evaluation of treatment effect was based on patient-
+important outcomes that included these IMMPACT (Initiative on
+Methods, Measurement, and Pain Assessment in Clinical Trials)
+domains: pain intensity, physical functioning, emotional functi-
+oning, and global rating of improvement (2).
+Each treatment outcome was assigned a scientifically based
+statement supported by its evidence (high, moderate, low) or
+based on experts’ shared opinion. The cost-benefit of each treat-
+ment was evaluated separately by health economists (i.e., low,
+moderate, or high cost per archived effect of treatment). A panel
+of experts judged the severity of each condition on a 10-graded
+scale (1 – 2 very high; 3 – 4 high; 5 – 6 moderate; or 7 – 10 low
+impact on oral health). Another panel, comprising dentists and
+dental hygienists, ranked all treatments for each condition from
+1 (very high priority) to 10 (very low priority) or classified the tre-
+atment as «not to do» or «further research needed» based upon
+data from the systematic review, including effect of treatment,
+strength of evidence, and a health economic assessment. A treat-
+ment could not be assigned a higher priority than the condition’s
+severity rank. The final report included 107 statements based on
+218 studies. This article is a condensed summary of those parts
+of the national guidelines we considered important to highlight.
+A new literature search, of publications between 2008 and 2014,
+has been done, and another 63 studies have been added.
+The aim of the scrutiny review was to establish guidelines in
+the treatment of orofacial pain and TMD for general practitioners
+and specialists. The guidelines are unique since they are evidence
+based and integrate current and best available scientific quality
+with health economical assessment for common TMD conditions.
+The intention of the Ministry of Health and Welfare was to estab-
+lish guidelines for all TMD conditions, even for those where sci-
+entific support is sparse.
+* a supplementary search was done for publications 2008 to 2012 in an update
+using the same data bases, filters and search terms. An additional search was
+done for the period 2012 to 2014 using the MeSH term craniomandibular dis-
+orders with limits humans, age 19+, randomized clinical trial, and systematic
+review.
+Results
+Behavior-directed treatment (Table 2)
+The aim of behavior treatment is to guide the patient in how ma-
+ladaptive behavior can be modified and changed. The objective is
+usually to increase the person’s engagement in positive or socially
+reinforcing activities. Behavior-directed therapies are structured
+approaches that carefully measure a person’s actions; then, the ca-
+regiver and the patient together agree on measures the patient can
+do to improve the patient’s condition and situation. A number of
+therapies aiming at changing adverse behaviors have been studied
+(3 – 12). These include biofeedback, biofeedback-based training,
+cognitive behavioral therapy (CBT), habit-reversal, self-treatment
+at home after instruction, progressive relaxation, and self-hypno-
+sis. All methods showed moderate to high effect in reducing pain
+related to myalgia. Their treatment effect was similar to other tre-
+atment modalities such as a bite-splints and superior to no or mi-
+nimal treatment. Behavior-directed treatment showed minimal ef-
+Table 1. Search strings of publications from 1965 to 2008*. Fil-
+ters: Humans; Systematic Reviews, Meta-analysis, randomized
+controlled trial, clinical trials, controlled clinical trial, reviews;
+English; Danish; Norwegian; Swedish.
+Term
+Search string
+1 MeSH
+Craniomandibular Disorders OR Burning Mouth Syn-
+drome OR Bruxism OR Dental Occlusion, Traumatic OR
+Open Bite OR Tooth Abrasion OR Tooth Attrition OR
+Tooth Erosion OR Facial Pain OR Facial Neuralgia OR
+Glossopharyngeal Nerve Diseases OR Hypoglossal Nerve
+Diseases OR Facial Nerve Diseases OR Trigeminal Nerve
+Diseases OR Mandibular Fractures OR Muscular
+Dystrophy, Duchenne Myotonic Dystrophy
+2 MeSH
+Counseling OR Psychotherapy OR Therapeutics OR Ort-
+hodontic Appliances OR Occlusal Adjustment OR Sur-
+gery, Oral
+3 Free text
+"drug therapy" OR surgery OR rehabilitation
+4
+1 AND (2 OR 3).
+I
+106
+D E N N O R S K E T A N N L E G E F O R E N I N G S T I D E N D E 2016; 1 2 6 N R 2
+fect on maximal jaw opening capacity. Four of seven CBT studies
+reported significant improvement in various measures of mental
+health such as depression and improved the patient’s ability to
+cope with their problems. The other three studies found no diffe-
+rence in this respect. A Cochrane report (13) and a systematic re-
+view (14) found weak evidence of the effectiveness of behavior-di-
+rected interventions in chronic oro-facial conditions and TMD. Be-
+havior-oriented treatment is considered a basic intervention in the
+management of TMD.
+Activation of motor function/ jaw exercises (Table 3)
+The aim of posture exercise and coordination training is to in-
+crease patients’ body awareness and reduce loads that negatively
+affect joints and muscles. The aim of passive stretching is to im-
+prove mobility – the length of the muscle and the range of mo-
+vement of the TMJ; stretching may also help patients overcome
+feelings of fear to move the jaw. Seven randomized and control-
+led trials (RCT) involving 304 patients with primarily myofascial
+pain and subjected to posture exercise were identified. The studi-
+es examined the effect of posture training, activation against re-
+sistance, or both compared to counseling (15 – 19) or splint the-
+rapy (20, 21). The analyses of the effect of stretching were based
+on two systematic reviews (22, 23) that had reviewed three RCTs
+involving 62 patients with TMD; the RCTs examined the effect of
+passive stretching compared to advice or jaw opening-closing
+exercises (16), splint therapy (20), or massage (24). Another five
+RCTs included patients with disc displacement (25 – 27) and pati-
+ents with myofascial pain who had not responded to treatment
+(28). Treatment was passive stretching supplemented by NSAID
+compared to splint therapy with NSAID or only advice (26,29),
+stretching supplemented by NSAIDs compared to no treatment
+(25), and stretching as adjunctive treatment to splint therapy
+compared to splint therapy only (27, 28). The expert recommen-
+dation regarding symptomatic disc displacement with reduction
+was to exercise jaw opening and closing movements that not
+provoke clicking sounds. Passive stretching was considered more
+effective than posture and co-ordination exercise and was thus
+given a higher priority. For luxation of the TMJ, a manual ma-
+neuver to reposition the condyle into the fossa is recommended.
+* stretching is considered more cost effective than posture exercise
+Sensory stimulation (Table 4)
+Sensory stimulation treatment (e.g., transcutaneous electrical
+nerve stimulation [TENS] and acupuncture) aims to activate the
+afferent nervous system and thereby modulate endogenous pain
+control systems to promote pain relief. Acupuncture causes the
+release of endogenous opioids, serotonin, and noradrenaline in
+the CNS and stimulates blood perfusion in tissues. Favorable pa-
+tient expectations have also proved to be significantly important.
+Low-level lasers are proposed to induce an anti-inflammatory ef-
+fect by influencing cell activity. TENS stimulates the nerves elec-
+trically via electrodes on the skin. Increased activity in the thick
+Table 3. Activation of motor function/ Jaw exercises. Severity of
+condition (Severity): very high impact (1), high impact (3),
+moderate impact (5) on oral health and jaw function; Cost/effect
+(Cost): low (L), moderate (M), high (H); Priority rank: high (1) –
+low (10).
+Jaw
+exercise
+Condition/diagnosis
+Severity
+Cost
+Priority
+Posture
+TMD
+3
+L
+6
+Myalgia
+3
+*
+7
+Stretching
+TMD
+3
+L
+4
+Symptomatic disc displa-
+cement without reduc-
+tion
+3
+L
+4
+Myalgia
+3
+*
+5
+Arthralgia
+3
+L
+5
+Impaired jaw opening
+capacity
+3
+L
+5
+Coordination
+Symptomatic disc displa-
+cement with reduction
+5
+M
+6
+Jaw exercise
+Arthritis associated with
+systemic inflammation
+1
+L-M
+6
+Myalgia associated with
+widespread pain
+1
+L-M
+6
+Manual
+repositioning
+TMJ luxation
+1
+L
+2
+Passive stretching has:
+* As an adjunctive treatment, moderate effect on pain reduc-
+tion (moderate evidence)
+* Moderate effect on global improvement (low evidence) 
+* Moderate effect on maximal jaw opening capacity (mode-
+rate evidence)
+Table 2. Behavior-directed treatment. Severity of condition
+(Severity): high impact (3) on oral health and jaw function; Cost-
+effect (Cost): low (L), moderate (M), high (H); Priority rank (Pri-
+ority) = high (1) – low (10).
+Behavior
+treatment
+Condition/diagnosis
+Severity
+Cost
+Prio-
+rity
+Behavior-
+directed
+Temporomandibular
+disorder (TMD)
+3
+M
+4
+Expected effect of behavior-directed treatments in patients 
+with TMD:
+* Moderate on pain (moderate evidence) 
+* Low to moderate on mental health and depression (low 
+evidence) 
+* None to low on improved maximal jaw opening capacity 
+(low evidence)
+D E N N O R S K E T A N N L E G E F O R E N I N G S TIDENDE 2 0 1 6 ; 1 2 6 N R 2
+107
+nerve fibers (A-beta fibers) that mediate touch and vibration in-
+hibits activity in thin nerve fibers (C fibers) which mediate noci-
+ceptive signals.
+Acupuncture demonstrated superior pain relief in TMD and
+myalgia analgesic compared with no treatment and equal effi-
+cacy to other therapies (30 – 32). Compared with placebo, results
+are contradictory (33). From a health-economic perspective, acu-
+puncture was estimated to be more expensive and so received a
+higher priority score compared to occlusal appliance or jaw exer-
+cise. None of the studies reported any adverse events or side
+effects from acupuncture treatment.
+Low-level laser was compared with placebo treatment (laser
+with no or minimal stimulation) or TENS (34 – 40) and was not
+effective in reducing pain. A recent systematic review found no
+evidence to support low-level laser in the treatment of TMD (41).
+Two studies evaluated TENS, one in patients with TMD (36),
+and one in symptomatic disc displacement without reduction
+(42). None of the studies found significant improvement of symp-
+toms with TENS compared to control treatment.
+Pharmacological therapy (Table 5)
+For TMD pain, few well-designed studies with a relevant follow-
+up time were found. Thus, due to current limitations in knowled-
+ge of pharmacologic effects on TMD pain, the pharmacologic ef-
+fect on similar pain conditions such as backache or tension-type
+headache was included in the review.
+Paracetamol
+Paracetamol seems to act on both the peripheral and central ner-
+vous systems. When combined with a weak opioid such as trama-
+dol and NSAIDs,it is more effective than when used alone. The
+few adverse events that were reported were of the same magni-
+tude as those reported for placebo. A low-to-moderate effect re-
+garding pain relief with paracetamol in mild-to-moderate mus-
+culoskeletal pain conditions was reported (3, 43).
+Nonsteroidal anti-inflammatory drug (NSAID)
+NSAID blocks prostaglandin synthesis and is therefore effective
+in relieving acute inflammatory pain. In a randomized and con-
+trolled study in patients with TMD, 80 percent reported pain re-
+duction after 3 months of treatment with NSAIDs, which was the
+same as that obtained after 3 months of treatment with occlusal
+appliance (44). Moderate pain relief with NSAIDs for light-to-
+moderate musculoskeletal pain was reported (3, 43).
+Table 5. Pharmacological therapy. Severity of condition (Seve-
+rity): very high impact (1), high impact (3) on oral health and
+jaw function; Cost/effect (Cost): low (L), moderate (M), high (H),
+not assessed (na); Priority rank: high (1) – low (10).
+Pharmacologi-
+cal therapy
+Condition
+Seve
+rity
+Cost
+Pri-
+ority
+Paracetamol
+TMD
+3
+L
+6
+NSAID
+Arthritis associated with
+systemic inflammation
+1
+L
+4
+Arthralgia
+3
+L
+4
+Headache associated with
+TMD
+3
+L
+5
+TMD
+3
+L
+5
+Topical NSAID
+or salicylate
+cream
+Myalgia
+3
+M
+8
+Glucocorticoid,
+intra-articular
+injections
+Arthritis associated with
+systemic inflammation
+1
+L
+3
+Arthralgia
+3
+L
+5
+Opioids
+TMD (unspecified)
+3
+L
+8
+Diazepam
+Myalgia
+3
+L
+10
+Botox
+Myalgia
+3
+M-H
+10
+Tricyclic antide-
+pressants
+Myalgia associated with
+widespread pain
+1
+na
+4
+Anti-epileptics
+Idiopathic orofacial pain
+and atypical odontalgia
+1
+L
+4
+Topical capsai-
+cin or lidocaine
+cream
+Idiopathic orofacial pain
+and atypical odontalgia
+1
+L
+6
+Table 4. Sensory stimulation Severity of condition (Severity): high
+impact (3) on oral health and jaw function; Cost-effect (Cost): low
+(L), moderate (M), high (H); Priority rank (Priority) = high (1) –
+low (10).
+Sensory sti-
+mulation
+Condition
+Sever
+ity
+Cost
+Prio-
+rity
+Acupuncture
+TMD
+3
+M
+6
+Myalgia
+3
+M-H
+6
+Low-level laser
+TMD
+3
+M
+8
+TENS
+TMD
+3
+H
+9
+Symptomatic disc displace-
+ment without reduction
+3
+H
+9
+Acupuncture has:
+* Moderate effect on TMD and myalgia (moderate evidence)
+Low-level laser has:
+* Low effect on pain reduction and on maximal jaw opening 
+capacity (low evidence)
+TENS has:
+* Low effect on TMD pain and on maximal jaw opening 
+capacity (expert statement)
+108
+D E N N O R S K E T A N N L E G E F O R E N I N G S T I D E N D E 2016; 1 2 6 N R 2
+Glucocorticoid administered intra-articularly
+Two randomized controlled trials (45, 46) and two controlled cli-
+nical studies (47, 48) foundthat intra-articular injections of glu-
+cocorticoid reduce pain and provide global improvement. No side
+effects or adverse effects were reported. Pain reduction was mo-
+derate and maximal jaw opening capacity had low-to-moderate
+improvement.
+Opioids
+In mild-to-moderate musculoskeletal pain conditions, about 40
+percent pain reduction was obtained using weak opioids with an
+effect equivalent to that of NSAIDs (3). Opioids, however, have
+troublesome side effects, including a risk of dependency. Most
+common side effects were constipation, fatigue, dizziness, nau-
+sea, and vomiting. In TMD pain, opioid treatment is expected to
+have a low-to-moderate effect on pain reduction and risk of side
+effects.
+Diazepam
+The evidence for using diazepam in chronic pain was low and in-
+conclusive based on a systematic review and a randomized clini-
+cal trial (3, 49). In myalgia, treatment with diazepam was found
+to have a very low effect on pain. Diazepam was also associated
+with side effects; long-term treatment should be avoided due to
+the risk of drug dependency.
+Botulinum toxin (Botox®)
+The literature search identified one systematic review (50) and 5
+RCTs (51 – 55). In myalgia, injections with botulinum toxin have
+low effect on pain.
+Tricyclic antidepressants
+Three systematic reviews assessed the effect of antidepressants in
+fibromyalgia (3, 56, 57) and one systematic review the effect in
+TMD pain (58). Evidence for moderate pain relief with tricyclic
+antidepressants in fibromyalgia was reported (3, 56). Antidepres-
+sants were found to be better than placebo in TMD pain. Pain re-
+lief in myalgia compared with widespread pain was judged to be
+moderate and equivalent to the general effects found for the
+drug. Side effects are often reported, and the most common ones
+are dry mouth and dizziness.
+Anti-epileptics
+There is evidence for moderate pain relief with the use of antie-
+pileptic drugs in neuropathic pain conditions such as trigeminal
+neuralgia and postherpetic neuralgia (3, 43, 59). One systematic
+review assessed the effect of anti-epileptics in different orofacial
+pain/TMD conditions (59). The consensus was that antiepileptic
+drugs have moderate effect on neuropathic pain in the orofacial
+region and are comparable to the effect found for other neuro-
+pathic pain conditions. Reported side effects that may occur are
+fatigue and balance disorders.
+Topical capsaicin and lidocaine
+In neuropathic pain, topical treatment with capsaicin or topical
+application of 5 percent lidocaine cream can provide pain relief
+(3). The scientific evidence for treatment with capsaicin or lido-
+caine in idiopathic facial pain and atypical odontalgia is limited.
+Side effects are common but mostly local. Topical application of
+capsaicin or lidocaine may provide low-to-moderate short-term
+pain relief in patients with idiopathic orofacial pain conditions.
+Occlusal appliances (Table 6)
+Stabilization appliances (splints)
+Occlusal appliance therapy is one of the most commonly used
+treatments for TMD, with stabilization appliances being the type
+most often recommended. Stabilization appliance therapy is also
+the treatment modality with the best evidence, both from rando-
+mized controlled studies and systematic reviews with meta-ana-
+lyses. The treatment is reversible and aims to induce relaxation
+of the jaw muscles, unload the TMJ, and protect the teeth from
+wear due to bruxism.
+Six systematic reviews (3, 60 – 64), including a Cochrane
+review, and a number of RCTs, have evaluated the effect of sta-
+bilization appliance therapy in TMD. Recently, a systematic
+review with a meta-analysis was published that evaluated the
+effect of stabilization appliance therapy compared to minimal or
+no treatment and used pain, depression, and quality of life as out-
+come measures (65).
+The studies showed that stabilization appliances have a low-
+to-moderate effect on pain, a moderate-to-high effect on global
+improvement, a moderate effect on palpation pain and muscle
+fatigue, and a low effect on chewing capacity in patients with
+TMD pain, but that the effect exceeds that of no or minimal tre-
+atment. The effect is similar to other active treatments (palatal
+plate, acupuncture, biofeedback/stress management, jaw exer-
+cise, relaxation, and other types of appliances).
+For treatment of bruxism, one systematic review (66) and five
+RCTs (67 – 71) were identified in which the effect of stabilization
+appliances was compared to palatal plate, no treatment, and
+repositioning splints. A majority of the studies showed a reduc-
+tion in EMG activity for all types of appliances (67, 71), but no
+effect on bruxism activity or sleeping quality. The expert’s opi-
+nion was that occlusal appliances can reduce tooth wear.
+* Paracetamol has low-to-moderate and NSAID moderate 
+pain relieving effect in TMD pain (expert statement)
+* Glucocorticoid administrated intra-articularly has mode-
+rate pain relieving effect on TMJ arthritis associated with 
+systemic inflammation (expert statement)
+* Antiepileptic drugs have moderate pain relieving effect on 
+idiopathic pain and atypical odontalgia (low evidence)
+* Tricyclic antidepressants have moderate effect in myalgia 
+associated with widespread pain (low evidence)
+* The positive effects of any drug should be weighed 
+against possible adverse effects and the risk of depen-
+dency
+D E N N O R S K E T A N N L E G E F O R E N I N G S TIDENDE 2 0 1 6 ; 1 2 6 N R 2
+109
+In patients with headache attributed to TMD results from 7
+RCTs (72 – 78) show that headache frequency and intensity were
+reduced after treatment with stabilizations appliances, but that
+the effect was similar to other interventions (information and
+other types of appliances).
+Regarding TMJ arthritis associated with inflammatory disor-
+ders, symptomatic TMJ arthrosis, tooth wear with risk for pro-
+gression, myalgia associated with widespread pain, and dysoc-
+clusion, recommendations are based on judgments by the panel
+of experts.
+The literature suggests that stabilization appliance therapy is
+indicated for patients with symptomatic TMJ arthrosis and sys-
+temic arthritis, except during acute relapses of TMJ inflamma-
+tion. The clinical experience is that the patients perceive the tre-
+atment as positive; thus, stabilization appliance therapy could
+reduce their anxiety and improve their quality of life.
+Stabilization appliance therapy was judged to have a moderate
+effect on pain in patients with headache attributed to TMD
+(moderate evidence).
+Stabilization appliances are also indicated to protect teeth
+from wear. However, a long-term follow-up study showed that
+progression of wear is slow and that the impact of stabilization
+appliances on the wear is unknown (79).
+In patients with myalgia associated with widespread pain, pain
+reduction was reported to be similar to that of the placebo splint (80).
+For dysocclusion (i.e., patient’s opinion of an unfitting occlu-
+sion that cannot be observed clinically – «phantom bite»), the cli-
+nical experience is that reversible treatment should be prioritized,
+thus, stabilization appliance therapy is an alternative for evalu-
+ating subjective treatment effects.
+Partial-coverage occlusal appliances (frontal)
+As the name implies, partial-coverage occlusal appliances in the
+frontal region cover only the frontal teeth, either the incisors
+only (NTI-tss) or the incisors and canines (Relax®). One systema-
+tic review and three RCTs (61, 81 – 83) showed that the effect of
+partial-coverage appliances does not differ from that of the sta-
+bilization appliance, but was better than information only. Ho-
+wever, the systematic review concluded that the stabilization ap-
+pliance should be regarded as the criterion standard, due to the
+lower risk of side effects, such as occlusal changes and risk of in-
+halation (61). Thus, partial-coverage frontal appliances are only
+indicated for short-term use and require regular follow-ups.
+Soft appliances
+Results from five RCTs (76, 84 – 87) showed that soft appliances
+have a moderate effect on global improvement and palpation pain.
+The effect was better than no or minimal treatment and equal to
+that of the stabilization appliance. It is more difficult to maintain
+adequate oral hygiene with the soft appliance, and their durability
+is shorter. Thus, they are recommended for short-term use.
+Repositioning appliances
+Repositioning appliances aim to reduce symptoms related to disc
+displacement with reduction. They are constructed with the man-
+dible in a protruded position and the disc in «normal» position;
+Table 6. Occlusal appliances. Severity of condition (Severity):
+very high impact (1), high impact (3), moderate impact (5) on
+oral health and jaw function; Cost-effect (Cost): low (L), moderate
+(M), high (H), not assessed (na); Priority rank: high (1) – low
+(10).
+Occlusal
+appliances
+Condition/diagnosis
+Seve-
+rity
+Cost
+Pri-
+ority
+Stabilization
+splint/
+TMD
+3
+L
+4
+Bite splint
+Arthritis associated with sys-
+temic inflammation
+1
+na
+4
+Myalgia
+3
+L
+4
+Arthralgia
+3
+L
+4
+Headache associated with
+TMD
+3
+L-M
+5
+Symptomatic disc displace-
+ment with reduction
+5
+L
+5
+Symptomatic arthrosis
+5
+L
+5
+Tooth wear with risk for pro-
+gression
+3
+M
+5
+Bruxism and orofacial para-
+function
+5
+M
+6
+Symptomatic disc displace-
+ment without reduction
+3
+L-M
+6
+Myalgia associated with
+widespread pain
+1
+M
+8
+Dysocclusion/phantom bite
+5
+na
+8
+Frontal par-
+tial bite splint
+Myalgia
+3
+M
+7
+Soft splint
+Myalgia
+3
+M
+6
+Repositioning
+splint
+Symptomatic disc displace-
+ment with reduction
+5
+M
+6
+* Stabilization appliances have moderate to high effect on 
+TMD pain reduction and global improvement, and low 
+effect on jaw movement capacity (moderate evidence)
+* Stabilization appliances have moderate effect on the abi-
+lity to influence parafunctions, to protect teeth from wear, 
+and to prevent bruxism and other orofacial parafunctions
+* Partial-coverage frontal appliances have moderate effect 
+on TMD myalgia (low evidence)
+* The risk of unwanted side effects is greater for partial-
+coverage appliances in the frontal region during long-
+term treatment and thus requires careful monitoring
+110
+D E N N O R S K E T A N N L E G E F O R E N I N G S T I D E N D E 2016; 1 2 6 N R 2
+this may thus unload the posterior TMJ disc attachment to relieve
+pain. One systematic review with a meta-analysis (62) and six
+RCTs (88 – 93) showed that the repositioning appliance had a mo-
+derate effect on TMJ palpation pain and a better effect on TMJ
+pain and clicking than no treatment or treatment with a stabili-
+zation appliance. However, when treatment was stopped, the
+clicking returned. One study showed a decline in treatment effect
+after 1 year, whereas another reported a positive effect in 90 %
+of the patients after 3 years. The clinical experience is that occlu-
+sal changes sometimes occur after treatment with repositioning
+appliances so they require careful follow-ups.
+Occlusal correction/adjustment (Table 7)
+Occlusal adjustment includes both building-up of teeth and se-
+lective grinding in order to improve occlusal stability and, hence,
+to reduce adverse loading of the TMJ and teeth. The aim is to in-
+crease chewing comfort, improve jaw function, and reduce pain.
+There is inconclusive evidence for occlusal adjustment in the tre-
+atment of TMDs and other orofacial pain disorders and the re-
+commendations are thus based on expert statements.
+Remodeling as a consequence of TMJ destruction caused by
+inflammation or degenerative disease may lead to occlusal chan-
+ges causing unfavorable TMJ loading during chewing and biting.
+Recent studies have reported an association between subjective
+experience and objective findings of instable occlusion and TMJ
+arthralgia (94, 95). Thus, occlusal adjustment may be indicated in
+those cases when chronic or recurrent TMJ arthralgia can be con-
+sidered caused by repetitive trauma to the TMJ due to unstable
+occlusion.
+Treatment that aims to reduce loading of teeth due to trauma-
+tic occlusion in order to increase chewing comfort and jaw func-
+tion was highly effective and could improve quality of life.
+Occlusal adjustment is highly effective to improve disturbed
+jaw function (chewing and biting) due to unstable occlusion in
+patients with chronic TMJ arthritis or degenerative changes
+Occlusal adjustment may reduce symptoms related to unstable
+occlusion in patients with chronic TMJ arthralgia caused by repe-
+titive trauma
+Jaw myalgia
+A Cochrane review (96) reported no difference in treatment effect
+of occlusal adjustment in patients with myalgia compared to pla-
+cebo, no treatment, or information only. There is evidence that
+patients with jaw myalgia associated with widespread pain have
+reduced pain thresholds in general, which may lead to low tole-
+rance to loading. Knowledge is lacking whether unstable occlu-
+sion may have a negative impact in these patients. Reversible tre-
+atments are therefore recommended to improve jaw function and
+quality of life.
+Acute TMJ disorders and dysocclusion
+During acute TMJ arthralgia and TMJ arthritis associated with
+systemic inflammation, the condyle may have changed its posi-
+tion due to edema, which may cause a feeling of changed occlu-
+sion. When the inflammation resolves, the condyle regains its
+normal position. Irreversible treatments are therefore contraindi-
+cated in these conditions.
+In patients with dysocclusion (phantom bite) (97 – 98), in which
+occlusal changes cannot be recorded objectively, irreversible tre-
+atments are contraindicated.
+* Soft appliances have moderate effect on TMD myalgia (low 
+evidence)
+* The durability of soft appliances is shorter than of the sta-
+bilization appliance, and it is more difficult to maintain 
+adequate oral hygiene
+* Repositioning appliances have a high effect on TMJ pain 
+and clicking (moderate evidence) and a moderate effect on 
+TMJ palpation pain (low evidence) in patients with disc 
+displacement with reduction
+* Clicking often returns after treatment is completed, so the 
+success rate decreases over time. Long-term use of a repo-
+sitioning appliance is accompanied by a risk for occlusal 
+changes (expert group judgment).
+Table 7. Occlusal correction/adjustment. Severity of condition (Seve-
+rity): very high impact (1), high impact (3), moderate impact (5) on
+oral health and jaw function; Cost/effect (Cost): low (L), moderate
+(M), high (H), not assessed (na); Priority rank: high (1) – low (10),
+Research (only in clinical controlled trials), Not to do (not accepted as
+treatment modality)
+Occlusal
+correction
+Condition/diagnosis
+Seve-
+rity
+Cos
+t
+Priority
+Occlusal cor-
+rection
+Malocclusion related to
+chronic TMJ arthritis
+associated with systemic
+inflammation
+1
+L
+4
+Chronic arthralgia
+3
+L
+5
+Traumatizing occlusion
+5
+L
+5
+Myalgia
+3
+na
+9
+Myalgia associated with
+widespread pain
+1
+na
+Research
+Acute arthralgia
+3
+na
+Not to
+do
+Acute arthritis associated
+with systemic inflamma-
+tion
+1
+na
+Not to
+do
+Dysocclusion/phantom
+bite
+5
+na
+Not to
+do
+* Occlusal adjustment has no to low effect on pain reduction 
+in patients with myalgia.
+D E N N O R S K E T A N N L E G E F O R E N I N G S TIDENDE 2 0 1 6 ; 1 2 6 N R 2
+111
+TMJ surgery (Table 8)
+A majority of patients with symptomatic disc displacement with
+reduction and disc displacement without reduction has been
+found to respond favorably to conservative treatment modalities.
+Surgical TMJ approaches should only be considered in patient’s
+refractory to conservative treatment for at least 6 months and
+with severe disability related to the conditions in the TMJ. Thus,
+the diagnoses were termed disabling symptomatic disc displace-
+ment with or without reduction who had not responded to rever-
+sible treatment. One systematic review assessed arthroscopy in
+patients with disc displacement without reduction (99). Arthros-
+copy and discectomy were found to have similar pain relief and
+improvement in jaw function. Arthroscopy is a less invasive
+procedure than discectomy and thus suggested to be first line
+surgical treatment for disabling symptomatic disc displacement
+without reduction. From the health-economical perspective, ar-
+throscopy required less operation time and fewer days of sick le-
+ave (100). Discectomy was assessed in patients with disc displa-
+cement with reduction in five studies (101 – 105) and outcomes
+were high effect on pain relief, reduced clicking and catching of
+the TMJ, and improved jaw function. Side effects were nerve in-
+jury in one case and an increase of crepitus in the majority of the
+patients. Two RCT studies assessed arthrocentesis and found si-
+milar pain relief and improved jaw function in comparison with
+arthroscopy in disc displacement without reduction (106, 107).
+Future perspectives
+Presence of TMD affects an individual’s quality of life and may
+even contribute to development of widespread pain disorders.
+There are still many research questions left to be answered regar-
+ding causal factors for these conditions. A recently developed
+and validated examination protocol and diagnostic algorithms
+may help to homogenize the conditions. Further efforts to analy-
+ze treatment outcomes, cost effectiveness, and patient values, not
+only in specialist settings but also in general practice, should be
+essential contributions to current knowledge. The scrutiny of the
+literature related to TMD treatment exposed many knowledge
+gaps that remain to be closed in future studies.
+References
+1. Atkins D, Best D, Briss PA, Eccles M, Falck-Ytter Y, Flottorp S, et
+al. Grading quality of evidence and strength of recommendations.
+BMJ. 2004; 328 (7454): 1490.
+2. Dworkin RH, Turk DC, Wyrwich KW, Beaton D, Cleeland CS,
+Farrar JT, et al. Interpreting the clinical importance of treatment out-
+comes in chronic pain clinical trials: IMMPACT recommendations. J
+Pain. 2008; 9(2): 105 – 21.
+3. SBU. Metoder för behandling av långvarig smärta. Rapport nr
+177. 2006.
+4. Crider A, Glaros AG, Gevirtz RN. Efficacy of biofeedback-based
+treatments for temporomandibular disorders. Appl Psychophysiol
+Biofeedback. 2005; 30(4): 333 – 45.
+6. Turp JC, Jokstad A, Motschall E, Schindler HJ, Windecker-Getaz I,
+Ettlin DA. Is there a superiority of multimodal as opposed to simple
+therapy in patients with temporomandibular disorders? A qualitative
+systematic review of the literature. Clin Oral Implants Res. 2007; 18
+Suppl 3: 138 – 50.
+10. Stowell AW, Gatchel RJ, Wildenstein L. Cost-effectiveness of tre-
+atments for temporomandibular disorders: biopsychosocial interven-
+tion versus treatment as usual. J Am Dent Assoc. 2007; 138 (2):
+202 – 8.
+13. Aggarwal VR, Lovell K, Peters S, Javidi H, Joughin A, Goldthorpe
+J. Psychosocial interventions for the management of chronic orofa-
+cial pain. Cochrane database of systematic reviews (Online). 2011;
+(11): CD008456. doi(11): CD008456.
+14. Liu HX, Liang QJ, Xiao P, Jiao HX, Gao Y, Ahmetjiang A. The
+effectiveness of cognitive-behavioural therapy for temporomandibu-
+lar disorders: a systematic review. J Oral Rehabil. 2012; 39(1): 55 – 62.
+15. Mulet M, Decker KL, Look JO, Lenton PA, Schiffman EL. A ran-
+domized clinical trial assessing the efficacy of adding 6 x 6 exercises
+to self-care for the treatment of masticatory myofascial pain. J Oro-
+fac Pain. 2007; 21 (4): 318 – 28.
+17. Michelotti A, Steenks MH, Farella M, Parisini F, Cimino R, Mar-
+tina R. The additional value of a home physical therapy regimen ver-
+sus patient education only for the treatment of myofascial pain of the
+jaw muscles: short-term results of a randomized clinical trial. J Oro-
+fac Pain. 2004; 18(2): 114 – 25.
+23. McNeely ML, Armijo Olivo S, Magee DJ. A systematic review of
+the effectiveness of physical therapy interventions for temporoman-
+dibular disorders. Phys Ther. 2006; 86 (5): 710 – 25.
+27. Ismail F, Demling A, Hessling K, Fink M, Stiesch-Scholz M.
+Short-term efficacy of physical therapy compared to splint therapy
+in treatment of arthrogenous TMD. J Oral Rehabil. 2007; 34 (11):
+807 – 13.
+28. Maloney GE, Mehta N, Forgione AG, Zawawi KH, Al-Badawi EA,
+Driscoll SE. Effect of a passive jaw motion device on pain and range
+of motion in TMD patients not responding to flat plane intraoral ap-
+pliances. Cranio. 2002; 20(1): 55 – 66.
+* Occlusal adjustment in patients with acute TMJ arthralgia, 
+TMJ arthritis associated with systemic inflammation, and 
+dysocclusion may be harmful and are therefore contrain-
+dicated.
+Table 8. TMJ Surgery Severity of condition (Severity): very high
+impact (1), high impact (3), on oral health and jaw function; Pri-
+ority rank: high (1) – low (10).
+TMJ Surgery
+Condition
+Severity
+Priority
+Arthroscopy
+Disabling symptomatic disc dis-
+placement with reduction
+1
+7
+Disabling symptomatic disc dis-
+placement without reduction
+3
+3
+Discectomy
+Disabling symptomatic disc dis-
+placement with reduction
+1
+3
+Disabling symptomatic disc dis-
+placement without reduction
+3
+4
+Arthrocente-
+sis
+Disabling symptomatic disc dis-
+placement with reduction
+3
+7
+Disabling symptomatic disc dis-
+placement without reduction
+3
+4
+112
+D E N N O R S K E T A N N L E G E F O R E N I N G S T I D E N D E 2016; 1 2 6 N R 2
+29. Minakuchi H, Kuboki T, Matsuka Y, Maekawa K, Yatani H,
+Yamashita A. Randomized controlled evaluation of non-surgical tre-
+atments for temporomandibular joint anterior disk displacement wit-
+hout reduction. J Dent Res. 2001; 80(3): 924 – 8.
+31. La Touche R, Goddard G, De-la-Hoz JL, Wang K, Paris-Alemany
+A, Angulo-Diaz-Parreno S, et al. Acupuncture in the treatment of
+pain in temporomandibular disorders: a systematic review and meta-
+analysis of randomized controlled trials. Clin J Pain. 2010; 26 (6):
+541 – 50.
+41. Petrucci A, Sgolastra F, Gatto R, Mattei A, Monaco A. Effective-
+ness of low-level laser therapy in temporomandibular disorders: a
+systematic review and meta-analysis. J Orofac Pain. 2011; 25 (4):
+298 – 307.
+42. Linde C, Isacsson G, Jonsson BG. Outcome of 6-week treatment
+with transcutaneous electric nerve stimulation compared with splint
+on symptomatic temporomandibular joint disk displacement without
+reduction. Acta Odontol Scand. 1995; 53 (2): 92 – 8.
+43. List T, Axelsson S, Leijon G. Pharmacologic interventions in the
+treatment of temporomandibular disorders, atypical facial pain, and
+burning mouth syndrome. A qualitative systematic review. J Orofac
+Pain. 2003; 17 (4): 301 – 10.
+45. Kopp S, Åkerman S, Nilner M. Short-term effects of intra-articu-
+lar sodium hyaluronate, glucocorticoid, and saline injections on
+rheumatoid arthritis of the temporomandibular joint. Journal of Cra-
+niomandibular Disorders. 1991; 5 (4): 231 – 8.
+56. Arnold LM, Keck PE, Jr., Welge JA. Antidepressant treatment of
+fibromyalgia. A meta-analysis and review. Psychosomatics. 2000; 41
+(2): 104 – 13.
+58. Martin WJ, Forouzanfar T. The efficacy of anticonvulsants on
+orofacial pain: a systematic review. Oral Surg Oral Med Oral Path
+Oral Radiol Endod. 2011; 111 (5): 627 – 33.
+60. Stapelmann H, Turp JC. The NTI-tss device for the therapy of bru-
+xism, temporomandibular disorders, and headache – where do we
+stand? A qualitative systematic review of the literature. BMC oral
+health. 2008; 8: 22.
+61. Santacatterina A, Paoli M, Peretta R, Bambace A, Beltrame A. A
+comparison between horizontal splint and repositioning splint in the
+treatment of 'disc dislocation with reduction'. Literature meta-analy-
+sis. J Oral Rehabil. 1998; 25 (2): 81 – 8.
+62. Al-Ani Z, Gray RJ, Davies SJ, Sloan P, Glenny AM. Stabilization
+splint therapy for the treatment of temporomandibular myofascial
+pain: a systematic review. J Dent Edu. 2005; 69(11): 1242 – 50.
+63. Fricton J, Look JO, Wright E, Alencar FG, Jr., Chen H, Lang M, et
+al. Systematic review and meta-analysis of randomized controlled
+trials evaluating intraoral orthopedic appliances for temporomandi-
+bular disorders. J Orofac Pain.2010; 24 (3): 237 – 54.
+64. Ebrahim S, Montoya L, Busse JW, Carrasco-Labra A, Guyatt GH,
+Medically Unexplained Syndromes Research G. The effectiveness of
+splint therapy in patients with temporomandibular disorders: a sys-
+tematic review and meta-analysis. J Am Dent Assoc. 2012; 143 (8):
+847 – 57.
+65. Macedo CR, Silva AB, Machado MA, Saconato H, Prado GF. Oc-
+clusal splints for treating sleep bruxism (tooth grinding). The Cochra-
+ne database of systematic reviews. 2007 (4): CD005514.
+74. Ekberg EC, Nilner M. Treatment outcome of short- and long-term
+appliance therapy in patients with TMD of myogenous origin and
+tension-type headache. J Oral Rehabil. 2006; 33 (10): 713 – 21.
+75. Nilsson H, Vallon D, Ekberg EC. Long-term efficacy of resilient
+appliance therapy in TMD pain patients: a randomised, controlled
+trial. J Oral Rehabil. 2011; 38 (10): 713 – 21.
+83. Doepel M, Nilner M, Ekberg E, LE Bell Y. Long-term effectiveness
+of a prefabricated oral appliance for myofascial pain. J Oral Rehabil.
+2012; 39(4): 252 – 60.
+84. Truelove E, Huggins KH, Mancl L, Dworkin SF. The efficacy of
+traditional, low-cost and nonsplint therapies for temporomandibular
+disorder: a randomized controlled trial. J Am Dent Assoc. 2006; 137
+(8): 1099 – 107; quiz 169.
+85. Alencar F, Jr., Becker A. Evaluation of different occlusal splints
+and counselling in the management of myofascial pain dysfunction.
+J Oral Rehabil. 2009; 36 (2): 79 – 85.
+96. Koh H, Robinson PG. Occlusal adjustment for treating and pre-
+venting temporomandibular joint disorders. The Cochrane database
+of systematic reviews. 2003 (1): CD003812.
+99. Rigon M, Pereira LM, Bortoluzzi MC, Loguercio AD, Ramos AL,
+Cardoso JR. Arthroscopy for temporomandibular disorders. The
+Cochrane database of systematic reviews. 2011 (5): CD006385.
+102. Eriksson L, Westesson PL. Discectomy as an effective treatment
+for painful temporomandibular joint internal derangement: a 5-year
+clinical and radiographic follow-up. J Oral Maxillofac Surg. 2001;
+59(7): 750 – 8; discussion 8 – 9.
+For a complete reference list, please see the Internet version og the article
+at www.tannlegetidende.no
+Corresponding author: Anders Wänman, Klinisk oral fysiologi,
+Institutionen för odontologi, 901 89 Umeå.
+E-mail: anders.wanman@umu.se
+This paper has been peer reviewed.
+Anders Wänman, Malin Ernberg and Thomas List. Guidelines in the
+management of orofacial pain/TMD. An evidence-based approach. Nor
+Tannlegeforen Tid. 2016; 126: 104–12.

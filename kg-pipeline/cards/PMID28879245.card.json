@@ -1,0 +1,32 @@
+{
+  "title": "Effects of High-Dose Capsaicin on TMD Subjects: A Randomized Clinical Study",
+  "authors": "B.K. Campbell et al.",
+  "year": 2016,
+  "journal": "JDR Clinical & Translational Research",
+  "category": "TMJ",
+  "research_question": "评估高浓度（8%）辣椒素乳膏对颞下颌关节紊乱病（TMD）患者的镇痛效果及对疼痛敏感性的影响。",
+  "methods_summary": [
+    "双盲、安慰剂对照随机临床试验",
+    "纳入TMD患者（RDC IIIa组）和健康对照，分别接受8%辣椒素或安慰剂乳膏单次局部涂抹2小时",
+    "在基线、用药后2小时和1周后进行定量感觉测试（QST），包括热痛阈值、压力痛阈值和机械敏感性",
+    "使用视觉模拟量表（VAS）评估用药后2小时内及随后1周内的疼痛强度",
+    "采用多水平线性混合模型进行统计分析"
+  ],
+  "dataset": "44名健康对照（21例辣椒素，23例安慰剂）和16名TMD患者（8例辣椒素，8例安慰剂），均为女性，年龄18-65岁",
+  "key_findings": [
+    "辣椒素组TMD患者在用药后1周内VAS疼痛评分显著低于安慰剂组（P = 0.001）",
+    "辣椒素应用后2小时，TMD和健康对照组的同侧热痛阈值均显著降低（P < 0.001），但1周后恢复至基线水平",
+    "辣椒素对压力痛阈值和机械敏感性无显著影响",
+    "辣椒素在用药初期引起疼痛，但TMD组疼痛在1小时后恢复至或低于基线水平"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "TMD",
+    "capsaicin",
+    "TRPV1",
+    "randomized clinical trial",
+    "pain",
+    "quantitative sensory testing"
+  ],
+  "extracted_insights": "8%辣椒素乳膏单次局部应用可有效减轻TMD患者1周内的疼痛，其机制可能涉及TRPV1脱敏和弥散性有害抑制控制（DNIC）系统激活，但初始灼痛感可能影响患者依从性。"
+}

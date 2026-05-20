@@ -1,0 +1,1247 @@
+Journal Pre-proof
+Association between denosumab use and risk of
+osteoarthritis among adults with osteoporosis in a
+real-world cohort
+Zhaohua Zhu, Jing-Yang Huang, Weishu Wang,
+Sisi Liu, Hao Zhang, Qian Wang, Kai Fu,
+Changhai Ding, James Cheng-Chung Wei, David J
+Hunter
+PII:
+S1063-4584(26)00001-4
+DOI:
+https://doi.org/10.1016/j.joca.2026.01.001
+Reference:
+YJOCA5744
+To appear in:
+Osteoarthritis and Cartilage
+Received date: 19 August 2025
+Accepted date: 2 January 2026
+Please cite this article as: Zhaohua Zhu, Jing-Yang Huang, Weishu Wang, Sisi
+Liu, Hao Zhang, Qian Wang, Kai Fu, Changhai Ding, James Cheng-Chung Wei
+and David J Hunter, Association between denosumab use and risk of
+osteoarthritis among adults with osteoporosis in a real-world cohort,
+Osteoarthritis and Cartilage, (2026)
+doi:https://doi.org/10.1016/j.joca.2026.01.001
+This is a PDF of an article that has undergone enhancements after acceptance,
+such as the addition of a cover page and metadata, and formatting for readability.
+This version will undergo additional copyediting, typesetting and review before it
+is published in its final form. As such, this version is no longer the Accepted
+Manuscript, but it is not yet the definitive Version of Record; we are providing
+this early version to give early visibility of the article. Please note that Elsevier’s
+sharing policy for the Published Journal Article applies to this version, see:
+https://www.elsevier.com/about/policies-and-standards/sharing#4-published-
+journal-article. Please also note that, during the production process, errors may be
+discovered which could affect the content, and all legal disclaimers that apply to
+the journal pertain.
+ 
+1
+Association between denosumab use and risk of osteoarthritis among adults with 
+osteoporosis in a real-world cohort 
+Zhaohua Zhu1,2, 3#, PhD; Jing-Yang Huang4,5#, PhD; Weishu Wang1#, MBBS; Sisi Liu1, MBBS; Hao Zhang1, 
+MMed; Qian Wang1, MD, PhD; Kai Fu6, MD, PhD; Changhai Ding1,7,8*, MD, PhD; James Cheng-Chung 
+Wei4,5,9,10*, MD, PhD; David J Hunter1,2 MD, PhD 
+1 Clinical Research Centre, Zhujiang Hospital, Southern Medical University, Guangzhou, China, 510280  
+2 Department of Rheumatology, Royal North Shore Hospital and Sydney Musculoskeletal Health, Kolling 
+Institute, University of Sydney, Sydney, Australia, 2065 
+3 Musculoskeletal Program, The George Institute for Global Health, University of New South Wales, Sydney, 
+Australia, 2000 
+4 Department of Medical Research, Chung Shan Medical University Hospital, Taichung, Taiwan, 402306 
+5 Institute of Medicine, Chung Shan Medical University, Taichung, Taiwan, 402306 
+6 Department of Orthopedic Surgery, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China 
+7 Clinical Research Centre, Beijing Tsinghua Changgung Hospital, Tsinghua Medicine, Tsinghua University, 
+Beijing, China, 102218 
+8 Menzies Institute for Medical Research, University of Tasmania, Hobart, Australia, 7000 
+9 Graduate Institute of Integrated Medicine, China Medical University, Taichung, Taiwan, 404328 
+10 Office of Research and Development, Asia University, Taichung, Taiwan 
+#These authors contributed equally. 
+*Correspondence: C. Ding. E-mail: changhai.ding@utas.edu.au and JCC. Wei. E-mail: jccwei@gmail.com 
+Authors’ information: 
+Zhaohua Zhu, PhD; ORCID: 0000-0003-3913-2564;  
+Email: zhaohua.zhu@utas.edu.au; 
+Jing-Yang Huang, PhD; ORCID: 0000-0002-0794-9388; 
+Email: wchinyang@gmail.com; 
+Weishu Wang, MBBS; ORCID: 0009-0006-8897-0731; 
+Email: wangweishu7688@163.com; 
+Sisi Liu, MBBS; ORCID: 0009-0006-3610-4743;  
+Email: liusisi1226@163.com; 
+Hao Zhang, MMed; ORCID: 0009-0006-8897-0731;  
+Email: 1274821726@qq.com; 
+Qian Wang, MD, PhD; ORCID: 0009-0000-6635-749X;  
+Email: wangqian@flu.edu.cn; 
+Journal Pre-proof
+ 
+2
+Kai Fu, MD, PhD; ORCID: 0000-0002-8721-0734;  
+Email: drkaifu@hotmail.com; 
+Changhai Ding, MD, PhD; ORCID: 0000-0002-9479-730X;  
+Email: Changhai.Ding@utas.edu.au; 
+James Cheng-Chung Wei, MD, PhD; ORCID: 0000-0002-1235-0679;  
+Email: jccwei@gmail.com; 
+David J Hunter, MD, PhD; ORCID: 0000-0003-3197-752X;  
+Email: david.hunter@sydney.edu.au; 
+ 
+Abstract 
+Objective: To estimate the effect of denosumab compared with bisphosphonates on reducing the risk of knee 
+or hip osteoarthritis (OA) among adults with osteoporosis in a real-world cohort.  
+Method: This new-user, active-comparator retrospective real-world cohort utilized electronic health records 
+from the TriNetX Network. Participants diagnosed with osteoporosis between January 1, 2014 and December 
+31, 2023 were selected. We used propensity-score matching (PSM) to balance potential confounders between 
+denosumab users and bisphosphonate users. Cox proportional hazards models were used to estimate the hazard 
+ratios (HRs) and 95% confidence intervals (CIs) of incident knee and hip OA by comparing PSM groups. 
+Results: 59,157 new users of denosumab were matched on propensity score to 59,157 participants of 
+bisphosphonate users (mean age 70 years; 87% female). The 10-year incidence probability of knee and hip 
+OA in denosumab users was 19.2% (4,839 events and 14.5% (3,396 events), while in bisphosphonate users it 
+was 21.4% (5,389 events) and 14.4% (3,388 events). Compared with bisphosphonate, denosumab users were 
+significantly associated with a reduced risk of any OA (HR 0.96, 95% CI 0.94-0.98), knee OA (HR, 0.87, 95% 
+CI, 0.84-0.91), but not with hip OA (HR, 0.98, 95% CI, 0.94-1.03), or thumb carpometacarpal OA (HR 0.94, 
+95% CI 0.87-1.01). These associations were more pronounced among older participants (≥ 65 years, HR 0.88, 
+95% CI 0.84-0.91 for knee OA), females (HR 0.87, 95% CI 0.83-0.91 for knee OA), and individuals of Asian 
+ethnicity (HR 0.73, 95% CI 0.63-0.84 for knee OA).  
+Journal Pre-proof
+ 
+3
+Conclusions: Denosumab use was associated with a reduced risk of incident knee OA compared with 
+bisphosphonates in adults with osteoporosis, with the association being more pronounced among older adults, 
+females, and individuals of Asian ethnicity. This study suggests that denosumab could attenuate the 
+development of knee OA, warranting further clinical trials.  
+ 
+Keywords: Osteoarthritis; osteoporosis; denosumab; bisphosphonate 
+ 
+Introduction 
+Osteoarthritis (OA) is a highly prevalent chronic joint disease affecting over 595 million individuals 
+worldwide, with an estimated global prevalence of 22% in individuals aged 40 and above.1 It is a leading 
+cause of chronic pain and disability, accounting for more than 7% of all years lived with disability globally.2 
+Despite its widespread prevalence and significant disease burden on healthcare systems, there are currently 
+no disease-modifying drugs approved for OA treatment, leaving a critical gap in therapeutic options.3 Current 
+interventions primarily focus on symptomatic relief and function improvement, such as pain management and 
+joint replacement surgery, underscoring the urgent need for novel therapeutic or preventive strategies that 
+address the underlying pathophysiological mechanisms of OA.4 
+Denosumab, a humanized monoclonal antibody targeting the receptor activator of nuclear factor κ B ligand 
+(RANKL), is a potent antiresorptive agent widely used in managing osteoporosis.5 By inhibiting RANKL 
+signaling, denosumab suppresses osteoclastogenesis, reduces bone resorption, and promotes subchondral bone 
+remodeling.6 Emerging preclinical evidence suggests that RANKL downregulation may also mitigate 
+oxidative stress-induced apoptosis and cartilage degradation, which are key processes implicated in OA 
+pathogenesis.7 Notably, a randomized controlled trial demonstrated that denosumab exerted structure-
+modifying effects in erosive hand OA, improving subchondral bone integrity and preventing joint erosion.8 
+However, evidence on the impact of denosumab on large joint OA, particularly in the knee and hip, remains 
+sparse. 
+The paucity of real-world evidence examining denosumab’s potential to mitigate the risk of OA in weight-
+bearing joints represents a critical knowledge gap. Therefore, this study aimed to evaluate the association 
+Journal Pre-proof
+ 
+4
+between denosumab use and the risk of incident knee and hip OA in a real-world cohort of adults with 
+osteoporosis. By leveraging electronic health records and propensity-score matching (PSM), this investigation 
+provides valuable insights into denosumab’s potential as a preventive agent for OA and informs the design of 
+future clinical trials targeting this debilitating condition. 
+Methods 
+Data source and study design 
+This retrospective cohort study utilized data from the TriNetX US Collaborative Network to compare the risk 
+of OA among adults with osteoporosis treated with either denosumab or bisphosphonates. The dataset was 
+extracted on September 10, 2024. TriNetX is a global federated health research network providing access to 
+de-identified electronic health records (EHRs), including diagnoses, procedures, medications, laboratory 
+values, and genomic information data, contributed by 66 large healthcare organizations across the United 
+States.  
+The majority of participating institutions are academic medical centers with both inpatient and outpatient 
+services spanning all 50 U.S. states. TriNetX adheres to the Health Insurance Portability and Accountability 
+Act (HIPAA), U.S. and other applicable data privacy regulations. TriNetX is ISO 27001:2013 certified and 
+maintains an Information Security Management System (ISMS) to ensure the protection of healthcare data 
+and compliance with the HIPAA Security Rule.  
+Data within TriNetX were mapped to standardized clinical terminologies (e.g., SNOMED-CT to ICD-10, 
+NDC to RxNorm) and transformed into a proprietary schema following rigorous data quality assessments 9. 
+All study variables were binary, categorical (which is expanded to a set of binary columns), or continuous. 
+Age was guaranteed to exist. Missing sex values were represented using ‘unknown sex’. The missing data for 
+ethnic grouping and ethnicity were presented as ‘unknown race’ or ‘unknown ethnicity’. For other variables, 
+including medical conditions, procedures, laboratory tests, and socioeconomic determinant health, the value 
+was either present or absent, so ‘missing’ is not pertinent. 
+Journal Pre-proof
+ 
+5
+All data available on the TriNetX platform was de-identified in accordance with Section §164.514(a) of the 
+HIPAA Privacy Rule, and the de-identification process was validated by a qualified expert as defined in 
+Section §164.514(b)(1). As the study was based solely on de-identified data, it was exempt from Institutional 
+Review Board (IRB) review. Nonetheless, the use of TriNetX for this research was approved by the IRB of 
+Chung Shan Medical University Hospital (approval number: CS2-21176). 
+Study population 
+We identified adults aged ≥45 years who had at least two diagnoses of osteoporosis (ICD-10: M80 and M81) 
+between January 1, 2014, and December 31, 2023, within the TriNetX US Network. To ensure a new user 
+design, we excluded individuals who had received any prescriptions for denosumab or bisphosphonates before 
+December 31, 2013. Eligible participants had newly initiated either denosumab or bisphosphonate treatment 
+during the study period, with an osteoporosis diagnosis recorded within one week before or after the 
+prescription date. The date of the first prescription for denosumab or bisphosphonates was defined as the index 
+date. A total of 360,283 participants met the inclusion criteria. 
+Denosumab group 
+We identified 104,340 individuals with a diagnosis of osteoporosis who subsequently initiated denosumab 
+treatment. To minimize confounding, we excluded participants with advanced chronic kidney disease (defined 
+as an estimated glomerular filtration rate [eGFR] <30 mL/min/1.73 m², dialysis, or diagnosis of end-stage 
+renal disease (ESRD) with ICD-10 codes N18.4–N18.6), Paget's disease of bone, or a prior diagnosis of OA 
+before denosumab initiation. After applying these criteria, a total of 59,157 participants were included in the 
+final analysis for the denosumab group (Figure 1). 
+Bisphosphonate group 
+We identified 255,943 individuals with a diagnosis of osteoporosis who subsequently initiated bisphosphonate 
+treatment, either as an intravenous injection or oral administration. To maintain bisphosphonate treatment 
+group consistency, individuals who switched to denosumab before December 31, 2023, were excluded. We 
+also applied the same exclusion criteria, including advanced chronic kidney disease, Paget’s disease of bone, 
+and prior diagnosis of OA before bisphosphonate treatment initiation. After exclusions, 161,044 participants 
+Journal Pre-proof
+ 
+6
+remained in the bisphosphonate group for analysis (Figure 1). To balance exposure specificity and 
+representativeness, we excluded bisphosphonate users who subsequently received denosumab to prevent 
+contamination of the comparator group, while retaining denosumab initiators regardless of subsequent therapy 
+under an intention-to-treat (ITT) approach. This design ensures that the observed differences primarily reflect 
+outcomes associated with the initial treatment choice rather than subsequent medication changes. 
+Outcome and follow-up 
+The primary outcome was the new onset of OA (Supplementary Table 1), specifically affecting the knee, hip, 
+or thumb carpometacarpal. Incident OA was identified using ICD-10-CM codes M15 (polyarthrosis), M16 
+(hip OA), M17 (knee OA), and M18 (first carpometacarpal joint OA) 10. The study assessed the 10-year risk 
+of newly diagnosed OA (ICD-10-CM: M15–M19) in the denosumab and bisphosphonate groups. For each 
+participant, follow-up began at the index date, defined as the date of the first prescription of denosumab or 
+bisphosphonate, and continued until the earliest occurrence of the following: a new diagnosis of OA, or the 
+last recorded encounter within the 10-year observation period. The median follow-up time before PSM was 
+1,297 days in the denosumab group and 1,370 days in the bisphosphonate group. After PSM, the median 
+follow-up time was 1,298 days for the denosumab group and 1,252 days for the bisphosphonate group. 
+Co-variates 
+To control for potential confounding factors, we included a comprehensive set of covariates assessed either 
+on the index date or within the six months preceding it. These covariates encompassed demographic 
+characteristics (age, sex, ethnicity, race, and socioeconomic status), lifestyle-related factors such as body mass 
+index (BMI), nicotine dependence (ICD-10: F17) as a proxy for smoking, and alcohol-related disorders (ICD-
+10: F10) as a proxy for alcohol consumption. Healthcare encounters during the baseline period, including 
+preventive care visits, hospital admissions, and emergency department presentations within the six months 
+preceding the index date, were also identified. We also accounted for a broad range of comorbid conditions, 
+including hypertensive diseases (ICD-10: I10-I1A), ischemic heart diseases (ICD-10: I20-I25), heart failure 
+(ICD-10: I50), diabetes mellitus (ICD-10: E08-E13), dyslipidemia (E78), acute kidney failure (ICD-10: N17), 
+chronic kidney disease (CKD, ICD-10: N18), diseases of liver (ICD-10: K70-K77), spondylopathies (M45-
+M49), inflammatory polyarthropathies (ICD-10: M05-M14), depressive episode (F32), chronic lower 
+Journal Pre-proof
+ 
+7
+respiratory diseases (ICD-10: J40-J4A), gout (ICD-10: M10), neoplasms (ICD-10: C00-D49), and malignant 
+neoplasm of bone (ICD-10: C41). Co-medications considered in the analysis included systemic corticosteroids 
+(ATC code: H02), non-steroidal anti-inflammatory drugs (NSAIDs; ATC code: M01A), disease-modifying 
+antirheumatic drugs, opioids (ATC code: N02A), estrogens (ATC code: G03C), and selective estrogen 
+receptor modulators (SERMs; ATC code: G03XC).  
+Statistical analysis 
+To address baseline differences between treatment groups, we performed PSM based on key covariates, 
+including demographics, lifestyle factors, healthcare encounters, co-morbidities, and co-medication. A 
+propensity score for each participant was estimated using logistic regression implemented through the 
+validated machine learning library scikit-learn in Python. These scores, ranging from 0 to 1, represented the 
+predicted probability of receiving denosumab treatment given the individual's covariate profile. 
+TriNetX aggregates data from a global federated health network. Each participating healthcare organization 
+contributed a covariate matrix for its patients, which was subsequently pooled for analysis. To minimize 
+selection bias, we employed greedy nearest neighbour matching with a caliper of 0.1 pooled standard deviation, 
+and the order of records was randomized to prevent order-dependent bias in the matching process. After PSM, 
+there were 59,157 pairs of denosumab users and bisphosphonate users selected for analysis (Figure 1). The 
+TriNetX Live Analytics environment does not currently support inverse probability of treatment weighting 
+(IPTW) for risk estimation. Therefore, PSM was selected as the primary method for causal adjustment 
+(Supplementary Figure 1). 
+Time-to-event analysis was performed using Kaplan–Meier methods to estimate the cumulative incidence of 
+OA over daily intervals. Censoring was applied at the last recorded clinical encounter within the defined time 
+window to account for loss to follow-up. Cox proportional hazards models were used to compare the matched 
+cohorts, with the proportional hazards assumption assessed via the generalized Schoenfeld residuals approach. 
+Hazard ratios (HRs) and corresponding 95% confidence intervals (CIs) were estimated using the survival 
+package (v3.2-3) in R, embedded within the TriNetX Analytics Platform. 
+Journal Pre-proof
+ 
+8
+We performed stratified analyses to examine the heterogeneity of OA risk in denosumab users compared with 
+bisphosphonate users across different subgroups categorized by sex, race (White, Black or African American, 
+and Asian), age (45-65 years versus 65 years or older), and BMI (<25, 25-30, and ≥30). To assess the 
+robustness of the primary analysis, we performed several sensitivity analyses. First, to address concerns about 
+differential administration reliability, we conducted separate comparisons of denosumab with injectable and 
+oral bisphosphonates. Second, we included separating injectable and oral forms of denosumab and applying 
+varying lag periods (3, 6, and 12 months) for the initiation of follow-up. All statistical analyses were two-
+sided, with significance defined as P < 0.05. 
+Results 
+Characteristics of study cohorts 
+After PSM, 59,157 denosumab users were successfully matched 1:1 with 59,157 bisphosphonate users (Figure 
+1). Table 1 describes the baseline characteristics of participants before and after PSM. Before PSM, those who 
+used denosumab were older (69.6 vs 67.5 years), less likely to be Hispanic or Latino ethnic group (3.2% vs 
+5.7%), and less likely to be Black or African American (3.2% vs 6.2%), compared with bisphosphonate users. 
+Denosumab users also had lower eGFR, lower rates of using preventive medicine services, lower prevalence 
+of baseline hypertensive diseases and dyslipidemia, but had a higher prevalence of neoplasms. In contrast, the 
+two groups were similar in sex, BMI, socioeconomic status, lifestyle, co-medication like NSAIDs use, opioids 
+use, and corticosteroids use, and most comorbidities like diabetes, ischemic heart disease, and gout. In the 
+matched populations, baseline characteristics of the two groups were all comparable, with the standardized 
+mean difference of less than 0.1 (Table 1).   
+Main analysis 
+In the matched cohorts, the 10-year incidence of any OA was 50.8% (15,331 events) in denosumab users and 
+51.4% (15,569 events) in bisphosphonate users. The 10-year incidence probability of knee, hip and thumb 
+carpometacarpal OA in denosumab users were 19.2% (95% CI, 18.3%-20.2%; 4,839 events), 14.5% (95% CI, 
+13.7%-15.3%; 3,396 events), and 5.6% (95% CI, 5.1%-6.1%; 1,241 events) while in bisphosphonate users 
+were 21.4% (95% CI, 20.5%-22.4%; 5,389 events), 14.4% (95% CI, 13.6%-15.3%; 3,388 events), and 6.0% 
+(95% CI, 5.5%-6.6%; 1,297 events). Compared with bisphosphonate, denosumab use was associated with a 
+Journal Pre-proof
+ 
+9
+reduced risk of any OA (HR 0.96, 95% CI 0.94 to 0.98) and knee OA (HR 0.87, 95% CI 0.84 to 0.91). Use 
+of denosumab was associated with a lower cumulative incidence probability of any OA and knee OA (Figure 
+2). No significant associations were observed between denosumab use and the incidence of hip or thumb 
+carpometacarpal OA subtypes (Table 2, Supplementary Table 2-5). 
+Subgroup analysis 
+To examine whether individuals with certain characteristics might benefit more from denosumab than from 
+bisphosphonate, we performed subgroup analysis stratified by sex, race (White, Black or African American, 
+and Asian), age (45-65 years versus 65 years or older), and BMI (<25, 25-30, and ≥30). In participants with 
+an Asian ethnic background, denosumab use was significantly associated with reduced incidences of any OA 
+(HR 0.77, 95% CI 0.70 to 0.84, P for interaction < 0.0001), and knee OA (HR 0.73, 95% CI 0.63 to 0.84, P 
+for interaction = 0.005), while in participants without an Asian ethic background, a significant association was 
+observed only between denosumab use and knee OA in Caucasian (HR 0.93, 95% CI 0.89 to 0.97). 
+Denosumab use was significantly associated with reduced incidences of knee OA in females (HR 0.87, 95% 
+CI, 0.83 to 0.91) but not in males (HR 1.04, 95% CI, 0.88 to 1.23). Similarly, significant associations between 
+denosumab use and incident OA were only observed in participants over 65 years old (HR 0.95, 95% CI 0.92 
+to 0.97 for any OA; HR 0.88, 95% CI 0.84 to 0.91 for knee OA) but not in those 45-65 years old. No significant 
+interactions were observed between BMI and denosumab use in the risk of OA (Figure 3).   
+Sensitivity analysis 
+In the sensitivity analyses, the lower risks of any OA and knee OA associated with denosumab use remained 
+generally consistent when splitting injectable and oral bisphosphonate products (Supplementary Table 6). A 
+significantly lower risk of knee OA associated with denosumab use remained consistent across varying lag 
+times for the start of follow-up. However, no statistically significant associations were found between 
+denosumab use and any OA diagnosis when considering various lag times for the start of follow-up 
+(Supplementary Table 7). Sensitivity analysis by excluding patients who initiated denosumab and 
+subsequently received bisphosphonates also exerted similar findings, supporting the robustness of primary 
+results (Supplementary Table 8). 
+ 
+Journal Pre-proof
+ 
+10 
+Discussion 
+In this propensity score-matched real-world study with a 10-year follow-up period, among participants 
+diagnosed with osteoporosis, denosumab use was associated with a 13%-27% reduced risk of incident any 
+OA and knee OA, compared with those using bisphosphonates. Older (≥65 years) female Asian participants 
+may benefit more from denosumab use than their counterparts in OA risk compared with those using 
+bisphosphonate.  
+Denosumab has been widely used to treat osteoporosis, but its potential for managing OA remains unclear 11. 
+Previous experimental studies found that denosumab could attenuate OA by protecting cartilage and 
+modulating subchondral bone remodeling 6. Recently, a phase 2 randomized placebo-controlled clinical trial 
+found that denosumab had structure-modifying effects in erosive hand OA at the primary endpoint of week 
+24, with even stronger effects observed at week 48, and no more adverse events compared with placebo 8. 
+Another randomized placebo-controlled clinical trial revealed that denosumab could prevent early 
+perioprosthetic bone loss after uncemented total hip arthroplasty 12. Our current study is the first to investigate 
+the association between denosumab use and incident hip and knee OA. The active comparator bisphosphonate 
+was prescribed for the same indication and patient profile, improving clinical comparability versus non-users. 
+Although differences in administration reliability between denosumab and oral bisphosphonates could 
+introduce adherence bias, our sensitivity analysis using only injectable bisphosphonates yielded consistent 
+results, suggesting minimal impact on the findings. Moreover, differences in baseline risk are smaller and 
+more measurable 13. A recent population-based cohort study found that denosumab use was associated with a 
+lower risk of incident type 2 diabetes compared with bisphosphonate use in adults with osteoporosis 14. Using 
+a large real-world database and a sophisticated study design, we found that denosumab use, compared with 
+bisphosphonate, was significantly associated with a reduced risk of knee OA but not hip OA. The disparities 
+between knee and hip OA may be due to different etiologies 15, 16. Further clinical trials are needed to verify 
+the current findings. In addition, while denosumab was associated with a statistically significant 4% absolute 
+risk reduction for any OA, the clinical significance of this modest effect in a large-scale study should be 
+interpreted with caution. 
+Journal Pre-proof
+ 
+11 
+Our study also found that people with an Asian ethnic background might benefit more from denosumab use 
+than from bisphosphonate, compared with White or African American. However, this finding should be 
+interpreted with caution due to the relatively small sample size of the Asian subgroup (n=4,734), which 
+represented approximately 8% of the total study population. Although individuals of Asian descent generally 
+had lower average bone mineral density (BMD) than those of Caucasian or African descent 17, there were no 
+documented differences in the effectiveness of increasing BMD for denosumab across different racial and 
+ethnic groups 18. The effect of denosumab on bone turnover also appears to be consistent across different 
+ethnicities 19. On one hand, differences in diet, lifestyle, socioeconomic factors, access to healthcare, and 
+prevalence of other health conditions across ethnic groups can influence the observed different effects of 
+denosumab 20, 21, making it difficult to isolate ethnicity as a single factor of effectiveness. On the other hand, 
+genetic variations affecting bone metabolism and cartilage health might differ across ethic groups 22, 23, 
+potentially influencing an individual’s response to denosumab.  
+Both OA and osteoporosis are major global health problems with a high prevalence, imposing significant 
+burdens of morbidity and disability 24, 25. Moreover, up to 36% of OA patients also have osteoporosis 26. Our 
+previous observational studies have shed light on a commonality: heightened bone loss occurs not only in 
+osteoporosis but also in the early stages of OA 27. Meanwhile, inflammation has emerged as a shared risk 
+factor for both OA and osteoporosis 28, 29. Healthcare providers must consider the overlap, especially in older 
+adults and females. Thus, combined screening and management strategies can be implemented. Preclinical 
+studies in animal models of OA have demonstrated that bisphosphate therapy attenuates subchondral bone 
+turnover and bone loss while preserving cartilage volume 6. The current study provides population-level and 
+real-world evidence that denosumab use for osteoporosis in adults may simultaneously reduce the risk of knee 
+OA, particularly in females, older adults, and individuals of Asian ethnicity. These findings have important 
+implications for tailoring individualized drug management of knee OA.    
+ 
+This study also has limitations. First, the predominance of non-Hispanic White participants with relatively 
+higher socioeconomic status and healthcare access may limit generalizability, and the intensive medical 
+surveillance inherent to an osteoporosis cohort may have increased OA detection compared with the general 
+Journal Pre-proof
+ 
+12 
+population, in whom OA is often underdiagnosed. Second, although we used a new user, active comparator 
+cohort, and a PSM strategy to minimize confounding by indication, residual confounding bias (e.g, causes of 
+osteoporosis and indication bias) remains possible in this observational study. Third, although continuous 
+users of bisphosphonates represent the most widely used drug pattern, other drug sequences (romosozumab, 
+teriparatide, selective estrogen receptor modulator) can also be used in specific clinical scenarios, and thus 
+could be examined as active comparators in future studies. Fourth, because longitudinal weight data were 
+inconsistently captured, we could not assess weight change over time, leaving a potential residual confounder. 
+Last, due to the nature of observational study design, the causality of the results should be interpreted with 
+caution. As no randomized clinical trials have been performed to examine the preventive effect of denosumab 
+on incident knee or hip OA, this study can be viewed as hypothesis-generating and an incentive for future 
+randomized controlled trials to be performed. 
+Conclusion 
+In this real-world study, denosumab use was associated with a reduced risk of incident knee OA compared 
+with bisphosphonates in adults with osteoporosis, with the association being more pronounced among older 
+adults, females, and individuals of Asian ethnicity. This study suggests that denosumab could attenuate the 
+development of knee OA, warranting further clinical trials. 
+ 
+Table 1. Baseline characteristics of participants 
+ 
+Before PSM 
+After PSM 
+ 
+Denosumab Bisphosphon
+ate SMD Denosumab Bisphosphon
+ate SMD 
+Number of participants 
+59228 
+161044 
+ 
+59157 
+59157 
+ 
+Age at index date 
+69.6±8.3 
+67.5±8.2 0.249
+1 
+69.6±8.3 
+69.5±8.1 0.011
+8 
+Sex 
+ 
+ 
+ 
+ 
+ 
+ 
+Female 
+51921(87.7
+%) 
+141026(87.6
+%) 
+0.002
+8 
+51875(87.7
+%) 
+52125(88.1%
+) 
+0.013
+0 
+Male 
+4312(7.3%) 13787(8.6%) 0.047
+4 4305(7.3%) 4067(6.9%) 0.015
+7 
+Ethnicity 
+ 
+ 
+ 
+ 
+ 
+ 
+Not Hispanic or Latino 
+43913(74.1
+%) 
+117524(73.0
+%) 
+0.026
+4 
+43865(74.2
+%) 
+43944(74.3%
+) 
+0.003
+1 
+Journal Pre-proof
+ 
+13 
+Hispanic or Latino 
+1875(3.2%) 9246(5.7%) 0.125
+1 1875(3.2%) 1880(3.2%) 0.000
+5 
+Race 
+ 
+ 
+ 
+ 
+ 
+ 
+White 
+44221(74.7
+%) 
+116919(72.6
+%) 
+0.046
+8 
+44179(74.7
+%) 
+44569(75.3%
+) 
+0.015
+2 
+Black or African American 
+1897(3.2%) 9996(6.2%) 0.142
+2 1897(3.2%) 1871(3.2%) 0.002
+5 
+Asian 
+4899(8.3%) 11614(7.2%) 0.039
+7 4893(8.3%) 4720(8.0%) 0.010
+7 
+Socioeconomic and psychosocial 
+circumstances 
+253(0.4%) 1053(0.7%) 0.030
+9 253(0.4%) 
+244(0.4%) 0.002
+4 
+BMI 
+24.9±5.3 
+25.4±5.4 0.097
+0 
+24.9±5.3 
+24.9±5.2 0.009
+8 
+eGFR – CKD-EPI Equations 
+76.5±17.4 
+79.0±16.7 0.145
+4 
+76.5±17.4 
+77.1±16.3 0.037
+5 
+Lifestyle 
+ 
+ 
+ 
+ 
+ 
+ 
+Nicotine dependence 
+1677(2.8%) 7800(4.8%) 0.104
+9 1677(2.8%) 1551(2.6%) 0.013
+1 
+Alcohol related disorders 
+305(0.5%) 1753(1.1%) 0.064
+3 305(0.5%) 
+264(0.4%) 0.010
+0 
+Baseline healthcare encounter 
+ 
+ 
+ 
+ 
+ 
+ 
+Preventive medicine services 
+3650(6.2%) 17470(10.8%
+) 
+0.168
+6 3650(6.2%) 3694(6.2%) 0.003
+1 
+Inpatient encounter 
+4515(7.6%) 15364(9.5%) 0.068
+5 4514(7.6%) 4339(7.3%) 0.011
+2 
+Baseline co-morbidity 
+ 
+ 
+ 
+ 
+ 
+ 
+Hypertensive diseases 
+16375(27.6
+%) 
+54820(34.0%
+) 
+0.138
+8 
+16367(27.7
+%) 
+15768(26.7%
+) 
+0.022
+8 
+Ischemic heart diseases 
+3084(5.2%) 9155(5.7%) 0.021
+1 3080(5.2%) 2854(4.8%) 0.017
+5 
+Heart failure 
+1221(2.1%) 3677(2.3%) 0.015
+2 1216(2.1%) 1126(1.9%) 0.010
+9 
+Diabetes mellitus 
+4251(7.2%) 16149(10.0%
+) 
+0.101
+8 4249(7.2%) 4105(6.9%) 0.009
+5 
+Dyslipidemia 
+17601(29.7
+%) 
+58058(36.1%
+) 
+0.135
+1 
+17595(29.7
+%) 
+17023(28.8%
+) 
+0.021
+3 
+Acute kidney failure 
+465(0.8%) 1813(1.1%) 0.035
+0 465(0.8%) 
+462(0.8%) 0.000
+6 
+Chronic kidney disease 
+2423(4.1%) 5347(3.3%) 0.040
+8 2413(4.1%) 2334(3.9%) 0.006
+8 
+Journal Pre-proof
+ 
+14 
+Diseases of liver 
+1465(2.5%) 4734(2.9%) 0.028
+7 1463(2.5%) 1400(2.4%) 0.006
+9 
+Spondylopathies 
+4066(6.9%) 9960(6.2%) 0.027
+6 4049(6.8%) 3850(6.5%) 0.013
+5 
+Inflammatory polyarthropathies 
+2331(3.9%) 5886(3.7%) 0.014
+7 2327(3.9%) 2187(3.7%) 0.012
+4 
+Depressive episode 
+3674(6.2%) 12508(7.8%) 0.061
+4 3673(6.2%) 3507(5.9%) 0.011
+8 
+Chronic lower respiratory diseases 
+5610(9.5%) 18123(11.3%
+) 
+0.058
+5 5602(9.5%) 5079(8.6%) 0.030
+9 
+Gout 
+261(0.4%) 
+830(0.5%) 0.010
+8 259(0.4%) 
+233(0.4%) 0.006
+8 
+Neoplasms 
+13908(23.5
+%) 
+29383(18.2%
+) 
+0.129
+1 
+13862(23.4
+%) 
+13458(22.8%
+) 
+0.016
+2 
+Malignant neoplasm of bone 
+69(0.1%) 
+78(0.0%) 0.023
+7 
+66(0.1%) 
+36(0.1%) 0.017
+3 
+Co-medication 
+ 
+ 
+ 
+ 
+ 
+ 
+Corticosteroids for systemic use 
+11905(20.1
+%) 
+33714(20.9%
+) 
+0.020
+7 
+11887(20.1
+%) 
+11173(18.9%
+) 
+0.030
+5 
+NSAIDs 
+7118(12.0%
+) 
+23069(14.3%
+) 
+0.068
+2 
+7109(12.0%
+) 6794(11.5%) 0.016
+5 
+Opioids 
+8648(14.6%
+) 
+24607(15.3%
+) 
+0.019
+0 
+8633(14.6%
+) 8170(13.8%) 0.022
+4 
+Estrogens 
+2410(4.1%) 6947(4.3%) 0.012
+2 2406(4.1%) 2317(3.9%) 0.007
+7 
+Selective estrogen receptor 
+modulators 
+458(0.8%) 
+957(0.6%) 0.021
+7 456(0.8%) 
+470(0.8%) 0.002
+7 
+Teriparatide 
+714(1.2%) 
+737(0.5%) 0.082
+4 681(1.2%) 
+623(1.1%) 0.009
+4 
+Bone mass measurement 
+ 
+ 
+ 
+ 
+ 
+ 
+DXA Lumbar spine [Z-score] 
+92(0.2%) 
+668(0.4%) 0.048
+7 
+92(0.2%) 
+230(0.4%) 0.044
+8 
+DXA Lumbar spine [T-score] 
+53(0.1%) 
+441(0.3%) 0.043
+3 
+53(0.1%) 
+161(0.3%) 0.043
+0 
+The baseline period was defined as the time interval within 6 months before the index date. 
+Propensity score matching was based on demographics (age, sex, race, ethnicity, and socioeconomic 
+status), lifestyle, medical utilization and co-morbidities. 
+Abbreviations: PSM, Propensity Score Matching; SMD, standardized mean difference; BMI, body mass 
+index; NASIDs, Nonsteroidal Antiinflammatory Drugs; DXA, dual energy x-ray absorptiometry. 
+ 
+Journal Pre-proof
+ 
+15 
+Table 2. The cumulative probability and hazard ratio for the risk of osteoarthritis after the index date among 
+propensity score-matched cohorts 
+ 
+1-year 
+5-year 
+10-year 
+ 
+Eve
+nts 
+Cumulati
+ve 
+probabilit
+y 
+(95% CI) 
+Crude 
+HR 
+(95% CI) 
+Adjusted 
+HR 
+(95% 
+CI)* 
+Event
+s 
+Cumulati
+ve 
+probabilit
+y 
+(95% CI) 
+Crude H
+R 
+(95% CI) 
+Adjusted
+ HR 
+(95% 
+CI)* 
+Event
+s 
+Cumulati
+ve 
+probabilit
+y 
+(95% CI) 
+Crude H
+R 
+(95% CI) 
+Adjusted
+ HR 
+(95% 
+CI)* 
+Any 
+Osteoarthritis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Denosumab 
+(n= 59157) 
+532
+5 
+9.4 (9.1-
+9.6) 
+1.08 (0.9
+9-1.18) 
+0.90 (0.8
+7-0.94) 
+1275
+3 
+32.0 
+(31.6-
+32.5) 
+1.03 (1.0
+1-1.05) 
+0.97 
+(0.95-
+1.00) 
+1533
+1 
+50.8 
+(49.6-
+52.0) 
+1.04 
+(1.02-
+1.05) 
+0.96 
+(0.94-
+0.98) 
+Bisphosphonat
+e 
+(n=59157) 
+582
+7 
+10.4 
+(10.1-
+10.7) 
+Referenc
+e 
+Referenc
+e 
+1279
+7 
+32.9 
+(32.4-
+33.4) 
+Referenc
+e 
+Referenc
+e 
+1556
+9 
+51.4 
+(50.2-
+52.5) 
+Referenc
+e 
+Referenc
+e 
+Knee 
+osteoarthritis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Denosumab 
+(n= 59157) 
+130
+3 
+2.3 (2.2-
+2.4) 
+0.91 
+(0.86-
+0.97) 
+0.82 
+(0.76-
+0.88) 
+4025 
+10.1 (9.8-
+10.4) 
+0.95 
+(0.92-
+0.98) 
+0.89 
+(0.85-
+0.92) 
+4839 
+19.2 
+(18.3-
+20.2) 
+0.95 
+(0.92-
+0.98) 
+0.87 
+(0.84-
+0.91) 
+Bisphosphonat
+e 
+(n=59157) 
+156
+9 
+2.8 (2.7-
+3.0) 
+Referenc
+e 
+Referenc
+e 
+4434 
+11.4 
+(11.1-
+11.8) 
+Referenc
+e 
+Referenc
+e 
+5389 
+21.4 
+(20.5-
+22.4) 
+Referenc
+e 
+Referenc
+e 
+Hip 
+osteoarthritis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Denosumab 
+(n= 59157) 
+793 
+1.4 (1.3-
+1.5) 
+1.02 
+(0.94-
+1.10) 
+0.87 
+(0.79-
+0.96) 
+2830 
+7.1 (6.8-
+7.4) 
+1.09 (1.0
+5-1.14) 
+1.00 
+(0.95-
+1.05) 
+3396 
+14.5 
+(13.7-
+15.3) 
+1.10 (1.0
+6-1.14) 
+0.98 (0.9
+4-1.03) 
+Bisphosphonat
+e 
+(n=59157) 
+897 
+1.6 (1.5-
+1.7) 
+Referenc
+e 
+Referenc
+e 
+2762 
+7.1 (6.8-
+7.3) 
+Referenc
+e 
+Referenc
+e 
+3388 
+14.4 
+(13.6-
+15.3) 
+Referenc
+e 
+Referenc
+e 
+Thumb 
+carpometacarpal 
+osteoarthritis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Denosumab 
+(n= 59157) 
+283 
+0.5 (0.4-
+0.5) 
+0.91 
+(0.79-
+1.04) 
+0.83 
+(0.71-
+0.98) 
+1036 
+2.6 (2.4-
+2.8) 
+1.03 
+(0.96-
+1.10) 
+0.96 
+(0.88-
+1.05) 
+1241 
+5.6 (5.1-
+6.1) 
+1.05 (0.9
+9-1.11) 
+0.94 
+(0.87-
+1.01) 
+Bisphosphonat
+e 
+(n=59157) 
+336 
+0.6 (0.5-
+0.6) 
+Referenc
+e 
+Referenc
+e 
+1050 
+2.7 (2.5-
+2.9) 
+Referenc
+e 
+Referenc
+e 
+1297 
+6.0 (5.5-
+6.6) 
+Referenc
+e 
+Referenc
+e 
+Journal Pre-proof
+ 
+16 
+Bond denotes statistically significant.  
+Abbreviations: HR, Hazard ratio; CI, confidence interval  
+Adjusted for demographic characteristics, lifestyle factors, healthcare utilization, comorbid conditions, and 
+concomitant medications. 
+ 
+ 
+ 
+Figure 1. Flowchart for sample selection. a: individuals who received denosumab treatment after their 
+osteoporosis diagnosis. b: individuals who received bisphosphonate treatment after their osteoporosis 
+diagnosis. c: advanced chronic kidney disease defined as eGFR <30 mL/min/1 .73 m², dialysis,or an end-
+Journal Pre-proof
+ 
+17 
+stage renal disease diagnosis with ICD10 codes N18,4-N18.6. d: 1:1 Propensity score matching was based 
+on demographics (age, sex, race, ethnicity, and socioeconomic status), lifestyle, health care utilization, 
+comorbidities, and co-medication. 
+ 
+ 
+ 
+ 
+Figure 2. The cumulative risk of osteoarthritis between denosumab and bisphosphonate users. Any 
+Osteoarthritis, (B) Knee Osteoarthritis, (C) Hip Osteoarthritis, (D) Thumb carpometacarpal Osteoarthritis. 
+Journal Pre-proof
+ 
+18 
+ 
+ 
+ 
+Journal Pre-proof
+ 
+19 
+ 
+Figure 3. Subgroup analysis for risk of osteoarthritis in participants used denosumab compared with 
+bisphosphonate stratified by age, sex, race, and body mass index. Any Osteoarthritis, (B) Knee 
+Osteoarthritis, (C) Hip Osteoarthritis, (D) Thumb carpometacarpal Osteoarthritis. 
+ 
+ 
+Ethical approval 
+The use of TriNetX in this research was approved by the Institutional Review Board of Chung Shan Medical 
+University Hospital (CSMUH), under the approval number CS2-21176.  
+Source of funding 
+This study received financial support from the National Natural Science Foundation of China (NO. 82372428). 
+The funder of the study had no role in study design, data collection, data analysis, data interpretation, or 
+writing of the report. 
+Author contribution 
+ZZ, JH, CD, JW, and DH were involved in designing the research, extracting data from the website, and 
+directing the study. ZZ, WW and JH took on the tasks of writing the manuscript and conducting the analyses. 
+JW, CD and JH was responsible for accessing and verifying the data reported within the study. JH, WW, SL, 
+HZ, QW, KF, and ZZ focused on developing analytic skills and interpreting the results. WW, SL, HZ, JH, and 
+QW dealt with processing the figures. All authors reviewed and revised the drafted manuscript and gave their 
+approval to the final version. All authors had complete access to all the data in the study and accepted the 
+responsibility of submitting it for publication. 
+Journal Pre-proof
+ 
+20 
+Acknowledgement 
+We thank people and their families for consenting to their data being held in the TriNetX database, and the 
+teams and clinics for the input of data into the database.  
+Conflicts of interest disclosure 
+This study did not involve any research conducted on human or animal participants. Dr Hunter reported 
+providing consulting advice on scientific advisory boards for Pfizer, Lilly, Haleon, TLCBio, Novartis, 
+Tissuegene, Biobone, Sanofi, and Enlivex outside the submitted work. No other disclosures were reported. 
+Data availability statement 
+The data analyzed in this study are subject to the following licenses/restrictions: Data in this study were 
+retrieved from TriNetX US Network. All data available in the database was administered by the TriNetX 
+platform. Detailed information can be retrieved at the official website of the research network 
+(https://trinetx.com). Requests to access these datasets should be directed to the TriNetX platform 
+(https://trinetx.com). 
+Consent to participate 
+Not applicable.  
+ 
+ 
+References 
+1. 
+Collaborators GBDO. Global, regional, and national burden of osteoarthritis, 1990-2020 and 
+projections to 2050: a systematic analysis for the Global Burden of Disease Study 2021. Lancet 
+Rheumatol 2023; 5: e508-e522. 
+2. 
+Hunter DJ, Bierma-Zeinstra S. Osteoarthritis. Lancet 2019; 393: 1745-1759. 
+3. 
+Zhu Z, Li J, Ruan G, Wang G, Huang C, Ding C. Investigational drugs for the treatment of 
+osteoarthritis, an update on recent developments. Expert Opin Investig Drugs 2018; 27: 881-900. 
+4. 
+Duong V, Oo WM, Ding C, Culvenor AG, Hunter DJ. Evaluation and Treatment of Knee Pain: A 
+Review. JAMA 2023; 330: 1568-1580. 
+5. 
+McClung MR, Lewiecki EM, Cohen SB, Bolognese MA, Woodson GC, Moffett AH, et al. 
+Denosumab in postmenopausal women with low bone mineral density. N Engl J Med 2006; 354: 
+821-831. 
+Journal Pre-proof
+ 
+21 
+6. 
+Shangguan L, Ding M, Wang Y, Xu H, Liao B. Denosumab ameliorates osteoarthritis by protecting 
+cartilage against degradation and modulating subchondral bone remodeling. Regen Ther 2024; 27: 
+181-190. 
+7. 
+Di Cicco G, Marzano E, Mastrostefano A, Pitocco D, Castilho RS, Zambelli R, et al. The 
+Pathogenetic Role of RANK/RANKL/OPG Signaling in Osteoarthritis and Related Targeted 
+Therapies. Biomedicines 2024; 12. 
+8. 
+Wittoek R, Verbruggen G, Vanhaverbeke T, Colman R, Elewaut D. RANKL blockade for erosive 
+hand osteoarthritis: a randomized placebo-controlled phase 2a trial. Nat Med 2024; 30: 829-836. 
+9. 
+Palchuk MB, London JW, Perez-Rey D, Drebert ZJ, Winer-Jones JP, Thompson CN, et al. A global 
+federated real-world data and analytics platform for research. JAMIA Open 2023; 6: ooad035. 
+10. 
+Su YC, Hsieh PC, Lai EC, Lin YC. Comparison of Sodium-Glucose Cotransporter 2 Inhibitors 
+Versus Glucagon-Like Peptide-1 Receptor Agonists and Risks of Osteoarthritis and Arthroplasty in 
+Patients With Type 2 Diabetes Mellitus: A Propensity Score-Matched Cohorts Retrospective Study. 
+Diabetes Metab Res Rev 2025; 41: e70051. 
+11. 
+Cosman F, Crittenden DB, Adachi JD, Binkley N, Czerwinski E, Ferrari S, et al. Romosozumab 
+Treatment in Postmenopausal Women with Osteoporosis. N Engl J Med 2016; 375: 1532-1543. 
+12. 
+Nystrom A, Kiritopoulos D, Ullmark G, Sorensen J, Petren-Mallmin M, Milbrink J, et al. 
+Denosumab Prevents Early Periprosthetic Bone Loss After Uncemented Total Hip Arthroplasty: 
+Results from a Randomized Placebo-Controlled Clinical Trial. J Bone Miner Res 2020; 35: 239-247. 
+13. 
+Lund JL, Richardson DB, Sturmer T. The active comparator, new user study design in 
+pharmacoepidemiology: historical foundations and contemporary application. Curr Epidemiol Rep 
+2015; 2: 221-228. 
+14. 
+Lyu H, Zhao SS, Zhang L, Wei J, Li X, Li H, et al. Denosumab and incidence of type 2 diabetes 
+among adults with osteoporosis: population based cohort study. BMJ 2023; 381: e073435. 
+15. 
+Zhang L, Zhang W, Wu X, Cui H, Yan P, Yang C, et al. A sex- and site-specific relationship 
+between body mass index and osteoarthritis: evidence from observational and genetic analyses. 
+Osteoarthritis Cartilage 2023; 31: 819-828. 
+16. 
+Holden MA, Hattle M, Runhaar J, Riley RD, Healey EL, Quicke J, et al. Moderators of the effect of 
+therapeutic exercise for knee and hip osteoarthritis: a systematic review and individual participant 
+data meta-analysis. Lancet Rheumatol 2023; 5: e386-e400. 
+17. 
+Sheu Y, Cauley JA, Wheeler VW, Patrick AL, Bunker CH, Ensrud KE, et al. Age-related decline in 
+bone density among ethnically diverse older men. Osteoporos Int 2011; 22: 599-605. 
+18. 
+Fuggle NR, Beaudart C, Bruyere O, Abrahamsen B, Al-Daghri N, Burlet N, et al. Evidence-Based 
+Guideline for the management of osteoporosis in men. Nat Rev Rheumatol 2024; 20: 241-251. 
+19. 
+Eastell R, Christiansen C, Grauer A, Kutilek S, Libanati C, McClung MR, et al. Effects of 
+denosumab on bone turnover markers in postmenopausal osteoporosis. J Bone Miner Res 2011; 26: 
+530-537. 
+20. 
+Kendler DL, Cosman F, Stad RK, Ferrari S. Denosumab in the Treatment of Osteoporosis: 10 Years 
+Later: A Narrative Review. Adv Ther 2022; 39: 58-74. 
+Journal Pre-proof
+ 
+22 
+21. 
+Gomez G, Kovalskys I, Leme ACB, Quesada D, Rigotti A, Cortes Sanabria LY, et al. 
+Socioeconomic Status Impact on Diet Quality and Body Mass Index in Eight Latin American 
+Countries: ELANS Study Results. Nutrients 2021; 13. 
+22. 
+Marozik P, Alekna V, Rudenko E, Tamulaitiene M, Rudenka A, Mastaviciute A, et al. Bone 
+metabolism genes variation and response to bisphosphonate treatment in women with 
+postmenopausal osteoporosis. PLoS One 2019; 14: e0221511. 
+23. 
+Qu Y, Chen S, Han M, Gu Z, Zhang Y, Fan T, et al. Osteoporosis and osteoarthritis: a bi-directional 
+Mendelian randomization study. Arthritis Res Ther 2023; 25: 242. 
+24. 
+Wong AY, Samartzis D, Maher C. The global burden of osteoarthritis: past and future perspectives. 
+Lancet Rheumatol 2023; 5: e496-e497. 
+25. 
+Shen Y, Huang X, Wu J, Lin X, Zhou X, Zhu Z, et al. The Global Burden of Osteoporosis, Low 
+Bone Mass, and Its Related Fracture in 204 Countries and Territories, 1990-2019. Front Endocrinol 
+(Lausanne) 2022; 13: 882241. 
+26. 
+Kim D, Pirshahid AA, Li Y, Varghese T, Pope JE. Prevalence of osteoporosis in osteoarthritis: a 
+systematic review and meta-analysis. Osteoporos Int 2022; 33: 1687-1693. 
+27. 
+Cao Y, Stannus OP, Aitken D, Cicuttini F, Antony B, Jones G, et al. Cross-sectional and longitudinal 
+associations between systemic, subchondral bone mineral density and knee cartilage thickness in 
+older adults with or without radiographic osteoarthritis. Ann Rheum Dis 2014; 73: 2003-2009. 
+28. 
+Zhu Z, Jin X, Wang B, Wluka A, Antony B, Laslett LL, et al. Cross-sectional and longitudinal 
+associations between serum levels of hs-CRP, knee bone marrow lesions and knee pain in patients 
+with knee osteoarthritis. Arthritis Care Res (Hoboken) 2016. 
+29. 
+Redlich K, Smolen JS. Inflammatory bone loss: pathogenesis and therapeutic intervention. Nat Rev 
+Drug Discov 2012; 11: 234-250. 
+ 
+ 
+Journal Pre-proof

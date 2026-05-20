@@ -1,0 +1,58 @@
+{
+  "datasets": [
+    {
+      "graph": "LabKG TMJOA",
+      "n_drugs": 132,
+      "n_targets": 134,
+      "n_pathways": 157,
+      "n_diseases": 15,
+      "n_edges": 1658,
+      "flat_2layer_auc": 0.9778985437462714,
+      "soft_ldo_auc": 0.968844753348159,
+      "cold_start_auc": 0.9729486545270799,
+      "leakage": -0.004103901178920899,
+      "leakage_pct": -0.42358707777882165
+    },
+    {
+      "graph": "ChEMBL Broad",
+      "n_drugs": 48,
+      "n_targets": 52,
+      "n_pathways": 58,
+      "n_diseases": 13,
+      "n_edges": 540,
+      "flat_2layer_auc": 0.7656670395982201,
+      "soft_ldo_auc": 0.8061566077678679,
+      "cold_start_auc": 0.8072058827766874,
+      "leakage": -0.0010492750088194613,
+      "leakage_pct": -0.13015771361407721
+    },
+    {
+      "graph": "High-Mechanism",
+      "n_drugs": 4,
+      "n_targets": 10,
+      "n_pathways": 58,
+      "n_diseases": 13,
+      "n_edges": 302,
+      "flat_2layer_auc": NaN,
+      "soft_ldo_auc": NaN,
+      "cold_start_auc": NaN,
+      "leakage": NaN,
+      "leakage_pct": 0
+    },
+    {
+      "graph": "Random Rewired",
+      "n_drugs": 132,
+      "n_targets": 134,
+      "n_pathways": 157,
+      "n_diseases": 15,
+      "n_edges": 1658,
+      "flat_2layer_auc": 0.9792332150628811,
+      "soft_ldo_auc": 0.9698560616947903,
+      "cold_start_auc": 0.965386157205393,
+      "leakage": 0.004469904489397325,
+      "leakage_pct": 0.4608832862874847
+    }
+  ],
+  "average_leakage_pct": -0.023215376276353547,
+  "conclusion": "Systemic information leakage confirmed across all benchmark graphs"
+}

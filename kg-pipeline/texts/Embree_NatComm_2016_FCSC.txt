@@ -1,0 +1,1894 @@
+ARTICLE
+Received 11 Jan 2016 | Accepted 1 Sep 2016 | Published 10 Oct 2016
+Exploiting endogenous ﬁbrocartilage stem cells to
+regenerate cartilage and repair joint injury
+Mildred C. Embree1, Mo Chen2, Serhiy Pylawka1, Danielle Kong2, George M. Iwaoka2, Ivo Kalajzic3, Hai Yao4,
+Chancheng Shi5, Dongming Sun6, Tzong-Jen Sheu7, David A. Koslovsky8, Alia Koch9 & Jeremy J. Mao2
+Tissue regeneration using stem cell-based transplantation faces many hurdles. Alternatively,
+therapeutically exploiting endogenous stem cells to regenerate injured or diseased tissue may
+circumvent these challenges. Here we show resident ﬁbrocartilage stem cells (FCSCs) can be
+used to regenerate and repair cartilage. We identify FCSCs residing within the superﬁcial zone
+niche in the temporomandibular joint (TMJ) condyle. A single FCSC spontaneously generates
+a cartilage anlage, remodels into bone and organizes a haematopoietic microenvironment.
+Wnt signals deplete the reservoir of FCSCs and cause cartilage degeneration. We also show
+that intra-articular treatment with the Wnt inhibitor sclerostin sustains the FCSC pool and
+regenerates cartilage in a TMJ injury model. We demonstrate the promise of exploiting
+resident FCSCs as a regenerative therapeutic strategy to substitute cell transplantation that
+could be beneﬁcial for patients suffering from ﬁbrocartilage injury and disease. These data
+prompt the examination of utilizing this strategy for other musculoskeletal tissues.
+DOI: 10.1038/ncomms13073
+OPEN
+1 TMJ Biology and Regenerative Medicine Laboratory, College of Dental Medicine, Columbia University Medical Center, 630 W 168th St, P&S 16-440,
+New York, New York 10032, USA. 2 Center for Craniofacial Regeneration, College of Dental Medicine, Columbia University Medical Center, 622 W 168th St,
+New York, New York 10032, USA. 3 Department of Reconstructive Sciences, MC3705, L7005, University of Connecticut Health Sciences Center, 263 Farmington
+Avenue, Farmington, Connecticut 06032, USA. 4 Clemson-MUSC Bioengineering Program, Department of Bioengineering, Clemson University, 173 Ashley
+Avenue, MSC 508, Charleston, South Carolina 29425, USA. 5 Chongqing Institute of Green and Intelligent Technology, Chinese Academy of Sciences, 266
+Fangzheng Avenue, Shuitu Hi-tech Industrial Park, Beibei District, Chongqing 400714, China. 6 W.M. Keck Center for Collaborative Neuroscience, Rutgers, The
+State University of New Jersey, 604 Allison Road, D-251, Piscataway, New Jersey 08854, USA. 7 Center for Musculoskeletal Research, University of Rochester
+Medical Center, 601 Elmwood Avenue, Box 665, Rochester, New York 14620, USA. 8 Metropolitan Oral Surgery Associates, 488 Madison Avenue, #200,
+New York, New York 10022, USA. 9 College of Dental Medicine, Division of Oral and Maxillofacial Surgery, Columbia University Medical Center, 622 W 168th St,
+New York, New York 10032, USA. Correspondence and requests for materials should be addressed to M.C.E. (email: mce2123@cumc.columbia.edu).
+NATURE COMMUNICATIONS | 7:13073 | DOI: 10.1038/ncomms13073 | www.nature.com/naturecommunications
+1
+F
+ibrocartilage tissues include the knee meniscus, tendon-bone
+junction,
+intervertebral
+disc
+and
+temporomandibular
+joint (TMJ) condylar cartilage (CC) and disc1. Unlike
+hyaline cartilage, ﬁbrocartilage consists of various proportions of
+both ﬁbrous and cartilaginous tissue pending tissue-speciﬁc
+biomechanical functional demands and provides both tensile
+and compressive strength, respectively2–4. Given the restricted
+number of cells and lack of vascular supply, cartilage has
+relatively poor regenerative properties5. Thus ﬁbrocartilage
+trauma and diseases, including knee meniscus injury6 and
+TMJ7 or intervertebral disc8 degenerative disease, can cause
+permanent tissue loss and disability. Clinical treatment modalities
+for ﬁbrocartilage trauma or disease are limited and involve
+either palliative care9 or invasive surgical interventions that
+often fail or cause further tissue damage10,11. Minimally invasive
+cell-based therapies that prevent ﬁbrocartilage degeneration or
+promote repair are not available clinically.
+Increasing efforts have been made to develop stem cell-based
+therapies for musculoskeletal tissue regeneration that involve stem
+cell expansion and transplantation12,13. However, the success of
+this approach is dependent upon overcoming multiple obstacles,
+including immune rejection, pathogen transmission, potential
+tumorigenesis and host tissue engraftment5,14,15. An alternative
+approach involves tissue regeneration achieved by the recruitment
+and stimulation of stem/progenitor cells16–18. Hence, therapeutic
+strategies that harness resident stem cells19 to repair and maintain
+adult musculoskeletal tissue homoeostasis could be a minimally
+invasive cell-based treatment option that circumvents critical
+barriers to stem cell transplantation.
+The TMJ condyle is a ﬁbrocartilage tissue with well-organized
+cellular zones of maturation. These zones include a distinct
+ﬁbrous
+superﬁcial
+zone
+(SZ)
+followed
+by
+proliferative/
+polymorphic, chondrocyte and hypertrophic chondrocyte zones
+of maturation20–22. Although the cellular origin of the TMJ is
+unclear, studies suggest that neural crest cells and mandibular
+bone periosteum cells contribute to TMJ formation23. The TMJ
+cellular condensation forms a cartilage anlage that is resorbed by
+osteoclasts and is replaced by mineralized bone21. Unlike long
+bone growth plate, at skeletal maturation the TMJ cartilage is not
+completely resorbed and is maintained like an articular joint
+cartilage20. In adults, the TMJ condyle is lined with a ﬁbrous, SZ
+tissue enriched in type I collagen and lubricin, while the deeper
+cell layers are comprised of cartilaginous matrix consisting of type
+II collagen and aggrecan22,24. Although the precise function of the
+ﬁbrous SZ tissue is unknown, we speculate that the SZ tissue
+stores a reservoir of stem cells that give rise to mature
+chondrocytes and osteoblasts critical for TMJ development and
+homoeostasis25. Moreover, the cell signalling pathways regulating
+cell fate determination during TMJ development is unclear. Given
+that inhibited canonical Wnt signalling is critical for skeletal stem
+cell
+fate
+speciﬁcation
+toward
+cartilage
+lineage26–28,
+we
+surmise that Wnt signals may be involved in TMJ stem cell fate
+speciﬁcation toward chondrocytes. Furthermore, Wnt signals are
+also critical for cartilage homoeostasis, and induce chondrocyte
+terminal differentiation29–32.
+Here we show for the ﬁrst time that the ﬁbrous SZ tissue in the
+TMJ condyle is indeed a niche that harbours ﬁbrocartilage stem
+cells (FCSCs). We discover a single FCSC is capable of not only
+generating cartilage and bone but also organizing a haemato-
+poietic microenvironment (HME)33,34 when transplanted in vivo.
+To harness the cartilage regenerative capability of FCSCs, we
+show that suppression of canonical Wnt signals promote FCSCs
+to differentiate into chondrocytes. Our results further reveal
+that overactive Wnt signals disrupt ﬁbrocartilage homoeostasis
+and cause degeneration by depleting the FCSC pool. We
+take advantage of endogenous FCSCs and present a scaffold
+free, non-surgical therapeutic approach to exploit their ability to
+regenerate cartilage and repair joint injury. We discover that
+therapeutic application of exogenous canonical Wnt inhibitor
+sclerostin (SOST) maintains FCSC pool and repairs cartilage
+using a rabbit TMJ injury model35. Our results reveal that careful
+regulation of the canonical Wnt pathway promotes FCSC to
+repair and regenerate injured or diseased cartilage for therapeutic
+applications. Our ﬁndings demonstrate for the ﬁrst time a
+minimally invasive stem cell-based approach to repair and
+regenerate ﬁbrocartilage tissue.
+Results
+The TMJ superﬁcial zone provides a niche for FCSCs. To
+localize putative, slow-cycling FCSCs, a pregnant rat was injected
+with EDU during TMJ morphogenesis (Fig. 1a)36. The percentage
+of EDU þ label-retaining cells (LRCs) were quantiﬁed in the TMJ
+condyle SZ and compared with the percentage of LRCs in the
+remaining CC zones, including polymorphic, chondrocyte and
+hypertrophic zones (Fig. 1b,c). In newborns (NBs) (Fig. 1b), the
+percentage of SZ LRCs was signiﬁcantly higher than the percentage
+of CC LRCs (Fig. 1c). By 8 weeks, only o0.04% CC LRCs were
+present (Fig. 1c), suggesting that slow-cycling cells did not
+preferentially reside within CC maturation zones. On the other
+hand, at 8 weeks nearly all LRCs were localized within the SZ
+(Fig. 1b, arrows). The percentage of SZ LRCs remained consistent
+following 16-week chase period (Fig. 1c), suggesting that putative
+slow-cycling stem cells may preferentially reside within SZ tissue.
+To further distinguish and analyse SZ from CC tissue, SZ tissue
+was surgically dissected from the CC tissue in an 8-week-old
+Sprague Dawley rat (Fig. 1d). To conﬁrm clean surgical
+separation of SZ from CC tissue, we compared their protein
+and gene expression proﬁles. Immunohistochemistry showed that
+lubricin37 was expressed in the SZ tissue and aggrecan (ACAN), a
+marker for mature chondrocytes, was expressed in the CC tissue
+(Fig. 1e). ECM markers type I collagen (col1a1) and lubricin
+(prg4) were upregulated in SZ relative to CC tissue (Fig. 1f)20,37.
+However, cartilage markers (sox6, sox9, acan, col2a1 and col10a1)
+were signiﬁcantly decreased in SZ compared with CC tissue
+(Fig. 1g). These data suggest that SZ tissue may harbour
+undifferentiated cells, while CC tissue may harbour mature cell
+phenotypes, including chondrocytes.
+We hypothesized that SZ cells may give rise to mature
+chondrocytes localized within CC tissue. To determine the origin
+of mature chondrocytes in the TMJ condyle, we performed a
+lineage-tracing study. The skeletal stem/progenitor cell marker
+aSMA38 was traced in aSMACreERT2/Ai9 transgenic mice38
+(Fig. 1h). Type II collagen expression was used to distinguish
+putative stem cells from mature chondrocytes. After 2 days, the
+percentage of aSMA þcol2a1  cells in SZ was signiﬁcantly higher
+than the percentage of aSMAþcol2a1þ cells in CC (Fig. 1i,j). By
+day 15, the percentage of aSMAþ col2a1þ cells signiﬁcantly
+increased in CC relative to day 2 (Fig. 1i) and aSMA þ cells (red)
+inﬁltrated into the mature chondrocyte col2a1 þ cell population
+(green) (Fig. 1j). In untreated aSMACreERT2/Ai9 þ and treated
+aSMACreERT2/Ai9 mice, aSMA þ cells were not detected
+(Fig. 1j). These data provided evidence that undifferentiated
+aSMA þ cells within SZ tissue give rise to mature, col2a1 þ
+chondrocyte progeny localized in CC tissue. Taken together, these
+data point to the possibility that the SZ may provide a niche for
+putative FCSCs.
+FCSCs are distinct from differentiated chondrocytes. To
+conﬁrm the presence of putative FCSCs within the SZ niche,
+single-cell suspensions of putative FCSCs were isolated from SZ
+tissue and compared with donor-matched CC cells (CC cells)
+ARTICLE
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13073
+2
+NATURE COMMUNICATIONS | 7:13073 | DOI: 10.1038/ncomms13073 | www.nature.com/naturecommunications
+and/or bone marrow stromal cells (BMSCs)39,40. Similar to
+BMSCs, FCSCs expressed cell surface markers CD90,  44,  29,
+ 105,  146, and did not express leukocyte markers CD-45,
+CD79a, CD11b (Fig. 2a and Supplementary Fig. 1). FCSCs had a
+greater capacity to propagate relative to CCs (Fig. 2b,c). FCSCs
+formed sixfold more colonies than CCs (4–5%, Fig. 2d). Unlike
+mature chondrocytes that typically dedifferentiate in monolayer
+cultures41, FCSCs maintained cartilage phenotype and expressed
+early transcription factors (sox5, sox6 and sox9) at day 5 relative
+to day 2 and late cartilage marker acan at day 10 relative to day 2
+0
+5
+10
+15
+20
+25
+30
+35
+Total
+SZ
+16 w
+8 w
+NB
+E18.5
+E17.5
+E16.5
+CC
+n.s.
+P≤0.01
+f
+SZ
+e
+ACAN
+Lubricin
+H&E
+Condylar
+cartilage
+Newborn
+b
+H&E
+EDU
+8 weeks
+g
+h
+j
+i
+EDU
+Chase
+2 days
+15 days
+–Control 15 days
+αSMACreERT2+/Ai9
+Rosa-CAG
+STOP
+tdTOMATO
+CreERT2
+αSMA-promoter
+killing
+15d
+2d
+16d
+Tamoxifen
+2 day
+15 day
+0
+5
+10
+15
+20
+25
+Total
+SZ
+CC
+P≤0.001
+P≤0.001
+P≤0.01
+0
+1
+2
+3
+4
+5
+10
+20
+30
+40
+SZ
+CC
+Fold change
+Cartilage markers
+P=0.04
+P=0.05
+P=0.005
+P=0.01
+0
+1
+2
+3
+4
+10
+20
+30
+40
+50
+SZ
+CC
+ECM markers
+Fold change
+P=0.005
+n.s
+SZ
+SB
+Condylar
+cartilage
+d
+% EDU+ LRCs
+NB
+8 w
+16 w
+P≤0.0001
+P≤0.0001
+P≤0.0001
+P≤0.001
+EDU/ACAN
+EDU/ACAN
+% αSMA+ cells
+P≤0.01
+bgn
+fmod
+dcn
+scx
+col1a1
+prg4
+P=0.02
+P=0.02
+P=0.009
+P=0.03
+sox6
+sox9
+acan
+col2a1
+col10a1
+P=0.04
+Col2a1/αSMA
+αSMACreERT2+/Ai9
+a
+c
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13073
+ARTICLE
+NATURE COMMUNICATIONS | 7:13073 | DOI: 10.1038/ncomms13073 | www.nature.com/naturecommunications
+3
+(Fig. 2e). Similar to mature chondrocytes41, CCs were unable to
+sustain
+cartilage
+phenotype
+in
+monolayer
+cultures
+and
+demonstrated a signiﬁcant decrease in acan and signiﬁcant
+increase in early markers col1a1 and sox9 at day 10 relative to
+day 2 (Fig. 2f). Multipotential differentiation in vitro was tested in
+chemically deﬁned media40,42. Like BMSCs, FCSCs underwent
+adipogenesis (oil O Red þ, ppar-g, Fig. 2g,h), chondrogenesis in
+pellet cultures (Fig. 2g, ACAN þ) and mineralization (alizarin
+red þ, ocn þ, Fig. 2g,i). Individual colonies (31) of FCSCs showed
+heterogeneous differentiation potential (Supplementary Table 1;
+22.5% tri-lineage, 64.5% bi-lineage and 12.9% single lineage).
+Thus
+unlike
+mature
+chondrocytes,
+FCSCs
+are
+capable
+of
+expansion in vitro and differentiation into multiple lineages.
+A single FCSC spontaneously generates cartilage and bone.
+FCSCs’ ability to regenerate musculoskeletal tissues was tested
+in vivo in multiple transplantation experiments (Supplementary
+Figs 2–4). To distinguish donor FCSCs from host cells, rat GFP þ
+FCSCs were isolated43 and seeded onto a collagen sponge
+(Supplementary Fig. 3a–c). Donor-matched BMSCs and CCs
+were transplanted in the same host (Supplementary Fig. 4). After
+2 weeks, FCSCs (4/6 transplants) formed highly dense cellular
+condensations (ACAN þ, Supplementary Fig. 2b). By 3 weeks,
+transplanted
+GFP þ
+FCSCs
+occupied
+the
+collagen
+sponge
+(Supplementary Fig. 3d) and formed cartilaginous-like tissue
+(5/6 transplants, toluidine blue þ, ACAN þ, Supplementary
+Figs 2c and 3f). At 4 weeks, transitional tissue was formed with
+bone,
+cartilage
+and
+osteoclast-mediated
+tissue
+remodelling
+(TRAP þ
+purple
+cells,
+insert,
+Supplementary
+Fig.
+2d)
+(5/6 transplants). At 8 weeks, GFP þ
+FCSCs occupied the
+collagen sponge and radio-opaque, bone-like tissue formed
+(Supplementary Fig. 3e). GFP þ FCSCs (green, white arrows,
+Supplementary Fig. 3g) formed trabecular bone-like tissue
+(OCN þ)
+with
+an
+organized
+HME33
+occupied
+by
+both
+transplanted GFP þ FCSCs and GFP  host cells, including
+osteoblasts, adipocytes, haematopoietic cell clusters and sinusoids
+(Supplementary Figs 2e and 4a) (7/8 transplants). FCSCs formed
+bone with a HME in multiple carriers, including Matrigel
+(Supplementary Fig. 4a) and gel foam (not shown). Unlike
+FCSCs, BMSCs formed bone-like tissue in Matrigel but not
+collagen sponge, with no evidence of cartilage-like tissue formed
+(Supplementary Fig. 4b). Mature CCs did not form cartilage or
+bone (Supplementary Fig. 4c). A single FCSC (Fig. 3a,b) formed a
+single colony (Fig. 3c) and generated cartilage (Fig. 3d,e,
+ACAN þ) and trabecular bone with a HME (Fig. 3f,g, OCN þ)
+(2/17 single-cell colonies). These data demonstrate that cartilage
+and bone with HME33 was generated from FCSCs. A single FCSC
+can differentiate into both chondrocytes and osteocytes and
+spontaneously recapitulate endochondral ossiﬁcation in vivo.
+FCSCs differentiate into chondrocytes through inhibited Wnt.
+We tested whether inhibited canonical Wnt signalling would
+direct FCSCs fate towards cartilage lineage44,45. Like TGF-b1
+(ref. 46), treatment with Wnt antagonists26, Dkk1 (ref. 31),
+Wif1 (ref. 28) and SOST29 and small molecule Wnt inhibitor
+ICG-001 (ref. 47), signiﬁcantly increased acan expression in
+FCSCs dose-dependently relative to vehicle control (Fig. 4a and
+Supplementary Fig. 5a,b). Conversely, Wnt agonist Wnt3a
+inhibited the expression of cartilage-related genes (sox5, sox6
+and acan) in FCSCs relative to vehicle control (Supplementary
+Fig. 5c). Inhibition canonical Wnt also signiﬁcantly decreased
+FCSC
+proliferation
+over
+time
+relative
+to
+vehicle
+control
+(Supplementary Fig. 6). To directly activate Wnt signalling,
+FCSCs were transiently transfected with a constitutively active
+b-catenin mutant S33Y48 and the Wnt luciferase reporter
+construct TopFlash. After 72 h, luciferase activity (Fig. 4b) and
+downstream Wnt target gene ccnd1 (Fig. 4c) were signiﬁcantly
+increased
+in
+S33y
+FCSCs
+relative
+to
+control
+vector,
+conﬁrming Wnt signalling activation. Early cartilage-related
+transcription factors46 (sox5, sox6 and sox9) and twist1, a
+gene critical for cartilage fate speciﬁcation26, were signiﬁcantly
+decreased in S33Y FCSCs compared with control FCSCs (Fig. 4c).
+Mature cartilage marker acan was not changed, most likely due to
+the early time point (Fig. 4c). These data point to the idea
+that inhibited canonical Wnt signalling promotes FCSC to
+differentiate into chondrocytes.
+FCSC
+pool
+is
+maintained
+through
+inhibited
+Wnt.
+We
+speculated that canonical Wnt signalling was critical for regulating
+ﬁbrocartilage homoeostasis29–32. Immunohistochemistry revealed
+that Wnt inhibitor SOST was ubiquitously expressed in rat TMJ
+condyle at 8 weeks, while b-catenin, a downstream Wnt mediator,
+was
+absent in
+SZ and restricted to mature chondrocytes
+(Supplementary Fig. 7a). Thus, immunohistochemistry suggested
+that canonical Wnt signalling may be temporally and spatially
+regulated in ﬁbrocartilage. Consistent with these ﬁndings, gene
+expression of downstream Wnt targets (ctnnb1, runx2, wisp1, lrp5,
+dkk1 and wif1) were signiﬁcantly increased in condylar cartilage
+tissue relative to SZ (Supplementary Fig. 7b). To corroborate the
+role of Wnt signalling in maintaining ﬁbrocartilage homoeostasis,
+SOST deﬁciency in mice (sost / )29,49 showed that sost /  TMJ
+condyles
+had
+osteoarthritic
+changes50,
+including
+clefting,
+chondrocyte
+clustering,
+and
+diffuse
+aggrecan
+distribution.
+b-Catenin expression pattern was expanded in sost /  relative
+to wild-type TMJ condyles (Supplementary Fig. 8a–d), suggesting
+SOST deﬁciency enhances Wnt signalling. Degenerative changes
+and
+expansion
+of
+b-catenin
+expression
+in
+sost / 
+TMJ
+condyles was also coupled with a signiﬁcant decrease in the
+number of FCSCs localized within SZ niche relative to wild-type
+mice (Supplementary Fig. 8e). Similarly, b-catenin expression was
+present and SOST expression was absent in FCSC generated
+cartilage in transplantation model (Fig. 4d). Immunocytochemistry
+showed FCSCs had reduced b-catenin cytoplasmic accumulation
+in the presence of SOST after 48h (Fig. 4e), providing further
+Figure 1 | TMJ SZ provides a niche for FCSCs. (a) EDU was administered to Sprague Dawley pregnant rats (n ¼ 2) daily for 3 days. EDU þ LRCs were
+chased in newborns (NB), 8 and 16 weeks. (b) H&E and immunohistochemistry for aggrecan (ACAN). Arrows indicate SZ EDU þ LRCs (green). Scale bar,
+50 mm. (c) LRCs were quantiﬁed in total condyle (total), SZ, and CC using ImageJ software. Data represented are mean percentage±s.d.; n ¼ 5 Sprague
+Dawley rats; two-way ANOVA followed by Tukey’s post hoc. (d) TMJ SZ was dissected in a 8-week Sprague Dawely male rat. SB, subchondral bone. Scale
+bar, 2 mm. (e) H&E and immunohistochemistry for lubricin and aggrecan (ACAN). Scale bar, 50 mm. (f,g) qRT-PCR of SZ relative to CC. Data represented
+are mean fold change normalized to GAPDH±s.d.; n ¼ 4 male Sprague Dawley rats 8 week; paired Student’s t-test. (h) Lineage tracing experiment in
+aSMACreERT2/Ai9 male mice. Sixteen-day aSMACreERT2/Ai9 littermates were treated with tamoxifen. aSMA þ cells quantiﬁed after 2 and 15 days.
+(i) Col2a1 expression was examined in aSMACreERT2/Ai9 mice and aSMA þ cell percentages were calculated in total tissue (SZ þ CC), SZ and CC. Data
+represented are mean percentage±s.d.; n ¼ 2 aSMACreERT2/Ai9 littermate male mice 18 and 31 days; two-way ANOVA followed by Tukey’s post hoc.
+(j) Representative images of immunohistochemistry for col2a1 (green) and analysis of aSMA þ cells (red) in aSMACreERT2/Ai9 mice treated with
+tamoxifen. Untreated aSMACreERT2/Ai9 littermates were negative controls. Scale bar, 25 mm. ANOVA, analysis of variance; H&E, haematoxylin and eosin;
+qRT-PCR, quantitative real-time PCR.
+ARTICLE
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13073
+4
+NATURE COMMUNICATIONS | 7:13073 | DOI: 10.1038/ncomms13073 | www.nature.com/naturecommunications
+col1a1
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+2d
+5d
+10d
+Fold change
+0
+20
+40
+60
+80
+100
+0.11%
+0
+20
+40
+60
+80
+100
+3.8%
+0
+20
+40
+60
+80
+100
+0.33%
+0
+20
+40
+60
+80
+100
+0.012%
+0
+20
+40
+60
+80
+100
+1.2%
+0
+20
+40
+60
+80
+100
+0.11%
+0
+20
+40
+60
+80
+100
+0.088%
+0
+20
+40
+60
+80
+100
+0.12%
+0
+20
+40
+60
+80
+100
+5.8%
+77.1%
+0
+20
+40
+60
+80
+100
+86.5 %
+0
+20
+40
+60
+80
+100
+2.7%
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+102
+0
+105
+104
+103
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+93.6%
+0
+20
+40
+60
+80
+100
+90.1%
+0
+20
+40
+60
+80
+100
+98.7%
+CD90 
+CD146 
+CD79a
+CD11b
+CD45
+CD105 
+CD29 
+CD44 
+0
+20
+40
+60
+80
+100
+88.6%
+FCSCs
+BMSCs
+a
+FCSCs
+BMSCs
+CCs
+Oil O Red
+ACAN 
+Alizarin red 
+b
+c
+f
+d
+g
+e
+h
+i
+0
+1
+2
+3
+4
+5
+50
+100
+2d
+5d
+10d
+Fold change
+FCSCs
+Condylar cartilage cells
+1
+2
+3
+4
+5
+0.0
+2.0×106
+4.0×106
+6.0×106
+8.0×106
+1.0×107
+1.2×107
+Days
+1
+2
+3
+4
+5
+Days
+FCSCs
+CCs
+# Cells
+****
+****
+****
+####
+####
+####
+0
+1
+2
+3
+4
+5
+10
+20
+30
+40
+50
+60
+FCSCs
+CCs
+Fold change cell#
+(relative to day1)
+0
+20
+40
+60
+80
+100
+120
+140
+# Colonies
+FCSCs BMSCs
+0
+10
+20
+30
+40
+50
+60
+70
+80
++Adipo
+10% FBS
+FCSCs
+0
+2
+4
+6
+8
+10
+20
+40
+60
+80
++Osteo
+10% FBS
+ppar-γ fold change
+P =0.03
+P=0.002
+P=0.03
+P=0.02
+ocn fold change
+BMSCs
+col1a1
+sox5
+sox6
+sox9
+acan
+P=0.004
+n.s
+P=0.03
+P≤0.0001
+P=0.03
+n.s
+P=0.003
+P =0.001
+P =0.003
+P =0.01
+sox5
+sox6
+sox9
+acan
+P=0.004
+P =0.001
+P≤0.0001
+P=0.02
+P≤0.0001
+P≤0.0001
+P≤0.0001
+P=0.0005
+P≤0.0001
+CCs
+FCSCs
+Figure 2 | FCSCs are distinct from differentiated chondrocytes. (a) Flow cytometric analysis of cell surface markers in FCSCs and donor-matched
+BMSCs. (b) Cell growth curve of FCSCs and condyle cells (CCs) number over 5 days. Data are mean±s.d.; n ¼ 6 independent experiments; ****Pr0.0001
+FCSCs versus CCs; ####Pr0.0001 FCSCs Day1 versus FCSCs day3, 4 or 5; two-way ANOVA followed by Tukey’s post hoc test. (c) Data are mean fold
+change in cell number relative to 1 day of FCSCs and CCs over 5d±s.d.; n ¼ 6 independent experiments; Student’s t-test. (d) Colony forming assay of
+FCSCs and CCs. Data are mean±s.d.; n ¼ 5 independent experiments; paired Student’s t-test. Scale bar, 2 mm. (e,f) qRT-PCR in FCSCs and condyle cells,
+respectively. Data are mean fold change normalized to GAPDH relative to 2d±s.d.; n ¼ 5 independent experiments; two-way ANOVA followed by Tukey’s
+post hoc test. (g) Multipotential differentiation in vitro. Oil O red staining in lipid droplets in adipogenic media (top row, scale bar, 25 mm). Aggrecan
+(ACAN) immunostaining show chondrogenic potential in pellet cultures (red, middle row, scale bar, 50 mm). Alizarin red staining demonstrate calcium
+deposition in osteogenic media (bottom row, scale bar, 100 mm). (h,i) qRT-PCR of FCSCs and BMSCs in adipogenic and osteogenic media, respectively.
+Data are mean fold change normalized to GAPDH±s.d.; n ¼ 5 independent experiments; paired Student’s t-test. ANOVA, analysis of variance; qRT-PCR,
+quantitative real-time PCR.
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13073
+ARTICLE
+NATURE COMMUNICATIONS | 7:13073 | DOI: 10.1038/ncomms13073 | www.nature.com/naturecommunications
+5
+support that SOST suppresses canonical Wnt signalling in FCSCs.
+The addition of SOST (50 ngml 1) to FCSCs for 48h resulted in
+sustained cartilage formation and less bone formation relative
+vehicle control (Fig. 4f,g), providing evidence that inhibited Wnt
+signalling
+maintains
+regenerated
+FCSC
+cartilage
+in
+vivo.
+These
+data
+point
+to the
+possibility
+that
+SOST deﬁciency
+Sort 1
+cell/well
+Disassociate
+cells
+Expand
+7d, P0
+10d, P1
+Expand
+colony
+7d, P2
+Detach
+Seed
+cells
+Expand
+colony
+FACs
+7-9d, P3
+3mm
+H&E 
+3 weeks
+e
+FCSCs
+FITC
+Light
+Merged
+c
+Radiograph
+FITC
+6 weeks
+Light
+FITC
+Light
+Radiograph
+d
+3 weeks
+H&E 
+6 weeks
+FCSCs
+f
+g
+GFP+ AZ
+OCN/FCSCs/DAPI 
+ACAN/FCSCs/DAPI 
+a
+b
+Figure 3 | A single FCSC spontaneously generates cartilage and organized bone. (a) Schematic representation showing single FCSC isolation.
+Heterogeneous GFP þ FCSCs were derived from the TMJ SZ tissue from male GFP transgenic rats 8 weeks. GFP þ FCSCs were expanded in vitro and FACs
+was used to plate a single-cell per well into a 96-well plate. Each single-cell colony was expanded over passages 2–3, seeded onto a collagen sponge and
+surgically transplanted subcutaneously on dorsum of nude mice. (b) Sorted single GFP þ FCSC in a single-well/96-well plate. Scale bar, 25 mm (c) GFP þ
+FCSC single-cell colony expanded at P3. Scale bar, 50 mm. (d,f) Collagen sponge seeded with GFP þ FCSC single-cell colony on the dorsum of nude mice
+after 3 and 6 weeks in vivo, respectively. Scale bar, 50 mm. (e,g) Representative H&E staining GFP þ FCSC transplant from a single-cell after 3 and 6 weeks,
+respectively (top row). Immunohistochemistry for aggrecan (ACAN, red) and osteocalcin (OCN, red) demonstrated single-cell GFP þ FCSC generated
+cartilage at 3 w and bone at 6 w, respectively (middle and bottom rows). Dapi blue staining ¼ nuclei. H&E, haematoxylin and eosin.
+ARTICLE
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13073
+6
+NATURE COMMUNICATIONS | 7:13073 | DOI: 10.1038/ncomms13073 | www.nature.com/naturecommunications
+enhances Wnt activity and FCSC differentiation into chondrocytes,
+thus depleting FCSC pool.
+FCSCs regenerate and repair cartilage through inhibited Wnt.
+We proposed that canonical Wnt inhibitor sclerostin maintained
+FCSC pool and ﬁbrocartilage homoeostasis29–32 and tested
+whether application of exogenous Wnt inhibitor would repair
+and regenerate injured ﬁbrocartilage. TMJ condyle ﬁbrocartilage
+degeneration and secondary osteoarthritis (OA) was induced
+post-traumatically in New Zealand white rabbits by creating a
+2.5 mm perforation in the TMJ disc bilaterally35. One week
+Vehicle
+SOST
+IgG control
+f
+SOST
+Vehicle
+Radiograph
+H&E
+μCT
+ACAN
+SOST
+H&E
+g
+0.0
+0.5
+1.0
+1.5
+2.0
+4
+6
+8
+10
+12
+14
+S33Y
+Control
+No DNA
+Fold change
+0
+5
+10
+15
+20
+Vehicle 12.5
+25
+SOST (ng/ml)
+100
+50
+25
+30
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Luciferase activity (RLU)
+acan (fold change)
+a
+d
+e
+BV
+BV/TV
+BD
+0.00
+0.25
+0.50
+0.75
+1.00
+1.25
+1.50
+0
+200
+400
+600
+n.s.
+0.000
+0.002
+0.004
+0.006
+0.008
+Percent
+mm3
+mg/cm3
+P=0.006
+P =0.003
+βcatenin/WGA
+βCatenin
+twist1 sox5
+sox6
+sox9 acan ccnd1
+P=0.0007
+P=0.0005
+P=0.0006
+P=0.004
+n.s
+P=0.03
+P=0.0004
+P ≤0.05
+P≤0.0001
+P≤0.01
+P≤0.01
+P≤0.01
+P≤0.001
+4d
+10d
+S33Y
+Control
+b
+c
+Vehicle
+SOST
+Vehicle
+SOST
+Vehicle
+SOST
+Figure 4 | FCSCs differentiate into chondrocytes and maintain tissue homeostasis through inhibited Wnt. (a) qRT-PCR show sclerostin induced
+aggrecan in FCSCs dose-dependently. Data are mean fold change normalized to GAPDH±s.d.; n ¼ 3 independent experiments; two-way ANOVA followed
+by Tukey’s post hoc. (b) FCSCs were transfected with luciferase reporter TopFlash and constitutively active bCateninS33y plasmid or control vector.
+Luciferase activity reported at 72 h. Data are mean±s.d.; n ¼ 4 independent experiments; paired Student’s t-test. (c) qRT-PCR shows S33y FCSCs have
+decreased cartilage-related genes and increase in Wnt-related gene. Data are mean normalized to GAPDH±s.d.; n ¼ 4 independent experiments; paired
+Student’s t-test. (d) Transplanted FCSCs showed aggrecan (ACAN) and bCatenin, but no SOSTexpression at 3 weeks. Scale bar, 50 mm. (e) Representative
+immunocytochemistry staining show decreased intracellular bCatenin in sclerostin treated FCSCs (50 ng ml  1) for 48 h. Scale bar, 50 mm. (f) FCSCs were
+treated with sclerostin (50 ng ml  1) or vehicle for 48 h and transplanted within collagen sponge in nude mice for 6 weeks. Radiographs, uCT and H&E of
+transplants showed cartilage was maintained and less bone formed in sclerostin treated FCSCs. White scale bar, 2 mm. Black scale bar, 50 mm. (g) Bone
+volume/tissue volume (BV/TV), bone volume (BV) and bone density (BD) in transplants seeded with FCSCs treated with sclerostin after 6 weeks. Data are
+mean±s.d.; n ¼ 3 transplants; paired Student’s t-test. ANOVA, analysis of variance; H&E, haematoxylin and eosin; qRT-PCR, quantitative real-time PCR.
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13073
+ARTICLE
+NATURE COMMUNICATIONS | 7:13073 | DOI: 10.1038/ncomms13073 | www.nature.com/naturecommunications
+7
+following surgically induced degeneration, either 0.1 ml SOST
+(100 ng ml  1) or PBS was injected into the contralateral TMJ
+inferior spaces once weekly for 7 weeks (Fig. 5a). SOST condyles
+displayed mild, surface irregularities, while contralateral PBS
+condyles
+revealed
+widespread,
+severe
+surface
+irregularities
+(Fig. 5b and Supplementary Fig. 9) and had signiﬁcantly
+higher Osteoarthritis Research Society International (OARSI)
+recommended macroscopic scores51 (Fig. 5c). There were no
+differences in condyle lengths (Fig. 5d) but the width of SOST
+condyles was signiﬁcantly smaller than PBS condyles (Fig. 5e),
+suggesting that SOST also reduced joint swelling. The area of
+Safranin O staining in PBS condyles was diffuse and signiﬁcantly
+greater compared with SOST condyles, which was stained
+uniformly (Fig. 5f,h). The number of FCSCs within the SZ
+tissue was signiﬁcantly reduced in PBS condyles compared with
+SOST condyles (Fig. 5g). SOST treatment improved TMJ gross
+morphology
+and
+proteoglycan
+distribution,
+prevented
+the
+depletion of FCSCs in SZ tissue and repaired cartilage in this
+injury model. These data reveal the possibility that manipulation
+of endogenous stem cells in ﬁbrocartilage as a potential
+PBS
+SOST
+Disc
+Condyle
+a
+SOST injections 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Sacrifice
+12w-old
+rabbit
+Weeks
+b
+d
+e
+0
+2
+4
+6
+8
+10
+12
+14
+16
+AP length (mm)
+n.s.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+ML width (mm)
+P =0.0002
+0
+20
+40
+60
+80
+% area safranin O 
+P=0.03
+h
+f
+g
+PBS
+SOST
+Perforation
+Perforation
+Lateral
+Lateral
+Lateral
+SOST
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+# AZ cells/4000 μm2
+P=0.003
+i
+SOST
+0
+2
+4
+6
+8
+10
+P=0.0008
+Macroscopic OARSI score
+c
+PBS
+SOST
+AZ
+AZ
+Lateral
+TMJ
+injury
+PBS
+SOST PBS
+SOST PBS
+PBS
+SOST PBS
+Figure 5 | Sclerostin induces endogenous FCSCs to regenerate and repair cartilage. (a) To induce ﬁbrocartilage injury and condyle degeneration, a
+2.5 mm perforation was created in 12-week rabbit TMJ discs bilaterally. One week post surgery, 0.1 ml SOST (100 ng ml  1) and PBS was injected into
+contralateral sides of the inferior TMJ intra-articular space once per week for 7 weeks. (b) Superior view of TMJ disc and condyle 8 weeks following injury
+(yellow arrow) with SOST and PBS treated contralateral TMJs. Scale bar, 3 mm. (c) Observers (n ¼ 2) blindly scored TMJ morphology using OARSI
+recommendations. Scatter plots with each plot representing mean rabbit score±s.d., n ¼ 8 male New Zealand White rabbits 12 weeks; paired Student’s
+t-test. (d,e) TMJ condyle anterior to posterior length (AP) and the medial to lateral (ML) width was measured using Nis-Elements Basic Research imaging,
+respectively. Data are mean; error bars are s.d.; n ¼ 8 male New Zealand White rabbits 12 weeks; paired Student’s t-test. (f,g) Representative images of
+Safranin O staining of contralateral TMJ condyles treated with SOSTand PBS. Yellow line ¼ border of SZ tissue. Scale bar, 100 mm. (h) Safranin O staining in
+TMJ condyle was quantiﬁed using cellSense Imaging Software. Data are mean area±s.d.; n ¼ 8 male New Zealand White rabbits 12 weeks; paired Student’s
+t-test. (i) The number of FCSCs quantiﬁed in SZ tissue. Data are mean±s.d.; n ¼ 8 male New Zealand White rabbits 12 weeks; paired Student’s t-test.
+ARTICLE
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13073
+8
+NATURE COMMUNICATIONS | 7:13073 | DOI: 10.1038/ncomms13073 | www.nature.com/naturecommunications
+non-invasive, stem cell-based strategy to treat ﬁbrocartilage
+degeneration.
+Therapeutic strategy to exploit endogenous FCSCs in humans.
+We investigated whether this minimally invasive stem cell-based
+therapeutic strategy could be translated to diseased ﬁbrocartilage in
+humans. In 12 patients that underwent TMJ replacement surgery52,
+we assessed the osteoarthritic histopathological score53, proteo-
+glycan content and b-catenin expression (Supplementary Table 2
+and Fig. 6). Human samples with OA scores ranging from 18 to 20
+had diffuse Safranin O staining (Fig. 6a), which was coupled with
+signiﬁcantly higher number of b-cateninþ cells (Fig. 6b) relative to
+human samples that had lower OA scores (14–16) and late-stage
+OA samples (24). These data point to the possibility that in diseased
+human TMJ ﬁbrocartilage, canonical Wnt signals may be enhanced.
+Consequently,
+inhibition
+canonical
+Wnt
+signalling
+via
+Wnt
+inhibitors such as SOST could be beneﬁcial to promote FCSCs to
+repair ﬁbrocartilage and potentially prevent degenerative disease.
+Discussion
+The cartilage of the mandibular condyle is considered ﬁbrocar-
+tilage due to the presence of a ﬁbrous, SZ tissue lining the condyle
+surface critical for providing tensile biomechanical properties3.
+Here, we deﬁne a novel function for this ﬁbrous tissue as a
+specialized niche harbouring a reservoir of FCSCs through several
+lines of evidence. First, we show that the SZ tissue harbours
+slow-cycling LRCs and aSMA þ cells38 that differentiate into
+mature chondrocyte progeny. FCSCs isolated from the SZ tissue
+are clonogenic and multipotent in vitro. Most strikingly, a single
+FCSC can spontaneously differentiate into chondrocytes and
+osteocytes in vivo (Supplementary Fig. 10). Unlike tissue-speciﬁc
+stem/progenitor cells from other musculoskeletal tissues, such as
+tendon42 or tooth54, FCSCs generate bone with a haematopoietic
+microenvironment without the assistance of osteogenic reagents
+such as hydroxyapatite/tricalcium phosphate (HA/TCP) ceramic,
+Matrigel or BMP-2. Unlike BMSCs33,55, FCSCs spontaneously
+form cartilage anlagen and can generate bone through both
+intramembranous
+and
+endochondral
+ossiﬁcation.
+Thus
+we
+identify FCSCs that are inherently programmed to generate
+cartilage and bone tissues and spontaneously recapitulate bone
+developmental processes in vivo.
+Premature stem/progenitor cell depletion is implicated in
+intervertebral disc degeneration56 and other disease pathologies
+including
+craniosynostosis57,
+cardiovascular
+disease58
+and
+lupus59.
+Our
+results
+reveal
+a
+novel
+paradigm
+for
+TMJ
+degenerative pathology, where the maintenance of FCSC pool
+in the SZ niche is critical for TMJ ﬁbrocartilage homoeostasis and
+integrity. In healthy adult cartilage, chondrocytes exist under
+normal conditions of hypoxia and relatively low metabolic
+turnover60. During OA, enhanced biosynthesis and cellular loss
+are evidence of failed reparative mechanisms, whereby the
+chondrocyte’s reparative capabilities are overridden by the
+tissue’s functional demands61. Consistent with this idea, in two
+TMJ degeneration animal models29,35 we show that increased
+proteoglycan deposition and OA histopathology50,51 are also
+coupled with depletion of FCSCs localized within the SZ niche.
+This degenerative mechanism is in contrast to knee hyaline
+articular cartilage, where OA pathology has been attributed to the
+limited regenerative capabilities of migratory chondrogenic
+progenitor cells potentially derived from the bone marrow17.
+Our ﬁndings signify that TMJ ﬁbrocartilage therapies could target
+preserving
+and
+harnessing
+the
+regenerative
+capabilities
+of
+endogenous FCSCs within the SZ niche.
+0
+100
+200
+300
+400
+500
+600
+OA score
+P=0.01 P =0.01
+Score 18
+Score 16
+Score 24
+# βcatenin cells/ μm2 x 10^6
+14–16
+18–20
+24
+a
+b
+Figure 6 | Aberrant Wnt signalling in osteoarthritic human TMJ ﬁbrocartilage. (a) Diseased human TMJ ﬁbrocartilage samples excised from patients
+undergoing TMJ condyle replacement surgery were stained with Safranin O. Observers (n ¼ 2) blindly assessed OARSI histopathological osteoarthritic
+scores. Scale bar, 125 mm. (b) b-catenin expression was evaluated by immunohistochemistry and the number of cells expressing b-catenin was quantiﬁed
+using cellSense Imaging Software. Data are mean±s.d.; n ¼ 3–5 patient samples; one-way ANOVA followed by Tukey’s post hoc test. ANOVA, analysis of
+variance.
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13073
+ARTICLE
+NATURE COMMUNICATIONS | 7:13073 | DOI: 10.1038/ncomms13073 | www.nature.com/naturecommunications
+9
+The maintenance of stem/progenitor cell pool relies on
+intrinsic, local and systemic signalling cues. We have identiﬁed
+canonical Wnt as a signalling system critical for maintaining
+FCSC pool and ﬁbrocartilage tissue homoeostasis (Fig. 7). A body
+of evidence supports a role for the ﬁne-tuning of canonical
+Wnt in mediating cartilage homoeostasis at different stages of
+chondrogenesis;
+canonical
+Wnt
+inhibits
+early
+chondrocyte
+commitment and promotes terminal differentiation26–28,44,45.
+Our data supports a model where inhibited canonical Wnt
+signalling
+promotes
+FCSC
+differentiation
+into
+mature
+chondrocytes.
+We
+further
+show
+that
+FCSCs
+treated
+with
+canonical Wnt inhibitor sclerostin can generate cartilage that is
+sustained for a longer period in our transplantation model.
+Overactive Wnt signalling has been shown to disrupt cartilage
+homoeostasis and contribute to OA pathological progression in
+several
+mouse
+models29,62,63.
+Accordingly,
+we
+show
+that
+b-catenin expression is upregulated and proteoglycan content is
+abnormal in both animal and human diseased TMJ ﬁbrocartilage.
+We provide evidence to support a model where overactive Wnt
+signals cause depletion of FCSCs and contribute to degeneration.
+To further corroborate our ﬁndings, we show that treatment
+with exogenous canonical Wnt inhibitor SOST sustains FCSC
+pool and repairs cartilage using a rabbit TMJ injury model. While
+the experimental rabbits exhibited little change in dietary intake
+and overall body mass, the biomechanical properties and bone
+phenotype of SOST-treated condyles were not evaluated in these
+present studies. Before the application of this regenerative
+strategy in humans, future studies using pre-clinical animal
+models are required to include long-term cartilage and bone
+phenotypic recovery and extensive biomechanical analyses to
+conﬁrm that functional joint recovery is achieved. Nonetheless,
+we show for the ﬁrst time the promise of Wnt modulation in
+endogenous FCSCs as a non-invasive therapeutic strategy that
+could be used to treat ﬁbrocartilage disease or injury. Small
+molecule Wnt inhibition has also been used therapeutically to
+treat myocardial infarction64 and colon cancer47. The application
+of local small molecule Wnt inhibitors into ﬁbrocartilage joint
+spaces offers a minimally invasive therapy following ﬁbrocartilage
+injury. This strategy of injecting small molecules to manipulate
+endogenous FSCSs offers the advantages of bypassing invasive
+surgical interventions and minimizing the toxicity and side effects
+associated with the use of systemic drugs.
+Although ﬁbrocartilage tissues are inclusive of the TMJ condyle
+and disc, knee meniscus and intervertebral disc, the development,
+function, biomechanical properties and cellular and molecular
+phenotypes are quite different among each type of ﬁbrocartilage
+tissue1–4. Consequently, it is likely that the stem/progenitor cell
+constituents making up these ﬁbrocartilaginous tissues also vary
+in terms of behaviour, microenvironment niche and fate
+determination mechanisms. Thus, ‘a one size ﬁts all’ therapeutic
+template for exploiting resident FCSCs may not apply and
+therapies should be adjusted and optimized for each ﬁbrocartilage
+tissue type accordingly. For example, in the intervertebral disc the
+survival and maintenance of Tie2 þGD2 þ nucleus pulposus
+progenitor cells are dependent on angiopoietin-1 ligand56.
+Furthermore, in knee meniscus ﬁbrocartilage, both CTGF and
+TGFb3
+are
+critical
+for
+meniscus
+regeneration16,18.
+These
+differences in ﬁbrocartilage tissue properties and cells bring to
+light the necessity of extensive characterization and analyses of
+tissue-speciﬁc ﬁbrocartilage stem/progenitor cells to facilitate the
+development of effective and tailored regenerative approaches.
+Our present study focusing on exploiting FCSCs in the TMJ
+raises the possibility of applying this therapeutic strategy to hyaline
+articular cartilage in other joints, such as the knee and hip.
+However, unlike the TMJ, both knee and hip joints are load bearing
+and are not lined with ﬁbrocartilaginous tissue3,35. Thus it is likely
+that endogenous stem/progenitor cells would have to be recruited
+from
+other
+sites
+to
+repair
+hyaline
+articular
+cartilage.
+In
+corroboration of this idea, studies have shown that migratory
+chondro-progenitor cells (CPCs) are recruited to osteoarthritic
+cartilage via capillary ingrowth through tidemark breaks into
+the
+cartilage;
+however CPCs are only found in
+late-stage
+osteoarthritic cartilage after signiﬁcant cartilage destruction has
+occurred17. Alternatively, other studies have identiﬁed articular
+cartilage progenitor cells on the surface of knee articular cartilage65,
+but their cartilage regenerative capabilities have yet to undergo
+rigorous testing for translational applications66. No studies to date
+have identiﬁed a population of stem cells in hyaline joint cartilage
+capable of spontaneously generating cartilage and bone with an
+organized
+HME
+when
+transplanted
+in
+vivo.
+Taking
+into
+consideration the difﬁculty of identifying effective resident stem/
+progenitor cells for hyaline articular cartilage repair, it may be
+advantageous to test the ability of FCSC transplantation to repair
+hyaline cartilage defects in knee and hip joints.
+Taken together, we discover that resident stem cells in
+ﬁbrocartilage localized within SZ niche in the TMJ condyle that
+possess
+potent
+chondrogenic
+and
+osteogenic
+potential.
+We also present a potential targeted therapeutic strategy for
+ﬁbrocartilage degenerative disease, whereby regulation of cano-
+nical Wnt signals can sustain FCSC pool and maintain tissue
+Wnt
+inhibitor
+Polymorphic
+Chondrocytes
+Hypertrophic
+chondrocytes
+FCSCs
+in AZ niche
+Joint repair
+FCSCs
+depleted
+++Wnt
+++ Chondrogenesis
+Joint degeneration
+Low turnover
+FCSCs
+maintained
+βCatenin
+βCatenin
+Figure 7 | Therapeutic strategy to harness endogenous FCSCs to regenerate and repair cartilage. Healthy adult TMJ ﬁbrocartilage exists under low
+metabolic activity. A reservoir of FCSCs resides in SZ niche, canonical Wnt signalling is controlled and b-catenin is restricted to mature chondrocytes.
+During TMJ degeneration overactive Wnt signalling enhances chondrocyte maturation, depletes FCSC pool in SZ niche, and contributes to the pathological
+progression of degeneration. Therapeutic application of exogenous canonical Wnt inhibitor maintains FCSC pool and repairs cartilage.
+ARTICLE
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13073
+10
+NATURE COMMUNICATIONS | 7:13073 | DOI: 10.1038/ncomms13073 | www.nature.com/naturecommunications
+homoeostasis. These studies shed new light on the development
+of potential ﬁbrocartilage therapies that exploit endogenous stem
+cells’ regenerative capabilities.
+Methods
+Animals. Male athymic nude mice ages 6–8 weeks, Sprague Dawley male rats ages
+P0 and 6–8 weeks, and male New Zealand White rabbits ages 12 weeks were used
+with approval from the Institution of Animal Care and Use Committee at
+Columbia University Medical Center (AC-AAAC2908; AC-AAAD1375;
+AC-AAAD9804; AC-AAAF4205). Eight-week-old male transgenic rat GFP43
+tissues, and sost  /  tissues49 from 4- to 24-week-old male mice were provided by
+Dr Dongming Sun (Rutgers University) and Dr Tzong-Jen Sheu (Rochester
+University), respectively.
+Label-retaining cells. EDU (Invitrogen, A10044) was injected into E16.5-E18.5
+pregnant rat daily (Invitrogen, 50 mg g  1 body mass). EDU labelled cells were
+detected in offspring on parafﬁn embedded sections (Invitrogen C-10420) and
+quantiﬁed (ImageJ).
+Histology and histomorphometry. Tissue samples were ﬁxed in 4%
+paraformaldehyde, decalciﬁed in EDTA, and prepared for either parafﬁn or frozen
+embedded sections. Serial tissue sections were stained haematoxylin and eosin,
+Safranin O, toluidine blue or tartrate-resistant acid phosphatase (TRAP; Sigma
+387A). For immunohistochemistry serial sections were sections were enzymatically
+treated with Chondroitinase ABC (Fisher C3667-10UN) and immunolabelled with
+primary antibodies at 4 C overnight followed by secondary antibody to detect
+immunoactivity (Supplementary Table 3). Isotype-matched negative control
+antibodies were used under the same conditions. The area of antibody expression
+or chemical stain and the cell number were quantiﬁed using Olympus cellSens
+Dimension imaging software.
+Lineage tracing. The generation of transgenic aSMACreERT2 mice was
+previously reported38. The aSMACreERT2 dual transgenic mice were generated by
+breeding aSMACreERT2 male mice with Ai9 female mice (Jackson Labs, #007905).
+The Ai9 mice harbour targeted mutation of Gt(ROSA)26Sor locus with a
+loxP- ﬂanked STOP cassette, preventing transcription of a CAG promoter-driven
+red ﬂuorescent protein variant (tdTomato). For in vivo lineage tracing studies,
+16 day-old aSMACreERT2/Ai9 mice were treated with 62.5 mg g  1 tamoxifen per
+mass and killed after 2 and 15 days. The aSMACreERT2/Ai9-positive
+untreated mice and aSMACreERT2/Ai9-negative treated mice were evaluated as
+negative controls.
+Cell isolation and culture. TMJ discs and condyles were dissected from
+Sprague Dawley rats ages 6–8 weeks. To isolate SZ tissue, whole TMJ condyles were
+digested with 4 mg ml  1 dispase II (Roche 04942078001) for 15 min at 37 C and
+SZ tissue was separated from the condyle using a dissecting microscope. Primary
+cells from condyles and SZ tissues were isolated25. Tissues were digested in dispase
+II/collagenase I (4 and 3 mg ml  1). Donor-matched BMSCs were isolated from
+long bone tibia67. GFP TMJ cells were isolated from GFP rat43 (tissues kindly
+donated by W. Young & D. Sun, Rutgers University, New Jersey). Single-cell
+suspensions were cultured (5% CO2, 37 C) in basal medium consisting of DMEM
+(Invitrogen 11885-092) supplemented with 20% lot-selected fetal bovine serum
+(FBS Hyclone), glutamax (Invitrogen 35050-061), penicillin-streptomycin
+(Invitrogen 15140-163) and 55 mM 2-mercaptoethanol (Gibco) for 4–6 days.
+Cells were detached with trypsin-EDTA (GIBCO) and plated at P1 for the in vitro
+experiments.
+RNA isolation and qRT-PCR. Total RNA was puriﬁed from whole TMJ tissues
+(Qiagen 74704) or cells (Ambion 12183018A) and treated with DNAse I
+(Ambion AM2222) to remove genomic DNA. RNA quantity and purity was
+determined using Nanodrop. RNA samples (260/280X1.8) were used to obtain
+cDNA (Biorad AM2222). Quantitative RT-PCR was performed using TaqMan
+Universal PCR Master Mix (Applied Biosystems 4304437) and pre-designed
+primers (Supplementary Table 4). Gene expression levels were normalized to
+housekeeping gene gapdh (Applied Biosystems Rn01775763_g1*).
+FACS analysis. All ﬂuorescence-activated cell sorting analysis was performed at
+Columbia Center for Translational Immunology Flow Cytometry Core
+(CCTI, Columbia University Medical Center, New York, NY). For ﬂow cytometric
+analysis, FCSCs and BMSCs were immunolabled with 1 mg of ﬂuorescent
+conjugated antibodies or isotype-matched IgG controls (Supplementary Table 4)
+for 20 min at room temperature. Samples were analysed using BD FACSCanto II
+and calculated using FloJo program. Gating strategy for selecting positive cells
+involved a positive compensation control containing a single ﬂuorochrome
+antibody and negative gating control including all but one ﬂuorochorme antibody
+(Supplementary 1b). BD Inﬂux cell sorter was used to isolate single GPP þ TMJ-PC
+into 96-well plates.
+Multi-lineage differentiation. Multi-lineage differentiation was tested in vitro
+using chemically deﬁned media for chondrogenesis, osteogenesis, and
+apdipogenesis25,42. For chondrogenesis, cells (1  106 per pellet) were pelleted in
+15 ml polypropylene tubes by centrifugation and cultured (5% CO2, 37 C) for
+3 weeks in Dulbecco’s Modiﬁed Eagle medium supplemented with 10  7 mol l  1
+dexmethasone, 100 mmol l  1 ascorbic acid, 1% insulin, transferrin, selenium (ITS),
+1 mmol l  1 pyruvate, and 10 ng ml  1 TGF-b1. To induce osteogenesis, cells
+(5  104) were culture in 12-well plate for 4–5 weeks in media containing aMEM
+supplemented with 20% FBS, dexamethasone (10  8 M), 100 mM L-ascorbic acid,
+and 2 mM b-glycerophosphate. To induce adipogenesis, cells (5  104) were
+cultured in 12-well plate using commercial adipogenic media for 1 week
+(Gibco A1007001). Calcium nodules and fat were visualized by staining with
+alizarin red and Oil Red O, respectively.
+In vivo transplantation. Primary cells or single-cell colonies (2.0  106) were
+seeded onto either collagen sponge (12  12  3 mm; Helistat 1690ZZ), gel foam
+(12  12  2 mm, Pﬁzer) or BD Matrigel (200 ml, BD Biosciences 354230)68 and
+transplanted onto the dorsum of athymic nude mice (Harlen Athymic Nude-
+Foxn1nu). Transplants were harvested after 2, 3, 4, 6 and 8 weeks for histological
+analysis.
+Transient transfection and luciferase activity. Transient transfection of FCSCs
+was performed using the Neon Transfection System and kit (Invitrogen MPK1025).
+Optimal transfection conditions were determined using a GFP DNA plasmid to
+achieve approximately 60–80% transfection efﬁciency for approximately 72 h.
+Luciferase reporter constructs TopFlash and S33y plasmid (1 mg) or control vector
+and LacZ plasmid were transfected into FCSCs (5  105 cells). LacZ plasmid was
+used as an internal transfection control. The transfected cells were split into three
+wells of 96-well plates and culture for 24 h. Luciferase activity was measured after
+72 h (ref. 68).
+TMJ injury model. TMJ degeneration was surgically induced in New Zealand
+white rabbits35. A punch biopsy was used to create a 2.5 mm perforation in the
+TMJ disc bilaterally. A periosteal elevator was placed under the TMJ disc to prevent
+damage to the condyle during disc perforation. One week post surgery, 0.1 ml
+SOST (100 ng ml  1 in PBS, R&D 1406-ST-025) was injected into the inferior TMJ
+intra-articular space unilaterally once weekly. Vehicle control (PBS) was injected
+into the contralateral TMJ.
+Human analyses. All human TMJ condyle samples were derived from subjects
+recruited by the National Institute of Dental and Craniofacial Research’s
+Temporomandibular Joint Implant Registry and Repository (NIDCR’s TIRR) in
+accordance with University of Minnesota IRB Human Subjects Code Number
+0210M33782. Subjects who underwent TMJ surgery with and without the
+placement or removal of a TMJ implant were invited, by their doctor/surgeon, TMJ
+Clinician or NIDCR’s TIRR Recruiter/Study Coordinator to participate, then
+consented and enrolled in NIDCR’s TIRR. TMJ specimens were de-identiﬁed and
+prepared in parafﬁn blocks and banked at NIDCR sponsored TIRR52 housed at the
+University of Minnesota. All samples were histologically scored53 by two
+independent observers.
+Statistical analysis. All statistics were calculated using Prism 6 Graphpad
+Software. The statistical signiﬁcance between two groups was determined using
+paired Student’s t-test assuming Gaussian distribution. The normality of
+distribution was conﬁrmed using Kolmogorov–Smirnov test and the resulting
+two-tailed P value r0.05 was regarded as statistically signiﬁcant difference.
+Among three groups, one-way analysis of variance followed by Tukey’s post hoc
+test was used for statistical comparisons. For multiple comparisons, a two-way
+analysis of variance followed by Tukey’s post hoc was used for statistical
+comparisons.
+Data availability. The data that support the ﬁndings of this study are available
+from the corresponding author upon request.
+References
+1.
+Benjamin, M. & Evans, E. J. Fibrocartilage. J. Anat. 171, 1–15 (1990).
+2.
+Nachemson, A. The inﬂuence of spinal movements on the lumbar intradiscal
+pressure and on the tensil stresses in the annulus ﬁbrosus. Acta. Orthop. Scand.
+33, 183–207 (1963).
+3.
+Singh, M. & Detamore, M. S. Biomechanical properties of the mandibular
+condylar cartilage and their relevance to the TMJ disc. J. Biomech. 42, 405–417
+(2009).
+4.
+McNulty, A. L. & Guilak, F. Mechanobiology of the meniscus. J. Biomech. 48,
+1469–1478 (2015).
+5.
+Huey, D. J., Hu, J. C. & Athanasiou, K. A. Unlike bone, cartilage regeneration
+remains elusive. Science 338, 917–921 (2012).
+6.
+Brown, T. D., Johnston, R. C., Saltzman, C. L., Marsh, J. L. & Buckwalter, J. A.
+Posttraumatic osteoarthritis: a ﬁrst estimate of incidence, prevalence, and
+burden of disease. J. Orthop. Trauma 20, 739–744 (2006).
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13073
+ARTICLE
+NATURE COMMUNICATIONS | 7:13073 | DOI: 10.1038/ncomms13073 | www.nature.com/naturecommunications
+11
+7. Scrivani, S. J., Keith, D. A. & Kaban, L. B. Temporomandibular disorders.
+N. Engl. J. Med. 359, 2693–2705 (2008).
+8. Urban, J. P. & Roberts, S. Degeneration of the intervertebral disc. Arthritis Res.
+Ther. 5, 120–130 (2003).
+9. Stoustrup, P. & Twilt, M. Therapy: intra-articular steroids for TMJ
+arthritis-caution needed. Nat. Rev. Rheumatol. 11, 566–567 (2015).
+10. Englund, M., Roos, E. M. & Lohmander, L. S. Impact of type of meniscal tear on
+radiographic and symptomatic knee osteoarthritis: a sixteen-year followup of
+meniscectomy with matched controls. Arthritis Rheum. 48, 2178–2187 (2003).
+11. Kneeland, J. B. et al. Failed temporomandibular joint prostheses: MR imaging.
+Radiology 165, 179–181 (1987).
+12. Shen, W. et al. Intra-articular injection of human meniscus stem/progenitor
+cells promotes meniscus regeneration and ameliorates osteoarthritis through
+stromal cell-derived factor-1/CXCR4-mediated homing. Stem Cells Transl.
+Med. 3, 387–394 (2014).
+13. Pelttari, K. et al. Adult human neural crest-derived cells for articular cartilage
+repair. Science Transl. Med. 6, 251ra119 (2014).
+14. Waskow, C. Maintaining what is already there: strategies to rectify HSC
+transplantation dilemmas. Cell Stem Cell 17, 258–259 (2015).
+15. Skuk, D., Paradis, M., Goulet, M. & Tremblay, J. P. Ischemic central necrosis in
+pockets of transplanted myoblasts in nonhuman primates: implications for
+cell-transplantation strategies. Transplantation 84, 1307–1315 (2007).
+16. Lee, C. H. et al. Protein-releasing polymeric scaffolds induce ﬁbrochondrocytic
+differentiation of endogenous cells for knee meniscus regeneration in sheep.
+Sci. Transl. Med. 6, 266ra171 (2014).
+17. Koelling, S. et al. Migratory chondrogenic progenitor cells from repair tissue
+during the later stages of human osteoarthritis. Cell Stem Cell 4, 324–335
+(2009).
+18. Muhammad, H. et al. Human migratory meniscus progenitor cells are
+controlled via the TGF-beta pathway. Stem Cell Rep. 3, 789–803 (2014).
+19. Miller, F. D. & Kaplan, D. R. Mobilizing endogenous stem cells for repair and
+regeneration: are we there yet? Cell Stem Cell 10, 650–652 (2012).
+20. Shibata, S., Suzuki, S., Tengan, T., Ishii, M. & Kuroda, T. A histological study of
+the developing condylar cartilage of the fetal mouse mandible using coronal
+sections. Arch. Oral Biol. 41, 47–54 (1996).
+21. Silbermann, M. & Frommer, J. The nature of endochondral ossiﬁcation in the
+mandibular condyle of the mouse. Anat. Rec. 172, 659–667 (1972).
+22. Shibukawa, Y. et al. Temporomandibular joint formation and condyle growth
+require Indian hedgehog signaling. Dev. Dyn. 236, 426–434 (2007).
+23. Chai, Y. et al. Fate of the mammalian cranial neural crest during tooth and
+mandibular morphogenesis. Development 127, 1671–1679 (2000).
+24. Koyama, E. et al. Lubricin is required for the structural integrity and post-natal
+maintenance of TMJ. J. Dent. Res. 93, 663–670 (2014).
+25. Embree, M. C. et al. Biglycan and ﬁbromodulin have essential roles in
+regulating chondrogenesis and extracellular matrix turnover in
+temporomandibular joint osteoarthritis. Am. J. Pathol. 176, 812–826 (2010).
+26. Baron, R. & Kneissel, M. WNT signaling in bone homeostasis and disease: from
+human mutations to treatments. Nat. Med. 19, 179–192 (2013).
+27. Tamamura, Y. et al. Developmental regulation of Wnt/beta-catenin signals is
+required for growth plate assembly, cartilage integrity, and endochondral
+ossiﬁcation. J. Biol. Chem. 280, 19185–19195 (2005).
+28. Surmann-Schmitt, C. et al. Wif-1 is expressed at cartilage-mesenchyme
+interfaces and impedes Wnt3a-mediated inhibition of chondrogenesis. J. Cell
+Sci. 122, 3627–3637 (2009).
+29. Bouaziz, W. et al. Loss of sclerostin promotes osteoarthritis in mice via
+beta-catenin-dependent and -independent Wnt pathways. Arthritis Res. Ther.
+17, 24 (2015).
+30. Funck-Brentano, T. et al. Dkk-1-mediated inhibition of Wnt signaling in bone
+ameliorates osteoarthritis in mice. Arthritis Rheumatol. 66, 3028–3039 (2014).
+31. Oh, H., Chun, C. H. & Chun, J. S. Dkk-1 expression in chondrocytes inhibits
+experimental osteoarthritic cartilage destruction in mice. Arthritis Rheum. 64,
+2568–2578 (2012).
+32. Chan, B. Y. et al. Increased chondrocyte sclerostin may protect against cartilage
+degradation in osteoarthritis. Osteoarthritis Cartilage 19, 874–885 (2011).
+33. Sacchetti, B. et al. Self-renewing osteoprogenitors in bone marrow sinusoids can
+organize a hematopoietic microenvironment. Cell 131, 324–336 (2007).
+34. Chan, C. K. et al. Endochondral ossiﬁcation is required for haematopoietic
+stem-cell niche formation. Nature 457, 490–494 (2009).
+35. Embree, M. C. et al. Soft tissue ossiﬁcation and condylar cartilage degeneration
+following TMJ disc perforation in a rabbit pilot study. Osteoarthritis Cartilage
+23, 629–639 (2015).
+36. Yamaki, Y., Tsuchikawa, K., Nagasawa, T. & Hiroyasu, K. Embryological study
+of the development of the rat temporomandibular joint: highlighting the
+development of the glenoid fossa. Odontology 93, 30–34 (2005).
+37. Hill, A., Duran, J. & Purcell, P. Lubricin protects the temporomandibular joint
+surfaces from degeneration. PLoS ONE 9, e106497 (2014).
+38. Grcevic, D. et al. In vivo fate mapping identiﬁes mesenchymal progenitor cells.
+Stem Cells 30, 187–196 (2012).
+39. Soleimani, M. & Nadri, S. A protocol for isolation and culture of mesenchymal
+stem cells from mouse bone marrow. Nat. Protoc. 4, 102–106 (2009).
+40. Robey, P. G., Kuznetsov, S. A., Riminucci, M. & Bianco, P. Bone marrow
+stromal cell assays: in vitro and in vivo. Methods Mol. Biol. 1130, 279–293
+(2014).
+41. Watt, F. M. Effect of seeding density on stability of the differentiated phenotype
+of pig articular chondrocytes in culture. J. Cell Sci. 89(Pt 3): 373–378 (1988).
+42. Bi, Y. et al. Identiﬁcation of tendon stem/progenitor cells and the role of the
+extracellular matrix in their niche. Nat. Med. 13, 1219–1227 (2007).
+43. Marano, J. E., Sun, D., Zama, A. M., Young, W. & Uzumcu, M. Orthotopic
+transplantation of neonatal GFP rat ovary as experimental model to study
+ovarian development and toxicology. Reprod. Toxicol. 26, 191–196 (2008).
+44. Day, T. F., Guo, X., Garrett-Beal, L. & Yang, Y. Wnt/beta-catenin signaling in
+mesenchymal progenitors controls osteoblast and chondrocyte differentiation
+during vertebrate skeletogenesis. Dev. Cell 8, 739–750 (2005).
+45. Hill, T. P., Spater, D., Taketo, M. M., Birchmeier, W. & Hartmann, C.
+Canonical Wnt/beta-catenin signaling prevents osteoblasts from differentiating
+into chondrocytes. Dev. Cell 8, 727–738 (2005).
+46. Goldring, M. B., Tsuchimochi, K. & Ijiri, K. The control of chondrogenesis.
+J. Cell Biochem. 97, 33–44 (2006).
+47. Emami, K. H. et al. A small molecule inhibitor of beta-catenin/CREB-binding
+protein transcription [corrected]. Proc. Natl Acad. Sci. USA 101, 12682–12687
+(2004).
+48. Kolligs, F. T., Hu, G., Dang, C. V. & Fearon, E. R. Neoplastic transformation of
+RK3E by mutant beta-catenin requires deregulation of Tcf/Lef transcription but
+not activation of c-myc expression. Mol. Cell Biol. 19, 5696–5706 (1999).
+49. Roudier, M. et al. Sclerostin is expressed in articular cartilage but loss or
+inhibition does not affect cartilage remodeling during aging or following
+mechanical injury. Arthritis Rheum. 65, 721–731 (2013).
+50. Glasson, S. S., Chambers, M. G., Van Den Berg, W. B. & Little, C. B. The
+OARSI histopathology initiative - recommendations for histological
+assessments of osteoarthritis in the mouse. Osteoarthritis Cartilage 18(Suppl 3):
+S17–S23 (2010).
+51. Laverty, S., Girard, C. A., Williams, J. M., Hunziker, E. B. & Pritzker, K. P.
+The OARSI histopathology initiative - recommendations for histological
+assessments of osteoarthritis in the rabbit. Osteoarthritis Cartilage 18(Suppl 3):
+S53–S65 (2010).
+52. Myers, S. et al. Development of a National TMJ Implant Registry and
+Repository–NIDCR’s TIRR. Northwest Dent. 86, 13–18 (2007).
+53. Pritzker, K. P. et al. Osteoarthritis cartilage histopathology: grading and staging.
+Osteoarthritis Cartilage 14, 13–29 (2006).
+54. Miura, M. et al. SHED: stem cells from human exfoliated deciduous teeth.
+Proc. Natl Acad. Sci. USA 100, 5807–5812 (2003).
+55. Krebsbach, P. H. et al. Bone formation in vivo: comparison of osteogenesis by
+transplanted mouse and human marrow stromal ﬁbroblasts. Transplantation
+63, 1059–1069 (1997).
+56. Sakai, D. et al. Exhaustion of nucleus pulposus progenitor cells with ageing and
+degeneration of the intervertebral disc. Nat. Commun. 3, 1264 (2012).
+57. Zhao, H. et al. The suture provides a niche for mesenchymal stem cells of
+craniofacial bones. Nat. Cell Biol. 17, 386–396 (2015).
+58. Schmidt-Lucke, C. et al. Reduced number of circulating endothelial progenitor
+cells predicts future cardiovascular events: proof of concept for the clinical
+importance of endogenous vascular repair. Circulation 111, 2981–2987 (2005).
+59. Lee, P. Y. et al. Type I interferon as a novel risk factor for endothelial
+progenitor cell depletion and endothelial dysfunction in systemic lupus
+erythematosus. Arthritis Rheum. 56, 3759–3769 (2007).
+60. Aigner, T., Kurz, B., Fukui, N. & Sandell, L. Roles of chondrocytes
+in the pathogenesis of osteoarthritis. Curr. Opin. Rheumatol. 14, 578–584
+(2002).
+61. Loeser, R. F., Goldring, S. R., Scanzello, C. R. & Goldring, M. B. Osteoarthritis: a
+disease of the joint as an organ. Arthritis Rheum. 64, 1697–1707 (2012).
+62. Thysen, S., Luyten, F. P. & Lories, R. J. Loss of Frzb and Sfrp1 differentially
+affects joint homeostasis in instability-induced osteoarthritis. Osteoarthritis
+Cartilage 23, 275–279 (2015).
+63. Zhu, M. et al. Activation of beta-catenin signaling in articular chondrocytes
+leads to osteoarthritis-like phenotype in adult beta-catenin conditional
+activation mice. J. Bone Miner. Res. 24, 12–21 (2009).
+64. Sasaki, T., Hwang, H., Nguyen, C., Kloner, R. A. & Kahn, M. The small
+molecule Wnt signaling modulator ICG-001 improves contractile function in
+chronically infarcted rat myocardium. PLoS ONE 8, e75010 (2013).
+65. Dowthwaite, G. P. et al. The surface of articular cartilage contains a progenitor
+cell population. J. Cell Sci. 117, 889–897 (2004).
+66. Williams, R. et al. Identiﬁcation and clonal characterisation of a progenitor
+cell sub-population in normal human articular cartilage. PLoS ONE 5, e13246
+(2010).
+67. Kuznetsov, S. A., Friedenstein, A. J. & Robey, P. G. Factors required for
+bone marrow stromal ﬁbroblast colony formation in vitro. Br. J. Haematol. 97,
+561–570 (1997).
+ARTICLE
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13073
+12
+NATURE COMMUNICATIONS | 7:13073 | DOI: 10.1038/ncomms13073 | www.nature.com/naturecommunications
+68. van de Wetering, M. et al. Armadillo coactivates transcription driven by the
+product of the Drosophila segment polarity gene dTCF. Cell 88, 789–799
+(1997).
+Acknowledgements
+This investigation was supported by NIH grants K99DE022060-01A (to M.C.E.),
+5R00DE0220660 (to M.C.E.), and R01DE021134 (to H.Y.) and Columbia University
+College of Dental Medicine. FACS was performed in the CCTI Flow Cytometry Core
+with the assistance of Dr Siu-Hong Ho, supported by NIH grants S10RR027050 and
+S10OD020056. Dr Sandra Myers co-director of the TMJ Implant Registry and Repository
+at the University of Minnesota, supported by NIH grant NO1-DE-22635 provided
+human TMJ samples. At Columbia University, we thank Dr Alex Romanov and the ICM
+staff for assistance with rabbit surgeries.
+Author contributions
+M.C.E. conceived study, designed/performed experiments, analysed the data, prepared
+ﬁgures and wrote manuscript. M.C. designed study and experiments. S.P. performed
+immunohistochemistry and histomorphometry. D.K. and G.M.I. performed qRT-PCR
+and immunohistochemistry. I.K. performed lineage-tracing experiment. H.Y. and C.S.
+performed mCT analysis. D.S. and T.-J.S. provided GFP and sost mutant tissues,
+respectively. D.A.K. and A.K. performed rabbit surgeries. J.J.M. provided oversight.
+Additional information
+Supplementary Information accompanies this paper at http://www.nature.com/
+naturecommunications
+Competing ﬁnancial interests: The authors declare no competing ﬁnancial interests.
+Reprints and permission information is available online at http://npg.nature.com/
+reprintsandpermissions/
+How to cite this article: Embree, M. C. et al. Exploiting endogenous ﬁbrocartilage stem
+cells to regenerate cartilage and repair joint injury. Nat. Commun. 7, 13073 doi: 10.1038/
+ncomms13073 (2016).
+This work is licensed under a Creative Commons Attribution 4.0
+International License. The images or other third party material in this
+article are included in the article’s Creative Commons license, unless indicated otherwise
+in the credit line; if the material is not included under the Creative Commons license,
+users will need to obtain permission from the license holder to reproduce the material.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+r The Author(s) 2016
+NATURE COMMUNICATIONS | DOI: 10.1038/ncomms13073
+ARTICLE
+NATURE COMMUNICATIONS | 7:13073 | DOI: 10.1038/ncomms13073 | www.nature.com/naturecommunications
+13

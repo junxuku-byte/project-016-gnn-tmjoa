@@ -1,0 +1,29 @@
+{
+  "title": "Once-Weekly Semaglutide in Persons with Obesity and Knee Osteoarthritis",
+  "authors": "Henning Bliddal等",
+  "year": 2024,
+  "journal": "N Engl J Med",
+  "category": "general",
+  "research_question": "每周一次司美格鲁肽对肥胖合并膝骨关节炎患者的疗效和安全性如何？",
+  "methods_summary": [
+    "随机对照试验",
+    "双盲设计",
+    "安慰剂对照",
+    "每周一次皮下注射司美格鲁肽2.4 mg",
+    "主要终点为体重变化和膝关节疼痛评分"
+  ],
+  "dataset": "肥胖合并膝骨关节炎患者",
+  "key_findings": [
+    "司美格鲁肽显著降低体重",
+    "司美格鲁肽改善膝关节疼痛评分",
+    "不良事件主要为胃肠道反应"
+  ],
+  "relevance_score": "medium",
+  "tags": [
+    "semaglutide",
+    "obesity",
+    "knee osteoarthritis",
+    "randomized controlled trial"
+  ],
+  "extracted_insights": "司美格鲁肽在肥胖合并膝骨关节炎患者中显示出减重和缓解疼痛的双重获益，但需关注胃肠道不良反应。"
+}

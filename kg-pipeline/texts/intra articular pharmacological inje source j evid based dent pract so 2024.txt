@@ -1,0 +1,138 @@
+The Journal of EVIDENCE-BASED DENTAL PRACTICE 
+REVIEW ANALYSIS AND EVALUATION—DIAGNOSIS/TREATMENT/PROGNOSIS 
+INTRA-ARTICULAR PHARMACOLOGICAL 
+INJECTIONS FOR TEMPOROMANDIBULAR 
+JOINT OSTEOARTHRITIS ARE 
+COMPARABLE TO PLACEBO 
+PURPOSE/QUESTION In adult patients with temporomandibular joint osteoarthritis (TMJ OA), is the intra-articular injection 
+of either corticosteroids (CCS), hyaluronic acid (HA), platelet-rich plasma (PRP), or placebo effective in reducing joint pain? 
+REVIEWER 
+ELLIOT ABT 
+Adjunct Associate Professor, Department of Oral Medicine, University of Illinois College of Dentistry, Chicago, IL 
+Article Title and Bibliographic Information 
+Effectiveness of intra-articular injections of sodium hyaluronate, corticosteroids, 
+platelet-rich plasma on temporomandibular joint osteoarthritis: a systematic re- 
+view and network meta-analysis of randomized controlled trials. Xie Y, Zhao K, 
+Ye G, Yao X, Yu M, Ouyang H. J Evid Based Dent Pract. 2022 Sep;22(3):101720. 
+doi:10.1016/j.jebdp.2022.101720. 
+SOURCE OF FUNDING 
+National Natural Science Foundation 
+of China (nos. T2121004 , 81630065 ). 
+TYPE OF STUDY/DESIGN 
+Systematic review with network meta- 
+analysis of data. 
+KEYWORDS 
+Temporomandibular disorders, 
+Osteoarthritis, Sodium hyaluronate, 
+Platelet-rich plasma, Corticosteroids 
+J Evid Base Dent Pract 2024: [101985] 
+1532-3382/$36.00 
+© 2024 Elsevier Inc. 
+All rights reserved. 
+doi: https://doi.org/10.1016/ 
+j.jebdp.2024.101985 
+SUMMARY 
+Subjects or Study Selection 
+PubMed, Embase, and the Cochrane Central Register of Controlled trials were 
+searched for randomized controlled trials on therapies for temporomandibular 
+joint osteoarthritis. The gray literature was searched via ClinicalTrials.gov. Refer- 
+ence lists of reviews were also manually scanned. Two reviewers independently 
+assessed the risk of bias using the dimensions of quality in randomized controlled 
+trials. 
+Key Study Factor 
+Included studies compared various combinations of intra-articular injections of 
+either corticosteroids (CCS), sodium hyaluronate (HA), plate-rich plasma (PRP), 
+or placebo for temporomandibular joint osteoarthritis (TMJ OA). 
+Main Outcome Measure 
+The main outcome was pain on a visual analog scale (VAS) 1-10 after short-term 
+(3-6 months) or long-term ( > 12 months) follow-up. Scales from 0 to 100 were 
+converted to a 0-10 scale. 
+Main Results 
+Pain was reported as a mean difference with 95% CI. The bulk of results were not 
+statistically significant with one notable exception: for short-term pain reduction, 
+injection of CCS was significantly worse than placebo (MD = 1.73; 95% CI 0.37- 
+3.09). The abstract reported PRP vs placebo as MD = −0.23 (95% CI −2.49 to 
+2.04), one of the many nonsignificant results. 
+June 2024 
+1 
+The Journal of EVIDENCE-BASED DENTAL PRACTICE 
+Conclusions 
+Intra-articular injections of either CCS, HA, or PRP for TMJ 
+OA had no effect on improving pain reduction compared 
+with placebo. 
+COMMENTARY AND ANALYSIS 
+The American Academy of Orofacial Pain (AAOP) defines 
+TMDs as a group of musculoskeletal and neuromuscular con- 
+ditions that involve the temporomandibular joints, the mas- 
+ticatory muscles, and all associated tissues. 1 Thus, TMDs en- 
+compass a number of different diagnoses and are a major 
+source of non-dental pain and/or dysfunction in the orofa- 
+cial region. 2 - 4 TMDs are generally acute, but can become 
+chronic resulting in significant morbidity and quality of life 
+issues. There are now several clinical practice guidelines on 
+the management of temporomandibular disorders and they 
+resonate with each other in that many TMDs have sponta- 
+neous remissions amenable to conservative, reversible ther- 
+apies. Conservative therapies would include the use of anal- 
+gesics, heat application, and physical therapy. A recent re- 
+port by the National Academies of Sciences, Engineering, 
+and Medicine (NASEM) noted a number of deficiencies re- 
+garding the education of TMDs leading to inconsistencies 
+with both diagnosis and treatment. 5 While TMJ OA has been 
+treated by intra-articular injections of various pharmaceuti- 
+cals, studies on the effectiveness of these medications ver- 
+sus placebo (Ringer’s Lactated Solution) have been lacking. 
+Thus, this network meta-analysis is clinically relevant. An- 
+other important finding is the lack of statistical significance 
+of these injectables as compared with placebo. However, 
+it must be noted that the 9 included studies involving 316 
+patients were all generally small, with only 1 study having 
+102 patients. This large included study showed that CCS 
+injections were significantly worse than placebo. Generally, 
+we have non-significant results with multiple underpowered 
+studies which leaves the effectiveness of intra-articular injec- 
+tions with a degree of uncertainty. That is, with additional 
+studies hopefully having larger samples, would summary es- 
+timates move away from the null and show a benefit to these 
+therapies, or might they simply confirm that there is no ef- 
+fect? Either way, additional studies should narrow confidence 
+intervals providing stronger evidence to answer this impor- 
+tant question. In addition to the imprecision (ie, a wider con- 
+fidence intervals) of results due to small samples, there was 
+also considerable inconsistency (heterogeneity) with some 
+results on opposite side of the null value. 
+Methodologically, this was a very well-conducted network 
+meta-analysis (MA), and the authors are to be commended 
+on this work. A network meta-analysis has the direct compar- 
+isons of traditional MA, and also allows for indirect compar- 
+isons not done in the included studies, especially enabling 
+comparisons with placebo injections. 
+In addition to multiple small studies, some of the included 
+studies were at unclear risk of bias, emphasizing the need 
+for larger, high-quality randomized trials to help answer this 
+important clinical question. Therefore, clinicians may want 
+to use caution with intra-articular injections for TMJ OA as 
+the current best evidence fails to show a benefit of various 
+injectables as compared with placebo. 
+REFERENCES 
+1. De Leeuw R, Klasser GD. Orofacial Pain: Guidelines for As- 
+sessment, Diagnosis, and Management . 6th ed. Chicago, IL: 
+Quintessence Publishing; 2018 . 
+2. Klasser DG, Abt E, Weyant RJ, Greene CS. Temporomandibu- 
+lar disorders: current status of research, education, policies, 
+and its impact on clinicians in the United States of America. 
+Quintessence Int . 2023;54(4):328–334 . 
+3. Okeson JP. Bell’s Oral and Facial Pain . 7th ed. Hanover Park, IL: 
+Quintessence Publishing; 2014 . 
+4. Greene CS. Managing the care of patients with temporo- 
+mandibular disorders: a new guideline for care. JADA . 
+2010;141:1086–1088 . 
+5. National Academies of Sciences, Engineering, and Medicine. 
+Temporomandibular Disorders: Priorities for Research and Care . 
+Washington, DC: The National Academies Press; 2020 . 
+REVIEWER 
+ELLIOT ABT, DDS, MS, MSC, 
+Adjunct Associate Professor Dept. of Oral Medicine U. of Illi- 
+nois College of Dentistry, eabt7@sbcglobal.net . 
+2 
+Volume 24, Number 2 

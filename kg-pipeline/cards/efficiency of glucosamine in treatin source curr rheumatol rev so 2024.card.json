@@ -1,0 +1,34 @@
+{
+  "title": "Efficiency of Glucosamine in Treating Temporomandibular Joint Osteoarthritis: A Meta-Analytic Umbrella Review",
+  "authors": "Sasidharan Sivakumar et al.",
+  "year": 2025,
+  "journal": "Current Rheumatology Reviews",
+  "category": "TMJ",
+  "research_question": "Does glucosamine have any influence in improving the functional parameters of patients with temporomandibular joint osteoarthritis in comparison with any other drugs/placebo?",
+  "methods_summary": [
+    "Umbrella review of systematic reviews",
+    "Search of Medline (PubMed), Web of Science, Scopus, and EMBASE up to September 2023",
+    "Screening at title, abstract, and full-text level",
+    "Risk of bias assessment using JBI critical appraisal tool",
+    "Meta-analysis using random effects model with Comprehensive Meta-Analysis software",
+    "Pooled estimate of standardized mean differences for maximum mouth opening and pain reduction"
+  ],
+  "dataset": "4 systematic reviews (De Souza et al., 2012; Melo et al., 2018; Ruiz-Romero et al., 2022; Derwich et al., 2023) with total participants ranging from 39 to 538",
+  "key_findings": [
+    "Glucosamine showed non-significant but discernible effects on maximum mouth opening (SMD = 0.288, p = 0.15)",
+    "Glucosamine showed non-significant effect on pain reduction (SMD = 0.217, p = 0.476)",
+    "Compared to control groups (ibuprofen and tramadol), glucosamine showed slightly more favorable outcomes",
+    "Administration for at least 3 months was associated with significant reduction in TMJ pain and increase in mouth opening",
+    "Glucosamine and chondroitin sulfate are safe with lower risk of side effects compared to NSAIDs"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "glucosamine",
+    "temporomandibular joint osteoarthritis",
+    "umbrella review",
+    "meta-analysis",
+    "systematic review",
+    "nutraceuticals"
+  ],
+  "extracted_insights": "Glucosamine demonstrates a trend toward improvement in TMJ OA functional parameters (mouth opening and pain reduction) but does not reach statistical significance in pooled analysis. The efficacy is influenced by administration duration (minimum 3 months). Glucosamine is a safe adjunctive therapy with fewer side effects than NSAIDs, warranting further longitudinal studies to confirm its clinical effectiveness in TMJ OA management."
+}

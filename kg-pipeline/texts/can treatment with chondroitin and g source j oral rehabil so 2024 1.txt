@@ -1,0 +1,732 @@
+J Oral Rehabil. 2024;51:2289–2296.	
+wileyonlinelibrary.com/journal/joor
+ | 2289
+© 2024 John Wiley & Sons Ltd.
+Received: 23 June 2023 | Revised: 9 July 2024 | Accepted: 16 July 2024
+DOI: 10.1111/joor.13814  
+O R I G I N A L  A R T I C L E
+Can treatment with chondroitin and glucosamine 
+sulphate prevent changes in the articular disc caused by 
+temporomandibular joint osteoarthritis?
+Giulia Giacomini Malaguez1 |   Felipe Ernesto Artuzi1
+ |   Alexandre Silva Quevedo1 |   
+Edela Puricelli1,2 |   Deise Ponzoni1,2
+1School of Dentistry, Federal University of 
+Rio Grande do Sul (UFRGS), Porto Alegre, 
+Rio Grande do Sul, Brazil
+2Departament of Oral and Maxillofacial 
+Surgery, HCPA, Porto Alegre, Rio Grande 
+do Sul, Brazil
+Correspondence
+Felipe Ernesto Artuzi, School of Dentistry, 
+Federal University of Rio Grande do Sul 
+(UFRGS), Porto Alegre, Rio Grande do Sul, 
+Brazil.
+Email: feartuzi@yahoo.com.br
+Abstract
+Background: Chondroitin and glucosamine sulphates (CGS) are considered structure-­
+modifying drugs and have been studied in the prevention, delay or reversal of 
+structural morphological changes in joints caused by osteoarthritis.
+Objective: The aim of the present study was to investigate the action of CGS on 
+the progression of chemically induced osteoarthritis in the temporomandibular joint 
+(TMJ) of rabbits by evaluating the serum levels of tumour necrosis factor (TNF-­α) and 
+collagen in the articular discs.
+Materials and Methods: A sample of 36 male rabbits was divided into three groups: 
+control (CG), osteoarthritis (OG) and treatment (TG). The disease was induced by 
+intra-­articular injection of sodium monoiodoacetate (10 mg/mL) in the OG and TG 
+groups bilaterally. After 10 days, the TG animals received subcutaneous injection 
+of chondroitin sulphates and glucosamine (7.5 mg/kg) and the OG and CG received 
+saline solution (50 μL). Euthanasia times were subdivided into 40 and 100 days. 
+Collagen quantification was performed by biochemical and histological analysis and 
+for the quantification of serum levels of TNF-­α, an enzyme immunoassay was used.
+Results: The TG showed an increase in the collagen area of the articular disc when 
+compared to the CG and the OG. The increase collagen concentration in the discs 
+did not show a statistically significant difference between the groups. Post-­treatment 
+TNF-­α levels were significantly lower in TG compared to OG.
+Conclusions: The results indicate that CGS treatment delayed the degeneration of 
+the collagen in the TMJ articular disc and reduced serum TNF-­α levels, indicating a 
+preventive effect on OA progression.
+K E Y W O R D S
+chondroitin sulphate, collagen, glucosamine sulphate, osteoarthritis, temporomandibular joint, 
+TNF-­α
+2290 |   
+MALAGUEZ et al.
+1  |  INTRODUCTION
+Chondroitin and glucosamine sulphates (CGS) are considered slow-­
+acting symptomatic drugs (SYSADOAs) that relieve pain and have 
+good tolerability and safety. These compounds have been tested as 
+structure-­modifying drugs (SMD) that may prevent, delay, or reverse 
+morphological structural changes in the joint caused by osteoarthri-
+tis (OA).1,2
+Temporomandibular joint (TMJ) osteoarthritis leads to cartilage 
+and articular disc degradation, affecting chewing and phonation 
+functions. The temporomandibular joint disc plays a crucial role as a 
+congruent agent, absorber and distributor of stress in the mandibu-
+lar cinematic complex.3 Part of its mechanical properties have been 
+related to the presence of a highly organised collagen network and a 
+sparse amount of glycosaminoglycans (GAGs) in the solid extracellu-
+lar matrix (ECM) of articular discs.1,4–7 During an inflammatory pro-
+cess, as in OA, an imbalance in cytokines and growth factors present 
+in the synovial fluid is observed, favouring the increase of inflamma-
+tory cytokines such as tumour necrosis factor (TNF-­α).8 This increase 
+induces the synthesis and release of proteases responsible for colla-
+gen and proteoglycan depletion, reflecting in the cartilage degrada-
+tion observed in osteoarthritis.1
+The therapeutic options available for the management of OA are 
+basically restricted to the use of anti-­inflammatory drugs and anal-
+gesics, but their chronic administration is limited by their deleterious 
+systemic effects.9 Moreover, conventional treatments are not sat-
+isfactorily effective in controlling OA progression nor in regenerat-
+ing damaged cartilage. For this reason, new therapeutic alternatives 
+have been investigated for the management of degenerative dis-
+eases such as osteoarthritis, seeking not only to control symptoms, 
+but also to preserve joint structures and maintain the patient's qual-
+ity of life.9–14 In the present study, we investigated the therapeutic 
+effect of CGS on the progression of osteoarthritis in the articular 
+disc of the temporomandibular joint of rabbits by analysing serum 
+levels of TNF-­α and quantifying disc collagen.
+2  |  METHOD
+2.1  |  Experimental design
+Thirty-­six male New Zealand rabbits (Oryctolagus cuniculus L.), 
+adults, 4-­months-­old, weighing between 3 and 4 kg, were used. The 
+animals were kept under ad libitum feeding based on water, rabbit 
+food and leafy greens, in individual cages, with environments under 
+12 h light/dark cycle, temperature (21°C ±1) and relative humidity 
+between 40% and 60%. This study is in accordance with the Law 
+11 794/2008, which establishes the procedures for scientific use of 
+animals, according to current legislation in Brazil. Also, it was submit-
+ted to the evaluation and approval of the Ethics Committee on the 
+Use of Animals in Research (CEUA) of the Hospital de Clínicas de 
+Porto Alegre (HCPA) with number 2018–0424.
+The rabbits were randomly randomised between the control 
+group (CG, n = 12), which received only saline solution injection into 
+the TMJ, the osteoarthritis group (OG, n = 12) and the treatment 
+group (TG, n = 12), which received an injection of sodium monoiodo-
+acetate (MIA) into the TMJ, bilaterally. After 10 days, animals in the 
+TG started treatment with subcutaneous injection of chondroitin 
+sulphates and glucosamine. The CG and OG animals received saline 
+solution by the same route. Each group was subdivided and cata-
+logued into three other subgroups, according to the treatment and 
+time of death of the rabbits at 40 and 100 days after the induction of 
+OA (Figure 1). The times of death of the animals were defined based 
+on the studies by Uebelhart et al.15 and Artuzi, et al.1,16
+The animals were anaesthetised with a combination of Ketamine 
+(20 mg/kg), Meperidine (3 mg/kg) and Midazolam (1 mg/kg), intra-
+muscularly. After trichotomy, the zygomatic process was located 
+by digital palpation and the extension of this process to the exter-
+nal ear canal was marked on the skin with methylene blue. Then, 
+5 mm distal and superior to the posterior limit of the zygomatic pro-
+cess, the point of introduction of the needle for the infiltration of 
+solutions was marked. Finally, a solution containing 0.5 mg of MIA 
+(Sigma-­Aldrich, St. Louis, USA) dissolved in 50 μL of saline solution 
+(10 mg/mL) was slowly injected into the temporomandibular joint, 
+bilaterally, of rabbits in the OG and TG groups. The CG group re-
+ceived the same amount of 50 μL of saline solution in the TMJ. The 
+osteoarthritis induction model followed the protocol of Artuzi et al.1 
+According to the established model, the animals did not present clin-
+ical changes indicating suffering, pain or weight loss, and the use of 
+analgesic medication was not necessary at this stage.
+2.2  |  Treatment
+The TG animals received, subcutaneously, an injection of 0.1 mL/kg 
+of Chondroton® every 3 days, which corresponds to approximately 
+7.5 mg/kg of chondroitin sulphate and 7.5 mg/kg of glucosamine 
+sulphate. The administration of this medication was started 10 days 
+after the induction of OA. The doses were calculated according to 
+the recommended dosage in the drug package insert and according 
+to the dose used in studies previously performed by Artuzi et al.1,16 
+Due to the probable variation in the weight of the animals and the 
+need to adjust the dose of the medication, the animals' weight was 
+controlled on a weekly basis. The times 0, 10, 40, and 100 days cor-
+responded, respectively, to the time at which OA was induced, treat-
+ment started, and the animals died. The animals in the CG and OG 
+groups received, subcutaneously, only one volume of saline solution, 
+according to their body weight.
+To quantify TNF-­α, blood samples (10 mL) were collected from 
+all animals, through the lateral auricular vein, at 10, 40 and 100 days. 
+The animals were sedated with Ketamine (20 mg/kg), Meperidine 
+(3 mg/kg) and Midazolam (1 mg/kg), intramuscularly.
+2.3  |  Death and processing of the specimens
+According to the predetermined times (40, 100 days), the animals 
+were anaesthetised with an association of Ketamine (20 mg/kg), 
+ 13652842, 2024, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joor.13814 by University Of British Columbia, Wiley Online Library on [04/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+    |  2291
+MALAGUEZ et al.
+Meperidine (3 mg/kg), and Midazolam (1 mg/kg), in a final volume 
+of approximately 2 mL, intramuscularly, and killed by anaesthetic 
+overdose of Propofol (5 mg/kg), followed by an intravenous injec-
+tion of Potassium Chloride (1 mL/kg). The temporomandibular joints 
+were dissected bilaterally. The articular discs (36) on the left side 
+were removed, visualised with a magnifying glass, and preserved at 
+−80°C for collagen quantification. The right-­side temporomandibu-
+lar joints were fixed in 10% formalin and decalcified in 5% nitric acid. 
+Subsequently they were sectioned in the sagittal plane, embedded 
+in paraffin and processed for histological analysis.
+2.4  |  Quantification of collagen in the articular disc 
+by biochemical analysis
+The collagen concentration in the articular discs was determined 
+by the Sircol™ Soluble Collagen Assay (Biocolor, UK), following the 
+manufacturer's instructions. Disc samples were weighed on a pre-
+cision balance and stored in 1.5 mL Eppendorf Protein Lobin tubes. 
+For extraction of acid-­pepsin-­soluble collagen, specimens were di-
+gested with 0.5 M acetic acid containing 0.1 mg/mL pepsin (P7012; 
+Sigma-­Aldrich, USA) at a 1:20 ratio and incubated at 4°C for 48 h. 
+The supernatant was removed after centrifugation at 3000 rpm 
+for 10 min (Hettich–Universal 320R Centrifuge) and transferred to 
+another Eppendorf tube. To each tube of soluble collagen, 1 mL of 
+Sircol dye reagent was added and mixed by inversion and gentle 
+agitation on a shaker (KJ-­201BS Oscillator) for 30 min and cen-
+trifuged at 12000 rpm for 10 min. The precipitated dye-­collagen 
+complex was washed and drained with salt-­acid washing reagent. 
+Soon after, alkaline reagent was added and mixed by vortexing. 
+The absorbance of the samples was measured at 555 nm using a 
+microplate reader (Spectra Max® M3–Hexis Scientific). A collagen 
+calibration standard, provided in the kit, was used to obtain the 
+standard curve (15, 30 and 50 μg). The collagen concentration was 
+measured in μg/mg.
+2.5  |  Image capture and histological analysis
+Sagittal 0.4 μm sections of the temporomandibular joints along 
+the postero-­anterior axis, including the anterior, middle, and 
+posterior portions, were obtained and stained using PicroSirius 
+Red according to the manufacturer's protocol (EasyPath). Images 
+were captured with a polarised microscope (Olympus-­BX51TF) 
+coupled to a camera device (Olympus, Q-­Colour 5). Settings were 
+standardised and captures were taken at 4× magnification, where 
+three fields for each sample were selected and images stored in 
+TIF format.
+FI G U R E 1 Study design. CG–control group, OG–osteoarthritis group, TG–treatment group, OA–osteoarthritis, MIA–sodium 
+monoiodoacetate, CGS–chondroitin and glucosamine sulfate. Thirty-­six rabbits were divided into three groups: CG, OG, TG. The disease 
+was induced by injection of MIA in OG and TG groups. After 10 days the TG animals received subcutaneous injection of CGS and the OG and 
+CG groups received saline solution. Blood samples were collected before the animals were euthanized. The sample was subdivided into two 
+euthanasia times, 40 and 100 days.
+0
+10
+40
+100
+INDUCTION
+TREATMENT
+EUTHANASIA
+EUTHANASIA
+OA
+Blood drawn
+Blood drawn
+Blood drawn
+CG
+Saline solution
+(n =12)
++
+Saline solution
+(n =12)
+(n = 6)
+(n = 6)
+OG
+Monoiodoacetate
+(n =12)
++
+Saline solution
+(n =12)
+(n = 6)
+(n = 6)
+TG
+Monoiodoacetate
+(n =12)
++
+Chondroitin and
+Glucosamine Sulfate
+(n = 6)
+(n = 6)
+(n =12)
+N = 36
+N = 36
+N = 18
+N = 18
+ 13652842, 2024, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joor.13814 by University Of British Columbia, Wiley Online Library on [04/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+2292 |   
+MALAGUEZ et al.
+The total collagen area (cm2) of the articular disc was measured 
+on polarised images using ImageJ 1.53 k software (Wayne Rasband 
+and contributors, NIH, USA) using a semi-­automatic technique. First, 
+the measurements were calibrated from pixel to cm in the software 
+and the size of the image selected for analysis was manually stan-
+dardised to an area measuring 3 cm long × 0.06 cm high for all sam-
+ples. Subsequently, the entire occupied area per disk was selected 
+(by the free hand option) and the 8 bit type and threshold setting 
+was selected to invert the background into black and white. Finally, 
+particle analysis was performed (0-­infinity, overlay) and the data was 
+tabulated and analysed in cm2 of collagen.
+2.6  |  Quantification of TNF-­ α by serum analysis
+An enzyme immunoassay, Rabbit TNF-­α ELISA (MyBioSource) was 
+used for the quantification of the concentrations of serum TNF-­α lev-
+els of the samples. The amount of 100 μL of the standard and sample 
+was added to each well of the plate pre-­coated with specific antibody 
+provided by the kit and incubated for 90 min at 37°C. Immediately 
+after, 100 μL of Biotinylated Detection was added and incubated for 
+1 h at 37°C. The wells were washed and aspirated five times in an au-
+tomated way (Asys), 90 μL Substrate Reagent was added and incubated 
+for 15 min at 37°C followed by the addition of 50 μL Stop Solution. The 
+TA B LE 1 Evaluation of the effects of group, time, and group × time interaction on the variables collagen concentration and total collagen 
+area.
+Variables
+Control group
+Osteoarthritis group
+Treatment group
+Effects (p-­Value)
+Mean ± SD
+Mean ± SD
+Mean ± SD
+Group
+Time
+Group × Time
+Collagen concentration
+.380
+.001
+.826
+40 days
+15.1 ± 5.9b
+16.6 ± 3.9b
+16.2 ± 4.9b
+100 days
+8.2 ± 3.3b
+12.0 ± 4.2b
+10.6 ± 4.4b
+Total collagen area
+.014
+.708
+.151
+40 days
+0.45 ± 0.15a
+0.36 ± 0.21a
+0.63 ± 0.09a
+100 days
+0.36 ± 0.10a
+0.49 ± 0.15a
+0.55 ± 0.06a
+Note: Bold values are significant.
+aBetween-­group analysis.
+bIntragroup analysis. Equal letters do not differ by Fisher's Least Significant Difference (LSD) test at 5% significance between groups.
+FI G U R E 2 Histological analysis of the 
+collagen area occupied in the articular disc 
+of rabbits 40 days after treatment. Images 
+in 4× objective. Picrosirius Red staining 
+of rabbit TMJ sagittal sections with 
+the structures indicated. Images were 
+obtained under non-­polarised light (A) 
+and polarised light (B). (1) Control group 
+(CG), (2) osteoarthritis group (OG), (3) 
+treatment group (TG). The better collagen 
+organisation correlates with the CGS TG 
+post OA induction and the CG. The white 
+arrowheads indicate the articular disc. 
+In image 1B and 3B the disc is intact and 
+the collagen fibres are preserved. The 
+white arrow on image 2B indicates the 
+rupture of the collagen fibres. The black 
+arrow in image 2A shows the presence 
+of subchondral fissure, erosion and 
+discontinuity of the articular surface. 
+The black arrow in image 3A (TG) shows 
+changes caused by OA, such as reduced 
+cartilage layer thickness, fibril formation, 
+and cell degeneration. However, the 
+articular disc, white arrow image 3B, 
+remains intact.
+ 13652842, 2024, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joor.13814 by University Of British Columbia, Wiley Online Library on [04/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+    |  2293
+MALAGUEZ et al.
+colour change was measured spectrophotometrically at a wavelength 
+of 450 nm (Spectra Max® M3–Hexis Científica), and the values were 
+determined in pg/mL and compared to the standard curve.
+2.7  |  Statistical analysis
+Variables were described by mean and standard deviation and compared 
+over time and between groups using two-­way Analysis of Variance 
+(ANOVA) for analysis of collagen concentration and area of collagen oc-
+cupied in the disc. An Analysis of Variance (ANOVA) for repeated meas-
+ures, followed by Fisher's Least Significant Difference (LSD) test to locate 
+significant differences for analysis of TNF-­α levels. In addition, the par-
+tial eta square (η2
+p) was calculated to measure the effect size. According 
+to Cohen, values ≥0.3 indicate small effect size, between 0.31 and 0.5 
+moderate effect size, and above 0.5 large effect size. The significance 
+level adopted was 5% (p < .05) and analyses were performed using SPSS 
+(SPPS Inc., Chicago, IL, USA) version 21.0 software.
+3  |  RESULTS
+3.1  |  Area occupied by collagen in the articular disc
+There was a statistically significant effect of group (treatment) 
+(F(2,29) = 5.163, p = .014), where it was observed that, regardless of 
+the time assessed, there is an increase in the total area of collagen 
+(cm2) in the TG when compared to the others, which did not differ 
+(Table 1). We also observed a treatment effect, where there was an 
+increase in the total collagen area (cm2) in the articular disc of the TG, 
+when compared to the others. Furthermore, TG showed histologi-
+cally greater preservation of joint structures and better organisation 
+of collagen fibres when compared to OG, which showed histological 
+signs of disc degeneration and less collagen (Figures 2 and 3). There 
+was no time effect in the groups studied (F(1,24) = 0.144, p = .708) or 
+interactions between the Group and Time (F(2,24) = 2.051, p = .151).
+3.2  |  Collagen concentration (μg/mg)
+There was no significant group x time interaction effect 
+(F(2,34) = 0.192, p = .826), as shown in Table 1, that is, the behaviour 
+of the groups was similar between times. When only the effect of 
+time was evaluated (F(2,34) = 13.796, p = .001), a statistically signifi-
+cant reduction was observed between the times 40 (15.9 ± 4.7) and 
+100 days (10.3 ± 4.0) (p = .001) with the passage of time. Regarding 
+the groups, no significant differences were seen between the treat-
+ments (F(2,34) = 1.001, p = .380).
+3.3  |  Serum levels of TNF-­α (pg/mL)
+The Table 2 presents the results of ANOVA for repeated measures in 
+the evaluation of TNF-­α levels between groups and time. There was a 
+FI G U R E 3 Histological analysis of the 
+collagen area occupied in the articular 
+disc of rabbits 100 days after treatment. 
+Images in 4× objective. Picrosirius Red 
+staining of rabbit TMJ sagittal sections 
+with the structures indicated. Images 
+were obtained under non-­polarised light 
+(A) and polarised light (B). (1) Control 
+group (CG), (2) osteoarthritis group (OG), 
+(3) treatment group (TG). The collagen 
+fibres, which are yellowish green or red, 
+can be seen in quantity and distribution 
+that are better in the CG and TG than in 
+the OG, indicating the preservation of 
+structures after the induction of disease, 
+as indicated in the statistical analyses 
+presented. The white arrows in images 1B 
+(CG) and 3B (TG) show the intact articular 
+disc and preserved collagen fibres. The 
+yellow arrow in image 3B indicates for 
+an imaging artefact. The white arrow on 
+image 2B (OG) shows disruption of the 
+articular disc.
+ 13652842, 2024, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joor.13814 by University Of British Columbia, Wiley Online Library on [04/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+2294 |   
+MALAGUEZ et al.
+significant interaction effect between group and time, showing that 
+the behaviour between groups was significantly different over time 
+(F(2,30) = 6.506, p = .004) ηp2 = .303. This is mainly due to the signifi-
+cant increase in TNF-­α levels in the OG group when compared to the 
+CG (p = .002) and TG (p = .041), (Figure 4). In addition, the OG group 
+showed similar results to the CG, with no significant differences 
+(p = .257), indicating a reversal of the increase in TNF-­α in the OG 
+group after the intervention. We observed an effect of time between 
+pre and post treatment (F(1,30) = 7.946, p = .008) ηp2 = .209.
+4  |  DISCUSSION
+In the present study, collagen levels were analysed in the TMJ ar-
+ticular disc of rabbits that had chemically induced osteoarthritis and 
+were subsequently treated with CGS. The increase in collagen area 
+observed in TG compared to OG and CG suggests a preventive ef-
+fect of CGS on osteoarthritis progression, since after inflammation 
+induction it maintained the quantity and organisation of collagen 
+fibres in the articular discs, indicating delayed degeneration of the 
+structures. This is the first study to evaluate the structural effect of 
+CGS in articulation, observing the collagen composition of the disc, a 
+fundamental component for TMJ functionality.
+Glucosamine and chondroitin are structural molecules of the 
+disc and articular cartilage and are fundamental for the synthesis 
+of proteoglycans and glycosaminoglycans (GAGs).17–19 Studies 
+show that changes in structure and composition in the disc alter 
+its nanomechanical properties and affect its ability to absorb loads 
+during daily activities such as chewing, talking, and yawning.3,5,7,20 
+In addition, the arrangement of collagen fibres in the articular disc 
+influences force distribution, helping to reduce stress concentra-
+tion in the directly loaded region.5,6 In 2019, Cui et al, showed that 
+the presence of inflammation causes a disarrangement and loos-
+ening of the collagen molecule, generating a porosity between its 
+bundles, reducing the modulus of elasticity of the inflamed disc 
+region and impairing the ability to resist external stress.20 For this 
+reason, the maintenance of the organisation of collagen fibres of 
+the articular disc has been shown to be as important as its bio-
+chemical composition.6 The bioavailability of a substrate for the 
+synthesis of proteoglycans and GAGs through CGS supplementa-
+tion, while joint tissues are exposed to the inflammatory processes 
+of osteoarthritis, would be an interesting alternative, because be-
+sides its symptomatic benefits, it would promote a protective ef-
+fect of the structures. Moreover, OA treatment with CGS in TMJ 
+has shown better effects in reversing degenerative changes than in 
+other joints, possibly due to the presence of mesenchymal cells in 
+fibrocartilage, evidencing its potential as DME.1,21 In 2020, Bi et al, 
+observed the existence of a specific population of stem cells in 
+human condyle fibrocartilage, whose chondrogenic potential was 
+regulated by SOX9 expression. In patients with TMJ osteoarthritis 
+TA B LE 2 TNF-­α intra and inter-­group analyses between pre-­treatment versus post-­treatment times.
+Variables
+Control group
+Osteoarthritis group
+Treatment group
+Effects (p-­Value; eta2 partial)
+Mean ± SD
+Mean ± SD
+Mean ± SD
+Group
+Time
+Group × Time
+TNF-­α
+(p = .130; 
+η2
+p = .127)
+(p = .008; 
+η2
+p = .209)
+(p = .004; 
+η2
+p = .303)
+Pre
+0.08 ± 0,13a
+0.02 ± 0.03a
+0.09 ± 0.15a
+Post
+0.05 ± 0,07a
+0.32 ± 0.28a
+0.14 ± 0.17a
+aEqual letters do not differ by Fisher's Least Significant Difference (LSD) test at 5% significance level. There was a statistically significant increase 
+in TNF-­ α levels in the Osteoathritis group over time, while the Treatment group showed similar results to the Control group, demonstrating a 
+prevention in the increase of TNF-­α.
+FI G U R E 4 Behaviour of serum TNF-­α 
+levels between groups during the pre-­ 
+and post-­treatment times. An interaction 
+between group and time is observed. 
+There was a significant increase in 
+the serum levels of TNF-­α in the OG*, 
+which did not occur in the other groups, 
+demonstrating a preventive effect of CGS 
+on the increase in TNF-­α levels.
+ 13652842, 2024, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joor.13814 by University Of British Columbia, Wiley Online Library on [04/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+    |  2295
+MALAGUEZ et al.
+who had damaged fibrocartilage, the expression of SOX9 had been 
+suppressed. Interestingly, inflammatory cytokines such as TNF-­α 
+activate nuclear factor (NF)-­kB, whose signalling pathway may 
+regulate the expression of this gene.2 In the present study, CGS 
+were shown to reduce TNF-­α levels even after induction of inflam-
+mation, which could indicate their influence in preventing tissue 
+degradation by avoiding SOX9 suppression.
+To evaluate the collagen concentration between groups, a bio-
+chemical analysis was performed and statistically significant dif-
+ferences were found between times 40 and 100, where the former 
+showed higher collagen concentrations. This can be explained by the 
+increased synthesis of ECM components, such as proteoglycans, in 
+the early stages of OA as an attempt at tissue repair.22 In relation 
+to the groups, although the collagen concentration (μg/mg) of the 
+TG100 and TG40 showed higher concentrations when compared to 
+OG40 and CG100, the difference was not significant, possibly due to 
+the small sample size between the subgroups.
+In the present study, TNF-­α levels increased significantly in the OG 
+group, which had the disease induced and was treated only with saline 
+solution. The same group also showed histological signs of disc degener-
+ation and less collagen. This result is in agreement with previous studies 
+showing increased levels of TNF-­α in the synovial fluid of patients with 
+temporomandibular disorders.17 Moreover, serum levels of TNF-­α after 
+treatment with CGS reached levels close to those found in the CG group 
+and both were lower than in the OG group, showing that the treatment 
+was effective in reversing the increase in TNF-­α in the TG to levels close 
+to the pre-­intervention time, suggesting an anti-­inflammatory effect of 
+CGS. TNF-­α is considered a protagonist in degenerative processes, be-
+cause it acts as an initiating cytokine and activates signalling cascades, 
+recruiting immune cells and activating neutrophil migration and the 
+expression of proteolytic enzymes.23,24 The positive effects of CGS on 
+TNF-­α levels have been reported to modulate inflammation of joint tis-
+sues affected by osteoarthritis and stimulate tissue recovery by proteo-
+glycan synthesis and inhibition of NF-­kB.1,9,11,15,17,25,26 Activation and 
+translocation of NF-­kB is associated with increased expression of pro-
+teolytic enzymes and pro-­inflammatory cytokines by chondrocytes and 
+synoviocytes, and the anti-­inflammatory effects of CGS are reported to 
+interfere with this process.27,28
+It is important to point out that the clinical efficacy of CGS is 
+still controversial, since the studies are highly heterogeneous, with 
+different study designs, dosages, and product presentation, mak-
+ing it difficult to reach a precise conclusion about their effects.29 
+The routes of administration, oral and intravenous, have differ-
+ent bioavailability and the formulations differ between countries, 
+where in the USA it is considered a nutritional supplement and 
+in some European countries, a medication subject to quality con-
+trols.12,25,30,31 On the other hand, the advantages of CGS over other 
+medications are: rare gastrointestinal and cardiac adverse reactions, 
+as observed in anti-­inflammatory drugs; preservation and recovery 
+of joint tissues, improving jaw function, and consequently, postpon-
+ing the need for surgical interventions.
+It should also be noted that studies in patients are analysed at various 
+stages of disease, tissue repair and different ages, with great variability in 
+samples. The animal model, as in the present study, allows standardisa-
+tion of sample characteristics, such as weight, age and sex, as well as the 
+times of disease induction and treatment. Rabbit TMJ is anatomically 
+and histologically similar to the human joint. The rabbit condyle is cov-
+ered by secondary cartilage and fibrous tissue. Furthermore, similar dis-
+tribution of collagen and proteoglycans is observed. The most notable 
+morphological difference between rabbit and human TMJ is the shape 
+of the articular surface of the condyle and the retrodiscal area, since the 
+animals do not have a posterior glenoid wall, which facilitates access and 
+manipulation for experiments without the need for surgical access. For 
+this reason, the rabbit is a good animal model for experimental studies 
+of human TMJ diseases and therapies.16,32
+In conclusion, the present study showed that CGS can influence 
+the treatment of OA in rabbit TMJ, reducing the serum levels of 
+TNF-­α and increasing the amount of collagen in the articular discs, 
+indicating a preventive and anti-­inflammatory effect. However, fur-
+ther studies that are TMJ-­focused and have similar experimental 
+protocols are needed to corroborate the effects of CGS.
+AUTHOR CONTRIBUTIONS
+F.A., D.P., E.P. conception of the study and design of the experi-
+ments. G.M., F.A., conducting the experiments. A.Q., data analysis. 
+G.M., D.P., A.Q., writing the manuscript. All authors reviewed the 
+manuscript.
+ACKNOWLEDGEMENTS
+This study was funded in part by the Coordenação de Aperfeiçoamento do 
+Pessoal de Nível Superior-­Brasil (CAPES)—Financial Code 001. We thank 
+the Brazilian funding agency Fundo de Incentivo à Pesquisa e Eventos 
+do Hospital de Clínicas de Porto Alegre (HCPA/ FIPE). We also thank 
+the Graduate Group of the School of Dentistry (PPGO) of the Federal 
+University of Rio Grande do Sul and the Animal Experimentation Unit 
+(UEA). We thank Professor Márcia Gaiger de Oliveira for her support in 
+the experiments performed at the Laboratory of Oral Pathology, Federal 
+University of Rio Grande do Sul. We thank researchers Hugo Bock and 
+Emily Pillar from the Protein and Molecular Analysis Unit of the Hospital 
+de Clínicas de Porto Alegre for their collaboration in the laboratory experi-
+ments and Bibiana Matte for the guidance in histological analyses.
+CONFLICT OF INTEREST STATEMENT
+The authors declare that there is no conflict of interest.
+PEER REVIEW
+The peer review history for this article is available at https://​www.​
+webof​scien​ce.​com/​api/​gatew​ay/​wos/​peer-­​review/​10.​1111/​joor.​
+13814​.
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are available upon 
+request from the corresponding author.
+ORCID
+Felipe Ernesto Artuzi 
+ https://orcid.org/0000-0001-6148-5396 
+ 13652842, 2024, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joor.13814 by University Of British Columbia, Wiley Online Library on [04/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+2296 |   
+MALAGUEZ et al.
+REFERENCES
+	 1.	 Artuzi FE, Puricelli E, Baraldi CE, Quevedo AS, Ponzoni D. Reduction 
+of osteoarthritis severity in the temporomandibular joint of rab-
+bits treated with chondroitin sulfate and glucosamine. PLoS One. 
+2020;15(4):e0231734. doi:10.1371/journal.pone.0231734
+	 2.	 Bi R, Yin Q, Mei J, et al. Identification of human temporomandibular 
+joint fibrocartilage stem cells with distinct chondrogenic capacity. 
+Osteoarthr Cartil. 2020;28:842-852. doi:10.1016/j.joca.2020.02.835
+	 3.	 Fazaeli S, Ghazanfari S, Mirahmadi F, Everts V, Smit TH, Koolstra 
+JH. The dynamic mechanical viscoelastic properties of the tem-
+poromandibular joint disc: the role of collagen and elastin fibers 
+from a perspective of polymer dynamics. J Mech Behav Biomed 
+Mater. 2019;100:103406. doi:10.1016/j.jmbbm.2019.103406
+	 4.	 Acri TM, Shin K, Seol D, et  al. Tissue engineering for the tem-
+poromandibular joint. Adv Healthc Mater. 2019;8(2):e1801236. 
+doi:10.1002/adhm.201801236
+	 5.	 Beek M, Aarnts MP, Koolstra JH, Feilzer AJ, van Eijden TM. Dynamic 
+properties of the human temporomandibular joint disc. J Dent Res. 
+2001;80(3):876-880. doi:10.1177/0022034501080003060
+	 6.	 Fazaeli S, Ghazanfari S, Everts V, Smit TH, Koolstra JH. The con-
+tribution of collagen fibers to the mechanical compressive prop-
+erties of the temporomandibular joint disc. Osteoarthr Cartil. 
+2016;24(7):1292-1301. doi:10.1016/j.joca.2016.01.138
+	 7.	 Tanaka E, Aoyama J, Tanaka M, et al. The proteoglycan contents 
+of the temporomandibular joint disc influence its dynamic visco-
+elastic properties. J Biomed Mater Res A. 2003;65(3):386-392. 
+doi:10.1002/jbm.a.10496
+	 8.	 Kristensen KD, Alstergren P, Stoustrup P, Küseler A, Herlin T, Pedersen 
+TK. Cytokines in healthy temporomandibular joint synovial fluid. J Oral 
+Rehabil. 2014;41(4):250-256. doi:10.1111/joor.12146
+	 9.	 Calamia V, Ruiz-­Romero C, Rocha B, et  al. Pharmacoproteomic 
+study of the effects of chondroitin and glucosamine sulfate on 
+human articular chondrocytes. Arthritis Res Ther. 2010;12(4):R138. 
+doi:10.1186/ar3077
+	10.	 Fernández-­Martín 
+S, 
+González-­Cantalapiedra 
+A, 
+Muñoz 
+F, 
+García-­González M, Permuy M, López-­Peña M. Glucosamine and 
+chondroitin sulfate: is there any scientific evidence for their ef-
+fectiveness as disease-­modifying drugs in knee osteoarthritis pre-
+clinical studies?–a systematic review from 2000 to 2021. Animals 
+(Basel). 2021;11(6):1608. doi:10.3390/ani11061608
+	11.	 Henrotin Y, Lambert C. Chondroitin and glucosamine in the 
+management of osteoarthritis: an update. Curr Rheumatol Rep. 
+2013;15(10):361. doi:10.1007/s11926-­013-­0361-­z
+	12.	 Kolasinski SL, Neogi T, Hochberg MC, et  al. 2019 American 
+College of Rheumatology/Arthritis Foundation guideline for the 
+Management of Osteoarthritis of the hand, hip, and knee. Arthritis 
+Care Res. 2020;72(2):149-162. doi:10.1002/acr.24131
+	13.	 Kim H, Yang G, Park J, Choi J, Kang E, Lee BK. Therapeutic effect 
+of mesenchymal stem cells derived from human umbilical cord in 
+rabbit temporomandibular joint model of osteoarthritis. Sci Rep. 
+2019;9(1):13854. doi:10.1038/s41598-­019-­50435-­2
+	14.	 Bi R, Chen K, Wang Y, et al. Regulating fibrocartilage stem cells via 
+TNF-­α/Nf-­κB in TMJ osteoarthritis. J Dent Res. 2022;101(3):312-
+322. doi:10.1177/00220345211037248
+	15.	 Uebelhart D, Thonar EJ, Zhang J, Williams JM. Protective effect 
+of exogenous chondroitin 4,6-­sulfate in the acute degradation of 
+articular cartilage in the rabbit. Osteoarthr Cartil. 1998;6 Suppl A:6-
+13. doi:10.1016/s1063-­4584(98)80005-­8
+	16.	 Artuzi FE, Langie R, Abreu MC, et  al. Rabbit model for osteo-
+arthrosis of the temporomandibular joint as a basis for assess-
+ment of outcomes after intervention. Br J Oral Maxillofac Surg. 
+2016;54(5):e33-e37. doi:10.1016/j.bjoms.2016.01.022
+	17.	 Damlar I, Esen E, Tatli U. Effects of glucosamine-­chondroitin combi-
+nation on synovial fluid IL-­1β, IL-­6, TNF-­α and PGE2 levels in inter-
+nal derangements of temporomandibular joint. Med Oral Patol Oral 
+Cir Bucal. 2015;20(3):e278-e283. doi:10.4317/medoral.20242
+	18.	 Huskisson EC. Glucosamine and chondroitin for osteoarthritis. J Int 
+Med Res. 2008;36:1161-1179. doi:10.1177/147323000803600602
+	19.	 Natiella JR, Burch L, Fries KM, Upton LG, Edsberg LE. Analysis 
+of the collagen I and fibronectin of temporomandibular joint sy-
+novial fluid and discs. J Oral Maxillofac Surg. 2009;67(1):105-113. 
+doi:10.1016/j.joms.2008.08.029
+	20.	 Cui SJ, Fu Y, Liu Y, et al. Chronic inflammation deteriorates struc-
+ture and function of collagen fibril in rat temporomandibular joint 
+disc. Int J Oral Sci. 2019;11(1):2. doi:10.1038/s41368-­018-­0036-­8
+	21.	 Bassleer C, Rovati L, Franchimont P. Stimulation of proteoglycan 
+production by glucosamine sulfate in chondrocytes isolated from 
+human osteoarthritic articular cartilage in vitro. Osteoarthr Cartil. 
+1998;6(6):427-434. doi:10.1053/joca.1998.0146
+	22.	 Kaneyama K, Segami N, Nishimura M, Suzuki T, Sato J. Importance 
+of proinflammatory cytokines in synovial fluid from 121 joints 
+with temporomandibular disorders. Br J Oral Maxillofac Surg. 
+2002;40(5):418-423. doi:10.1016/S0266-­4356(02)00215-­2
+	23.	 Wang Y, Bao M, Hou C, Wang Y, Zheng L, Peng Y. The role of TNF-­α 
+in the pathogenesis of temporomandibular disorders. Biol Pharm 
+Bull. 2021;44(12):1801-1809. doi:10.1248/bpb.b21-­00154
+	24.	 Liao CR, Wang SN, Zhu SY, et al. Advanced oxidation protein prod-
+ucts increase TNF-­α and IL-­1β expression in chondrocytes via 
+NADPH oxidase 4 and accelerate cartilage degeneration in osteo-
+arthritis progression. Redox Biol. 2020;28:101306. doi:10.1016/j.
+redox.2019.101306
+	25.	 Bruyère O, Cooper C, Pelletier JP, et  al. A consensus statement 
+on the European Society for Clinical and Economic Aspects of os-
+teoporosis and osteoarthritis (ESCEO) algorithm for the manage-
+ment of knee osteoarthritis-­from evidence-­based medicine to the 
+real-­life setting. Semin Arthritis Rheum. 2016;45(4 Suppl):S3-S11. 
+doi:10.1016/j.semarthrit.2015.11.010
+	26.	 du Souich P. Absorption, distribution and mechanism of action of 
+SYSADOAS. Pharmacol Ther. 2014;142(3):362-374. doi:10.1016/j.
+pharmthera.2014.01.00
+	27.	 Iovu M, Dumais G, du Souich P. Anti-­inflammatory activity of 
+chondroitin sulfate. Osteoarthr Cartil. 2008;16(Suppl 3):S14-S18. 
+doi:10.1016/j.joca.2008.06.008
+	28.	 Largo R, Alvarez-­Soria MA, Díez-­Ortego I, et al. Glucosamine inhib-
+its IL-­1beta-­induced NFkappaB activation in human osteoarthritic 
+chondrocytes. Osteoarthr Cartil. 2003;11(4):290-298. doi:10.1016/
+s1063-­4584(03)00028-­1
+	29.	 Reginster JY, Bruyere O, Neuprez A. Current role of glucos-
+amine in the treatment of osteoarthritis. Rheumatology (Oxford). 
+2007;46(5):731-735. doi:10.1093/rheumatology/kem026
+	30.	 Zerkak D, Dougados M. The use of glucosamine therapy in os-
+teoarthritis. Curr Rheumatol Rep. 2004;6(1):41-45. doi:10.1007/
+s11926-­004-­0082-­4
+	31.	 Henrotin Y, Marty M, Mobasheri A. What is the current status of 
+chondroitin sulfate and glucosamine for the treatment of knee 
+osteoarthritis? 
+Maturitas. 
+2014;78(3):184-187. 
+doi:10.1016/j.
+maturitas.2014.04.015
+	32.	 Cougo MCR, Quevedo AS, Ponzoni D. Animal models used to 
+study the temporomandibular joint: literature review. Res Soc Dev. 
+2021;10(12):e420101220586. doi:10.33448/rsd-­v10i12.20586
+How to cite this article: Malaguez GG, Artuzi FE, Quevedo 
+AS, Puricelli E, Ponzoni D. Can treatment with chondroitin 
+and glucosamine sulphate prevent changes in the articular 
+disc caused by temporomandibular joint osteoarthritis? J Oral 
+Rehabil. 2024;51:2289-2296. doi:10.1111/joor.13814
+ 13652842, 2024, 11, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/joor.13814 by University Of British Columbia, Wiley Online Library on [04/11/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

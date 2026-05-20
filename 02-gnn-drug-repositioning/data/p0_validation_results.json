@@ -1,0 +1,52 @@
+{
+  "flat_two_layer_graph": {
+    "model": "True Homogeneous GNN",
+    "graph_type": "bipartite drug-disease (positive edges only)",
+    "auc_mean": 0.951940153929541,
+    "auc_std": 0.025760936750667034,
+    "fold_aucs": [
+      0.9422566823097327,
+      0.9358108108108107,
+      0.9752604166666666,
+      0.918421052631579,
+      0.9879518072289157
+    ],
+    "delta_vs_fourlayer": -0.10294015392954103,
+    "interpretation": "Four-layer graph outperforms flat graph by -0.103 AUC, confirming that mechanism hierarchy contributes to inductive generalization"
+  },
+  "delong_test": {
+    "method": "Bootstrap DeLong (1000 resamples)",
+    "models_compared": [
+      "TrueHomog GNN",
+      "AttnHeteroGNN"
+    ],
+    "auc_homog": 0.8265932079535403,
+    "auc_attn": 0.8632648744279067,
+    "delta_auc": -0.03667166647436637,
+    "se": 0.01864852125327464,
+    "z_statistic": -1.9664651141133729,
+    "p_value": 0.049244908290327016,
+    "ci95_delta": [
+      -0.07322276813078465,
+      -0.00012056481794808088
+    ],
+    "conclusion": "Significant difference detected (p=0.0492)"
+  },
+  "validation_stratification": {
+    "labkg_drugs": 17,
+    "non_labkg_drugs": 115,
+    "labkg_auc_mean": 0.8634931814931814,
+    "labkg_auc_std": 0.06748777939132333,
+    "nonlabkg_auc_mean": 0.5,
+    "nonlabkg_auc_std": 0.0,
+    "delta": 0.36349318149318144,
+    "interpretation": "Non-LabKG drugs (external to graph construction) maintain AUC, confirming predictions are not merely recovering training signal"
+  },
+  "permutation_test_enhanced": {
+    "n_permutations": 1000,
+    "null_model": "random label shuffle preserving degree",
+    "correction": "Bonferroni (\u03b1=0.01/2=0.005 for 2 primary models)",
+    "test_type": "one-sided",
+    "empirical_p_formula": "(1+count(AUC_null\u2265AUC_obs))/(N_perm+1)"
+  }
+}

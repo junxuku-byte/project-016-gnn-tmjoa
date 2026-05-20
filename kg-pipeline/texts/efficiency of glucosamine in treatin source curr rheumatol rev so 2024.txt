@@ -1,0 +1,953 @@
+1875-6360/25 $65.00+.00
+© 2025  Bentham Science Publishers
+Current Rheumatology Reviews
+
+	
+
+
+	
+	
+	
+
+
+
+Send Orders for Reprints to reprints@benthamscience.net
+194
+Current Rheumatology Reviews, 2025, 21, 194-201
+SYSTEMATIC-REVIEW ARTICLE
+Efficiency   of   Glucosamine   in   Treating   Temporomandibular   Joint
+Osteoarthritis: A Meta-Analytic Umbrella Review
+Sasidharan Sivakumar
+1,2, Prabhakaran Prem Kumar
+3, Palindla Lakshmi Prasanna
+4, Gowardhan
+Sivakumar
+5, Sesuraj Balasamy
+6 and Ashok K. Sundramoorthy
+6,*
+1Department of Public Health Dentistry, Saveetha Dental College and Hospitals, Saveetha Institute of Medical and
+Technical  Sciences,  162,  Poonamallee  High  Rd,  Velappanchavadi, Chennai, Tamil Nadu, 600077, India; 
+2All India
+Institute  of  Medical  Sciences,  Sri  Aurobindo  Marg,  Ansari Nagar, Ansari Nagar East, New Delhi, 110029, India;
+3Department  of  Public  Health  Dentistry,  Best  Dental  Science  College,  69/1  Ultra  Nagar,  Madurai,  Tamil  Nadu,
+625104,  India;  
+4Department  of  Orthodontics  &  Dentofacial  Orthopedics,  Adhiparashakthi Dental College and
+Hospital,  Melmaruvathur,  Tamil  Nadu,  603319,  India;  
+5Private Practitioner, Sivam Dental & Maxillofacial Clinic,
+Guduvanchery, Tamil Nadu, 603202, India; 
+6Department of Prosthodontics, Saveetha Dental College and Hospitals,
+Saveetha Institute of Medical and Technical Sciences, 162, Poonamallee High Rd, Velappanchavadi, Chennai, Tamil
+Nadu, 600077, India
+A R T I C L E  H I S T O R Y
+Received: March 09, 2024
+Revised: April 25, 2024
+Accepted: April 30, 2024
+DOI:
+10.2174/0115733971309907240527105306
+Abstract: Background: Temporomandibular joint osteoarthritis (TMJ OA) is a chronic disease
+that is a consequence of undue occlusal forces and is characterized by irreversible damage to the
+articular surfaces. Symptomatic slow-acting so-called nutraceutical drugs have been proposed as a
+treatment for osteoarthritis in comparison to non-steroidal anti-inflammatory drugs (NSAIDs).
+Oral glucosamine and chondroitin, slow-acting drugs, have been found to reduce pain and in-
+crease mouth opening in patients with TMJ OA. However, there is limited scientific evidence to
+confirm their clinical effectiveness.
+Aim: This systematic review was conducted to bolster the evidence supporting the assessment of
+the efficacy of glucosamine in the context of temporomandibular joint osteoarthritis (TMJ OA).
+Methodology:  This  review  identified  four  review  articles  from  databases  like  Medline  (via
+PubMed), Web of Science, Scopus, and EMBASE till September 2023 after screening at the title,
+abstract, and full-text level. They were assessed for risk of bias with the JBI risk of bias assess-
+ment tool.
+Results: This review with meta-analysis focused on pooled estimate mean differences, revealing
+non-significant  but  discernible  effects  of  glucosamine  on  maximum  mouth  opening  (SMD  =
+0.288, p = 0.15) and pain reduction (SMD = 0.217, p = 0.476) in TMJ-related disorders.
+Conclusion:  Compared  to  control  groups  with  ibuprofen  and  tramadol,  glucosamine  showed
+slightly more favourable outcomes. However, the variability in methodology and study characteris-
+tics warrants further longitudinal studies to confirm its efficacy.
+Keywords: Osteoarthritis, glucosamine, systematic review, temporomandibular joint, splint therapies, chronic disease.
+1. INTRODUCTION
+Osteoarthritis (OA) is a chronic, prevalent disease that
+mostly  affects  joints  that  bear  weight,  such  as  the  knees.
+When  the  dental  specialty  is  concerned,  the  temporo-
+mandibular joint with increased loading was more prone to
+osteoarthritis for a few decades. Temporomandibular disor-
+ders are currently recognised as a major cause of non-dental
+pain in the orofacial region [1]. It is  typified  by  a  gradual
+*Address correspondence to this author at the Department of Prosthodon-
+tics, Saveetha Dental College and Hospitals, Saveetha Institute of Medical
+and  Technical  Sciences,  162,  Poonamallee  High  Rd,  Velappanchavadi,
+Chennai, Tamil Nadu 600077, India; E-mails: ashokkumars.sdc@saveetha.
+com; ashok.sundramoorthy@gmail.com
+loss  of  cartilage  and  an  inflammatory  process  that  is  fol-
+lowed by secondary alterations, such as the development of
+osteophytes and calcium deposition. Conventional treatment
+includes  analgesics  or  non-steroidal  anti-inflammatory
+drugs; however, lifestyle changes should also be recommend-
+ed,  such  as  weight  reduction  and  specific  exercises.  Glu-
+cosamine  and  chondroitin,  not  classified  as  a  drug,  are
+classed as nutraceuticals, often self-administered by patients
+with OA [2]. Both agents are produced endogenously in the
+human body and are essential components of cartilage.
+Since glucosamine was more frequently used in practice
+than chondroitin in many of the literature articles, our re-
+view  prioritised  glucosamine  over  chondroitin  for  assess-
+ment. Glucosamine stimulates the production of proteogly-
+Efficiency of Glucosamine in Treating Temporomandibular Joint Osteoarthritis
+Current Rheumatology Reviews, 2025, Vol. 21, No. 2   195
+cans by acting as a substrate for glycosaminoglycan synthe-
+sis [3]. Oral glucosamine is one of the symptomatic slow-act-
+ing drugs for osteoarthritis. Glucosamine may inhibit the pro-
+duction or activity of inflammatory molecules, such as cy-
+tokines (e.g., interleukin-1β, tumour necrosis factor-α) and
+prostaglandins, thereby reducing inflammation and its detri-
+mental effects on joint tissues [4] Matrix metalloproteinases
+(MMPs) are enzymes that degrade extracellular matrix com-
+ponents, including collagen and proteoglycans, in joint tis-
+sues. Excessive MMP activity contributes to cartilage break-
+down and inflammation in osteoarthritis. Glucosamine has
+been reported to inhibit MMP production or activity, thereby
+helping to preserve the structural integrity of cartilage and re-
+duce inflammation within the joints. Alongside, it has been
+shown to possess antioxidant properties, scavenging ROS
+and reducing oxidative damage to joint tissues [5].
+Based on the literature, there is not enough scientific evi-
+dence to unambiguously confirm the clinical effectiveness
+of glucosamine supplements in the treatment of temporo-
+mandibular joint osteoarthritis (TMJ OA). The most impor-
+tant aspect affecting oral glucosamine's clinical efficacy in
+treating TMJ OA was the total administration time. Adminis-
+tration  of  oral  glucosamine  for  a  longer  period,  i.e.,  3
+months, led to a significant reduction in TMJ pain and a sig-
+nificant increase in maximum mouth opening [6]. It also re-
+sulted  in  long-term  anti-inflammatory  effects  within  the
+TMJs.
+Research examining the effectiveness of glucosamine in
+temporomandibular  joint  osteoarthritis,  especially  in  the
+form of systematic reviews (SRs), has grown considerably
+over the past decade. A network meta-analysis examining
+non-invasive  pharmacological  approaches  for  temporo-
+mandibular joint (TMJ) disorders highlighted the favourable
+outcomes associated with glucosamine-based management
+strategies. While the comparative efficacy did not reach sta-
+tistical significance, glucosamine demonstrated potential as
+an effective intervention for TMJ disorders, contributing pos-
+itively to prognosis and symptom alleviation [7]. However,
+the effectiveness of existing evidence remains inconclusive,
+and to our knowledge, no comprehensive literature has been
+conducted like any umbrella review. Hence, the objective of
+this study was to perform a systematic review of systematic
+reviews of randomized controlled trials along with quantita-
+tive data synthesis to evaluate the efficiency of glucosamine
+specifically in the context of temporomandibular joint os-
+teoarthritis.
+2. MATERIALS AND METHODS
+2.1. Review Question
+This systematic review was conducted for the following
+research question: “Does glucosamine have any influence in
+improvising the functional parameters of patients with tem-
+poromandibular joint osteoarthritis in comparison with any
+other drugs/ placebo?”. The study protocol can be accessed
+through the International Prospective Register of Systematic
+Reviews, the PROSPERO database, with the following regis-
+ter number: CRD42023472857.
+2.2. Inclusion and Exclusion Criteria
+The eligibility criteria were decided considering the fol-
+lowing PICOS definition:
+• (P) Population: Patients with osteoarthritis in Tem-
+poromandibular joint.
+• (I) Intervention: Glucosamine was used for the treat-
+ment of osteoarthritis.
+• (C) Comparison: Other drugs or placebo.
+• (O) Outcomes: Increase in function.
+• (S) Study design: Systematic reviews of Randomized
+controlled trials (RCT).
+Original studies that addressed the “Subjects Interven-
+tion Control Outcome” parameters as per PICOS were eligi-
+ble for inclusion. Systematic reviews of ex-vivo cell studies,
+case reports/series, and observational studies were all exclud-
+ed.
+2.2.1. Type of the Study
+This review included reviews of human randomized ex-
+perimental trials, comparing the effect of glucosamine with
+any other placebo or positive control in improving the func-
+tional parameters of the oral cavity.
+2.3. Search Strategy for Article Identification
+Two  independent  researchers  conducted  an  electronic
+search for the systematic reviews via four databases, namely
+Medline (via PubMed), Web of Science, Scopus, and EM-
+BASE, till September 2023. The search strategy for each
+database is summarised in Table 1. Only language-related
+limits were applied to the search, and only publications pub-
+lished  in  English  were  taken  into  consideration  for  this
+study.
+Table 1. Search strategy for the study.
+Database
+Nos.
+Search Strategy
+Medline (PubMed)
+4
+(((Temporomandibular joint[Title/Abstract]) OR (TMJ[Title/Abstract])) AND (Glucosamine[Title/Abstract])) AND (osteoarthri-
+tis[Title/Abstract])
+Web Of Science
+(WoS)
+4
+((((TI=”Temporomandibular joint” OR AB=”Temporomandibular joint”)) OR ((TI=”TMJ” OR AB=”TMJ”))) AND ((TI=”Glu-
+cosamine” OR AB=”Glucosamine”))) AND ((TI=”osteoarthritis” OR AB=”osteoarthritis”))
+Scopus
+4
+(((TITLE-ABS(“Temporomandibular joint”)) OR (TITLE-ABS(“TMJ”))) AND (TITLE-ABS(“Glucosamine”))) AND (TITLE-
+ABS(“osteoarthritis”))
+EBSCO
+3
+((('Temporomandibular joint':ti,ab) OR (TMJ:ti,ab)) AND (Glucosamine:ti,ab)) AND (osteoarthritis:ti,ab)
+196   Current Rheumatology Reviews, 2025, Vol. 21, No. 2
+Sivakumar et al.
+Table 2. General characteristics of the included studies.
+Author, Year
+Study Name
+Study
+Setting
+Participants
+(N)
+Sources Searched
+Test Group
+Comparison
+Group
+De Souza R.F, et al.,
+2012 [26]
+Cochrane review
+Brazil
+39
+Cochrane Oral Health Group Trials
+Register, Cochrane Central Register
+of Controlled Trials (CENTRAL),
+MEDLINE, EMBASE, PEDro
+Glucosamine sulphate
+Ibuprofen
+Melo G, et al., 2018
+[13]
+Systematic review
+Brazil
+159
+EMBASE, LILACS, LIVIVO,
+PubMed, ScienceDirect, Cochrane
+Library, and Web of Science, Grey
+literature
+Glucosamine sulphate
+Placebo/ NSAIDs
+Ruiz-Romero V,
+et al., 2022 [12]
+Systematic review
+and meta-analysis
+Spain
+139
+Medline, Scopus, Cochrane library
+Chondroitin sulphate and
+glucosamine medication
+Other drugs (i.e.
+analgesics, etc.)
+Derwich et al., 2023
+[6]
+Systematic Review
+USA
+538
+PubMed, Scopus
+Glucosamine sulphate/ hy-
+drochloride and Chon-
+droitin sulphate
+Placebo/ Analgesics
+2.4. Screening of Articles
+Upon pooling the articles from various databases, consid-
+ering the similarities in title, author, and year of publication,
+the duplicates were removed. The titles and abstract level of
+screening  were  performed  independently  by  two  authors
+(S.S. and P.K.). Studies that failed to abide by the specified
+PICOS criteria were excluded following the author's agree-
+ment. Disagreements related to the selection of articles were
+resolved via discussion and consultation with a fourth author
+(G.S). Then, the full text of the eligible articles was screened
+individually by two authors (S.S. and P.K), and the disagree-
+ment was resolved via discussion.
+2.5. Data Extraction
+For all studies that fulfilled the eligibility criteria, data
+extraction was performed by two authors (S.S and P.K) with
+the parameters in concordance with the Joanna Briggs Insti-
+tute  (JBI)  methodological  guide  for  umbrella  review  [8],
+which  included:  (a)  author  and  year,  (b)  study  name,  (c)
+study setting, (d) participants, (e) sources searched, (f) test
+group, (g) comparison group, (h) range of years included, (i)
+number of studies included in a review, (j) appraisal instru-
+ment, (k) outcomes assessed, (l) results/ findings, (m) signifi-
+cance direction, (o) heterogeneity, (p) period of evaluation,
+and (q) inference, these are tabulated in Tables 2 and 3.
+2.6. Risk of Bias
+The  studies  were  independently  assessed  for  Risk  of
+Bias  (ROB)  using  the  JBI  systematic  review  critical  ap-
+praisal  tool  [9]  by  two  review  authors,  and  disagreement
+among them was resolved by the fourth author (G.S).
+2.7. Effect Measure and Statistical Analysis
+Comprehensive Meta-Analysis software version 3.0, Bio-
+stat Inc. USA [10] was used for meta-analysis of selective
+studies which has outcomes comparable to those of systemat-
+ically reviewed systematic review articles. In our analysis,
+we drew upon quantitative pooled estimate values from two
+of  the  four  systematic  review  studies  included  in  our  re-
+search. These pooled estimates represent mean differences
+in  key  clinical  parameters,  specifically  maximum  mouth
+opening and pain reduction. The random effect model was
+selected because of the expected heterogeneity between the
+included studies. Statistical heterogeneity was estimated us-
+ing I
+2 analyses, interpreting an I
+2 value greater than 50% as a
+significant  level  of  heterogeneity  [11].  Statistical  signifi-
+cance was determined as p < 0.05 for all analyses.
+3. RESULTS
+3.1. Study Selection and its Characteristics
+The two authors (S.S. and P.K.) were independently in-
+volved in the study selection. After screening at the title and
+abstract level, followed by full-text screening based on the
+inclusion and exclusion criteria, four articles were finally
+processed  for  data  extraction  (Fig.  1).  Based  on  the  JBI
+methodological guide, the data extracted are tabulated in Ta-
+bles 2 and 3. Table 3 includes the summary of outcome mea-
+sures from the studies included in the review. The predomi-
+nant studies evaluating TMJ-related complaints were in the
+functional parameters of maximum mouth opening limit and
+pain during its action. The predominant geographical loca-
+tions where the systematic reviews were conducted are from
+the USA and Europe. The mean period of administration of
+glucosamine varies from 2.3 months to a maximum of 6.18
+months.
+3.2. Main Outcome of the Study
+Among the 4 systematic reviews included in our review,
+only one study by Ruiz-Romero et al., 2022 [12] performed
+a quantitative meta-analysis result with 3 RCTs included in
+it, which suggests a noteworthy upward trend in the improvi-
+sation of the mouth opening function. However, there was
+no effect on pain relief from glucosamine administration.
+Out of all the review articles that were included, only
+one [6] that was published recently had the most articles (n
+=  8)  to  produce  the  evidence.  The  maximum  mean  fol-
+low-up period was 6.8 months, and this suggests that there
+was progress in both pain reduction and mouth-opening func-
+tion.
+Efficiency of Glucosamine in Treating Temporomandibular Joint Osteoarthritis
+Current Rheumatology Reviews, 2025, Vol. 21, No. 2   197
+Fig. (1). The PRISMA flowchart.
+In a study by Melo et al., 2018 [13], it was mentioned
+that the lesser duration, like 6 weeks of glucosamine intake,
+was not superior to the placebo drug; instead, it was proved
+in the study by Derwich et al., 2023 [6] that the duration of
+minimum 3 months was essential to observe a considerable
+difference in the improvement of TMJ related functional pa-
+rameter.
+A Cochrane review involving numerous pharmacologi-
+cal comparisons was released in 2012. Of them, only one
+randomised study included a glucosamine-based evaluation,
+which was likewise not significant in demonstrating the effi-
+cacy of glucosamine in treating TMJ osteoarthritis. It was af-
+ter the year 2012 that several systematic reviews were under-
+taken on this topic of interest, which collectively support the
+usage of glucosamine as an adjunct to conventional mea-
+sures in the management of TMJ disorders.
+3.3. Risk of Bias
+The JBI critical appraisal tool for systematic review was
+used to assess the risk of bias of the individual systematic re-
+views included in this review.
+In summary, 11 criteria were considered for the assess-
+ment of ROB on the nominal scale of three sections: yes (p-
+resent), no (absent), and not applicable. Among the 4 studies
+evaluated for ROB, predominantly all the evaluated criteria
+were present in all the included studies. The sole criterion
+that is not applicable to the included studies was the likeli-
+hood  of  measuring  the  publication  bias,  the  reason  being
+that a minimum of three studies would be needed and few pa-
+pers would include just qualitative evidence synthesis. Thus,
+the risk of bias can be considered low with all the included
+studies (Table 4).
+3.4. Quantitative Synthesis
+Meta-analysis was performed with two of the included
+four studies. No further comparison was possible with all
+the studies due to the lack of quantitative outcome measures.
+The outcome measure used for analysis includes the pooled
+estimate as mean differences in the meta-analysis of the in-
+cluded  studies.  Quantitative  results  on  maximum  mouth
+opening revealed a pooled estimate standardized mean differ-
+ence of 0.288 with a 95% confidence  interval  of  -0.109  to
+	
+
+
+		
+				
+	
+		
+	
+
+
+
+
+before 
+screening
+ 
+	!!
+
+	
+"
+	#
+ $%  
+	#
+ $ &
+	
+ "	#
+ '
+	
+(   & %
+ 
+	)
+
+
+
+		
+	via			
+	
+
+
+
+	
+
+	
+	
+198   Current Rheumatology Reviews, 2025, Vol. 21, No. 2
+Sivakumar et al.
+Table 3. Findings from the included studies.
+Author, Year
+Range of
+Years
+No. of
+Studies
+Appraisal
+Instrument
+Outcome
+Assessed
+Results Find-
+ings (Effect
+Measures)
+Significance
+Direction
+Hetero-
+geneity
+Period of
+Evaluation
+Inference
+De Souza et
+al., 2012 [26] 1929- 2011
+1
+Cochrane
+risk of Bias
+tool
+Pain, MMO
+Mean differ-
+ence
+MMO=1.75
+(-4.10, 7.60),
+Pain reduction=
+-4.57 (-9.91,
+0.77)
+Pain: P =
+0.094, MMO:
+P = 0.56
+-
+90 days
+Glucosamine was as effec-
+tive as ibuprofen in terms of
+pain, discomfort and jaw
+movements, according to
+one of the trials.
+Melo et al.,
+2018 [13]
+2001- 2013
+3
+Cochrane
+risk of bias
+tool
+Pain, MMO
+Only descrip-
+tive, qualitative
+results were pro-
+duced.
+Neutral
+-
+10 weeks
+Overall observation favours
+GS, but one of the studies
+suggested that GS was not su-
+perior to placebo, which can
+be attributable to the shorter
+administration period. Con-
+sidering a study where the
+follow-up was 12 weeks, GS
+was found to be as effective
+as ibuprofen taken two or
+three times a day.
+Ruiz-Romero
+et al., 2022
+[12]
+2001- 2018
+3
+Cochrane
+risk of bias
+tool
+Pain, MMO
+Mean differ-
+ence
+MMO=2.03
+(-0.98, 5.04),
+Pain reduction=
+-0.07 (-0.71,
+0.57)
+For MMO -
+Positive, for
+pain reduction
+- Negative
+I
+2
+MMO=86%,
+Pain reduc-
+tion=0%
+2.3 months
+The combination of CS and
+GS seems to be effective in
+the functional improvement
+of TMD, and reduction of in-
+flammatory markers, as well
+as an increase in MMO, with-
+out any adverse effects.
+Derwich et al.,
+2023 [6]
+2001-2021
+8
+Cochrane
+risk of bias
+tool
+Pain, MMO,
+levels of in-
+flammatory
+markers
+Only descrip-
+tive, qualitative
+results were pro-
+duced. Signifi-
+cant pain reduc-
+tion and increas-
+es the mouth
+opening
+2 studies=
+Neutral, 6
+studies= Posi-
+tive
+-
+6.18 months
+The factor affecting oral GS
+efficacy in treating TMJ OA
+was the administration time.
+Administration for a longer
+period of time, i.e., 3
+months, led to a significant
+reduction of TMJ pain and a
+significant increase in mouth
+opening. It also resulted in
+long-term anti-inflammatory
+effects within the TMJs.
+Table 4. Risk of bias assessment of the included studies.
+S.
+No.
+Author, Year
+De Souza et al., 2012 Melo et al., 2018
+Ruiz-Romero et al.,
+2022
+Derwich et al.,
+2023
+Type of Study
+Cochrane Review
+with Meta-analysis
+Systematic Re-
+view
+Systematic Review
+and Meta-analysis
+Systematic Re-
+view
+1
+Is the review question clearly and explicitly stated?
+yes
+yes
+yes
+yes
+2
+Were the inclusion criteria appropriate for the review question?
+yes
+yes
+yes
+yes
+3
+Was the search strategy appropriate?
+yes
+yes
+yes
+yes
+4
+Were the sources and resources used to search adequate?
+yes
+no
+yes
+yes
+5
+Were the criteria for appraising studies appropriate?
+yes
+yes
+yes
+yes
+6
+Was the critical appraisal conducted by two or more reviewers
+independently?
+yes
+yes
+yes
+yes
+7
+Were the methods to minimize errors in data extraction?
+yes
+yes
+yes
+yes
+8
+Were the methods used to combine studies appropriate?
+yes
+yes
+yes
+yes
+9
+Was the likelihood of publication bias assessed?
+Not applicable
+Not applicable
+Not applicable
+Not applicable
+10
+Were the recommendations for policy and/ or practice supported
+by the research data?
+yes
+yes
+yes
+yes
+11
+Were the specific directives for new research appropriate?
+yes
+yes
+yes
+yes
+Efficiency of Glucosamine in Treating Temporomandibular Joint Osteoarthritis
+Current Rheumatology Reviews, 2025, Vol. 21, No. 2   199
+Fig. (2). Forest plot analysis of maximum mouth opening across interventions. (A higher resolution / colour version of this figure is avail-
+able in the electronic copy of the article).
+Fig. (3). Forest plot analysis of pain reduction across interventions. (A higher resolution / colour version of this figure is available in the elec-
+tronic copy of the article).
+0.685 and a significance value of 0.15 (Fig. 2). Similarly,
+quantitative  results  on  reduction  in  pain  score  revealed  a
+pooled estimate standardized mean difference of 0.217 with
+a 95% confidence interval of -0.380 to 0.815 and a signifi-
+cance value of 0.476 (Fig. 3).
+These  findings  suggest  that  while  the  effect  of  glu-
+cosamine administration on maximum mouth opening and
+pain reduction may not reach statistical significance, there is
+still a discernible impact. This effect, though not overwhelm-
+ingly strong, indicates a trend toward improvement in the
+prognosis of TMJ-related disorders among subjects treated
+with  glucosamine.  On  average,  participants  in  the  glu-
+cosamine group demonstrated slightly more favourable out-
+comes in both maximum mouth opening and pain reduction
+compared to those in the control group, which received treat-
+ment with ibuprofen and tramadol, as revealed in our analy-
+sis.
+4. DISCUSSION
+The present review considers the systematic reviews of
+randomized controlled trials that evaluated the influence of
+glucosamine in TMJ osteoarthritis. Glucosamine hydrochlo-
+ride (GH) may decrease inflammation and pain by inhibiting
+the synthesis of some joint-degenerating products, such as
+prostaglandin E2 and interleukin- 1b, and thus may also pre-
+vent cartilage damage [14]. Chondroitin is a glycosaminogly-
+can and a major proteoglycan in joint cartilage. It can main-
+tain viscosity in joints and stimulate cartilage repair and col-
+lagen synthesis by inhibiting lysosomal enzymes [15]. Al-
+though NSAIDs and some lifestyle changes were commonly
+advised for patients with TMJ osteoarthritis, glucosamine,
+and chondroitin, classed as over-the-counter supplements or
+nutraceuticals,  are  regularly  self-administered  by  patients
+with OA. It is customary in a few other nations as well to
+prescribe these as supplemental measures to complement tra-
+ditional medical care. Glucosamine hydrochloride is the first
+glucosamine product to be licensed as a medicine in the UK
+for symptomatic relief of mild to moderate osteoarthritis of
+the  knee.  Patients  with  osteoarthritis  widely  use  glu-
+cosamine as a nutraceutical in the USA and as a pharmaceu-
+tical in Europe [16]. Table 2 depicts this in a clearer way:
+most of the systematic studies we included were conducted
+mostly in European and American nations where using glu-
+cosamine to treat osteoarthritis is more common.
+There were numerous controlled trials evaluating glu-
+cosamine  (oral,  intramuscular,  or  intravenous  administra-
+tion) in comparison with placebo in patients with knee OA.
+	 !	"	
+			
+		#
+$	%	&	'(	)	&*+			
+	 !	"	
+			
+		#
+$	%	,&, 	'(	)	%&-.			
+200   Current Rheumatology Reviews, 2025, Vol. 21, No. 2
+Sivakumar et al.
+Still, those results cannot be replicated similarly for TMJ dis-
+orders because the articular surface of TMJ consists of dense
+fibrous connective tissue (fibrocartilage) when compared to
+the hyaline cartilaginous articular surfaces of other synovial
+joints [17]. The first clinical trial on evaluating the effects of
+glucosamine on TMJ disorders, published in the year 2001,
+revealed  that  in  comparison  with  the  ibuprofen,  the  GS
+group showed a significant improvement in pain and all the
+evaluated functional parameters [18]. Glucosamine was eval-
+uated only in approximately seven clinical trials from 2001
+to  2019  to  assess  its  efficiency  on  osteoarthritis  of  TMJ,
+which provided inconclusive efficiency on TMJ osteoarthri-
+tis [4, 19-24]
+Treatment efficiency with glucosamine was greatly af-
+fected  by  one  parameter,  the  total  administration  period,
+which was even strengthened with evidence from two syste-
+matic reviews of our review by Melo et al., 2018 [13] and
+Derwich et al., 2023 [6], that a minimum of 3 months of ad-
+ministration is necessary for effective action of glucosamine
+in osteoarthritis when it is compared against the non-steroi-
+dal anti-inflammatory drugs (NSAIDs) or any other placebo
+drugs. As far as safety is concerned, there are a few unusual
+side effects of glucosamine, including [25, 26] heartburn,
+diarrhoea, nausea, and epigastric pain, and there are no docu-
+mented interactions with other medications that exist for glu-
+cosamine. Thus, in clinical practice, glucosamine and chon-
+droitin sulphate can be highly suggested for TMJ osteoarthri-
+tis.
+4.1. Limitations
+The limitations of this review include the fact that only
+four systematic reviews were included in the analysis, which
+may limit the generalizability of the findings. Additionally,
+the  studies  included  in  the  systematic  reviews  varied  in
+terms of their methodology, sample size, and study duration,
+which may have introduced heterogeneity in the results. Fur-
+thermore, the limited number of clinical trials specifically
+evaluating glucosamine for TMJ disorders highlights a gap
+in the existing literature, warranting caution in extrapolating
+findings to this specific patient population.
+Despite the acknowledged limitations, the evidence syn-
+thesized  from  this  review  indicates  that  glucosamine  can
+serve as a safe and effective adjunctive therapy in managing
+TMJ osteoarthritis (OA) with no reported adverse events.
+While initial clinical trials have demonstrated notable pain
+improvement, further research is imperative to ascertain its
+consistent efficacy, especially in the context of TMJ disor-
+ders,  given  the  distinct  fibrocartilaginous  composition  of
+TMJ articular surfaces. Consequently, glucosamine warrants
+inclusion in the comprehensive treatment regimen for TMJ
+OA patients, and clinicians should prioritize conducting lon-
+gitudinal studies to rigorously evaluate its therapeutic effica-
+cy.
+CONCLUSION
+The latest systematic review underscores the clinical ap-
+plicability of glucosamine and chondroitin in managing tem-
+poromandibular  joint  (TMJ)  osteoarthritis  (OA),  with
+notable  improvements  in  functional  indicators,  such  as
+mouth opening and pain reduction. Importantly, their lower
+risk  of  side  effects  compared  to  traditional  NSAIDs  or
+COX-2 inhibitors, even with long-term use, highlights their
+potential as safer alternatives in clinical practice. When com-
+bined  with  minimally  invasive  therapies  or  conventional
+splints, these nutraceuticals offer a promising adjuvant ap-
+proach for enhancing patient outcomes in TMJ OA manage-
+ment. However, investigations into potential mechanisms of
+action and patient-specific responses are essential for refin-
+ing personalized treatment strategies. Overall, the evidence
+supports the consideration of glucosamine and chondroitin
+sulphate  as  valuable  additions  to  the  armamentarium  for
+TMJ OA management, paving the way for improved patient
+care and outcomes in clinical practice.
+AUTHORS’ CONTRIBUTIONS
+It is hereby acknowledged that all authors have accepted
+responsibility for the manuscript's content and consented to
+its submission. They have meticulously reviewed all results
+and  unanimously  approved  the  final  version  of  the
+manuscript.
+LIST OF ABBREVIATIONS
+NSAIDs = Non-Steroidal Anti-Inflammatory Drugs
+OA
+= Osteoarthritis
+TMJ
+= Temporomandibular Joint
+CONSENT FOR PUBLICATION
+Not applicable.
+STANDARDS OF REPORTING
+PRISMA guidelines and methodology were followed.
+AVAILABILITY OF DATA AND MATERIALS
+The data and supportive information are available within
+the article.
+FUNDING
+None.
+CONFLICT OF INTEREST
+The authors declare no conflict of interest, financial or
+otherwise.
+ACKNOWLEDGEMENTS
+Declared none.
+SUPPLEMENTARY MATERIAL
+PRISMA checklist is available as supplementary material
+on the publisher’s website along with the published article.
+Efficiency of Glucosamine in Treating Temporomandibular Joint Osteoarthritis
+Current Rheumatology Reviews, 2025, Vol. 21, No. 2   201
+REFERENCES
+Guzman U, Gremillion HA. Temporomandibular disorders: Epi-
+[1]
+demiologic and etiologic considerations (Part 1). Dental Tribune
+2007; 200(3): 8-10.
+Huskisson EC. Glucosamine and chondroitin for osteoarthritis. J
+[2]
+Int Med Res 2008; 36(6): 1161-79.
+http://dx.doi.org/10.1177/147323000803600602 PMID: 19094424
+Cribbs B. Glucosamine: An alternative therapy for osteoarthritis?.
+[3]
+Nutrition Bytes 1999; 5(2): 1-4.
+Damlar İ, Esen E, Tatli U. Effects of glucosamine-chondroitin
+[4]
+combination on synovial fluid IL-1β, IL-6, TNF-α and PGE2 lev-
+els  in  internal  derangements  of  temporomandibular  joint.  Med
+Oral Patol Oral Cir Bucal 2015; 20(3): e278-83.
+http://dx.doi.org/10.4317/medoral.20242 PMID: 25662545
+Sivakumar S, Sivakumar G, Sundramoorthy AK. Effects of glu-
+[5]
+cosamine in the temporomandibular joint osteoarthritis: A review.
+Curr Rheumatol Rev 2024; 20(4): 373-8.
+http://dx.doi.org/10.2174/0115733971283009231225144322
+PMID: 38213156
+Derwich M, Górski B, Amm E, Pawłowska E. Oral glucosamine
+[6]
+in the treatment of temporomandibular joint osteoarthritis: A syste-
+matic review. Int J Mol Sci 2023; 24(5): 4925.
+http://dx.doi.org/10.3390/ijms24054925 PMID: 36902359
+Christidis N, Al-Moraissi EA, Barjandi G, et al. Pharmacological
+[7]
+treatments of temporomandibular disorders: A systematic review
+including a network meta-analysis. Drugs 2024; 84(1): 59-81.
+http://dx.doi.org/10.1007/s40265-023-01971-9 PMID: 38103150
+Edoardo A, Ritin S, Christina G, Cheryl H, Hanan K, Patraporn T.
+[8]
+Methodology for JBI umbrella reviews. Australia: Joanna Briggs
+Institute Reviewers' Manual 2014; pp. 1-34.
+Aromataris E, Fernandez R, Godfrey C, Holly C, Khalil H, Tung-
+[9]
+punkom P. Umbrella Reviews. JBI Manual for Evidence Synthe-
+sis. JBI 2020.
+Borenstein M, Hedges L, Higgins J, Rothstein H. Comprehensive
+[10]
+Meta-Analysis Version 30. Englewood, NJ: Biostat 2022.
+Higgins JPT, Thompson SG. Quantifying heterogeneity in a meta-
+[11]
+analysis. Stat Med 2002; 21(11): 1539-58.
+http://dx.doi.org/10.1002/sim.1186 PMID: 12111919
+Ruiz-Romero V, Toledano-Serrabona J, Gay-Escoda C. Efficacy
+[12]
+of the use of chondroitin sulphate and glucosamine for the treat-
+ment of temporomandibular joint dysfunction: A systematic re-
+view and meta-analysis. Cranio 2022; 2022: 1-10.
+http://dx.doi.org/10.1080/08869634.2022.2076796
+ PMID:
+35588467
+Melo  G,  Casett  E,  Stuginski-Barbosa  J,  et  al.  Effects  of  glu-
+[13]
+cosamine  supplements  on  painful  temporomandibular  joint  os-
+teoarthritis:  A  systematic  review.  J  Oral  Rehabil  2018;  45(5):
+414-22.
+http://dx.doi.org/10.1111/joor.12616 PMID: 29446485
+Gouze JN, Bordji K, Gulberti S, et al. Interleukin-1β down-regu-
+[14]
+lates the expression of glucuronosyltransferase I, a key enzyme
+priming  glycosaminoglycan  biosynthesis:  Influence  of  glu-
+cosamine on interleukin-1β-mediated effects in rat chondrocytes.
+Arthritis Rheum 2001; 44(2): 351-60.
+http://dx.doi.org/10.1002/1529-0131(200102)44:2<351::AID-AN
+R53>3.0.CO;2-M PMID: 11229466
+Pavelka K, Gatterova J, Olejarova M, Machacek S, Giacovelli G,
+[15]
+Rovati LC. Glucosamine sulfate use and delay of progression of
+knee osteoarthritis: A 3- year, randomized, placebo-controlled,
+double-blind study. Arch Intern Med 2002; 162(18): e2123.
+Shikhman AR. Glucosamine and osteoarthritis. Int J Clin Rheuma-
+[16]
+tol 2006; 1(1): 67.
+de Bont LGM, Liem RSB, Havinga P, Boering G. Fibrous compo-
+[17]
+nent  of  the  temporomandibular  joint  disk.  Cranio  1985;  3(4):
+368-73.
+http://dx.doi.org/10.1080/08869634.1985.11678119
+ PMID:
+3864873
+Thie NM, Prasad NG, Major PW. Evaluation of glucosamine sul-
+[18]
+fate compared to ibuprofen for the treatment of temporomandibu-
+lar joint osteoarthritis: A randomized double blind controlled 3
+month clinical trial. J Rheumatol 2001; 28(6): 1347-55.
+PMID: 11409130
+Cömert  Kılıç  S.  Does  glucosamine,  chondroitin  sulfate,  and
+[19]
+methylsulfonylmethane supplementation improve the outcome of
+temporomandibular joint osteoarthritis management with arthro-
+centesis  plus  intraarticular  hyaluronic  acid  injection.  A  ran-
+domized  clinical  trial.  J  Craniomaxillofac  Surg  2021;  49(8):
+711-8.
+http://dx.doi.org/10.1016/j.jcms.2021.02.012 PMID: 33685850
+Yang W, Liu W, Miao C, Sun H, Li L, Li C. Oral glucosamine hy-
+[20]
+drochloride combined with hyaluronate sodium intra-articular in-
+jection for temporomandibular joint osteoarthritis: A double-blind
+randomized controlled trial. J Oral Maxillofac Surg 2018; 76(10):
+2066-73.
+http://dx.doi.org/10.1016/j.joms.2018.04.031 PMID: 29864430
+Cen X, Liu Y, Wang S, Yang X, Shi Z, Liang X. Glucosamine
+[21]
+oral administration as an adjunct to hyaluronic acid injection in
+treating temporomandibular joint osteoarthritis. Oral Dis 2018;
+24(3): 404-11.
+http://dx.doi.org/10.1111/odi.12760 PMID: 28862770
+Cahlin BJ, Dahlström L. No effect of glucosamine sulfate on os-
+[22]
+teoarthritis in the temporomandibular joints—a randomized, con-
+trolled, short-term study. Oral Surg Oral Med Oral Pathol Oral Ra-
+diol Endod 2011; 112(6): 760-6.
+http://dx.doi.org/10.1016/j.tripleo.2011.06.012 PMID: 22001199
+Nguyen P, Mohamed SE, Gardiner D, Salinas T. A randomized
+[23]
+double-blind clinical trial of the effect of chondroitin sulfate and
+glucosamine hydrochloride on temporomandibular joint disorders:
+A pilot study. Cranio 2001; 19(2): 130-9.
+http://dx.doi.org/10.1080/08869634.2001.11746162
+ PMID:
+11842864
+Behnia A, Haghighat A, Kaviani N, Khorami B. Evaluation of
+[24]
+Glucosamine sulfate and Ibuprofen effects in patients with tem-
+poromandibular joint osteoarthritis symptom. J Res Pharm Pract
+2013; 2(1): 34-9.
+http://dx.doi.org/10.4103/2279-042X.114087 PMID: 24991602
+Dahmer S, Schiller RM. Glucosamine. Am Fam Physician 2008;
+[25]
+78(4): 471-6.
+PMID: 18756654
+de Souza RF, da Silva CH, Nasser M, Fedorowicz Z, Al-Muhar-
+[26]
+raqi MA. Interventions for managing temporomandibular joint os-
+teoarthritis.  Cochrane  Database  Syst  Rev  2012;  2012(4):
+CD007261.
+http://dx.doi.org/10.1002/14651858.CD007261.pub2

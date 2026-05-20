@@ -1,0 +1,858 @@
+Address for correspondence
+Javier Flores-Fraile
+E-mail: j.flores@usal.es 
+Funding sources
+None declared
+Conflict of interest
+None declared
+Acknowledgements
+None declared
+Received on August 23, 2024
+Reviewed on September 5, 2024
+Accepted on October 13, 2024
+Published online on October 31, 2025
+Abstract
+Background. Hyaluronic acid (HA) is a naturally occurring linear polymer with a large molecular size 
+and a simple structure. It is classified as a glycosaminoglycan (GAG), which is a critical element of the 
+extracellular matrix (ECM). Notably hydrophilic, HA has unique qualities such as viscoelasticity, biodegrad-
+ability and biocompatibility. Its molecular weight (MW) has an influence on its activity, resulting in a wide 
+spectrum of potential effects. Hyaluronic acid and its derivatives are biomaterials with great potential for 
+usage in the medical, dental, pharmaceutical, and cosmetic industries.
+Objectives. The aim of the study was to assess the impact of HA on the stomatognathic function of the 
+temporomandibular joint (TMJ). 
+Material and methods. A meta-analysis was conducted, contrasting HA with alternative TMJ injectable 
+materials, and a review of the literature based on PubMed® publications was carried out.
+Results. Hyaluronic acid is considered a safe and effective injectable material for the treatment of TMJ 
+disorders. While HA has shown positive results in clinical applications, it is important to note that other 
+injectable materials may prove equally or more effective, depending on the specific condition and the 
+patient’s needs. These alternative materials are being explored to identify the most suitable treatment 
+option for TMJ disorders.
+Conclusions. In individuals with TMJ pain and dysfunction, HA has shown safety and effectiveness 
+in reducing pain and enhancing the maximum mouth opening (MMO). However, when compared to 
+platelet-rich plasma (PRP), HA has demonstrated superior long-term results.
+Keywords: temporomandibular joint, filling material, hyaluronic acid
+Cite as
+Flores-Fraile J, Minervini G, García-Ortega C, et al. Transforming TMJ 
+pain relief: Hyaluronic acid’s efficacy in focus – a comprehensive 
+systematic review and meta-analysis of randomized 
+controlled trials. Dent Med Probl. 2025;62(5):919–926. 
+doi:10.17219/dmp/194565
+DOI
+10.17219/dmp/194565
+Copyright
+Copyright by Author(s)
+This is an article distributed under the terms of the 
+Creative Commons Attribution 3.0 Unported License (CC BY 3.0)
+(https://creativecommons.org/licenses/by/3.0/).
+Original paper 
+Transforming TMJ pain relief: Hyaluronic acid’s efficacy in focus  
+– a comprehensive systematic review and meta-analysis of randomized  
+controlled trials
+Javier Flores-Fraile1,A,F, Giuseppe Minervini2,E, Carmen García-Ortega1,A,B, Jorge Cortés-Bretón-Brinkmann3,B,C, Santiago Bazal-Bonelli3,C, 
+Pedro Campos Lopes4,C, Daniel Sarmiento Govea5,B, Juan-Antonio Santos-Marino1,D,E 
+1	Department of Surgery, Faculty of Medicine, University of Salamanca, Spain
+2	Multidisciplinary Department of Medical-Surgical and Dental Specialties, University of Campania Luigi Vanvitelli, Naples, Italy
+3	Department of Dental Clinical Specialties, Faculty of Dentistry, Complutense University of Madrid, Spain
+4	Centre for Interdisciplinary Research in Health, Faculty of Dental Medicine, Universidade Católica Portuguesa, Lisbon, Portugal
+5	Department of Dentistry, Fernando Pessoa Canarias University, Las Palmas, Spain
+A – research concept and design; B – collection and/or assembly of data; C – data analysis and interpretation;  
+D – writing the article; E – critical revision of the article; F – final approval of the article
+Dental and Medical Problems, ISSN 1644-387X (print), ISSN 2300-9020 (online)
+Dent Med Probl. 2025;62(5):919–926
+J. Flores-Fraile et al. TMJ and hyaluronic acid
+920
+Introduction
+Hyaluronic acid (HA) is a  natural and unbranched 
+member of the glycosaminoglycan (GAG) group, which is 
+mostly composed of extracellular matrix (ECM) compo-
+nents. Hyaluronic acid is distinguished from other GAGs 
+due to its large molecular size and a simple structure.1
+The essential structural elements common to all GAGs 
+are the disaccharide units of an amino sugar and a uronic 
+sugar. However, HA is the only GAG that is not bonded 
+to a  core protein and does not undergo postsynthetic 
+modifications. Additionally, it is not produced by Golgi 
+enzymes or sulfated.2 The main structure of HA is com-
+posed of a naturally occurring linear polymer with miles 
+of repeating disaccharide units. Each disaccharide is made 
+up of  d-glucuronic acid and N-acetyl-D-glucosamine 
+joined by ß-1,4- and ß-1,3-glycosidic linkages in alternat-
+ing sequences.1–3
+Certain enzymes, known as HA synthetases (HAS), are 
+responsible for the synthesis of HA on the inner surface 
+of cell membranes.3 The human body breaks down HA 
+through various mechanisms. Hyaluronic acid found in 
+blood is broken down systemically in the liver and lymph 
+nodes, while HA present in tissues is broken down extra­
+cellularly by reactive oxygen species (ROS) and hyaluroni­
+dase enzymes. The molecule regenerates quickly, and its 
+half-life ranges from 12 h to 24 h in the epidermis to a few 
+minutes in the bloodstream. This observation suggests 
+a continuous cycle of synthesis and degradation of this 
+polymer.3,4
+Hyaluronan with a high molecular weight (HMW-HA) 
+is the original long polymer form of HA. It can be broken 
+down into low molecular weight hyaluronan (LMW-HA) 
+components.1 Both HMW-HA and LMW-HA can exhibit 
+opposing biological actions.2
+While LMW-HA is a  strong pro-inflammatory mol-
+ecule that promotes angiogenesis and tissue remodeling 
+throughout the healing process, as well as demonstrates 
+antiapoptotic and immunostimulating activities, HMW-HA 
+has been observed to possess immunosuppressive, 
+antiangiogenic and anti-inflammatory properties.1,5
+The hydrophilic groups on the HA molecule inter-
+act with water molecules as well as one another to form 
+hydrogen bonds, contributing to the high solubility and 
+hydrophilicity of  HA.6 Hyaluronic acid is negatively 
+charged, extremely hydrophilic, and produces a red vis-
+cose at HMW due to the carboxyl groups present in the 
+molecule.4 This network is reliant on molecular weight 
+(MW) and HA concentration, since HA networks become 
+stronger and HA solutions exhibit gradually increased 
+viscosity and viscoelasticity with increasing MW and HA 
+concentration. Hyaluronic acid is negatively charged in 
+an  aqueous solution and forms highly hydrophilic cells 
+known as hyaluronan or hyaluronate.2 Due to its visco-
+elastic properties, HA can enter tissues with ease and 
+occupy significant amounts of  extracellular space. It is 
+a remarkable biomaterial filler, exhibiting a high degree 
+of  malleability. The hallmarks of  HA solutions include 
+shear thinning, viscoelastic behavior and non-Newtonian 
+behavior. Moreover, HA solutions are not thixotropic; 
+rather, they return to their original viscosity and structure 
+once the shear rate ends. Hyaluronan’s distinct rheologi­
+cal behavior is uncommon and crucial since it affects 
+numerous physiological processes as well as the drug, 
+food, medicine, and cosmetic uses of the substance.2
+Owing to its physicochemical characteristics, HA con-
+trols tissue homeostasis, hydration of  ECM, and resis-
+tance to compression pressures. Numerous proteoglycans 
+interact with HA to produce chemical compounds that 
+stabilize the structure of ECM and maintain the matrix’s 
+gel state.4
+Consequently, these polymers can serve as shock 
+absorbers by withstanding compressive pressures on the 
+cartilage and lubricating the synovial fluid in the joints.3 
+Moreover, HA surrounds the majority of cells in a peri­
+cellular layer where it operates as a signaling molecule, reg­
+ulating cell adhesion, motility and proliferation through 
+interactions with binding proteins. During the processes 
+of  tissue repair and regeneration, it is present in high 
+concentrations. Consequently, HA plays a crucial part in 
+numerous physiological and pathological circumstances.
+Application of HA and its derivatives
+Native HA and its derivatives represent intriguing bio-
+materials for a range of medical applications due to their 
+distinctive biological and physicochemical properties 
+(e.g., biodegradability, biocompatibility, viscoelasticity), 
+as well as their safety profile. Additionally, they can 
+Highlights
+	• Hyaluronic acid (HA) significantly reduces pain in temporomandibular joint (TMJ) disorders while improving the 
+maximum mouth opening (MMO) and overall stomatognathic function.
+	• Hyaluronic acid is a safe and effective intra-articular material with minimal adverse effects.
+	• Compared with platelet-rich plasma (PRP), HA shows superior long-term outcomes.
+	• Current evidence supports HA as a reliable and minimally invasive treatment for TMJ dysfunction.
+Dent Med Probl. 2025;62(5):919–926
+921
+undergo numerous chemical modifications. While some HA 
+products are being studied for their effectiveness, others 
+are already commercially available and/or in clinical use.2 
+The hydrodynamic qualities of HA are crucial in tissue 
+hydration and physical characteristics. Hyaluronic acid 
+is essential to the formation and maintenance of  tissue 
+architecture and its mechanical characteristics, largely due 
+to its interactions with ECM proteins.3 Treatment with 
+HA has been shown to exert a range of positive effects, 
+including immunosuppressive, antiaging, anti-inflammatory, 
+healing, and antiangiogenic properties.7
+In light of the current state of knowledge, the primary 
+goal of  the study was to assess whether HA injections 
+into the temporomandibular joint (TMJ) are beneficial in 
+enhancing the stomatognathic function.
+Material and methods
+Study design 
+This systematic review was registered in the International 
+Prospective Register of Systematic Reviews (PROSPERO; 
+registration No. CRD42022321304) and adhered to the 
+Preferred Reporting Items for Systematic reviews and Meta-
+Analyses (PRISMA)8 standards. The review was designed 
+using the following PICOS (Population, Intervention, 
+Comparison, Outcome, Study design) model: 
+–	Population – adult patients with TMJ pain or dysfunc-
+tion;
+–	Intervention – injection of HA into the TMJ;
+–	Comparison – other injection materials or no interven-
+tion;
+–	Outcome – analgesic effect, improvement of temporo-
+mandibular function and prevention of complications;
+–	Study design – randomized controlled trials (RCTs).
+The following PICO question was formulated: “In adult 
+patients diagnosed with TMJ pain and dysfunction (P), 
+what is the efficacy of infiltrating HA (I) in reducing pain, 
+improving temporomandibular function and preventing 
+complications (O) in comparison to other substances or 
+no intervention (C)?” 
+Inclusion criteria
+The present study incorporated RCTs written in English 
+or Spanish that evaluated patients who were administered 
+HA injections into the TMJ, with a minimum follow-up 
+duration of half a year. In the included studies, in addi-
+tion to HA, another material or technique was used in the 
+control group to improve pain in the TMJ.
+Exclusion criteria 
+Non-randomized prospective or retrospective studies 
+without a  control group, studies that did not include 
+individuals of different age groups or sexes, and studies 
+that did not achieve the established objectives were 
+excluded from the analysis.
+Data collection 
+The primary outcome used to assess the effectiveness 
+of HA in TMJ disorders was the degree of joint pain relief. 
+Secondary outcomes included the increase in the maxi-
+mum mouth opening (MMO), chewing efficiency and 
+quality of life of the patients.
+Search strategy 
+The search was conducted using 4 online databases: 
+Web of  Science; Cochrane Library; MEDLINE; and 
+PubMed®. The same search strategy was implemented for 
+all databases. The search terms included “temporoman-
+dibular joint” AND “hyaluronic acid”, with a  time span 
+covering the period from May 1, 2014 to May 1, 2023. 
+The languages considered were English and Spanish. The 
+search was conducted without the application of any fil-
+ters. In addition, a manual search was carried out using 
+the reference lists of  papers found during the database 
+search and of publications concerning the TMJ that were 
+indexed in PubMed®.
+Screening and selection procedures 
+The papers identified through database search and 
+manual search were chosen by 2 reviewers (CGO and 
+SBB) who separately screened the abstracts and titles. The 
+same reviewers examined the full texts of articles that met 
+the inclusion criteria, as well as those that lacked adequate 
+information in the abstract and title to support a conclu-
+sion. Disagreements among the reviewers were resolved 
+through consultation with the third reviewer (JCBB). The 
+inter-reviewer reliability in full-text selection was deter-
+mined by calculating the percentage of agreement and the 
+kappa correlation coefficient. The studies with the longest 
+duration of follow-up were chosen when multiple trials 
+involved the same patient group.
+Extraction of clinical data 
+The data was extracted in triplicate by 2 reviewers (CGO 
+and SBB) independently. The authors were contacted 
+when there were gaps or missing data, and they were 
+asked to provide the missing information. Consequently, 
+the data was not included only when it was unavailable. 
+The following clinical information was extracted: 
+MMO before and after intervention; pain measured using 
+the visual analogue scale (VAS); authors; year and journal 
+of publication; study design; number of patients; follow-up 
+duration; injection site; type of material injected into each 
+joint; and clinical data.
+J. Flores-Fraile et al. TMJ and hyaluronic acid
+922
+Risk of bias
+The risk of bias in each study was evaluated using the 
+Cochrane method that is aimed at RCTs.
+The quality of the evidence was assessed using the 
+GRADE (Grading of  Recommendations, Assessment, 
+Development and Evaluation) classification system as 
+follows:
+1.	High quality of evidence: the true effect is expected to 
+be close to the estimate;
+2.	Moderate quality of evidence: moderate confidence in the 
+estimated effect. The true effect is considered to be close 
+to the estimate, but there is a possibility that it is different;
+3.	Low quality of evidence: the estimated effect and the 
+true effect may be different;
+4.	Very low quality of evidence: very little confidence in 
+the estimated effect. The true effect is likely to be sub-
+stantially different from the estimated effect.
+The adequate level of evidence was assigned to the stud-
+ies with the use of the GRADEpro 3.2 software (Evidence 
+Prime Inc., Hamilton, USA).
+Statistical analysis 
+The meta-analysis was performed using the Review 
+Manager (RevMan) v. 5.3 software (The Cochrane 
+Collaboration, Copenhagen, Denmark). 
+The odds ratio (OR) was used for the presentation of 
+the dichotomous variables (complications and duration 
+of HA filling). The difference of means (MD) with the 
+standard deviation (SD) was utilized for the continuous 
+variables (effectiveness of  other materials), and the 
+95% confidence intervals (95% CIs) were used for both 
+dichotomous and continuous variables. The differences 
+were deemed significant for p  <  0.05. To ascertain 
+whether the outcomes had changed, a  series of  meta-
+analyses was carried out, with each analysis excluding 
+a single study. 
+The heterogeneity was determined by examining the 
+overlapping CIs in the forest plot and estimating I2 and 
+χ2 values. 
+The χ2 statistic evaluates the homogeneity of the studies. 
+If the p-value is low, the null hypothesis is rejected, and 
+it can be concluded that heterogeneity exists. The I2 
+value measures the degree to which the studies agree 
+with each other, and serves as an  indicator of  any 
+inconsistencies present. Values close to 0% signify little 
+or no heterogeneity, while values exceeding 75% indicate 
+high heterogeneity. There are no universal guidelines for 
+interpreting intermediate values. Generally, when I2 falls 
+below 30–40%, the heterogeneity is regarded as low. Values 
+ranging from 30% to 60% are classified as moderate, while 
+those between 50% and 90% are considered significant. 
+The test’s reliability is compromised due to its level 
+of uncertainty. Higher p-values for χ2 and lower I2 values ​
+are indicative of greater consistency between studies. 
+Results
+Study selection 
+The initial database search yielded 2 titles in the 
+Cochrane Library and 80 articles in the MEDLINE/PubMed® 
+databases. Two additional documents were discovered 
+during the manual search. Fourteen articles were identi-
+fied as duplicates and eliminated. The full texts of 21 pub-
+lications were examined following an initial screening to 
+identify articles that did not align with the PICO criteria. 
+This was followed by screening of  titles and abstracts. 
+Ultimately, after the extraction and analysis of the data, 
+a total of 14 papers were chosen for the analysis (Table 1). 
+The steps involved in the selection process are depicted in 
+the flow diagram presented in Fig. 1.
+Synthesis of results 
+In addition to examining the features of  each study 
+and the quantity of events (patients treated with HA and 
+patients treated with other treatment modalities), a com­
+parison was made between the efficacy of HA and other 
+treatments in improving the stomatognathic function 
+of the TMJ.
+The results of the meta-analysis are displayed in Fig. 2. 
+A meta-analysis of fixed effects with relative risk has been 
+conducted. The studies depicted on the left side of the 
+forest plot suggest that HA treatment is more successful, 
+while those on the right indicate that alternative therapies 
+yield better outcomes and provide greater support for the 
+stomatognathic function. The overall effect is expressed 
+as a risk ratio (RR) of 1.01, with 95% CIs of 0.92–1.11 and 
+a p-value of 0.81.
+Fig. 1. Flowchart of the study
+Dent Med Probl. 2025;62(5):919–926
+923
+Table 1. Studies included in the meta-analysis
+Study
+Title
+Journal
+Study 
+design
+Treatment 
+area
+Conclusions
+Yuce and Komerik 
+202010
+Comparison of the efficacy of intra-articular 
+injection of liquid platelet-rich fibrin and 
+hyaluronic acid after in conjunction with 
+arthrocentesis for the treatment of internal 
+temporomandibular joint derangements
+Journal of Craniofacial 
+Surgery
+RCT
+TMJ
+All conventional treatment procedures 
+improve MMO and reduce pain. However, 
+arthrocentesis + L-PRF provided superior 
+outcomes.
+Marzook et al.  
+20209
+Intra-articular injection of a mixture of 
+hyaluronic acid and corticosteroid versus 
+arthrocentesis in TMJ internal derangement
+Journal of 
+Stomatology Oral and 
+Maxillofacial Surgery
+RCT
+TMJ
+The study found improvements in all 
+measured outcomes with no notable 
+variations observed across the groups. Due 
+to its simplicity, intra-articular injection of 
+HA and CS is the treatment of choice.
+De Sousa et al.  
+202019
+Different treatments in patients with 
+temporomandibular joint disorders: A 
+comparative randomized study
+Medicina (Kaunas)
+RCT
+TMJ
+Long-term success was attained by 
+combining the PRP injection with the 
+splint.
+Bergstrand et al.  
+201914
+Long-term effectiveness of arthrocentesis 
+with and without hyaluronic acid injection 
+for treatment of temporomandibular joint 
+osteoarthritis
+Journal of Oral 
+Science
+RCT
+TMJ
+The application of arthrocentesis with 
+lavage alone and arthrocentesis with 
+lavage + HA resulted in a long-term 
+enhancement in jaw pain and function.
+Gokçe Kutuk et al.  
+201920
+Clinical and radiological comparison of 
+effects of platelet-rich plasma, hyaluronic 
+acid, and corticosteroid injections on 
+temporomandibular joint osteoarthritis
+Journal of Craniofacial 
+Surgery
+RCT
+TMJ
+Intra-articular PRP injections decreased 
+the pain on palpation of the TMJ more 
+effectively than HA and CS.
+Yilmaz et al. 
+201917
+Comparison of treatment efficacy between 
+hyaluronic acid and arthrocentesis plus 
+hyaluronic acid in internal derangements of 
+temporomandibular joint
+Journal of Cranio-
+Maxillofacial Surgery
+RCT
+TMJ
+The combination of arthrocentesis and HA 
+injection yielded better results regarding 
+chewing efficiency and patient quality of 
+life than a single HA injection.
+Toameh et al. 
+201911
+Management of patients with disk 
+displacement without reduction of the 
+temporomandibular joint by arthrocentesis 
+alone, plus hyaluronic acid or plus platelet-
+rich plasma
+Dental and Medical 
+Problems
+RCT
+TMJ
+The PRP group demonstrated better 
+results in terms of pain intensity and 
+chewing efficacy. 
+Arthrocentesis + PRP exhibited 
+superior outcomes in comparison to 
+arthrocentesis + HA or arthrocentesis 
+alone.
+Sun et al.  
+201822
+Clinical outcome of sodium hyaluronate 
+injection into the superior and inferior 
+joint space for osteoarthritis of the 
+temporomandibular joint evaluated by cone-
+beam computed tomography: A retrospective 
+study of 51 patients and 56 joints
+Medical Science 
+Monitor
+RCT
+TMJ
+Injection of HA into the upper and lower 
+TMJ space alleviated the clinical signs 
+and symptoms of osteoarthritis, but did 
+not reverse or prevent the progression of 
+bone destruction during long-term and 
+short-term follow-up periods.
+Batifol et al.  
+201823 
+Effect of intra-articular botulinum toxin 
+injections on temporo-mandibular joint 
+pain
+Journal of 
+Stomatology Oral and 
+Maxillofacial Surgery
+RCT
+TMJ
+Intra-articular injection of botulinum toxin 
+is a safe and effective treatment for severe 
+and refractory TMJ pain. Furthermore, no 
+complications were reported.
+Bouloux et al. 
+201716
+Is hyaluronic acid or corticosteroid superior 
+to lactated ringer solution in the short-term 
+reduction of temporomandibular joint pain 
+after arthrocentesis? Part 1
+Journal of Oral and 
+Maxillofacial Surgery
+RCT
+TMJ
+Arthrocentesis with Ringer’s solution is 
+as effective as arthrocentesis with HA or 
+CS in reducing TMJ pain. There were no 
+significant differences between the groups.
+Fernández-Ferro et al.  
+201721
+Comparison of intra-articular injection 
+of plasma rich in growth factors versus 
+hyaluronic acid following arthroscopy 
+in the treatment of temporomandibular 
+dysfunction: A randomised prospective 
+study
+Journal of Cranio-
+Maxillofacial Surgery
+RCT
+TMJ
+The injection of PRGF after arthroscopy is 
+more effective in mitigating pain compared 
+to the injection of 1% HA post-procedure, 
+particularly in patients with advanced 
+internal TMJ disorder. Regarding MMO, 
+an increase was observed in both groups, 
+with no significant difference between them.
+Cömert Kiliç and 
+Güngörmüş 
+201613 
+Is arthrocentesis plus platelet-rich 
+plasma superior to arthrocentesis plus 
+hyaluronic acid for the treatment of 
+temporomandibular joint osteoarthritis: A 
+randomized clinical trial
+International 
+Journal of Oral and 
+Maxillofacial Surgery
+RCT
+TMJ
+All MMO and VAS metrics revealed 
+significant clinical improvements following 
+both treatment approaches. Patients 
+respond better to the combination of 
+arthrocentesis with HA injection.
+Hegab et al. 
+201512 
+Platelet-rich plasma injection as an effective 
+treatment for temporomandibular joint 
+osteoarthritis
+Journal of Oral and 
+Maxillofacial Surgery
+RCT
+TMJ
+During long-term follow-up, PRP 
+outperformed acid HA in the treatment 
+of TMJ osteoarthritis with respect to pain 
+reduction and increased MMO.
+Gencer et al.  
+201418
+A comparative study on the impact of 
+intra-articular injections of hyaluronic 
+acid, tenoxicam and betametazon on the 
+relief of temporomandibular joint disorder 
+complaints
+Journal of Cranio-
+Maxillofacial Surgery
+RCT
+TMJ
+Better pain relief scores were obtained 
+in the HA group compared to the 
+betamethasone or tenoxicam groups. 
+A notable disadvantage of HA is its 
+relatively high cost.
+CS – corticosteroid; HA – hyaluronic acid; L-PRF – liquid platelet-rich fibrin; MMO – maximum mouth opening; PRGF – plasma rich in growth factors; 
+PRP – platelet-rich plasma; RCT – randomized controlled trial; TMJ – temporomandibular joint; VAS – visual analogue scale.
+J. Flores-Fraile et al. TMJ and hyaluronic acid
+924
+Studies exhibiting a RR of 1, or, in instances where the RR 
+exceeds 1 but the CIs encompass the value of 1, dem­onstrate 
+that HA and other therapeutic interventions are equally 
+efficacious in enhancing the stomatognathic function of the 
+TMJ. All of the studies demonstrated this outcome.
+In general, with a total RR of 1.01 (0.92–1.11), there is 
+no statistical evidence that HA treatment is more effec-
+tive than another in terms of aesthetics or oral-dentofacial 
+functionality. The sample showed no heterogeneity, with 
+a p-value bigger than 0.05 (p = 1.00) and I2 of 0%. There-
+fore, the studies included in the meta-analysis are similar.
+Figure 3 presents the funnel plot of the meta-analysis, 
+where the symmetric distribution of  the studies is 
+observed. Consequently, the risk of publication bias is low.
+Discussion
+The use of HA in patients with TMJ pain and dysfunc-
+tion has been described in numerous studies.
+The comparative efficacy of HA and liquid platelet-rich 
+fibrin (L-PRF) injections intraarticularly after arthrocen­
+tesis in patients with TMJ pain and dysfunction was 
+assessed in a study by Yuce and Komerik.10 All techniques 
+have been shown to improve MMO and reduce pain. 
+However, when considering MMO and a  consistent 
+improvement in pain reduction, arthrocentesis in conjunc­
+tion with L-PRF provided superior outcomes.9,10
+Similar outcomes were observed in the study by 
+Toameh et al., which included individuals with TMJ issues 
+and disc displacement without reduction.11 When com-
+pared to either platelet-rich plasma (PRP) or HA alone, 
+arthrocentesis using Ringer’s solution produced a statisti­
+cally significant improvement in MMO and all other 
+parameters of pain intensity and chewing efficacy.11 
+However, a  considerably higher rise in MMO is 
+observed in the PRP and HA groups, and the PRP group 
+demonstrates better results in terms of chewing efficacy 
+and pain intensity. Thus, in the prior study,11 arthro­
+centesis + PRP exhibited superior outcomes in comparison 
+to arthrocentesis + HA or arthrocentesis alone. Hegab et al. 
+came to the same conclusions, as they determined that 
+PRP outperformed HA in the long term for the treatment 
+of TMJ osteoarthritis with respect to pain reduction and 
+increased MMO.12 However, PRP injections should not be 
+considered a first-line therapy option since, according to the 
+experiment conducted by Cömert Kiliç and Güngörmüs, 
+arthrocentesis + PRP injections are not more efficacious 
+than the combination of arthrocentesis with a single HA 
+injection.13
+Arthrocentesis using Ringer’s solution was also imple­
+mented in a RCT by Marzook et al., and intra-articular 
+injection was compared to a  mixture of  0.5 mL of  HA 
+and an equal quantity of corticosteroid (CS).9 The study 
+Fig. 3. Funnel plot displaying the heterogeneity between the studies 
+included in the meta-analysis
+RR – risk ratio; SE – standard error. Heterogeneity: χ2 = 0.16; df = 13 (p = 1.00); 
+I2 = 0%.
+Fig. 2. Results of the meta-analysis evaluating the effectiveness of hyaluronic acid (HA) in improving the stomatognathic function of the temporomandibular 
+joint (TMJ)
+CI – confidence interval; df – degrees of freedom; M–H – Mantel–Haenszel method.
+Dent Med Probl. 2025;62(5):919–926
+925
+found improvements in all measured outcomes, with no 
+notable variations observed across the groups.9 Due to 
+its simplicity, intra-articular injection of HA and CS has 
+been the treatment of choice for internal TMJ dysfunction 
+with reduction.9 In addition, Bergstrand et al. examined 
+the effects of arthrocentesis with lavage alone compared 
+to arthrocentesis with lavage + HA in patients with osteo­
+arthritis.14 Arthrocentesis of the TMJ increased the stomato­
+gnathic function and reduced pain. Although MMO lev-
+els increased in all groups, no significant differences were 
+observed in MMO or reported pain levels. No discernible 
+improvement in joint sounds was observed within the 
+groups. The long-term application of  both approaches 
+resulted in a significant enhancement in jaw discomfort and 
+function. Compared to arthrocentesis with lavage alone, 
+arthrocentesis with lavage + HA did not demonstrate 
+a significant advantage.14,15
+In the study by Bouloux et al., the authors noted that 
+arthrocentesis with Ringer’s solution is as effective as 
+arthrocentesis with HA or CS in reducing TMJ pain.16 There 
+were no significant differences between the 3 groups.16
+Yilmaz et al. posit that arthrocentesis + HA injection 
+and the administration of a single HA injection without 
+arthrocentesis effectively alleviated signs and symptoms 
+in patients with reduced and non-reduced disc 
+displacement-related joint pain, with the exception of joint 
+sounds.17 However, the combination of  arthrocentesis 
+and HA injection yielded better results regarding chew­
+ing efficiency and patient quality of life than a single HA 
+injection.17
+Gencer et al. compared 3 anti-inflammatory agents.18 
+Better pain relief scores were obtained in the HA group 
+(intra-articular injection of  Hyalgan® 10 mg/mL) com­
+pared to the betamethasone or tenoxicam groups. 
+A notable disadvantage of HA is its relatively higher cost 
+in comparison to the other 2 agents. Despite the lower 
+scores of  intra-articular tenoxicam or betamethasone, 
+they demonstrated better outcomes than the control group 
+and can be considered more economical alternatives to 
+intra-articular HA injections.18
+De Sousa et al. examined the impact of various thera-
+pies on patients with TMJ arthralgia.19 Every study partic-
+ipant wore a night bite splint. Some individuals received 
+merely the splint, while others were administered injec-
+tions of betamethasone (7 mg/mL), PRP or sodium hyal-
+uronate (Hyalart® 10 mg/mL). The administration of each 
+treatment resulted in a decrease in pain and an increase 
+in MMO. By the conclusion of the first week, the patients 
+receiving betamethasone or HA treatments demonstrated 
+the most optimal outcomes. However, a long-term suc-
+cess rate was higher when the splint was used in conjunc-
+tion with the PRP injection.19 In the RCT conducted by 
+Gokçe Kutuk et al. in patients with TMJ pain and TMJ 
+osteoarthritis, the authors showed that intra-articular PRP 
+injections decrease pain on palpation more effectively 
+than HA and CS.20
+Fernández-Ferro et al. noted that the injection of plasma 
+rich in growth factors (PRGF) after arthroscopy is more 
+effective in mitigating pain compared to the injection of 1% 
+HA post-procedure, particularly in patients with advanced 
+internal TMJ disorder.21 Regarding MMO, an increase was 
+observed in both groups, with no significant difference 
+between them.21
+Sun  et  al. evaluated the clinical effects of  injecting 
+20 mg of HA in the upper and lower joint space for the 
+treatment of osteoarthritis.22 The injection alleviated the 
+clinical signs and symptoms of osteoarthritis but did not 
+reverse or prevent the progression of  bone destruction 
+during short- and long-term follow-up periods.22
+Lastly, Batifol  et  al. reported a  course of  treatment for 
+severe and refractory TMJ discomfort that included tongue 
+splints, physical therapy, intramuscular botulinum toxin 
+injections, and HA injections prior to intra-articular Botox® 
+(botulinum toxin type A) injections.23 According to this 
+study, a botulinum toxin injection is a risk-free, non-surgical 
+treatment for severe and refractory temporal bone pain.23–30
+Conclusions
+Hyaluronic acid improves the stomatognathic function 
+in patients with TMJ dysfunction and associated pain. 
+Additionally, it has been demonstrated to be both effective 
+and safe in reducing pain and increasing MMO. In com-
+parison to PRP, HA has shown superior long-term results.
+Ethics approval and consent to participate 
+Not applicable.
+Data availability 
+The datasets generated and/or analyzed during the cur-
+rent study are available from the corresponding author on 
+reasonable request.
+Consent for publication 
+Not applicable.
+Use of AI and AI-assisted technologies 
+Not applicable. 
+ORCID iDs
+Javier Flores-Fraile  https://orcid.org/0000-0002-7739-7179
+Giuseppe Minervini  https://orcid.org/0000-0002-8309-1272
+Carmen García-Ortega  https://orcid.org/0009-0005-4123-991X
+Jorge Cortés-Bretón-Brinkmann  https://orcid.org/0000-0003-1701-8867
+Santiago Bazal-Bonelli  https://orcid.org/0000-0001-8301-0682
+Pedro Campos Lopes  https://orcid.org/0000-0002-8176-6977
+Daniel Sarmiento Govea  http://orcid.org/0009-0004-2585-4552
+Juan-Antonio Santos-Marino  https://orcid.org/0000-0003-4950-5424
+J. Flores-Fraile et al. TMJ and hyaluronic acid
+926
+References
+1.	 Litwiniuk M, Krejner A, Speyrer MS, Gauto AR, Grzela T. Hialuronic 
+acid inflammation and tissue regeneration. Wounds. 2016;28(3):78–88. 
+PMID:26978861. 
+2.	 Fallacara A, Baldini E, Manfredini S, Vertuani S. Hyaluronic acid in 
+the third millennium. Polymers (Basel). 2018;10(7):701. doi:10.3390/
+polym10070701
+3.	 Nusgens BV. Hyaluronic acid and extracellular matrix: A primitive 
+molecule? Ann Dermatol Venereol. 2010;137 Suppl 1:S3–S8. 
+doi:10.1016/S0151-9638(10)70002-8
+4.	 Abatangelo G, Vindigni V, Avruscio G, Pandis L, Brun P. Hyaluronic 
+acid: Redefining its role. Cells. 2020;9(7):1743. doi:10.3390/cells9071743
+5.	 Bacos JT, Dayan SH. Superficial dermal fillers with hyaluronic acid. 
+Facial Plast Surg. 2019;35(3):219–223. doi:10.1055/s-0039-1688797
+6.	 Kim H, Jeong H, Han S, et al. Hyaluronate and its derivatives for 
+customized biomedical applications. Biomaterials. 2017;123:155–171. 
+doi:10.1016/j.biomaterials.2017.01.029
+7.	 Al-Khateeb R, Olszewska-Czyz I. Biological molecules in dental 
+applications: Hyaluronic acid as a  companion biomaterial for 
+diverse dental applications. Heliyon. 2020;6(4):e03722. doi:10.1016/j.
+heliyon.2020.e03722
+8.	 Page MJ, McKenzie JE, Bossuyt PM,  et  al. The PRISMA 2020 
+statement: An updated guideline for reporting systematic reviews. 
+BMJ. 2021;372:n71. doi:10.1136/bmj.n71
+9.	 Marzook HAM, Abdel Razek AA, Yousef EA, Attia AAMM. Intra-
+articular injection of a mixture of hyaluronic acid and corticosteroid 
+versus arthrocentesis in TMJ internal derangement. J Stomatol Oral 
+Maxillofac Surg. 2020;121(1):30–34. doi:10.1016/j.jormas.2019.05.003
+10.	 Yuce E, Komerik N. Comparison of  the efficacy of  intra-articular 
+injection of  liquid platelet-rich fibrin and hyaluronic acid after 
+in conjunction with arthrocentesis for the treatment of  internal 
+temporomandibular 
+joint 
+derangements. J Craniofac Surg. 
+2020;31(7):1870–1874. doi:10.1097/SCS.0000000000006545
+11.	 Toameh MH, Alkhouri I, Karman MA. Management of patients with 
+disk displacement without reduction of  the temporomandibular 
+joint by arthrocentesis alone, plus hyaluronic acid or plus platelet-
+rich plasma. Dent Med Probl. 2019;56(3):265–272. doi:10.17219/
+dmp/109329
+12.	 Hegab AF, Ali HE, Elmasry M, Khallaf MG. Platelet-rich plasma 
+injection as an  effective treatment for temporomandibular 
+joint osteoarthritis. J Oral Maxillofac Surg. 2015;73(9):1706–1713. 
+doi:10.1016/j.joms.2015.03.045
+13.	 Cömert Kiliç S, Güngörmüş M. Is arthrocentesis plus platelet-rich 
+plasma superior to arthrocentesis plus hyaluronic acid for the treat-
+ment of  temporomandibular joint osteoarthritis: A   randomized 
+clinical trial. Int J Oral Maxillofac Surg. 2016;45(12):1538–1544. 
+doi:10.1016/j.ijom.2016.06.009
+14.	 Bergstrand S, Ingstad HK, Møystad A, Bjørnland T. Long-term 
+effectiveness of arthrocentesis with and without hyaluronic acid 
+injection for treatment of temporomandibular joint osteoarthritis. 
+J Oral Sci. 2019;61(1):82–88. doi:10.2334/josnusd.17-0423
+15.	 De Nordenflycht D, Tesch RS. Advantages of ultrasound guidance 
+for TMJ arthrocentesis and intra-articular injection: A  narra-
+tive review. Dent Med Probl. 2022;59(4):647–656. doi:10.17219/
+dmp/146820
+16.	 Bouloux GF, Chou J, Krishnan D,  et  al. Is hyaluronic acid or 
+corticosteroid superior to lactated ringer solution in the short- term 
+reduction of temporomandibular joint pain after arthrocentesis? 
+Part 1. J Oral Maxillofac Surg. 2017;75(1):52–62. doi:10.1016/j.
+joms.2016.08.006
+17.	 Yilmaz O, Korkmaz YT, Tuzuner T. Comparison of treatment efficacy 
+between hyaluronic acid and arthrocentesis plus hyaluronic acid in 
+internal derangements of temporomandibular joint. J Craniomaxillofac 
+Surg. 2019;47(11):1720–1727. doi:10.1016/j.jcms.2019.07.030
+18.	 Gencer ZK, Özkiriş M, Okur A, Korkmaz M, Saydam L. A comparative 
+study on the impact of intra-articular injections of hyaluronic acid, 
+tenoxicam and betametazon on the relief of temporomandibular 
+joint disorder complaints. J Craniomaxillofac Surg. 2014;42(7):1117–1121. 
+doi:10.1016/j.jcms.2014.01.041
+19.	 De Sousa BM, López-Valverde N, López-Valverde A, et al. Different 
+treatments in patients with temporomandibular joint disorders: 
+A comparative randomized study. Medicina (Kaunas). 2020;56(3):113. 
+doi:10.3390/medicina56030113
+20.	 Gokçe Kutuk S, Gökçe G, Arslan M, Özkan Y, Kütük M, Kursat Arikan O. 
+Clinical and radiological comparison of  effects of  platelet-rich 
+plasma, hyaluronic acid, and corticosteroid injections on temporo-
+mandibular joint osteoarthritis. J Craniofac Surg. 2019;30(4):1144–1148. 
+doi:10.1097/SCS.0000000000005211 
+21.	 Fernández-Ferro M, Fernández-Sanromán J, Blanco-Carrión  A,  et  al. 
+Comparison of  intra-articular injection of  plasma rich in growth 
+factors versus hyaluronic acid following arthroscopy in the 
+treatment of  temporomandibular dysfunction: A  randomised 
+prospective study. J Craniomaxillofac Surg. 2017;45(4):449–454. 
+doi:10.1016/j.jcms.2017.01.010
+22.	 Sun H, Su Y, Song N, Li C, Shi Z, Li L. Clinical outcome of sodium 
+hyaluronate injection into the superior and inferior joint space for 
+osteoarthritis of the temporomandibular joint evaluated by cone-
+beam computed tomography: A retrospective study of 51 patients 
+and 56 joints. Med Sci Monit. 2018;24:5793–5801. doi:10.12659/
+MSM.908821 
+23.	 Batifol D, Huart A, Finiels PJ, Nagot N, Jammet P. Effect of intra-
+articular botulinum toxin injections on temporo-mandibular 
+joint pain. J Stomatol Oral Maxillofac Surg. 2018;119(4):319–324. 
+doi:10.1016/j.jormas.2018.06.002 
+24.	 Strączek A, Szałkowska J, Sutkowska P, et al. Impact of nutrition on 
+the condition of the oral mucosa and periodontium: A narrative 
+review. Dent Med Probl. 2023;60(4):697–707. doi:10.17219/dmp/156466 
+25.	 Woźniak-Budych MJ, Staszak M, Staszak K. A critical review of dental 
+biomaterials with an emphasis on biocompatibility. Dent Med Probl. 
+2023;60(4):709–739. doi:10.17219/dmp/172732 
+26.	 Cigdem Karacay B, Sahbaz T. Investigation of  the relationship 
+between 
+probable 
+sleep 
+bruxism, 
+awake 
+bruxism 
+and 
+temporomandibular disorders using the Diagnostic Criteria 
+for Temporomandibular Disorders (DC/TMD). Dent Med Probl. 
+2023;60(4):601–608. doi:10.17219/dmp/158926 
+27.	 Yazarloo S, Arab S, Mirhashemi AH, Gholamrezayi E. Systematic 
+review of  preventive and treatment measures regarding 
+orthodontically induced white spot lesions. Dent Med Probl. 
+2023;60(3):527–535. doi:10.17219/dmp/140964 
+28.	 Barrera-Chaparro JP, Plaza-Ruíz SP, Parra KL,  et  al. Orthodontic 
+treatment need, the types of brackets and the oral health-related 
+quality of  life. Dent Med Probl. 2023;60(2):287–294. doi:10.17219/
+dmp/151577 
+29.	 Görürgöz C, İçen M, Kurt MH, et al. Degenerative changes of the 
+mandibular condyle in relation to the temporomandibular joint 
+space, gender and age: A multicenter CBCT study. Dent Med Probl. 
+2023;60(1):127–135. doi:10.17219/dmp/147514
+30.	 Seweryn P, Orzeszek SM, Waliszewska-Prosół M, et al. Relationship 
+between pain severity, satisfaction with life and the quality 
+of sleep in Polish adults with temporomandibular disorders. Dent 
+Med Probl. 2023;60(4):609–617. doi:10.17219/dmp/171894

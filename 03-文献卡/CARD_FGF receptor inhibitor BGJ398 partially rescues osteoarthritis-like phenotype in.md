@@ -1,0 +1,36 @@
+---
+title: "FGF receptor inhibitor BGJ398 partially rescues osteoarthritis-like phenotype in older high molecular weight FGF2 transgenic mice via multiple mechanisms"
+author: "Marja M. Hurley等"
+year: 2022
+journal: "Scientific Reports"
+category: "general"
+project: "[[project-016-gnn-drug-repositioning]]"
+tags: ["骨关节炎", "FGF2", "FGFR抑制剂", "BGJ398", "XLH", "BMP信号", "转基因小鼠"]
+---
+# FGF receptor inhibitor BGJ398 partially rescues osteoarthritis-like phenotype in older high molecular weight FGF2 transgenic mice via multiple mechanisms
+
+## 元数据
+- **作者**: Marja M. Hurley等
+- **年份**: 2022
+- **期刊**: Scientific Reports
+- **分类**: #general
+
+## 方法
+- 使用8月龄HMWTgFGF2转基因小鼠（XLH-OA模型）进行体内BGJ398给药（皮下注射，每周5天，持续6周）
+- 通过X射线、显微CT和组织形态计量学评估膝关节结构变化
+- 免疫组化检测FGF2、pFGFR1、FGF23、MMP13、ADAMTS5、BMP2/4、BMPR1、pSMAD1/5/8、pSMAD6、RUNX2和pERK1/2的表达
+- PrimePCR阵列分析TGFβ/BMP信号通路中82个基因的表达变化
+- 血清生化指标检测（钙、磷、PTH、BUN、肌酐、1,25(OH)2D3和FGF23）
+
+## 关键发现
+- BGJ398部分逆转了HMWTgFGF2小鼠的膝关节OA表型，包括改善软骨下骨体积和关节软骨蛋白聚糖含量
+- BGJ398显著降低了HMWTgFGF2小鼠关节软骨中MMP13和ADAMTS5的表达
+- BGJ398抑制了HMWFGF2诱导的FGF23-FGFR1活性增加，并下调了BMP2、BMP4和BMPR1的表达
+- BGJ398阻断了pSMAD1/5/8-RUNX2和pERK信号通路的激活
+- PrimePCR显示BGJ398逆转了TGFβ/BMP通路中Bmp2、Bmp4、Col1a2、Acvrl1和Serpine1等基因的异常表达
+
+## 关键洞察
+> 本研究证实HMWFGF2通过FGFR1激活FGF23-BMP-pSMAD1/5/8-RUNX2和pERK信号通路，上调MMP13和ADAMTS5导致软骨降解，而FGFR抑制剂BGJ398通过多机制部分逆转已建立的OA表型，为XLH相关骨关节炎的药物治疗提供了临床前证据。
+
+---
+*来源: Universal Pipeline | project-016-gnn-drug-repositioning*

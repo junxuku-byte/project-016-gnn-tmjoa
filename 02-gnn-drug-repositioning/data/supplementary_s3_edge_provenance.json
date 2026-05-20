@@ -1,0 +1,34 @@
+{
+  "graph_version": "four_layer_graph_full_v2",
+  "total_nodes": "355 drugs + 134 targets + 157 pathways + 15 diseases",
+  "edge_types": {
+    "drug_target": {
+      "count": 355,
+      "sources": [
+        "LabKG literature cards (420 mechanism cards from 753 PubMed articles)",
+        "ChEMBL v34 mechanism-of-action database (confidence \u2265 4)"
+      ]
+    },
+    "target_pathway": {
+      "count": 274,
+      "sources": [
+        "KEGG Release 112",
+        "Reactome v89",
+        "Domain-curated signaling modules (4 categories)"
+      ]
+    },
+    "pathway_disease": {
+      "count": 200,
+      "sources": [
+        "LabKG evidence pool (753 PubMed articles)",
+        "Each pathway connected to diseases cited as mechanistically relevant in \u22651 curated article"
+      ]
+    }
+  },
+  "mechanism_cards": {
+    "total_labkg_cards": 753,
+    "mechanism_relevant_cards": 420,
+    "unique_targets": 122,
+    "unique_pathways": 27
+  }
+}

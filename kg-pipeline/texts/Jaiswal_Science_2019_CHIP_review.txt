@@ -1,0 +1,1571 @@
+REVIEW SUMMARY
+◥
+MEDICINE
+Clonal hematopoiesis in human aging and disease
+Siddhartha Jaiswal* and Benjamin L. Ebert*
+BACKGROUND: Somatic mutations accumulate
+in normal tissues as a function of time. The
+great majority of these mutations have no
+effect on fitness, so selection does not act upon
+them. Rarely, a mutation will arise that con-
+fers a selective growth advantage to the cell
+in which it occurs. Such a mutation would
+allow that cell and its progeny, referred to
+as a “clone,” to progressively expand over
+time. This is now appreciated to occur in a
+number of tissues, particularly in aged indi-
+viduals. When this happens in a hematopoietic
+stem cell (HSC), “clonal hematopoiesis” may
+result if the mutated clone contributes to the
+production of a substantial proportion of ma-
+ture blood cells.
+Mutations in genes involved in epigenetic
+regulation (DNMT3A, TET2, ASXL1) account
+for the majority of mutation-driven clonal
+hematopoiesis in humans. These mutations
+are rare in the young but highly prevalent
+in the elderly, with between 10 and 20% of
+those older than age 70 harboring a clone of
+appreciable size. These individuals usually
+have only a single driver gene mutated, in
+contrast to individuals with frank malig-
+nancy, where there might be several such
+mutations. Clonal hematopoiesis of in-
+determinate potential (CHIP) is a clinical
+entity defined by the presence of a cancer-
+associated clonal mutation in at least 4% of
+nucleated blood cells of individuals without
+frank neoplasia.
+ADVANCES: Large-scale genetic studies have
+revealed the prevalence and clinical associa-
+tions of somatic, clonal mutations in blood
+cells of individuals without hematologic ma-
+lignancies. One expected consequence of
+harboring a cancer-associated mutation in
+blood is an increased risk of developing an
+overt hematologic malignancy, as the initiat-
+ing mutation may progress to cancer if addi-
+tional cooperating mutations are acquired.
+Indeed, recent studies have demonstrated
+that CHIP is associated with an increased risk
+of developing blood cancers, confirming that
+it is a bona fide premalignant state. Individ-
+uals with CHIP progress to malignancy at a
+rate of about 0.5 to 1% per year. Factors that
+influence the likelihood of progression to
+malignancy include the size of the clone, the
+number of mutations, and the specific gene
+or genes that are mutated.
+The process of precancerous clonal expan-
+sion likely occurs in all mitotically active tis-
+sues, as has recently been shown in studies
+of human skin and esophagus. Clonal hem-
+atopoiesis may also be relevant to phenotypes
+apart from malignancy. The blood stem cells
+that harbor the mutations give rise to im-
+mune cells such as granulocytes, monocytes,
+macrophages, and lymphocytes. As these cells
+reside in nearly all tissues, mutations that
+alter their function could have a variety of
+phenotypic consequences. For example, re-
+cent studies have suggested that CHIP is
+associated with an increased risk of all-cause
+mortality and an increased risk of cardio-
+vascular diseases such as myocardial infarc-
+tion, stroke, and venous thrombosis. The
+risk appears to be substantial, as the hazard
+ratio associated with CHIP is as great as or
+greater than many commonly assessed risk
+factors for cardiovascular disease, such as
+smoking, cholesterol lev-
+els, and high blood pres-
+sure. Mouse models that
+carry some of the common
+CHIP mutations display
+enhanced atherosclerosis,
+consistent with a causal
+relationship between the mutations and the
+disease. At a mechanistic level, the mutations
+may amplify the inflammatory response by the
+innate immune system, a known contributing
+factor in the development of atherosclerosis.
+CHIP may be a general factor underlying age-
+related inflammation and could potentially in-
+fluence several diseases of aging.
+OUTLOOK: Although the past few years have
+seen an explosion of research on clonal hem-
+atopoiesis, many mysteries remain. The exact
+mechanisms by which CHIP-associated mu-
+tations cause clonal expansion remain un-
+known, as does a role for environmental or
+heritable factors in this process. Nor is it
+understood why some people develop rapid
+clonal expansion and progression to malig-
+nancy, whereas others have clones that lay
+dormant for many years. It is likely that the
+presence of CHIP influences several other
+diseases of aging, in addition to cancer and
+cardiovascular disease, but this has not yet
+been studied systematically. In addition to ad-
+dressing questions directed at the basic science
+underlying clonal hematopoiesis, we need to
+develop strategies aimed at mitigating the
+adverse consequences of CHIP, such as lifestyle
+modifications or drugs that lower the risk of
+hematologic cancer and heart disease.
+The process of mutation and clonal selec-
+tion is likely to be universal across all organs
+and tissues. Understanding the causes and
+consequences of clonal hematopoiesis may
+provide a framework to understand this pro-
+cess, and aging, more broadly.▪
+RESEARCH
+Jaiswal and Ebert, Science 366, 586 (2019)
+1 November 2019
+1 of 1
+The list of author affiliations is available in the full article online.
+*Corresponding author. Email: sjaiswal@stanford.edu (S.J.);
+benjamin_ebert@dfci.harvard.edu (B.L.E.)
+Cite this article as S. Jaiswal and B. L. Ebert, Science 366,
+eaan4673 (2019). DOI: 10.1126/science.aan4673
+Somatic mutations, clonal hematopoiesis, and aging. Somatic mutations are acquired by all cells
+throughout life. Most are inconsequential, but rare mutations will lead to clonal expansion of hematopoietic
+stem cells (HSCs). If additional mutations are acquired, blood cancers may result. Emerging data also
+associate the presence of such clones with increased risk of cardiovascular disease (CVD) and death.
+Clonal hematopoiesis provides a glimpse into the process of mutation and selection that likely occurs in
+all somatic tissues.
+ON OUR WEBSITE
+◥
+Read the full article
+at http://dx.doi.
+org/10.1126/
+science.aan4673
+..................................................
+on November 2, 2019
+ 
+http://science.sciencemag.org/
+Downloaded from 
+REVIEW
+◥
+MEDICINE
+Clonal hematopoiesis in human aging and disease
+Siddhartha Jaiswal1* and Benjamin L. Ebert2,3*
+As people age, their tissues accumulate an increasing number of somatic mutations. Although most
+of these mutations are of little or no functional consequence, a mutation may arise that confers a fitness
+advantage on a cell. When this process happens in the hematopoietic system, a substantial proportion
+of circulating blood cells may derive from a single mutated stem cell. This outgrowth, called “clonal
+hematopoiesis,” is highly prevalent in the elderly population. Here we discuss recent advances in our
+knowledge of clonal hematopoiesis, its relationship to malignancies, its link to nonmalignant diseases of
+aging, and its potential impact on immune function. Clonal hematopoiesis provides a glimpse into the
+process of mutation and selection that likely occurs in all somatic tissues.
+A
+ging is associated with a steady increase
+in the number of somatic mutations
+in nearly all tissues (1–5). These age-
+associated mutations fall into several
+classes. The most frequent class arises
+from the spontaneous deamination of 5-
+methylcytosine to thymine and primarily
+occurs at CpG dinucleotides, which are often
+in the methylated state (6). If a cell has not
+repaired this error before replication, one
+daughter cell will have a thymine:adenine
+pairing of DNA bases instead of the parental
+cytosine:guanine. This process occurs at a
+linear rate with respect to time and is there-
+fore considered a signature of aging (7). A
+second class of mutation is small insertions
+and deletions (indels), which commonly arise
+from errors introduced during nonhomologous
+end joining of DNA double-strand breaks
+and can result in frameshift mutations if the
+breaks occur in protein-coding portions of
+the genome (8). Evidence from model orga-
+nisms suggests that double-strand breaks may
+become more common as cells age (9). A third
+mechanism of mutation is replication error by
+DNA polymerase, which also typically results
+in base substitutions or small indels. The error
+rate of eukaryotic DNA replication tends to
+be very low, except in the case where DNA
+mismatch repair function is compromised
+(10, 11) The number of replication cycles that
+a cell has undergone typically increases with
+age; therefore the number of polymerase er-
+rors also cumulatively increases (12). The
+fourth type of age-associated mutation is large
+structural variation, such as insertions, dele-
+tions, loss of heterozygosity, or rearrangements
+spanning several kilobases or more, although
+these occur somewhat less commonly than
+base substitutions and small indels (13).
+In combination, these mutational processes
+create a broad array of genetically distinct tis-
+sue stem cells. Through Darwinian selection,
+some of these stem cells gain a competitive
+advantage, a phenomenon that has been most
+extensively studied in the human hemato-
+poietic system. It is estimated that humans
+have 50,000 to 200,000 hematopoietic stem
+cells (HSCs) (14). As each HSC acquires about
+one exonic mutation per decade of life (3), by
+the age of 70 an average person would be ex-
+pected to harbor up to 1.4 million protein-
+coding variants, corresponding to an average
+of 70 mutations per gene, in at least one HSC
+(Fig. 1). If just one of these mutations is ca-
+pable of imparting a fitness advantage to the
+cell in which it arose, expansions of mutated
+HSCs, termed “clones,” should be common in
+aging humans. Indeed, numerous studies have
+now shown that such outgrowths of mutated
+blood cells, termed “clonal hematopoiesis,”
+are highly prevalent in the elderly. An equiv-
+alent state is also pervasive in the epithelium
+of skin (15) and esophagus (16, 17), suggest-
+ing that somatic mutation–driven clonal ex-
+pansions may be a characteristic of aging in
+several tissues. Here, we review recent de-
+velopments in our understanding of clonal
+hematopoiesis and its implications for hu-
+man health.
+A brief history of clonal hematopoiesis
+Clonal hematopoiesis is characterized by the
+overrepresentation of blood cells derived from
+a single clone. Blood cancers such as chronic
+myeloid leukemia were first demonstrated to
+be clonal from karyotypic analysis and are the
+prototypical example of clonal hematopoiesis
+(18). But in the 1990s, studies of nonrandom
+X-chromosome inactivation (XCI) in women
+led to the discovery that clonal hematopoiesis
+also occurs in individuals without cancer (19).
+One X chromosome is randomly inactivated in
+each cell during female embryonic devel-
+opment, which means that each of the two
+X chromosomes is inactive in ~50% of cells.
+The chromosome that is inactivated remains
+constant across cell divisions; therefore, the
+demonstration of nonrandom XCI in a pop-
+ulation of cells is evidence of a clonal process.
+Notably, nonrandom XCI in blood cells was
+observed to increase in frequency with age,
+although the underlying mechanism was un-
+clear (20). A more complete catalog of the
+genetic framework of blood cancers allowed
+investigators to look for cancer-associated
+somatic mutations in these cases. In 2012,
+mutations in TET2 (a gene coding for an en-
+zyme that oxidizes methylated DNA) were
+found in ~5% of elderly women with non-
+random XCI. This was the first demonstration
+that mutation-driven clonal hematopoiesis oc-
+curs in healthy persons (21).
+A second line of evidence that supported the
+existence of premalignant clonal expansions
+in healthy individuals came from studies of
+patients who were in remission after being
+treated for acute myeloid leukemia (AML).
+Like most cancers, AML generally results from
+several driver mutations that occur sequen-
+tially in the same clone over time (3). If the
+first mutation to be acquired leads to clonal
+expansion without malignant transforma-
+tion, it should be possible to identify a pre-
+malignant stage in which only the initiating
+lesion is present (22). This was first demon-
+strated in a case study of a patient with AML
+in which the driver mutation of the leukemia,
+an AML1/ETO translocation, could be detected
+in a fraction of phenotypically normal HSCs
+and mature hematopoietic cells in remission
+samples (23). In later studies, DNA sequenc-
+ing of HSCs from AML patients in remission
+revealed that stem cells with only a single
+driver mutation were often present, suggest-
+ing that premalignant clonal hematopoiesis
+was a generalizable finding in AML (24–26).
+However, the extent of mutation-driven clonal
+hematopoiesis in the healthy population, its
+full genetic spectrum, and its natural history
+remained unknown.
+Clonal hematopoiesis in the genome
+sequencing era
+In 2014, three groups examined exome se-
+quencing data from studies that together
+comprised more than 30,000 persons for the
+presence of mutations associated with hem-
+atological cancers (27–29). Some of these in-
+dividuals had diabetes, schizophrenia, or solid
+cancers, but they were unselected for hemato-
+logical phenotypes. Notably, the source of DNA
+was peripheral blood cells, thus permitting the
+study of mutation-driven clonal hematopoiesis
+on a larger scale than was previously possi-
+ble. These studies can be thought of as a nat-
+ural experiment of saturation mutagenesis in
+RESEARCH
+Jaiswal and Ebert, Science 366, eaan4673 (2019)
+1 November 2019
+1 of 8
+1Department of Pathology, Stanford University School of
+Medicine, Stanford, CA 94305, USA. 2Department of Medical
+Oncology, Howard Hughes Medical Institute, Boston, MA.
+3Broad Institute of MIT and Harvard, Cambridge, MA 02142,
+USA.
+*Corresponding author. Email: sjaiswal@stanford.edu (S.J.);
+benjamin_ebert@dfci.harvard.edu (B.L.E.)
+on November 2, 2019
+ 
+http://science.sciencemag.org/
+Downloaded from 
+humans and can be summarized in a simple
+postulate—given a sufficiently large popula-
+tion, every possible mutation that can occur
+will occur in some HSCs. Those cells carry-
+ing mutations that are neutral or deleterious
+will not expand and therefore will not be
+detectable from blood DNA. Those muta-
+tions that are detectable are the ones that
+cause clonal expansion, and these will point
+to biological pathways that increase the fit-
+ness of HSCs.
+The surprising result of this experiment of
+nature was that clonal hematopoiesis largely
+results from mutations in a very restricted set
+of genes. Mutations in classical oncogenes and
+tumor suppressors, such as those involved in
+cellular growth signaling (JAK2, GNAS, GNB1,
+CBL) and the DNA damage response (TP53,
+PPM1D), were seen but were not the most
+common. Instead, nearly two-thirds of clonal
+hematopoiesis could be accounted for by loss-
+of-function mutations in just two enzymes
+involved in DNA methylation: DNMT3A and
+TET2. The third most commonly mutated
+gene was ASXL1, a chromatin regulator, and
+mutations in splicing factors (SF3B1, SRSF2,
+PRPF8, U2AF1) were also frequent. Why these
+mutations cause clonal expansion remains an
+intense area of investigation (see “Mecha-
+nisms of clonal expansion” below).
+A second observation that emerged from
+these studies was that clonal hematopoiesis
+is an age-related phenomenon. Somatic clones
+were detectable in less than 1% of individuals
+under age 40, but they increased in frequency
+with each decade of life. By contrast, 10 to 20%
+of individuals age 70 or older harbored a de-
+tectable clone. The size of these mutant clones
+was massive; in one study, a median of ~18%
+of blood cells carried the mutations (29). For
+comparison, previously described mutations
+in the blood of persons without cancer, such
+as BCR-ABL or BCL2 translocations, were usu-
+ally present in less than 0.01% of cells and
+were often transient (30, 31). One important
+consideration is that the prevalence of clonal
+hematopoiesis is highly dependent on the
+sensitivity of the method used to detect it
+(Fig. 2). These initial studies used whole-exome
+sequencing, which is relatively insensitive to
+smaller clones. Subsequent studies using more
+sensitive approaches have found the preva-
+lence of clonal hematopoiesis to be much
+higher, although the biological importance of
+the smaller clones is unknown (32–34).
+Thus far, our discussion of clonal hemato-
+poiesis has focused on mutational changes
+that are limited to small stretches of DNA,
+such as base substitutions and small indels.
+But large structural variation, such as gains
+or losses of large segments of chromosomes,
+also increases with age and has clinically
+meaningful associations (35–37). Although
+the accumulation of both small and large
+somatic variants is linked to aging, the un-
+derlying biology of the two is generally non-
+overlapping. For example, copy-number gains
+or losses of DNMT3A, TET2, and ASXL1 are
+rarely found in surveys of somatic large struc-
+tural variation (36). Instead, changes associ-
+ated with chronic lymphocytic leukemia (CLL)
+and losses of sex chromosomes are the most
+common variants that accumulate in aging
+(37). Mechanistic understanding of why these
+variants are positively selected during aging
+is lacking in most cases. Further complicating
+the picture, clonal hematopoiesis has been
+observed in the absence of any known driver
+mutation (28, 38). What causes apparent clonal
+expansion in these cases is unknown, but clo-
+nal expansion could be due to mutations in
+genes not previously queried in surveys of
+clonal hematopoiesis, mutations in the non-
+coding genome, or even genetic drift due to age-
+related constriction of the stem cell pool (38).
+Clonal hematopoiesis of indeterminate
+potential (CHIP)
+Clonal hematopoiesis generally refers to any
+clonal outgrowth of hematopoietic cells, re-
+gardless of cause or disease state. Thus, some-
+one with a frank malignancy like AML would
+be considered to have clonal hematopoiesis.
+Stochastic processes such as constriction of
+Jaiswal and Ebert, Science 366, eaan4673 (2019)
+1 November 2019
+2 of 8
+N
+N
+N
+N
+O
+A
+A
+T
+A
+AT
+A
+G
+NHEJ
+Indel mutation
+~1 protein-coding 
+mutation every 10 
+years per HSC
+50,000 to 200,000 
+HSCs per person
+0
+50
+100
+150
+200
+250
+300
+Replication error
+Second round of replication – copied
+mismatch now looks normal
+If uncorrected
+A
+A
+C
+C
+T
+Original sequence
+DNMT3A
+Number of random mutations 
+acquired by age 70 in HSC pool
+TET2
+ASXL1
+JAK2
+SF3B1
+TP53
+Cytosine deamination
+5-Methylcytosine
+Deamination
+3 4 5
+6
+1
+2
+O
+O
+H
+H
+H
+N
+H3C
+H3C
+Thymine
+Double strand break repair
+Polymerase error
+Structural rearragements of 
+chromosomes
+AC
+Fig. 1. Mutational processes in aging. A single hematopoietic stem cell (HSC) in a healthy person acquires
+approximately one protein-coding mutation per decade of life (3). Four mutational processes contribute to
+the bulk of these age-associated mutations (right): spontaneous deamination of 5-methylcytosine to thymine,
+insertions and deletions (indels) caused by nonhomologous end-joining (NHEJ) of DNA double-strand breaks,
+errors in replication by DNA polymerase, and structural rearrangements of chromosomes, such as large
+insertions, deletions, and translocations. Assuming there are 50,000 to 200,000 HSCs in an average person
+(14), we estimate that by age 70, an average person without a hematological cancer will harbor 350,000
+to 1.4 million protein coding mutations in his or her HSC pool. Shown at the bottom left is the expected
+number of random mutations (expressed as a range) in HSCs in the exons of DNMT3A, TET2, ASXL1, JAK2,
+SF3B1, and TP53 by age 70 per person. A subset of these mutations may lead to clonal expansions.
+RESEARCH
+|
+REVIEW
+on November 2, 2019
+ 
+http://science.sciencemag.org/
+Downloaded from 
+the stem cell pool with aging may also lead
+to clonal hematopoiesis in the absence of
+a known driver mutation. The term “clonal
+hematopoiesis of indeterminate potential”
+(CHIP) was introduced to distinguish non-
+malignant clonal hematopoiesis that is clearly
+linked to cancer-associated mutations from
+other forms of clonal hematopoiesis (39). CHIP
+refers to the presence of a cancer-associated
+variant in the blood cells of a person without
+a frank malignancy or another recognized clo-
+nal entity, such as monoclonal B-lymphocytosis
+(MBL) or paroxysmal nocturnal hemoglobinuria
+(40). The term “indeterminate potential” is
+intended to invoke the medical uncertainty
+associated with such a state. By this defini-
+tion, cancer-free persons with somatic muta-
+tions in genes such as TET2 or TP53 would
+be considered to have CHIP. This term would
+not apply to persons with copy-number abnor-
+malities associated with MBL and CLL or
+clonal expansion in the absence of a known
+driver mutation. To meet the definition of
+CHIP, the clones must also meet a certain
+size threshold. If sequenced deeply enough,
+a cancer-associated mutation may be detect-
+able in most people over the age of 50 (34),
+but only clones that reach a certain size are
+likely to be clinically meaningful. The thresh-
+old for CHIP was set at a variant allele fraction
+(VAF) of 2% (meaning 2% of the sequenced
+alleles contained the mutation, or roughly 4%
+of cells, assuming the mutation is heterozy-
+gous), but may be revised if it is demonstrated
+that there is prognostic relevance for clones
+below this size.
+Mechanisms of clonal expansion
+The role of CHIP-associated genes in hema-
+topoiesis has been extensively reviewed else-
+where (41, 42). For some of these genes, clear
+mechanisms for clonal expansion have been
+found. HSCs from mice with mutations in
+either Tp53 (43) or Ppm1d, a gene encoding
+a regulator of p53 and other members of the
+DNA damage response pathway (44, 45), can
+enter the cell cycle despite the presence of
+DNA damage, leading to a stem cell advan-
+tage in the setting of cytotoxic drugs. Acti-
+vating mutations in JAK2 allow constitutive
+signaling though growth factor receptors, thus
+leading to clonal expansion by enhanced pro-
+liferation of cells that carry this mutation (46).
+Less clear is why mutations in TET2 or
+DNMT3A lead to clonal expansion. Especially
+perplexing is that these two genes have osten-
+sibly opposite biochemical functions. DNMT3A
+is one of the two enzymes responsible for
+de novo methylation of the fifth position in
+cytosine bases of DNA, a mark that is thought
+to influence gene expression (47, 48). TET2 is
+one of three enzymes responsible for cata-
+lyzing the oxidation of 5-methylcytosine to
+5-hydroxymethylcytosine and further inter-
+mediates, which can eventually lead to de-
+methylation (49, 50). Mouse models carrying
+loss-of-function mutations in either of these
+genes clearly show an HSC competitive ad-
+vantage in vivo as well as a propensity for
+leukemia when cooperating mutations are
+present (51–54). Stem cells from these mice
+can grow colonies in vitro for several passages,
+whereas wild-type stem cells quickly lose this
+capacity, suggestive of enhanced self-renewal
+capacity in the mutant stem cells (55, 56).
+However, it is unknown why loss of cytosine
+methylation or hydroxymethylation, broadly
+or at specific genomic loci, leads to changes in
+self-renewal ability.
+Mutations in genes encoding core members
+of the spliceosome are also found in CHIP,
+though less commonly than mutations in TET2
+and DNMT3A. HSCs from mice mutant for
+these genes, Sf3b1 (57), Srsf2 (58), and U2af1
+(59), have a competitive disadvantage in vivo,
+unlike the clonal expansion observed in hu-
+mans with these mutations. The reason for
+the disparity of phenotypes in humans and
+mice is unclear. Partly because of the inability
+to model clonal hematopoiesis in these mice,
+the exact mechanisms whereby these mutations
+lead to clonal expansion remains unknown.
+Clonal hematopoiesis is also commonly found
+in aplastic anemia, a disorder caused by an
+autoimmune attack on bone marrow progen-
+itor cells that results in severely depressed
+blood counts (60). In contrast to the muta-
+tions associated with CHIP, the mutations
+most commonly seen in aplastic anemia af-
+fect the genes PIGA, BCOR, and BCORL1. The
+PIGA gene is required for the synthesis of
+glycophosphatidylinositol (GPI), and its loss
+results in down-regulation of several cell sur-
+face proteins that are GPI anchored (61). Loss
+of some of these proteins may allow for im-
+mune escape, thus explaining selection for
+PIGA-mutated clones. The mechanism of se-
+lection for BCOR and BCORL1 mutations in
+this setting is unknown.
+The risk of developing clonal hematopoie-
+sis is largely related to the stochastic acqui-
+sition of somatic mutations in HSCs during
+aging. However, some epidemiological studies
+have implicated environmental and heritable
+components as well. For example, CHIP has
+been reported to be more common in older
+men (29) and smokers (28) and less common
+in Hispanics (29), although these associations
+are all relatively modest. Recent studies have
+implicated genetic predispositions (38, 62) as
+well as the microbiome (63) in the etiology
+and progression of clonal hematopoiesis. More
+insights into the factors that influence clonal
+expansions are expected to emerge from ge-
+netic sequencing of large population cohorts
+with richly annotated clinical phenotypes.
+CHIP and hematological malignancy
+CHIP itself does not denote a malignancy, nor
+is it associated with clinically significant al-
+terations in blood counts (29, 64). But many
+of the most commonly seen mutations in
+CHIP are also recurrent drivers of AML (65),
+myelodysplastic syndrome (MDS) (66–68),
+myeloproliferative neoplasms (69), and certain
+lymphomas (70, 71). Thus, one might predict
+that individuals with CHIP would develop
+hematological malignancies at a rate above
+background because they have the “first hit”
+needed for malignant transformation. Indeed,
+in population-based cohorts that underwent
+exome sequencing, the presence of CHIP was
+associated with an ~10-fold increased relative
+risk of these malignancies over several years of
+follow-up (28, 29). In one study, 4% of CHIP
+carriers developed a blood cancer over the
+subsequent 8 years, corresponding to ~0.5%
+of CHIP cases converting to malignancy per
+year (29). Notably, the risk of malignancy in
+the carriers of CHIP was associated with the
+size of the mutant clone, as those who went
+on to develop malignancy had substantially
+Jaiswal and Ebert, Science 366, eaan4673 (2019)
+1 November 2019
+3 of 8
+Age
+Prevalence
+70
+35
+10%
+100%
+ECS (VAF > 0.01%)
+Targeted (VAF > 0.5%)
+WES (VAF > 3%) 
+WGS (VAF > 7%)
+Fig. 2. Prevalence of CHIP. The estimated prevalence of clonal hematopoiesis as a function of age varies
+according to the sequencing method used. Methods that are more sensitive, such as deep sequencing of
+select genes (34, 72, 73), will detect clonal hematopoiesis in more people than methods such as exome
+(28, 29) or genome sequencing (38), which typically have a much lower depth of coverage. The clinical
+consequences of clonal hematopoiesis are best understood for larger clones (>2% VAF). VAF, variant allele
+fraction; ECS, error corrected sequencing; WES, whole-exome sequencing; WGS, whole-genome sequencing.
+RESEARCH
+|
+REVIEW
+on November 2, 2019
+ 
+http://science.sciencemag.org/
+Downloaded from 
+larger clone sizes than those who did not.
+Myeloid malignancies were most common,
+although some people with CHIP did develop
+lymphoid cancers (28, 29).
+To refine risk estimates for developing AML
+associated with clonal hematopoiesis, two
+groups performed nested case-control studies
+within large population-based cohorts that
+had several years of follow-up (72, 73). Both
+groups found that individuals with antecedent
+clonal hematopoiesis were at about three- to
+fivefold increased risk for developing AML
+in the subsequent years (Fig. 3A). The risk
+was lower than the ~10-fold increase seen in
+previous studies because clonal hematopoiesis
+was identified using methods that were more
+sensitive than exome sequencing, which re-
+sulted in the detection of more clones of
+smaller size, including clones below the size
+threshold for CHIP. Similar to previous studies,
+the risk of AML positively correlated with the
+size of the mutant clone. An intriguing finding
+from these studies was that mutations in TP53,
+JAK2, SF3B1, SRSF2, and U2AF1 were linked
+to a particularly high risk of developing AML;
+however, many of these individuals had mul-
+tiple driver gene mutations, making the as-
+sessment of risk for singleton mutations
+challenging. Nonetheless, such studies could
+provide a rationale for population-wide screen-
+ing for those at especially high risk for trans-
+formation, though it remains to be seen what
+interventions would be beneficial in these
+individuals.
+A feared complication in patients who have
+been treated with cytotoxic drugs for solid
+cancers is therapy-related development of
+secondary AML and MDS. Several studies
+have found that patients with CHIP and solid
+tumors or lymphoma have an increased risk
+of these therapy-related myeloid neoplasms af-
+ter treatment for the primary disease (74–76).
+It is hypothesized that preexisting mutant HSC
+clones selectively expand under the pressure of
+cytotoxic therapy and can cause cancer several
+years later with the acquisition of subsequent
+mutations (77). One study of a patient popula-
+tion treated for solid cancers found that CHIP
+mutations were more prevalent in this group
+than in populations not selected for cancer
+(78). Furthermore, the mutational spectrum
+in patients with nonhematologic cancers was
+altered, as mutations in DNA damage response
+genes such as TP53 and PPM1D were far more
+prevalent in this setting, likely due to strong
+selective pressure from exposure to cytotoxic
+therapies. Patients with CHIP also had in-
+creased mortality, most often due to progres-
+sion of their primary malignancy. These studies
+indicate that CHIP in the setting of other can-
+cers is likely to be especially pervasive and por-
+tends a poor prognosis.
+CHIP and nonmalignant disease
+Most clonal expansion states are expected to
+increase the risk of neoplasia in the tissues in
+which they arise. But might there be conse-
+quences of the mutant clones apart from
+cancer? Although it will be fascinating to
+determine these consequences in all tissues,
+some characteristics of the hematopoietic
+system make it particularly noteworthy as a
+potential cause of nonmalignant disease. First,
+tissue architecture constrains the extent of
+clonal expansion within tissues such as gut
+or skin epithelium to patches that are rarely
+larger than a few square millimeters (16), but
+there is no such spatial restriction on HSCs,
+which freely admix throughout the bone mar-
+row and body (79). Indeed, some individuals
+with clonal hematopoiesis have nearly all of
+their blood cells arising from a single mu-
+tated HSC (29). Second, alterations in hema-
+topoietic cells have the potential to affect a
+Jaiswal and Ebert, Science 366, eaan4673 (2019)
+1 November 2019
+4 of 8
+Fig. 3. CHIP is associated with increased risk of acute myeloid leukemia
+and coronary heart disease. (A) Forest plots for risk of developing acute
+myeloid leukemia (AML) (72) and coronary heart disease (CHD) (80) in
+individuals with mutations in the genes listed. Only those mutations meeting the
+definition of CHIP were included. Individuals with mutations in more than one
+driver mutation are shown in the figure as a separate category (>1 driver gene).
+Lines represent the 95% confidence interval for odds or hazard ratios, and
+the sizes of the dots reflect the percentage of total CHIP mutations that are
+accounted for by each gene. (B) Hazard ratio (HR) and 95% confidence
+interval (CI) for developing CHD based on Framingham risk factors plus
+presence of CHIP mutations. Data are taken from population-based cohorts
+unselected for CHD status (29).
+RESEARCH
+|
+REVIEW
+on November 2, 2019
+ 
+http://science.sciencemag.org/
+Downloaded from 
+wide range of disease states. In contrast to
+tissue-specific cells or epithelia, immune cells
+such as lymphocytes, granulocytes, and mono-
+cytes can migrate to and influence nearly every
+organ. These immune effector cells are derived
+from HSCs, so any mutations that occur in
+HSCs can also potentially alter the immune
+response or baseline inflammatory state.
+These observations have prompted an ex-
+amination of the effects of mutation-driven
+clonal hematopoiesis on human health and
+disease beyond blood cancer. Several studies
+have found that CHIP is associated with a 30
+to 40% increased mortality risk (28, 29, 38).
+In an initial study, this risk could not be ex-
+plained by cancer deaths but was instead re-
+lated to increased cardiovascular mortality
+(29). Further analysis revealed that the risk of
+future ischemic stroke and coronary heart
+disease was more than doubled in carriers of
+CHIP (29) (Fig. 3A). In this study of primarily
+middle-aged individuals, the risk of coronary
+heart disease and ischemic stroke associated
+with CHIP was as great as or greater than
+that conferred by well-known risk factors for
+cardiovascular disease, such as circulating low-
+density lipoprotein (LDL)–cholesterol levels,
+smoking, and blood pressure (Fig. 3B). Repli-
+cation studies in additional cohorts confirmed
+and extended the early work. In studies of
+middle-aged and older individuals, the risk
+for coronary heart disease was nearly twice
+as high for individuals with CHIP compared
+to individuals without CHIP (80). The risk
+for early-onset myocardial infarction (MI),
+defined as heart attack before age 40 in men
+or age 50 in women, was four times higher in
+those with CHIP compared to those without
+CHIP. The relative risk for coronary heart
+disease in individuals bearing mutations in
+DNMT3A, TET2, or ASXL1 was roughly doubled
+compared to those without CHIP; in individ-
+uals bearing JAK2 mutations, the relative risk
+was ~12-fold higher compared to those with-
+out CHIP. In addition, individuals with larger
+mutant clones had the greatest risk of cardio-
+vascular disease, mirroring the situation for
+malignancy risk. Just as CHIP is associated
+with an increased risk of cardiovascular dis-
+ease, lower-risk subtypes of MDS are also asso-
+ciated with a doubling of the risk of dying
+from cardiovascular causes (81).
+The link between CHIP and cardiovascular
+outcomes is not limited to atherosclerotic
+disease. Recent evidence suggests that indi-
+viduals with post-MI–related congestive heart
+failure who carry CHIP-associated DNMT3A
+or TET2 mutations have worse survival out-
+comes than individuals without CHIP (82).
+In a separate study (83), individuals with CHIP-
+associated JAK2 mutations were reported to
+have a ~12 times greater risk of developing
+venous thrombosis than those without CHIP,
+whereas individuals with mutations in other
+CHIP-associated genes had a doubling of the
+risk (83). Thus, CHIP is likely to be an indi-
+cator of poor prognosis for several distinct
+cardiovascular disorders.
+Although it is clear that CHIP-associated mu-
+tations play a causal role in the development of
+blood cancer, it is less clear, a priori, whether
+their role in nonmalignant diseases is causal
+or merely correlative. Like several other well-
+described markers in blood cells, such as red
+cell distribution width (84), DNA methylation
+clocks (85), and loss of Y chromosome (86),
+CHIP is associated with multiple adverse out-
+comes in epidemiological studies. One poten-
+tial explanation is that all of these biomarkers
+are measures of some aspect of biological aging
+but are themselves not directly causal for health
+outcomes. What distinguishes CHIP from these
+other measures is the ability to manipulate mod-
+el organisms experimentally to test causality.
+In 2017, two research groups used mouse
+models to establish a causal role for CHIP in
+atherosclerosis. Both groups found that loss of
+Tet2 in bone marrow cells led to an increase in
+the size of atherosclerotic lesions in hyperlip-
+idemic mice, an effect that could not be ex-
+plained by quantitative changes in blood cell
+parameters of the mutant mice (80, 87). Rath-
+er, the mutant bone marrow–derived macro-
+phages up-regulated many proinflammatory
+molecules, suggesting a potential mechanism
+for the increase in atherosclerosis. In support
+of this hypothesis, loss of Tet2 in myeloid cells
+was sufficient to confer enhanced athero-
+sclerosis. In addition, blockade of the proin-
+flammatory cytokine interleukin-1b (IL-1b)
+reversed the accelerated atherosclerosis seen
+in Tet2 mutant mice (87).
+Jaiswal and Ebert, Science 366, eaan4673 (2019)
+1 November 2019
+5 of 8
+Fig. 4. Phenotypic changes in HSCs and immune cells with TET2 or
+DNMT3A mutations. HSCs that lack TET2 or DNMT3A display several
+convergent phenotypes in model systems, such as competitive advantage,
+enhanced self-renewal, myeloid bias in differentiation, and propensity for
+transformation to myeloid malignancies (51–56). The mature immune
+effector cells that derive from these mutated HSCs are increasingly
+appreciated to be functionally altered as well. Recent work has found that
+loss of TET2 or DNMT3A increases inflammatory responses in macrophages
+(80, 87, 88, 93) and mast cells (95). Emerging work also suggests an
+effect of these mutations on T cell function, which may influence immune
+response to tumors (96, 97). CAR-T, chimeric antigen receptor T cell;
+GvH, graft-versus-host; BMT, bone marrow transplant.
+RESEARCH
+|
+REVIEW
+on November 2, 2019
+ 
+http://science.sciencemag.org/
+Downloaded from 
+Subsequent studies showed that loss of Tet2
+or Dnmt3a led to worsening heart function in
+a mouse model of congestive heart failure,
+corroborating the human genetic association
+(88, 89). Heart function in these studies was
+also improved with blockade of IL-1b, sug-
+gesting that this may be a common pathway
+for reversing the effects of CHIP in the heart.
+There is also evidence that Jak2 mutations in
+bone marrow enhance atherosclerosis in mouse
+models by altering macrophage function (90).
+Mutations in JAK2 have a well-described role
+in activating signal transducer and activator
+of transcription (STAT) transcription factors,
+which are central to immune response in
+several cell types involved in atherosclerosis.
+Furthermore, JAK2 mutations prime neutro-
+phils to form neutrophil extracellular traps,
+leading to thrombosis, which may also contrib-
+ute to poor cardiovascular outcomes (83). To-
+gether, these studies provide strong evidence
+that somatic mutation–driven clonal hemato-
+poiesis has a causal role in cardiovascular
+disease.
+To date, few studies have demonstrated an
+unequivocal link between CHIP and other
+diseases of aging. CHIP has been found to be
+associated with a 30% increase in the like-
+lihood of having type 2 diabetes (29). How-
+ever, causality could not be established, and
+this could represent a case of reverse causa-
+tion, as hyperglycemia might influence the
+development or expansion of clones by inter-
+fering with TET2 function (91). Other studies
+have found links between CHIP and chronic
+obstructive pulmonary disease (38, 64). How-
+ever, CHIP was also strongly linked to smoking
+in these studies, so the result could be con-
+founded by this association.
+Immune function and CHIP
+As many of the genes associated with CHIP
+are involved in transcriptional regulation, one
+might expect mutations in these genes to have
+broad effects on immune function. Several
+recent studies have examined the role of TET2
+and DNMT3A in immunity (Fig. 4). One group
+found that mice deficient in Tet2 developed
+more severe inflammation in several tissues
+upon challenge with bacterial endotoxin, and
+this was partially explained by increased ex-
+pression of the proinflammatory cytokine Il6
+in dendritic cells and macrophages (92). Un-
+expectedly, this effect on Il6 expression was
+independent of the catalytic function of Tet2
+and was instead reported to be related to a
+direct interaction between Tet2 and histone
+deacetylases, resulting in transcriptional re-
+pression. Subsequent studies have confirmed
+the overexpression of Il6 and also found that
+Il1b, IL8 family chemokines, and other in-
+flammatory mediators show increased expres-
+sion in Tet2-deficient macrophages challenged
+with LDL or endotoxin (80, 87, 93). Humans
+with mutations in TET2 are also reported to
+have increased concentrations of circulating
+IL-8 protein (80). The changes in expression
+are relatively modest for each gene (about
+two- to threefold increase) but appear to be
+biologically important given the number of
+genes that are dysregulated and the breadth
+of phenotypes seen in Tet2 knockout mice.
+These molecules are thought to enhance in-
+flammation locally within atherosclerotic pla-
+ques by increasing chemotaxis of leukocytes to
+arterial intima, which potentially explains the
+accelerated atherosclerosis seen with loss of
+Tet2 (94).
+Less is known about the role of DNMT3A
+in innate immune function, but most studies
+to date have found evidence of enhanced in-
+flammation when its function is perturbed. For
+example, one study found that mast cells from
+mice that lacked Dnmt3a produced higher
+amounts of IL-6, tumor necrosis factor–a,
+and IL-13 in response to stimulation with
+immunoglobulin E in vitro, and enhanced
+mast cell activity was also seen in a mouse
+model of allergy (95). Another study used
+CRISPR to mutate Dnmt3a in mouse RAW
+264.7 macrophages and observed increased
+expression of Cxcl1, Cxcl2, and Il6 in response
+to endotoxin (88). Mechanistically, very lit-
+tle is known about why these specific gene
+expression changes are seen with loss of
+Dnmt3a.
+CHIP may be relevant in the adaptive im-
+mune response as well. Bone marrow transplant
+recipients with hematological malignancies
+who received donor marrow from carriers of
+CHIP had higher rates of graft-versus-host
+disease and reduced relapse rates (96). One
+possible explanation for this finding is that
+the donor cells harboring the mutations were
+capable of mounting stronger immune re-
+sponses against both normal host tissues and
+the tumor. There is also a report of an excep-
+tional response in a patient with CLL treated
+by infusion of chimeric antigen receptor (CAR)–
+T cells in which the CAR construct disrupted
+one copy of TET2, while the other copy had
+been previously mutated somatically (97). The
+authors speculate that the resulting TET2-
+deficient CAR-T clone was more effective at
+eliminating the tumor cells because of an ex-
+panded central memory CD8+ T cell population,
+reduced T cell exhaustion in response to stim-
+ulus, and enhanced cytokine production in T cells.
+Growing evidence thus supports a role for
+the commonly mutated CHIP genes in immune
+function, and CHIP may underlie some part of
+the phenomenon termed “inflammaging,” the
+age-associated increase in systemic inflamma-
+tion (98).
+Future outlook
+Clonal hematopoiesis provides a fascinating
+glimpse into the end result of decades of mu-
+tation and natural selection within a tissue.
+The potential health implications of CHIP are
+broad. It is associated with blood cancers,
+cardiovascular disease, and overall mortality.
+Although our knowledge of this condition has
+increased exponentially over the past several
+years, this research has also highlighted fun-
+damental biological questions and opened new
+pathways for translational discovery.
+A major area of uncertainty is the range of
+disease states associated with CHIP. As CHIP
+is linked to enhanced inflammation, it is pos-
+sible that links between CHIP and several
+diseases of aging will be found. Does CHIP
+influence the risk of Alzheimer’s disease, auto-
+immunity, liver disease, or others? As ever
+larger genetic cohorts with rich phenotypic
+information are assembled, these links may
+be systematically discovered.
+Although CHIP at the population level is
+clearly linked to cancer, cardiovascular dis-
+ease, and death, the degree of risk for these
+outcomes for any given individual with CHIP
+may be substantially higher or lower than the
+group average. For example, individuals with
+mutations in splicing factors, or mutations in
+multiple genes, are much more likely to de-
+velop AML than those with singleton muta-
+tions in TET2 or DNMT3A (72). Furthermore,
+the interaction of CHIP with other risk factors,
+such as having type 2 diabetes or elevated
+serum concentrations of C-reactive protein,
+may be synergistic for adverse outcomes. To
+have power to detect such associations, very
+large population-based cohorts are needed.
+Additional biomarkers such as plasma pro-
+teins, metabolites, and DNA methylation may
+prove useful for risk stratification as well.
+Studies of serial samples have shown that the
+trajectory of a clone can vary among people.
+Some people have clones that remain stag-
+nant in size for many years, whereas other
+people have clones that show steady growth
+(29, 34). Because clone size is associated with
+the risk of leukemia and other adverse out-
+comes, it is imperative to understand this
+situation. It is likely that cell-extrinsic factors,
+such as the bone marrow microenvironment,
+the microbiome, or diet, will play a role.
+The mechanisms by which the CHIP-associated
+mutations cause clonal expansion and enhanced
+inflammation are also a central unanswered
+question. It is notable that the two most com-
+monly mutated genes in CHIP, DNMT3A and
+TET2, are opposing enzymes in DNA methyl-
+ation, yet both lead to convergent phenotypes
+in stem cell biology and immunity. It is also
+uncertain why some people have apparent clo-
+nal hematopoiesis in the absence of a known
+driver mutation. This may be due to mutations
+in genes that are currently unknown, but could
+some of these clonal expansions result purely
+from selection for epigenetic fitness in the ab-
+sence of alterations to DNA sequence?
+Jaiswal and Ebert, Science 366, eaan4673 (2019)
+1 November 2019
+6 of 8
+RESEARCH
+|
+REVIEW
+on November 2, 2019
+ 
+http://science.sciencemag.org/
+Downloaded from 
+We especially need to find ways to reverse
+the pathogenic effects of CHIP. Blockade of
+downstream inflammatory molecules may
+be one way to treat CHIP-associated athero-
+sclerosis. But ideally, drugs will be found that
+can suppress the mutant clones directly, which
+could potentially mitigate the risk of both can-
+cer and cardiovascular disease. The positive ef-
+fects of CHIP on antitumor immunity may also
+one day be harnessed for therapy.
+The process of mutation and clonal selec-
+tion is likely to be universal across all organs
+and tissues. Understanding the causes and
+consequences of clonal hematopoiesis may
+provide a framework to understand this pro-
+cess, and aging, more broadly.
+REFERENCES AND NOTES
+1.
+F. Blokzijl et al., Tissue-specific mutation accumulation in
+human adult stem cells during life. Nature 538, 260–264
+(2016). doi: 10.1038/nature19768; pmid: 27698416
+2.
+M. L. Hoang et al., Genome-wide quantification of rare somatic
+mutations in normal human tissues using massively parallel
+sequencing. Proc. Natl. Acad. Sci. U.S.A. 113, 9846–9851
+(2016). doi: 10.1073/pnas.1607794113; pmid: 27528664
+3.
+J. S. Welch et al., The origin and evolution of mutations in
+acute myeloid leukemia. Cell 150, 264–278 (2012).
+doi: 10.1016/j.cell.2012.06.023; pmid: 22817890
+4.
+I. Martincorena, P. J. Campbell, Somatic mutation in cancer
+and normal cells. Science 349, 1483–1489 (2015).
+doi: 10.1126/science.aab4082; pmid: 26404825
+5.
+K. Yizhak et al., RNA sequence analysis reveals macroscopic
+somatic clonal expansion across normal tissues. Science 364,
+eaaw0726 (2019). doi: 10.1126/science.aaw0726;
+pmid: 31171663
+6.
+B. K. Duncan, J. H. Miller, Mutagenic deamination of cytosine
+residues in DNA. Nature 287, 560–561 (1980). doi: 10.1038/
+287560a0; pmid: 6999365
+7.
+L. B. Alexandrov et al., Signatures of mutational processes in
+human cancer. Nature 500, 415–421 (2013). doi: 10.1038/
+nature12477; pmid: 23945592
+8.
+K. Rodgers, M. McVey, Error-Prone Repair of DNA Double-
+Strand Breaks. J. Cell. Physiol. 231, 15–24 (2016).
+doi: 10.1002/jcp.25053; pmid: 26033759
+9.
+I. Beerman, J. Seita, M. A. Inlay, I. L. Weissman, D. J. Rossi,
+Quiescent hematopoietic stem cells accumulate DNA damage
+during aging that is repaired upon entry into cell cycle. Cell
+Stem Cell 15, 37–50 (2014). doi: 10.1016/j.stem.2014.04.016;
+pmid: 24813857
+10. T. A. Kunkel, DNA replication fidelity. J. Biol. Chem. 279,
+16895–16898 (2004). doi: 10.1074/jbc.R400006200;
+pmid: 14988392
+11. M. A. Sanders et al., MBD4 guards against methylation damage
+and germ line deficiency predisposes to clonal hematopoiesis
+and early-onset AML. Blood 132, 1526–1534 (2018).
+doi: 10.1182/blood-2018-05-852566; pmid: 30049810
+12. C. Tomasetti, B. Vogelstein, Variation in cancer risk among
+tissues can be explained by the number of stem cell divisions.
+Science 347, 78–81 (2015). doi: 10.1126/science.1260825;
+pmid: 25554788
+13. C. C. Laurie et al., Detectable clonal mosaicism from birth to
+old age and its relationship to cancer. Nat. Genet. 44, 642–650
+(2012). doi: 10.1038/ng.2271; pmid: 22561516
+14. H. Lee-Six et al., Population dynamics of normal human blood
+inferred from somatic mutations. Nature 561, 473–478 (2018).
+doi: 10.1038/s41586-018-0497-0; pmid: 30185910
+15. I. Martincorena et al., High burden and pervasive positive
+selection of somatic mutations in normal human skin.
+Science 348, 880–886 (2015). doi: 10.1126/science.aaa6806;
+pmid: 25999502
+16. I. Martincorena et al., Somatic mutant clones colonize the
+human esophagus with age. Science 362, 911–917 (2018).
+doi: 10.1126/science.aau3879; pmid: 30337457
+17. A. Yokoyama et al., Age-related remodelling of oesophageal
+epithelia by mutated cancer drivers. Nature 565, 312–317
+(2019). doi: 10.1038/s41586-018-0811-x; pmid: 30602793
+18. J. D. Rowley, Letter: A new consistent chromosomal
+abnormality in chronic myelogenous leukaemia identified by
+quinacrine fluorescence and Giemsa staining. Nature 243,
+290–293 (1973). doi: 10.1038/243290a0; pmid: 4126434
+19. M. F. Fey et al., Clonality and X-inactivation patterns in
+hematopoietic cell populations detected by the highly
+informative M27 beta DNA probe. Blood 83, 931–938 (1994).
+pmid: 8111064
+20. K. M. Champion, J. G. Gilbert, F. A. Asimakopoulos,
+S. Hinshelwood, A. R. Green, Clonal haemopoiesis in normal
+elderly women: Implications for the myeloproliferative
+disorders and myelodysplastic syndromes. Br. J. Haematol. 97,
+920–926 (1997). doi: 10.1046/j.1365-2141.1997.1933010.x;
+pmid: 9217198
+21. L. Busque et al., Recurrent somatic TET2 mutations in normal
+elderly individuals with clonal hematopoiesis. Nat. Genet. 44,
+1179–1181 (2012). doi: 10.1038/ng.2413; pmid: 23001125
+22. T. Reya, S. J. Morrison, M. F. Clarke, I. L. Weissman, Stem cells,
+cancer, and cancer stem cells. Nature 414, 105–111 (2001).
+doi: 10.1038/35102167; pmid: 11689955
+23. T. Miyamoto, I. L. Weissman, K. Akashi, AML1/ETO-expressing
+nonleukemic stem cells in acute myelogenous leukemia with
+8;21 chromosomal translocation. Proc. Natl. Acad. Sci. U.S.A.
+97, 7521–7526 (2000). doi: 10.1073/pnas.97.13.7521;
+pmid: 10861016
+24. M. Jan et al., Clonal evolution of preleukemic hematopoietic
+stem cells precedes human acute myeloid leukemia.
+Sci. Transl. Med. 4, 149ra118 (2012). doi: 10.1126/
+scitranslmed.3004315; pmid: 22932223
+25. L. I. Shlush et al., Identification of pre-leukaemic
+haematopoietic stem cells in acute leukaemia. Nature 506,
+328–333 (2014). doi: 10.1038/nature13038; pmid: 24522528
+26. M. R. Corces-Zimmerman, W. J. Hong, I. L. Weissman,
+B. C. Medeiros, R. Majeti, Preleukemic mutations in human
+acute myeloid leukemia affect epigenetic regulators and
+persist in remission. Proc. Natl. Acad. Sci. U.S.A. 111,
+2548–2553 (2014). doi: 10.1073/pnas.1324297111;
+pmid: 24550281
+27. M. Xie et al., Age-related mutations associated with clonal
+hematopoietic expansion and malignancies. Nat. Med. 20,
+1472–1478 (2014). doi: 10.1038/nm.3733; pmid: 25326804
+28. G. Genovese et al., Clonal hematopoiesis and blood-cancer risk
+inferred from blood DNA sequence. N. Engl. J. Med. 371,
+2477–2487 (2014). doi: 10.1056/NEJMoa1409405;
+pmid: 25426838
+29. S. Jaiswal et al., Age-related clonal hematopoiesis associated
+with adverse outcomes. N. Engl. J. Med. 371, 2488–2498
+(2014). doi: 10.1056/NEJMoa1408617; pmid: 25426837
+30. C. Biernaux, M. Loos, A. Sels, G. Huez, P. Stryckmans,
+Detection of major bcr-abl gene expression at a very low level
+in blood cells of some healthy individuals. Blood 86, 3118–3122
+(1995). pmid: 7579406
+31. Y. Liu, A. M. Hernandez, D. Shibata, G. A. Cortopassi, BCL2
+translocation frequency rises with age in humans. Proc. Natl.
+Acad. Sci. U.S.A. 91, 8910–8914 (1994). doi: 10.1073/
+pnas.91.19.8910; pmid: 8090743
+32. T. McKerrell et al., Leukemia-associated somatic mutations
+drive distinct patterns of age-related clonal hemopoiesis.
+Cell Reports 10, 1239–1245 (2015). doi: 10.1016/j.
+celrep.2015.02.005; pmid: 25732814
+33. R. Acuna-Hidalgo et al., Ultra-sensitive Sequencing Identifies
+High Prevalence of Clonal Hematopoiesis-Associated Mutations
+throughout Adult Life. Am. J. Hum. Genet. 101, 50–64 (2017).
+doi: 10.1016/j.ajhg.2017.05.013; pmid: 28669404
+34. A. L. Young, G. A. Challen, B. M. Birmann, T. E. Druley, Clonal
+haematopoiesis harbouring AML-associated mutations is
+ubiquitous in healthy adults. Nat. Commun. 7, 12484 (2016).
+doi: 10.1038/ncomms12484; pmid: 27546487
+35. A. Bonnefond et al., Association between large detectable
+clonal mosaicism and type 2 diabetes with vascular
+complications. Nat. Genet. 45, 1040–1043 (2013).
+doi: 10.1038/ng.2700; pmid: 23852171
+36. K. B. Jacobs et al., Detectable clonal mosaicism and its
+relationship to aging and cancer. Nat. Genet. 44, 651–658
+(2012). doi: 10.1038/ng.2270; pmid: 22561519
+37. P. R. Loh et al., Insights into clonal haematopoiesis from 8,342
+mosaic chromosomal alterations. Nature 559, 350–355 (2018).
+doi: 10.1038/s41586-018-0321-x; pmid: 29995854
+38. F. Zink et al., Clonal hematopoiesis, with and without candidate
+driver mutations, is common in the elderly. Blood 130,
+742–752 (2017). doi: 10.1182/blood-2017-02-769869;
+pmid: 28483762
+39. A. J. Silver, S. Jaiswal, Clonal hematopoiesis: Pre-cancer PLUS.
+Adv. Cancer Res. 141, 85–128 (2019). doi: 10.1016/bs.
+acr.2018.12.003; pmid: 30691686
+40. D. P. Steensma et al., Clonal hematopoiesis of indeterminate
+potential and its distinction from myelodysplastic syndromes.
+Blood 126, 9–16 (2015). doi: 10.1182/blood-2015-03-631747;
+pmid: 25931582
+41. A. S. Sperling, C. J. Gibson, B. L. Ebert, The genetics of
+myelodysplastic syndrome: From clonal haematopoiesis to
+secondary leukaemia. Nat. Rev. Cancer 17, 5–19 (2017).
+doi: 10.1038/nrc.2016.112; pmid: 27834397
+42. R. L. Bowman, L. Busque, R. L. Levine, Clonal Hematopoiesis
+and Evolution to Hematopoietic Malignancies. Cell Stem Cell
+22, 157–170 (2018). doi: 10.1016/j.stem.2018.01.011;
+pmid: 29395053
+43. T. Bondar, R. Medzhitov, p53-mediated hematopoietic stem
+and progenitor cell competition. Cell Stem Cell 6, 309–322
+(2010). doi: 10.1016/j.stem.2010.03.002; pmid: 20362536
+44. J. D. Kahn et al., PPM1D-truncating mutations confer
+resistance to chemotherapy and sensitivity to PPM1D inhibition
+in hematopoietic cells. Blood 132, 1095–1105 (2018).
+doi: 10.1182/blood-2018-05-850339; pmid: 29954749
+45. J. I. Hsu et al., PPM1D Mutations Drive Clonal Hematopoiesis in
+Response to Cytotoxic Chemotherapy. Cell Stem Cell 23,
+700–713.e6 (2018). doi: 10.1016/j.stem.2018.10.004;
+pmid: 30388424
+46. R. Kralovics et al., A gain-of-function mutation of JAK2 in
+myeloproliferative disorders. N. Engl. J. Med. 352, 1779–1790
+(2005). doi: 10.1056/NEJMoa051113; pmid: 15858187
+47. M. Okano, S. Xie, E. Li, Cloning and characterization of a family
+of novel mammalian DNA (cytosine-5) methyltransferases. Nat.
+Genet. 19, 219–220 (1998). doi: 10.1038/890; pmid: 9662389
+48. D. Schübeler, Function and information content of DNA
+methylation. Nature 517, 321–326 (2015). doi: 10.1038/
+nature14192; pmid: 25592537
+49. Y. F. He et al., Tet-mediated formation of 5-carboxylcytosine
+and its excision by TDG in mammalian DNA. Science 333,
+1303–1307 (2011). doi: 10.1126/science.1210944;
+pmid: 21817016
+50. S. Ito et al., Tet proteins can convert 5-methylcytosine to
+5-formylcytosine and 5-carboxylcytosine. Science 333,
+1300–1303 (2011). doi: 10.1126/science.1210597;
+pmid: 21778364
+51. M. Ko et al., Ten-Eleven-Translocation 2 (TET2) negatively
+regulates homeostasis and differentiation of hematopoietic
+stem cells in mice. Proc. Natl. Acad. Sci. U.S.A. 108,
+14566–14571 (2011). doi: 10.1073/pnas.1112317108;
+pmid: 21873190
+52. G. A. Challen et al., Dnmt3a is essential for hematopoietic stem
+cell differentiation. Nat. Genet. 44, 23–31 (2012). doi: 10.1038/
+ng.1009; pmid: 22138693
+53. O. A. Guryanova et al., DNMT3A mutations promote
+anthracycline resistance in acute myeloid leukemia via
+impaired nucleosome remodeling. Nat. Med. 22, 1488–1495
+(2016). doi: 10.1038/nm.4210; pmid: 27841873
+54. C. B. Cole et al., Haploinsufficiency for DNA methyltransferase
+3A predisposes hematopoietic cells to myeloid malignancies.
+J. Clin. Invest. 127, 3657–3674 (2017). doi: 10.1172/JCI93041;
+pmid: 28872462
+55. K. Moran-Crusio et al., Tet2 loss leads to increased
+hematopoietic stem cell self-renewal and myeloid
+transformation. Cancer Cell 20, 11–24 (2011). doi: 10.1016/
+j.ccr.2011.06.001; pmid: 21723200
+56. H. Celik et al., Enforced differentiation of Dnmt3a-null bone
+marrow leads to failure with c-Kit mutations driving leukemic
+transformation. Blood 125, 619–628 (2015). doi: 10.1182/
+blood-2014-08-594564; pmid: 25416276
+57. E. A. Obeng et al., Physiologic Expression of Sf3b1(K700E)
+Causes Impaired Erythropoiesis, Aberrant Splicing, and
+Sensitivity to Therapeutic Spliceosome Modulation. Cancer Cell
+30, 404–417 (2016). doi: 10.1016/j.ccell.2016.08.006;
+pmid: 27622333
+58. E. Kim et al., SRSF2 Mutations Contribute to Myelodysplasia by
+Mutant-Specific Effects on Exon Recognition. Cancer Cell 27,
+617–630 (2015). doi: 10.1016/j.ccell.2015.04.006;
+pmid: 25965569
+59. C. L. Shirai et al., Mutant U2AF1 Expression Alters
+Hematopoiesis and Pre-mRNA Splicing In Vivo. Cancer Cell 27,
+631–643 (2015). doi: 10.1016/j.ccell.2015.04.008;
+pmid: 25965570
+60. T. Yoshizato et al., Somatic Mutations and Clonal
+Hematopoiesis in Aplastic Anemia. N. Engl. J. Med. 373, 35–47
+(2015). doi: 10.1056/NEJMoa1414799; pmid: 26132940
+61. R. A. Brodsky, Paroxysmal nocturnal hemoglobinuria. Blood
+124, 2804–2811 (2014). doi: 10.1182/blood-2014-02-522128;
+pmid: 25237200
+Jaiswal and Ebert, Science 366, eaan4673 (2019)
+1 November 2019
+7 of 8
+RESEARCH
+|
+REVIEW
+on November 2, 2019
+ 
+http://science.sciencemag.org/
+Downloaded from 
+62. D. A. Hinds et al., Germ line variants predispose to both JAK2
+V617F clonal hematopoiesis and myeloproliferative neoplasms.
+Blood 128, 1121–1128 (2016). doi: 10.1182/blood-2015-06-
+652941; pmid: 27365426
+63. M. Meisel et al., Microbial signals drive pre-leukaemic
+myeloproliferation in a Tet2-deficient host. Nature 557,
+580–584 (2018). doi: 10.1038/s41586-018-0125-z;
+pmid: 29769727
+64. M. Buscarlet et al., DNMT3A and TET2 dominate clonal
+hematopoiesis and demonstrate benign phenotypes and
+different genetic predispositions. Blood 130, 753–762 (2017).
+doi: 10.1182/blood-2017-04-777029; pmid: 28655780
+65. T. J. Ley et al., Genomic and epigenomic landscapes of adult
+de novo acute myeloid leukemia. N. Engl. J. Med. 368,
+2059–2074 (2013). doi: 10.1056/NEJMoa1301689;
+pmid: 23634996
+66. R. Bejar et al., Clinical effect of point mutations in
+myelodysplastic syndromes. N. Engl. J. Med. 364, 2496–2506
+(2011). doi: 10.1056/NEJMoa1013343; pmid: 21714648
+67. E. Papaemmanuil et al., Clinical and biological implications of
+driver mutations in myelodysplastic syndromes. Blood 122,
+3616–3627, quiz 3699 (2013). doi: 10.1182/blood-2013-08-
+518886; pmid: 24030381
+68. R. C. Lindsley et al., Prognostic Mutations in Myelodysplastic
+Syndrome after Stem-Cell Transplantation. N. Engl. J. Med.
+376, 536–547 (2017). doi: 10.1056/NEJMoa1611604;
+pmid: 28177873
+69. J. Nangalia et al., Somatic CALR mutations in
+myeloproliferative neoplasms with nonmutated JAK2. N. Engl.
+J. Med. 369, 2391–2405 (2013). doi: 10.1056/NEJMoa1312542;
+pmid: 24325359
+70. L. Couronné, C. Bastard, O. A. Bernard, TET2 and DNMT3A
+mutations in human T-cell lymphoma. N. Engl. J. Med. 366,
+95–96 (2012). doi: 10.1056/NEJMc1111708; pmid: 22216861
+71. A. Reddy et al., Genetic and Functional Drivers of Diffuse
+Large B Cell Lymphoma. Cell 171, 481–494.e15 (2017).
+doi: 10.1016/j.cell.2017.09.027; pmid: 28985567
+72. S. Abelson et al., Prediction of acute myeloid leukaemia risk in
+healthy individuals. Nature 559, 400–404 (2018). doi:
+10.1038/s41586-018-0317-6; pmid: 29988082
+73. P. Desai et al., Somatic mutations precede acute myeloid
+leukemia years before diagnosis. Nat. Med. 24, 1015–1023
+(2018). doi: 10.1038/s41591-018-0081-z; pmid: 29988143
+74. C. J. Gibson et al., Clonal Hematopoiesis Associated With
+Adverse Outcomes After Autologous Stem-Cell Transplantation
+for Lymphoma. J. Clin. Oncol. 35, 1598–1605 (2017).
+doi: 10.1200/JCO.2016.71.6712; pmid: 28068180
+75. N. K. Gillis et al., Clonal haemopoiesis and therapy-related
+myeloid malignancies in elderly patients: A proof-of-concept,
+case-control study. Lancet Oncol. 18, 112–121 (2017).
+doi: 10.1016/S1470-2045(16)30627-1; pmid: 27927582
+76. K. Takahashi et al., Preleukaemic clonal haemopoiesis and risk
+of therapy-related myeloid neoplasms: A case-control study.
+Lancet Oncol. 18, 100–111 (2017). doi: 10.1016/S1470-2045(16)
+30626-X; pmid: 27923552
+77. T. N. Wong et al., Role of TP53 mutations in the origin and
+evolution of therapy-related acute myeloid leukaemia.
+Nature 518, 552–555 (2015). doi: 10.1038/nature13968;
+pmid: 25487151
+78. C. C. Coombs et al., Therapy-related clonal hematopoiesis in
+patients with non-hematologic cancers is common and
+associated with adverse clinical outcomes. Cell Stem Cell 21,
+374–382.e4 (2017). doi: 10.1016/j.stem.2017.07.010;
+pmid: 28803919
+79. D. E. Wright, A. J. Wagers, A. P. Gulati, F. L. Johnson,
+I. L. Weissman, Physiological migration of hematopoietic stem
+and progenitor cells. Science 294, 1933–1936 (2001).
+doi: 10.1126/science.1064081; pmid: 11729320
+80. S. Jaiswal et al., Clonal Hematopoiesis and Risk of
+Atherosclerotic Cardiovascular Disease. N. Engl. J. Med. 377,
+111–121 (2017). doi: 10.1056/NEJMoa1701719; pmid: 28636844
+81. A. M. Brunner et al., Risk and timing of cardiovascular death
+among patients with myelodysplastic syndromes. Blood Adv 1,
+2032–2040 (2017). doi: 10.1182/bloodadvances.2017010165;
+pmid: 29296849
+82. L. Dorsheimer et al., Association of Mutations Contributing to
+Clonal Hematopoiesis With Prognosis in Chronic Ischemic
+Heart Failure. JAMA Cardiol. 4, 25–33 (2019). doi: 10.1001/
+jamacardio.2018.3965; pmid: 30566180
+83. O. Wolach et al., Increased neutrophil extracellular trap
+formation promotes thrombosis in myeloproliferative
+neoplasms. Sci. Transl. Med. 10, eaan8292 (2018).
+doi: 10.1126/scitranslmed.aan8292; pmid: 29643232
+84. K. V. Patel, L. Ferrucci, W. B. Ershler, D. L. Longo,
+J. M. Guralnik, Red blood cell distribution width and the risk of
+death in middle-aged and older adults. Arch. Intern. Med. 169,
+515–523 (2009). doi: 10.1001/archinternmed.2009.11;
+pmid: 19273783
+85. S. Horvath, K. Raj, DNA methylation-based biomarkers and the
+epigenetic clock theory of ageing. Nat. Rev. Genet. 19, 371–384
+(2018). doi: 10.1038/s41576-018-0004-3; pmid: 29643443
+86. S. Haitjema et al., Loss of Y Chromosome in Blood Is
+Associated With Major Cardiovascular Events During Follow-Up
+in Men After Carotid Endarterectomy. Circ Cardiovasc Genet
+10, e001544 (2017). doi: 10.1161/CIRCGENETICS.116.001544;
+pmid: 28768751
+87. J. J. Fuster et al., Clonal hematopoiesis associated with TET2
+deficiency accelerates atherosclerosis development in mice.
+Science 355, 842–847 (2017). doi: 10.1126/science.aag1381;
+pmid: 28104796
+88. S. Sano et al., CRISPR-Mediated Gene Editing to Assess the
+Roles of Tet2 and Dnmt3a in Clonal Hematopoiesis and
+Cardiovascular Disease. Circ. Res. 123, 335–341 (2018).
+doi: 10.1161/CIRCRESAHA.118.313225; pmid: 29728415
+89. S. Sano et al., Tet2-Mediated Clonal Hematopoiesis Accelerates
+Heart Failure Through a Mechanism Involving the IL-1b/
+NLRP3 Inflammasome. J. Am. Coll. Cardiol. 71, 875–886
+(2018). doi: 10.1016/j.jacc.2017.12.037; pmid: 29471939
+90. W. Wang et al., Macrophage Inflammation, Erythrophagocytosis,
+and Accelerated Atherosclerosis in Jak2 V617F Mice. Circ. Res.
+123, e35–e47 (2018). doi: 10.1161/CIRCRESAHA.118.313283;
+pmid: 30571460
+91. D. Wu et al., Glucose-regulated phosphorylation of TET2 by
+AMPK reveals a pathway linking diabetes to cancer. Nature
+559, 637–641 (2018). doi: 10.1038/s41586-018-0350-5;
+pmid: 30022161
+92. Q. Zhang et al., Tet2 is required to resolve inflammation by
+recruiting Hdac2 to specifically repress IL-6. Nature 525,
+389–393 (2015). doi: 10.1038/nature15252; pmid: 26287468
+93. A. H. Cull, B. Snetsinger, R. Buckstein, R. A. Wells, M. J. Rauh,
+Tet2 restrains inflammatory gene expression in macrophages.
+Exp. Hematol. 55, 56–70.e13 (2017). doi: 10.1016/j.
+exphem.2017.08.001; pmid: 28826859
+94. P. Natarajan, S. Jaiswal, S. Kathiresan, Clonal Hematopoiesis:
+Somatic Mutations in Blood Cells and Atherosclerosis. Circ
+Genom Precis Med 11, e001926 (2018). doi: 10.1161/
+CIRCGEN.118.001926; pmid: 29987111
+95. C. Leoni et al., Dnmt3a restrains mast cell inflammatory
+responses. Proc. Natl. Acad. Sci. U.S.A. 114, E1490–E1499
+(2017). doi: 10.1073/pnas.1616420114; pmid: 28167789
+96. M. Frick et al., Role of donor clonal hematopoiesis in allogeneic
+hematopoietic stem-cell transplantation. J. Clin. Oncol. 37,
+375–385 (2019). doi: 10.1200/JCO.2018.79.2184;
+pmid: 30403573
+97. J. A. Fraietta et al., Disruption of TET2 promotes the
+therapeutic efficacy of CD19-targeted T cells. Nature 558,
+307–312 (2018). doi: 10.1038/s41586-018-0178-z;
+pmid: 29849141
+98. C. Franceschi, J. Campisi, Chronic inflammation
+(inflammaging) and its potential contribution to age-associated
+diseases. J. Gerontol. A Biol. Sci. Med. Sci. 69 (suppl. 1), S4–S9
+(2014). doi: 10.1093/gerona/glu057; pmid: 24833586
+ACKNOWLEDGMENTS
+Funding: S.J. is supported by the Burroughs Wellcome Fund,
+Evans Foundation, Ludwig Center for Cancer Stem Cell Research,
+and Leducq Foundation. B.L.E. is an investigator of the Howard
+Hughes Medical Institute and received funding from the NIH
+(P01CA066996, P50CA206963, and R01HL082945). B.L.E. has
+also received research funding from the biopharmaceutical
+company Celgene and from the DEERFIELD Foundation.
+Competing interests: S.J. and B.L.E. have received consulting
+fees from GRAIL, a company developing methods for early
+detection of cancer. S.J. and B.L.E. are inventors on patent
+applications filed by Partners Healthcare that are related to risk
+assessment of cardiovascular disease and therapeutic
+interventions in individuals with clonal hematopoiesis.
+10.1126/science.aan4673
+Jaiswal and Ebert, Science 366, eaan4673 (2019)
+1 November 2019
+8 of 8
+RESEARCH
+|
+REVIEW
+on November 2, 2019
+ 
+http://science.sciencemag.org/
+Downloaded from 
+Clonal hematopoiesis in human aging and disease
+Siddhartha Jaiswal and Benjamin L. Ebert
+DOI: 10.1126/science.aan4673
+ (6465), eaan4673.
+366
+Science 
+, this issue p. eaan4673
+Science
+including the mechanisms by which it arises and the current state of knowledge regarding its effects on human health.
+development of cancer and other age-related diseases. Jaiswal and Ebert review this process of ''clonal hematopoiesis,'' 
+forecast the
+−−
+but not always
+−−
+itness advantage that results in clonal expansions of mutant blood cells that sometimes
+cells, including the hematopoietic stem cells (HSCs) that give rise to all blood cells. Certain mutations in HSCs confer a f
+Time is not a friend to our DNA. Aging is associated with an accumulation of somatic mutations in normal dividing
+Cryptic signs of aging in our blood
+ARTICLE TOOLS
+http://science.sciencemag.org/content/366/6465/eaan4673
+REFERENCES
+http://science.sciencemag.org/content/366/6465/eaan4673#BIBL
+This article cites 98 articles, 33 of which you can access for free
+PERMISSIONS
+http://www.sciencemag.org/help/reprints-and-permissions
+Terms of Service
+Use of this article is subject to the 
+ is a registered trademark of AAAS.
+Science
+Science, 1200 New York Avenue NW, Washington, DC 20005. The title 
+(print ISSN 0036-8075; online ISSN 1095-9203) is published by the American Association for the Advancement of
+Science 
+Science. No claim to original U.S. Government Works
+Copyright © 2019 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of
+on November 2, 2019
+ 
+http://science.sciencemag.org/
+Downloaded from 

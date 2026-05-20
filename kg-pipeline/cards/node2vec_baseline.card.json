@@ -1,0 +1,33 @@
+{
+  "title": "INTRA-ARTICULAR PHARMACOLOGICAL INJECTIONS FOR TEMPOROMANDIBULAR JOINT OSTEOARTHRITIS ARE COMPARABLE TO PLACEBO",
+  "authors": "Elliot Abt",
+  "year": 2024,
+  "journal": "Journal of Evidence-Based Dental Practice",
+  "category": "general",
+  "research_question": "In adult patients with temporomandibular joint osteoarthritis (TMJ OA), is the intra-articular injection of either corticosteroids (CCS), hyaluronic acid (HA), platelet-rich plasma (PRP), or placebo effective in reducing joint pain?",
+  "methods_summary": [
+    "Systematic review with network meta-analysis of randomized controlled trials",
+    "Search of PubMed, Embase, Cochrane Central Register of Controlled Trials, and gray literature via ClinicalTrials.gov",
+    "Two reviewers independently assessed risk of bias using dimensions of quality in RCTs",
+    "Direct and indirect comparisons via network meta-analysis"
+  ],
+  "dataset": "9 included studies involving 316 patients with TMJ OA",
+  "key_findings": [
+    "Intra-articular injections of CCS, HA, or PRP had no effect on improving pain reduction compared with placebo",
+    "CCS injection was significantly worse than placebo for short-term pain reduction (MD = 1.73; 95% CI 0.37-3.09)",
+    "Most results were not statistically significant; PRP vs placebo MD = -0.23 (95% CI -2.49 to 2.04)",
+    "Studies were generally small and underpowered, with considerable heterogeneity"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "temporomandibular joint osteoarthritis",
+    "intra-articular injections",
+    "corticosteroids",
+    "hyaluronic acid",
+    "platelet-rich plasma",
+    "placebo",
+    "network meta-analysis",
+    "pain reduction"
+  ],
+  "extracted_insights": "Current best evidence fails to show a benefit of intra-articular injections (CCS, HA, PRP) over placebo for TMJ OA pain reduction; clinicians should use caution with these injections. Larger, high-quality RCTs are needed to reduce uncertainty."
+}

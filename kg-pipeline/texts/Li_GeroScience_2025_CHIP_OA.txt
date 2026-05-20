@@ -1,0 +1,1518 @@
+Vol.: (0123456789)
+GeroScience 
+https://doi.org/10.1007/s11357-025-01843-y
+ORIGINAL ARTICLE
+A prospective study on the regulation of osteoarthritis risk 
+through inflammatory pathways in clonal hematopoiesis
+Ping Li · Zijian Kang · Ruiqi Ma · Chen Zhu · 
+Ying Zhu · Iris Tang · Jianzheng Zhang · Kai Li · 
+Qiang Tong
+Received: 11 June 2025 / Accepted: 9 August 2025 
+© The Author(s), under exclusive licence to American Aging Association 2025
+Abstract  Osteoarthritis (OA) is a common degener-
+ative joint disease characterized by articular cartilage 
+degeneration, joint inflammation, and bone hyper-
+plasia. Clonal hematopoiesis of indeterminate poten-
+tial (CHIP) refers to the presence of cancer-related 
+variants in blood cells of individuals without malig-
+nancies. However, it is unclear whether the proin-
+flammatory state induced by CHIP affects the onset 
+of OA. Thus, we investigated CHIP as a risk factor 
+for OA. Here, we analyzed whole-exome sequence 
+(WES) data from 45,380 UK Biobank participants 
+without OA at baseline to identify CHIP. Multivari-
+ate Cox regression models were used to evaluate the 
+association between CHIP and incident OA as well 
+as different sites of OA onset. Additionally, enrich-
+ment and mediation analyses were conducted on 1463 
+Ping Li, Zijian Kang, Ruiqi Ma, and Chen Zhu contributed 
+equally to this work.
+Supplementary Information  The online version 
+contains supplementary material available at https://​doi.​
+org/​10.​1007/​s11357-​025-​01843-y.
+P. Li · K. Li (*) 
+College of Biological Science and Medical Engineering, 
+Donghua University, Shanghai 201620, China
+e-mail: likai@dhu.edu.cn
+Z. Kang · Q. Tong (*) 
+Department of Rheumatology and Immunology, Shanghai 
+Sixth People’s Hospital Affiliated to Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China
+e-mail: jasontong1985@outlook.com
+R. Ma 
+College of Life Sciences, Northwest A&F University, 
+Yangling, Shaanxi 712100, China
+C. Zhu 
+College of Economics and Management, China 
+Agricultural University, Beijing, China
+Y. Zhu 
+Senior Department of Pulmonary and Critical Care 
+Medicine, the Eighth Medical Center of Chinese PLA 
+General Hospital, Beijing, China
+I. Tang 
+Division of Rheumatology & Clinical Immunology, 
+Department of Medicine, The University of Hong Kong, 
+Hong Kong, China
+J. Zhang (*) 
+Senior Department of Orthopedics, The Fourth Medical 
+Center of Chinese, PLA General Hospital, Beijing, China
+e-mail: drzhangjianzheng@126.com
+Q. Tong 
+Division of Rheumatology and Clinical Immunology, 
+Department of Medicine, Queen Mary Hospital, 
+Hong Kong, China
+	
+GeroScience
+Vol:. (1234567890)
+unique protein datasets to identify protein markers 
+and biological pathways related to both CHIP and 
+OA. We found that the incidence of OA was higher 
+in individuals with CHIP than in those without CHIP. 
+Importantly, individuals with CHIP and VAF > 10% 
+had an increased risk of OA (hazard ratio [HR], 1.46; 
+95% CI, 1.28–1.68; P < 0.001). The results of clas-
+sification of OA sites showed that polyarticular OA 
+and hip OA were most significantly associated with 
+CHIP. In addition, analysis of OA and CHIP-related 
+expression proteins and pathways revealed that 
+both were mainly involved in extracellular matrix 
+organization, inflammation, and metabolic pathways. 
+Moreover, the proteomic analysis results suggested 
+that CHIP may influence the occurrence of OA by 
+affecting seven proteins: CD5, CD79B, CEACAM1, 
+FOLR2, LILRA5, SIRPB1, and TXNDC15. CHIP is 
+significantly associated with the risk of incident OA 
+and may exacerbate the progression of OA through 
+inflammatory and immune response mechanisms. 
+This research provides new insights into the patho-
+genesis of OA, offering a theoretical basis for the 
+early prevention of OA, although a causal relationship 
+remains to be investigated.
+Graphical Abstract 
+Keywords  Osteoarthritis · Clonal hematopoiesis of 
+indeterminate potential · Whole exome sequencing · 
+Proteomic · UK Biobank
+Introduction
+Osteoarthritis (OA) is the most prevalent muscu-
+loskeletal condition globally, affecting 7.6% of the 
+GeroScience	
+Vol.: (0123456789)
+cardiovascular disease (CVD), chronic obstructive 
+pulmonary disease, and gout [13–15]. Therefore, a 
+VAF threshold of > 10% is used to distinguish large 
+mutant clones [13].
+Despite aging and obesity being common risk fac-
+tors for both CHIP and OA, the direct links between 
+these conditions have not been studies previously. 
+Somatic mutation in myeloid cells has been associ-
+ated with chemokine overexpression and inflam-
+masome hyperactivation [16], suggesting potential 
+contributions to OA pathogenesis through CHIP-
+mediated immune dysregulation and low-grade 
+inflammation [17]. Chronic inflammation may sus-
+tain CHIP, with recent study demonstrating that 
+interferon-gamma can drive the clonal expansion of 
+DNMT3A-mutant hematopoietic stem cells, creat-
+ing a feedback loop between CHIP and inflamma-
+tory response in OA, ultimately leading to cartilage 
+degeneration and clinical OA [18]. Therefore, we 
+performed bioinformatics and statistical analysis on 
+whole exome sequencing (WES) and proteomics data 
+from the UK Biobank to explore whether CHIP may 
+increase the risk of OA.
+Patients and methods
+Study population
+UK Biobank (UKB) is a large prospective study that 
+collected heath and genetic data from approximately 
+500,000 participants aged 40–69 years between 2006 
+and 2010. At the baseline visit, participants under-
+went physical examination and provided detailed life-
+style and health-related information via a touchscreen 
+questionnaire. Blood samples were collected from 22 
+regional assessment centers across the UK. Addition-
+ally, UKB provided whole exome and whole genome 
+sequencing data for a subset of participants [19]. Here, 
+we analyzed all patients with OA in the UKB, except 
+those with a confirmed diagnosis of OA at baseline. 
+OA was defined using qualifying International Clas-
+sification of Diseases (ICD) diagnostic code for 
+osteoarthritis (polyarthritis, coxarthrosis, gonarthro-
+sis, arthrosis of first carpometacarpal joint, and other 
+arthrosis). The exclusion criteria included (1) missing 
+WES data, (2) missing proteomic data, and (3) known 
+OA at baseline (n = 7199). The detailed study flow 
+chart refers to Supplementary Fig. 1.
+world population as of 2020 [1], and representing 
+the leading cause to pain and disability among joint 
+diseases, according to the World Health Organiza-
+tion (WHO) [2]. This chronic disease is character-
+ized by articular cartilage degeneration, bone hyper-
+plasia, joint swelling and pain, and often affects the 
+hands, knees, and hips [3]. Current OA treatments 
+emphasize non-pharmacological strategies such as 
+weight management and exercise, pharmacological 
+therapies for symptoms relief, and surgical inter-
+ventions [4]. However, the precise pathogenesis of 
+OA remains unclear, though factors like mechanical 
+stress, obesity, aging, and genetic predispositions all 
+contributed to its development [5]. Recent research 
+questions the historical view of OA as solely degen-
+erative as senescent chondrocytes could release 
+pro-inflammatory mediators which then stimulated 
+production of cytokines from synovial cells, leading 
+to low-grade inflammation and accelerated cartilage 
+degradation. Both the innate and adaptive immune 
+response also play roles in altering bone remodeling 
+[6].
+Clonal hematopoiesis (CH) refers to the clonal 
+expansion of hematopoietic stem cells driven by 
+somatic mutations. This phenomenon is increasingly 
+common with age, identified in 10% of persons older 
+than 70  years [7]. Clonal hematopoiesis of indeter-
+minate potential (CHIP) is a subtype of CH defined 
+by the presence of clonally expanded hematopoi-
+etic stem cells at a variant allele frequency (VAF) 
+of more than 2% without evidence of hematologi-
+cal malignancies, dysplasia, or cytopenia. Although 
+CHIP itself is not considered malignant, it increases 
+the risk of subsequent hematological malignan-
+cies by 0.5–1% per year and is associated with other 
+adverse health outcomes including cardiovascular 
+diseases [8, 9]. Common CHIP-related mutations 
+occur in epigenetic regulators like DNMT3A, TET2, 
+ASXL1, DNA damage repair genes PPM1D, TP53, 
+regulatory tyrosine kinase JAK2, and mRNA splice-
+osome components SF3B1 and SRSF2 [10]. CHIP is 
+associated with a proinflammatory state which accel-
+erates atherosclerosis. CHIP is influenced by genetic 
+and acquired risk factors such as germline variants, 
+age, lifestyle factors like smoking and obesity, and 
+inflammation [11, 12]. Studies have shown that when 
+mutant cells in peripheral blood exceed a VAF of 
+10%, there is a higher incidence of hematological 
+malignancies and non-malignant conditions, such as 
+	
+GeroScience
+Vol:. (1234567890)
+WES and identification of CHIP mutations
+DNA samples extracted from complete blood samples 
+were sequenced at the Regeneron Genetics Center 
+on the Illumina NovaSeq 6000 using 75-base-pair 
+paired-end sequencing reads and 10-base-pair index 
+reads. The DNA sequencing data was mapped to the 
+GRCh38 genome reference with BWA MEM [20]. 
+According to a series of quality control (QC) opera-
+tions and Seal Point Balinese (SPB) protocol, samples 
+showing difference between genetically determined 
+and reported sex, high rates of heterozygosity or con-
+tamination (FREEMIX score > 5%), low sequence 
+coverage (less than 85% of targeted bases achieving 
+20 × coverage), or sample duplicates were excluded 
+[20, 21]. The reads aligned in the BAM files were per-
+formed using the Picrad MarkDuplicates tool to mark 
+all potential duplicate reads for downstream analyses.
+As previously mentioned, CHIP refers to the detec-
+tion of somatic gene mutations associated with mye-
+loid malignancies in peripheral blood or bone mar-
+row cells in the absence of hematological disorders 
+with VAF ≥ 2% [8]. In this study, the VAF was cat-
+egorized as follows: a VAF of less than 2% indicated 
+the absence of CHIP, a VAF between 2 and 10% was 
+defined as any clone, and a VAF of 10% or higher was 
+considered indicative of a large CHIP clone. Previous 
+studies have shown that larger clones may be associ-
+ated with more adverse outcomes. Briefly, the Mutect2 
+tool and various filtering steps were used to identify 
+somatic variants. Variants calling and annotation on 
+CRAM files gained from UKB (Fields 23143–23144) 
+were performed using Mutect2, Genome Analy-
+sis Toolkit (GATK) v4.4.0.0, and SnpEff (v5.1) [22, 
+23]. Then, we applied a list of QC steps after somatic 
+calling (Supplementary Table  1), and variants were 
+removed if (1) variant allele frequency (VAF) ≤ 2%; 
+(2) total read depth was < 20; (3) alternate allele depth 
+(AD) ≤ 3; (4) both forward and reverse sequencing 
+reads (F1R2 and F2R1) ≤ 1; (5) variants that had a 
+median VAF ≥ 0.35 [24]. Sequencing artifacts and ger-
+mline variants were excluded as previously reported as 
+well as additional QC steps [25].
+Blood proteomic
+Baseline blood samples were collected in EDTA 
+tubes, plasma was separated by centrifugation, 
+and then the supernatant was aliquoted and stored 
+at − 80  °C. Samples were shipped to Sweden for 
+Olink Explore Proximity Extension Assay analysis 
+using antibodies with unique oligonucleotides [26].
+In total, proteomic analysis was conducted on 
+plasma samples from 54,306 participants in the UKB 
+in collaboration with 13 biopharmaceutical com-
+panies. The experimenters were blinded to sample 
+characteristics and clinical data. After a series of 
+rigorous protein data processing and QC, 1463 spe-
+cial proteins were screened, encompassing mainly 
+cardiometabolic, inflammatory, oncological, and 
+neurological proteins [27]. Protein expression lev-
+els are reported as normalized protein expression 
+(NPX) values. NPX values are estimated by dividing 
+the counts for each sample and detection method by 
+the counts of the extended control, followed by log-
+transformation. Variability was adjusted using the 
+median normalized counts of the extended control, 
+the median NPX value of the specific batch, and the 
+median NPX value of the specific test for each batch 
+[28].
+Clinical variables
+Clinically plausible variables to influence the devel-
+opment of OA were chosen from the UKB database to 
+investigate their association with the risk of OA (Sup-
+plementary Table  2). The following were included: 
+demographics characteristics such as age, sex, ethnic-
+ity, body mass index (BMI), Townsend deprivation 
+index, and comorbid conditions in the disease includ-
+ing hypertension, diabetes, CVD, and chronic kidney 
+disease (CKD) to estimate potential health issues that 
+OA individual might have. Lifestyle factors included 
+cigarette and alcohol intake, and amount of physical 
+activity per week were retrieved.
+OA outcomes
+Diagnostic data were linked to the UK’s electronic 
+health record system, with OA diagnosis docu-
+mented by hospital specialists, family doctors in 
+primary care, or staff at the UK Death Registry. OA 
+was classified using three-digit codes from the 10th 
+Revision of the International Classification of Dis-
+eases (ICD-10) for knee, hip, primary osteoarthri-
+tis, and other OA-related diagnoses (Supplementary 
+Table 3). The primary outcome was the identification 
+of new OA cases, based on the earliest reported date 
+GeroScience	
+Vol.: (0123456789)
+from primary care records, hospital morbidity data, 
+death certificates, or self-reported disease status. The 
+OA diagnosis date was defined as the first recorded 
+instance across these sources. Follow-up visits began 
+on the date of study entry at the assessment center and 
+continued until the earliest of the following events: 
+diagnosis, death, or the most recent date reported by 
+the hospital or general practitioner. The latest avail-
+able recorded date is September 2023.
+Statistical and analysis
+Cox and subgroup analysis
+We applied the chi-square test to compare differences 
+between categorical variables. For differences in con-
+tinuous variables, we performed descriptive analyses 
+of the variables using Student’s t test. To investigate 
+the relationship between CHIP and the risk of OA, we 
+applied Cox survival analysis. Individuals were cat-
+egorized into three groups based on VAF frequency 
+as mentioned before: no CHIP, 2% < VAF < 10% and 
+VAF > 10%. Then, to further explore the relationship 
+between CHIP and OA risk, we utilized the multi-
+variate Cox regression models. OA was categorized 
+based on the site of onset and adjusted for various 
+factors across three progressively refined models: 
+Model 1 adjusted for age, sex, BMI, ethnicity, and 
+social status; Model 2 also adjusted for smoking sta-
+tus, alcohol frequency, and weekly physical activity; 
+Model 3 further adjusted for hypertension, diabetes, 
+CVD, and CKD. The reported results are presented as 
+hazard ratios (HRs), 95% confidence intervals (CIs), 
+and P values. Missing covariate data were addressed 
+by creating separate categories. To account for poten-
+tial outcomes arising from mortality events, we con-
+ducted multivariable-adjusted competing risk regres-
+sion models using Fine and Gray’s subdistribution 
+hazard method.
+In order to further investigate the potential effect 
+modifications by various covariates on the associa-
+tion between CHIP and OA, we performed subgroup 
+analyses using the jstable package. Specifically, study 
+participants were stratified based on predefined covar-
+iates, such as age, sex, and BMI. Within each sub-
+group, univariate Cox proportional hazards regression 
+models were used to assess the risks of CHIP and OA 
+events, and hazard ratios (HRs) with 95% confidence 
+intervals (CIs) were calculated. Additionally, interac-
+tion terms between CHIP and the respective subgroup 
+covariates were included in the models to compute 
+the P for interaction.
+Enrichment and protein analysis
+To account for the multiplicity of tests, the Bonfer-
+roni correction was applied to evaluate significant 
+associations, considering the total number of proteins 
+analyzed (n = 1463). This method was employed to 
+control the family-wise error rate, setting the thresh-
+old for significance at P < 0.05 [29]. After applying 
+the correction, we conducted enrichment analysis on 
+the proteins that showed significant results in models 
+1 and 2 (generalized linear model and Cox regression 
+analysis) using the ClusterProfiler R package [30]. 
+The significant genes identified in both model 1 and 
+model 2 were intersected to obtain a common gene 
+set. This overlapping set of genes was then used as 
+input for enrichment analysis. Specifically, we per-
+formed gene ontology (GO) enrichment, as well as 
+pathway analyses for KEGG and Reactome data-
+bases. Only pathways with an adjusted P value < 0.05 
+were considered statistically significant and were sub-
+sequently presented. This integrative approach ena-
+bled us to systematically identify and highlight the 
+key biological processes and pathways underlying the 
+observed associations.
+To gain deeper biological insights, we compared 
+the significant proteins against the full Olink pro-
+tein set as a background reference. The Fisher exact 
+test was used to determine statistical significance, 
+with p values adjusted for multiple comparisons 
+using the Benjamini–Hochberg procedure to control 
+the false discovery rate. To handle potential biases 
+from missing covariate data, we first applied mul-
+tivariate imputation by chained equations using the 
+mice R package to impute covariates with a miss-
+ing rate of ≥ 1% [31]. Then, we normalized the raw 
+data by calculating z scores and employed multiple 
+linear regression models to examine the association 
+between CHIP and these proteins. Cox regression 
+models were subsequently used to investigate the 
+relationships between biomarkers and the occur-
+rence of OA. Proteins found to be significant were 
+considered potential mediators for further mediation 
+analysis. The proportion mediated (PM) was esti-
+mated using the mediation package [32], and 95% 
+	
+GeroScience
+Vol:. (1234567890)
+CIs for the PM were computed through non-para-
+metric bootstrapping with 1000 iterations.
+All data were analyzed using R software (ver-
+sion 4.2.2). OA diagnosis was defined as an event, 
+and the censor date was the time from baseline to 
+OA diagnosis. Correlations with P < 0.001 were 
+considered statistically significant. A false discov-
+ery rate (FDR) adjusted P value < 0.05 for analy-
+ses involving proteins was considered statistically 
+significant.
+Results
+Study cohort
+Whole exome sequencing data from 45,380 par-
+ticipants were analyzed from the UKB (Supple-
+mentary Fig. 1). The mean age of the study cohort 
+was 56 years (SD: 8.27 years), with 24,013 (52.9%) 
+participants being female (Table  1). Also, CHIP 
+variants were identified in 3102 individuals (6.8%) 
+Table 1   Baseline characteristics of participants, UK Biobank
+CHIP Clonal hematopoiesis of indeterminate potential, CKD chronic kidney disease, CVD Cardiovascular diseases
+Characteristic
+Overall (n = 45,380)
+Normal (n = 42,278)
+CHIP (n = 3102)
+P value
+Age, years (mean (SD))
+56.15 (8.27)
+56.01 (8.28)
+58.11 (7.94)
+ < 0.001
+Sex (%)
+0.854
+  Female
+24,013 (52.9)
+22,377 (52.9)
+1636 (52.7)
+  Male
+21,367 (47.1)
+19,901 (47.1)
+1466 (47.3)
+Ethnic (%)
+0.487
+  White
+42,125 (92.8)
+39,262 (92.9)
+2,863 (92.3)
+  Other
+2974 (6.6)
+2755 (6.5)
+219 (7.1)
+Body mass index, kg/m2 (%)
+0.020
+  Normal
+15,209 (33.5)
+14,235 (33.7)
+974 (31.4)
+  Underweight
+251 (0.6)
+240 (0.6)
+11 (0.4)
+  Overweight
+19,485 (42.9)
+18,102 (42.8)
+1383 (44.6)
+  Obesity
+10,225 (22.5)
+9511 (22.5)
+714 (23.0)
+Townsend deprivation index (%)
+0.608
+  1
+11,279 (24.9)
+10,493 (24.8)
+786 (25.3)
+  2
+11,047 (24.3)
+10,291 (24.3)
+756 (24.4)
+  3
+11,150 (24.6)
+10,370 (24.5)
+780 (25.1)
+  4
+11,847 (26.1)
+11,072 (26.2)
+775 (25.0)
+Smoking status (%)
+0.001
+  Never
+24,842 (54.7)
+23,218 (54.9)
+1624 (52.4)
+  Previous
+15,470 (34.1)
+14,319 (33.9)
+1151 (37.1)
+  Current
+4851 (10.7)
+4533 (10.7)
+318 (10.3)
+Drinking frequency (%)
+0.619
+  Never
+3,744 (8.3)
+3,474 (8.2)
+270 (8.7)
+  Occasional
+10,071 (22.2)
+9,394 (22.2)
+677 (21.8)
+  Frequent
+31,459 (69.3)
+29,309 (69.3)
+2,150 (69.3)
+Summed MET minutes all activity (%)
+0.234
+  No activity
+5855 (12.9)
+5440 (12.9)
+415 (13.4)
+  Less
+18,509 (40.8)
+17,270 (40.8)
+1239 (39.9)
+  Enough
+10,808 (23.8)
+10,095 (23.9)
+713 (23.0)
+Hypertension (%)
+23,121 (50.9)
+21,376 (50.6)
+1,745 (56.3)
+ < 0.001
+Diabetes (%)
+2012 (4.4)
+1867 (4.4)
+145 (4.7)
+0.787
+CKD (%)
+1194 (2.6)
+1117 (2.6)
+77 (2.5)
+0.632
+CVD (%)
+43,082 (94.9)
+40,173 (95.0)
+2909 (93.8)
+0.002
+GeroScience	
+Vol.: (0123456789)
+in total cohort. Participants with CHIP were sig-
+nificantly older compared to those without CHIP 
+(58  years [SD: 7.94  years] vs. 56  years [SD: 
+8.28  years], P < 0.001). Individuals with CHIP 
+exhibited a higher prevalence of overweight and 
+obesity compared to non-CHIP cases (67.6% vs 
+65.3%, P = 0.02). Ever smoking history, hyperten-
+sion, diabetes, and CVD were also notably higher in 
+CHIP cases compared to non-CHIP cases. The base-
+line table result suggests that CHIP is associated 
+with some adverse outcomes.
+After 
+a 
+median 
+follow-up 
+duration 
+of 
+14.23  years, 6968 individuals (15.4%) were diag-
+nosed with OA and CHIP variants were identified 
+in 620 OA patients (8.9%). While in general the 
+prevalence of CHIP increased with age, the trend 
+was not significant after stratification according to 
+VAF (Supplementary Fig.  2). DNMT3A, TET2, 
+ASXL1, and ATM were the most common mutated 
+genes, altogether accounting for 82.3% of OA cases 
+(Supplementary Fig.  3). Most CHIP cases carried 
+only one CHIP mutation (91.2%) and large CHIP 
+clones of VAF > 10% were identified in 34.1% of 
+patients with CHIP. The CHIP mutation sites are 
+shown in Supplementary Table 4.
+Clinical association between CHIP and incident OA
+We conducted a Cox survival analysis to investigate 
+the relationship between CHIP and the risk of OA. The 
+results demonstrated a significant association between 
+CHIP and OA. The risk of OA incidence in individuals 
+with CHIP was significantly higher compared to indi-
+viduals without CHIP on Cox survival analysis after 
+stratification by VAF (VAF ≤ 10% [HR: 1.26; 95% CI: 
+1.14–1.39; P < 0.001]; VAF > 10% [HR: 1.46; 95% CI: 
+1.28–1.68; P < 0.001]) as shown in Fig. 1. The risk was 
+highest in individuals with VAF > 10% (HR: 1.46; 95% 
+CI: 1.28–1.68; P < 0.001) (Supplementary Table 5). In 
+addition, we completed the Fine–Gray analysis by con-
+sidering the competing risks of death, and the results 
+suggested that CHIP still increased the risk of OA 
+(Supplementary Fig. 4, Supplementary Fig. 5 and Sup-
+plementary Table 6). To further explore the relation-
+ship between CHIP and the risk of OA, we performed 
+Cox multivariate analysis for different genes (Supple-
+mentary Table  7). Among them, the DNMT3A and 
+JAK2 genes had a significant impact on OA.
+Plausible demographic and clinical variables on 
+occurrence of OA were evaluated in subgroup analy-
+sis. Age > 55  years (HR: 1.27; 95%CI: 1.16–1.39; 
+Fig. 1   CHIP is associ-
+ated with increased risk of 
+OA. Cumulative incidence 
+of OA among individu-
+als without CHIP and 
+CHIP with VAF > 10% or 
+VAF < 10% in UKB by Cox 
+survival analysis. Individu-
+als were identified as events 
+at the time of OA diagnosis 
+and censored at the end 
+of follow-up, at the time 
+of death, or at the time of 
+hematologic malignancy 
+diagnosis. Blue represents 
+participants without CHIP, 
+red represents participants 
+with CHIP and VAF < 10%, 
+and orange represents 
+participants with CHIP 
+and VAF > 10%. OA: 
+osteoarthritis; CHIP: clonal 
+hematopoiesis of indetermi-
+nate potential; VAF: variant 
+allele frequency
+	
+GeroScience
+Vol:. (1234567890)
+P < 0.001), overweight or obesity (HR: 1.34; 95%CI: 
+1.22–1.47; P < 0.001) and lower socioeconomic status 
+(HR: 1.53; 95%CI: 1.17–2.00; P = 0.01) were associ-
+ated with a higher risk of OA (Fig. 2). Hypertension 
+(HR: 1.28; 95%CI: 1.16–1.42; P < 0.001) and diabetes 
+(HR: 1.67; 95%CI: 1.23–2.27; P = 0.001) were associ-
+ated with increased risk of OA but not chronic kidney 
+disease. However, the interaction between these vari-
+ables had no significant difference in the incidence of 
+OA (all P > 0.05) (Supplementary Table 8).
+Fig. 2   The forest plot for the association between various 
+risk factors and OA. This forest plot illustrates the associa-
+tion between different risk factors and the occurrence of OA, 
+expressed as HR with corresponding 95% CIs using subgroup 
+analysis. The variables analyzed include demographic factors 
+(age, sex), BMI, lifestyle factors (smoking status, drinking 
+status, physical activity), and comorbid conditions (hyperten-
+sion, diabetes, CKD, CVD). OA: osteoarthritis; HR: hazard 
+ratios; CIs: confidence intervals; BMI: body mass index; CKD: 
+chronic kidney disease; CVD: cardiovascular disease
+GeroScience	
+Vol.: (0123456789)
+Association of CHIP with the risk of OA and 
+different sites of OA
+To verify the association between CHIP and OA, 
+potential confounding factors were adjusted by Cox 
+regression analysis (Table  2). After adjustment for 
+demographic, lifestyle factors and comorbidities, 
+CHIP was independently associated with increased 
+risk of OA (HR: 1.19; 95% CI: 1.10–1.29; P < 0.001). 
+A VAF > 10% exerted a more pronounced effect on 
+the likelihood of developing OA (HR: 1.46; 95% CI: 
+1.28–1.68; P < 0.001). CHIP increased the risk of 
+OA regardless of the involvement sites. A consistent 
+increase risk of OA was observed in polyarticular OA 
+(HR: 1.64; 95% CI: 1.31–2.05; P < 0.001), hip (HR: 
+1.36; 95% CI: 1.15–1.61; P < 0.001), knee (HR: 1.27; 
+95% CI: 1.11–1.45; P < 0.001), and other OA (HR: 
+1.30; 95% CI: 1.16–1.45; P < 0.001) except wrist-
+palm OA (HR: 1.12; 95% CI: 0.62–2.02; P = 0.705). 
+Moreover, a VAF > 10% markedly amplified this risk. 
+The results from Cox regression analysis were con-
+sistent after excluding OA occurring within 2  years 
+of study entry, verifying the significant association 
+between CHIP and polyarticular and hip OA (Supple-
+mentary Table 9).
+Identifying proteins associated with CHIP and 
+incident OA
+To pinpoint the proteins genuinely associated with 
+OA and CHIP outcomes, we used Cox analysis while 
+adjusting for known clinical factors to account for 
+Table 2   Association of CHIP with the risk of OA and OA in different sites
+Model 1: adjusted for age, sex, BMI, ethnicity, social activities. Model 2: adjusted for model a plus smoking status, drinking fre-
+quency and summed MET with a week for all activity. Model 3: adjusted for model b plus hypertension, diabetes, CKD, CVD. HR 
+hazard ratio; Ref reference, Polyarticular OA polyarthritis, Hip OA coxarthrosis [arthrosis of hip], Knee OA gonarthrosis [arthrosis of 
+knee], Wrist-palm OA arthrosis of first carpometacarpal joint, Other OA other arthrosis
+Exposure
+HR((95%CI)
+P value
+Adjusted ­HR1
+P value
+Adjusted ­HR2
+P value
+Adjusted ­HR3
+P value
+Normal
+Ref
+Ref
+Ref
+Ref
+OA
+  CHIP
+1.32 (1.22–1.43)
+ < 0.001 1.19 (1.10–1.29)
+ < 0.001 1.19 (1.10–1.29)
+ < 0.001 1.19 (1.10–1.29)
+ < 0.001
+  VAF ≤ 10%
+1.26 (1.14–1.39)
+ < 0.001 1.14 (1.03–1.26)
+0.009 1.14 (1.04–1.26)
+0.008 1.14 (1.03–1.26)
+0.010
+  VAF > 10%
+1.46 (1.28–1.68)
+ < 0.001 1.30 (1.13–1.49)
+ < 0.001 1.30 (1.13–1.49)
+ < 0.001 1.30 (1.13–1.49)
+ < 0.001
+Polyarticular OA
+  CHIP
+1.64 (1.31–2.05)
+ < 0.001 1.46 (1.16–1.82)
+0.001 1.46 (1.17–1.83)
+ < 0.001 1.45 (1.16–1.82)
+0.001
+  VAF ≤ 10%
+1.61 (1.23–2.10)
+ < 0.001 1.45 (1.11–1.89)
+0.007 1.45 (1.11–1.90)
+0.006 1.44 (1.10–1.88)
+0.008
+  VAF > 10%
+1.71 (1.17–2.51)
+0.006 1.47 (1.01–2.16)
+0.048 1.48 (1.01–2.17)
+0.047 1.48 (1.01–2.18)
+0.045
+Hip OA
+  CHIP
+1.36 (1.15–1.61)
+ < 0.001 1.20 (1.01–1.42)
+0.033 1.20 (1.01–1.42)
+0.033 1.20 (1.02–1.42)
+0.032
+  VAF ≤ 10%
+1.26 (1.03–1.55)
+0.026 1.12 (0.91–1.37)
+0.278 1.12 (0.91–1.37)
+0.274 1.12 (0.92–1.38)
+0.266
+  VAF > 10%
+1.60 (1.22–2.10)
+ < 0.001 1.38 (1.05–1.81)
+0.021 1.37 (1.05–1.80)
+0.022 1.37 (1.05–1.80)
+0.022
+Knee OA
+  CHIP
+1.27 (1.11–1.46)
+ < 0.001 1.14 (1.00–1.32)
+0.057 1.15 (1.00–1.32)
+0.056 1.14 (0.99–1.31)
+0.061
+  VAF ≤ 10%
+1.19 (1.01–1.41)
+0.042 1.08 (0.91–1.28)
+0.364 1.08 (0.91–1.29)
+0.352 1.08 (0.91–1.28)
+0.371
+  VAF > 10%
+1.45 (1.15–1.83)
+0.001 1.29 (1.02–1.62)
+0.032 1.28 (1.02–1.61)
+0.034 1.28 (1.02–1.61)
+0.035
+Wrist-palm OA
+  CHIP
+1.19 (0.66–2.15)
+0.562 1.12 (0.62–2.02)
+0.704 1.12 (0.62–2.03)
+0.702 1.12 (0.62–2.02)
+0.705
+  VAF ≤ 10%
+1.28 (0.65–2.52)
+0.468 1.22 (0.62–2.39)
+0.571 1.22 (0.62–2.39)
+0.566 1.22 (0.62–2.40)
+0.565
+  VAF > 10%
+0.98 (0.31–3.07)
+0.969 0.91 (0.29–2.86)
+0.871 0.91 (0.29–2.85)
+0.866 0.90 (0.29–2.84)
+0.861
+Other OA
+  CHIP
+1.30 (1.16–1.45)
+ < 0.001 1.16 (1.04–1.30)
+0.008 1.16 (1.04–1.30)
+0.007 1.16 (1.04–1.30)
+0.007
+  VAF ≤ 10%
+1.22 (1.06–1.39)
+0.004 1.10 (0.96–1.26)
+0.155 1.10 (0.96–1.26)
+0.150 1.10 (0.96–1.26)
+0.153
+  VAF > 10%
+1.48 (1.24–1.78)
+ < 0.001 1.30 (1.08–1.56)
+0.005 1.30 (1.08–1.56)
+0.005 1.30 (1.08–1.56)
+0.005
+	
+GeroScience
+Vol:. (1234567890)
+potential confounding effects. Our extensive analysis 
+of 1463 proteomic biomarkers uncovered a significant 
+association between a specific subset of proteins and 
+incident OA and CHIP, including their subtypes. The 
+analysis of proteomics data identified several pro-
+teins with altered expression levels in OA. Upregu-
+lated proteins, such as COL9A1, CRTAC1, ASGR1, 
+AMBP, and ADM, were associated with an increased 
+risk of OA (Fig. 3A), while downregulated proteins, 
+such as NCAN, CNTN1, SEZ6L, and EGFR, seemed 
+to offer protective effect or showed no significant 
+relationship with OA onset. Detailed data information 
+is provided in Supplementary Table 10.
+Proteins including PPY, MLN, NTproBNP, 
+CHI3L1, and NPPB were upregulated in individuals 
+with CHIP while PAEP, CTSV, OBP2B, CRH, and 
+PNPT1 were downregulated (Fig. 3B), suggesting a 
+potential role in the formation or progression of CHIP 
+and OA. Analytical data information is listed in Sup-
+plementary Table 11.
+Enrichment analysis to identify protein pathways 
+associated with OA and CHIP was performed. The 
+most enriched pathways in OA included pathways 
+related to collagen-containing extracellular matrix 
+and extracellular matrix structure, signifying a 
+potential impact on OA development by interfering 
+with joint function and cartilage integrity (Fig.  3C) 
+[33]. Other significantly enriched pathways involved 
+immune regulation, protein binding, peptidase activ-
+ity, and cytokine signaling. Key pathways enriched 
+Fig. 3   Association of plasma proteins with CHIP and incident 
+OA. A–B Volcano plot illustrating the association of 1,463 
+plasma proteins with incident OA (A), and CHIP (B). Blue 
+represents down-regulated expression, red represents up-regu-
+lated expression, and gray represents no significant difference. 
+C–D Enrichment of GO, KEGG, and Reactome pathways with 
+incident OA (C) and CHIP (D). Significant proteins identified 
+in both model 1 (GLM) and model 2 (Cox regression analy-
+sis) after Bonferroni correction were subjected to enrichment 
+analysis using the Olink protein panel as the background gene 
+set. The -log (FDR) involves taking the negative logarithm of 
+the FDR-corrected p value. This transformation ensures that 
+a higher value corresponds to greater statistical significance. 
+The bar graphs show the statistical significance (-log (P value)) 
+of the different pathways, with the pathway name in the hori-
+zontal coordinate and the statistical significance in the vertical 
+coordinate. OA: osteoarthritis; CHIP: clonal hematopoiesis of 
+indeterminate potential; BP: biological process; CC: cellular 
+component; MF: molecular function; KEGG: Kyoto Encyclo-
+pedia of Genes and Genomes; FDR: false discovery rate
+GeroScience	
+Vol.: (0123456789)
+in CHIP involved immune response, apoptosis, DNA 
+damage response, and transmembrane signaling 
+receptor activity and to a lesser extent death recep-
+tor activity, MHC protein binding, and extracellular 
+matrix organization (Fig. 3D).
+The proteomic results using generalized linear 
+models (GLM) and Cox regression analysis showed 
+that there was a potential relationship between 
+CHIP and OA through a certain subset of proteins. 
+There are 97 proteins that were unique to CHIP, 
+390 unique proteins OA, and 246 proteins that are 
+common to both (Fig.  4A). 16 overlapping pro-
+teins were identified through mediation analysis, of 
+which seven proteins (CD5, CD79B, CEACAM1, 
+FOLR2, LILRA5, SIRPB1, and TXNDC15) were 
+identified at the intersection regions of CHIP pro-
+tein, OA protein and mediation protein, signify-
+ing potential mediating regulatory functions in the 
+molecular mechanisms of CHIP and development of 
+OA. The remaining nine proteins shared pathways 
+overlapped between CHIP and OA but not common 
+mediating processes, which might suggest a direct 
+biological effect.
+We then performed GLM and Cox analysis on the 
+seven overlapping proteins to explore their relation-
+ship with CHIP and OA (Fig.  4B). CD5, CD79B, 
+FOLR2, LILRA5, and SIRPB1 but not CECAM1 
+and TXNDC15 promoted CHIP and OA. The data 
+of seven overlapping proteins are shown in Supple-
+mentary Table 12.
+Fig. 4   Relationship analysis and model prediction results of 
+CHIP, OA and mediation proteins. A Venn diagram showing 
+the proteins shared between CHIP and OA. Blue circle (OA-
+related proteins): these proteins are chosen by Cox regression 
+as being related to OA. Red circle (CHIP-related proteins): 
+these proteins are selected by GLM as being related to CHIP. 
+Green circle (mediation proteins): these proteins are high-
+lighted through mediation analysis as potential mediators 
+between CHIP and OA. B Forest plot of the effects of seven 
+proteins on CHIP and OA. These seven proteins are identi-
+fied using robust regression as involved in both CHIP and OA 
+through all three methods. OA: osteoarthritis; CHIP: clonal 
+hematopoiesis of indeterminate potential; Model 1: generalized 
+linear model (GLM); Model 2: Cox regression analysis
+	
+GeroScience
+Vol:. (1234567890)
+Discussion
+CHIP is a precursor to myeloid malignancies and has 
+been associated with increased mortality and adverse 
+outcomes such as atherosclerosis and other malignan-
+cies [34]. CHIP has recently been implicated in the 
+pathogenesis of other systemic inflammatory diseases 
+such as gout, rheumatoid arthritis, and osteoporosis 
+[35–40]. Our study was the first to establish a clinical 
+link between CHIP and OA utilizing WES and pro-
+teomic data from over 45,000 participants from the 
+UKB genetics study cohort. We identified a strong 
+association between CHIP and incident OA, particu-
+larly in individuals with large clones of VAF > 10%. 
+After considering the competing risks of death, the 
+results showed that CHIP still increased the risk of 
+OA. Moreover, DNMT3A and JAK2 genes among 
+major CHIP-affected genes had the most significant 
+effect on OA. The genetic results suggest that the 
+relationship between CHIP and the risk of OA is 
+likely to be caused through a mutation in one of the 
+DNMT3A and JAK2 genes, and further site knockout 
+experiments will be needed to verify in the future. 
+Polyarticular and hip OA were significantly associ-
+ated with CHIP carrier status. Optimizing control of 
+OA risk factors such as weight management might be 
+especially important in CHIP carriers to prevent or 
+delay the occurrence of OA. Consistent with previous 
+analyses, our study identified an increased incidence 
+of CHIP with age [7]. Common protein pathways 
+enriched in CHIP were involved in inflammatory and 
+immune response mechanisms, and some proteins 
+like CD5, CD79B, CEACAM1, FOLR2, LILRA5, 
+SIRPB1, and TXNDC15 showed regulatory functions 
+in both OA and CHIP. We speculate that CHIP may 
+influence OA through proinflammatory states and 
+protein expression.
+CHIP as a phenomenon that becomes increas-
+ingly common with age, has significance far beyond 
+the blood system itself. It exerts a profound impact 
+on the musculoskeletal system by driving chronic, 
+low-grade systemic inflammation. CHIP significantly 
+increases the risk of osteoporosis and fractures [35], 
+exacerbates the severity and progression of joint dis-
+eases such as rheumatoid arthritis and osteoarthritis, 
+and may even increase the risk of onset. In addition, 
+it promotes the occurrence and development of sarco-
+penia, and may also affect other inflammatory muscu-
+loskeletal and connective tissue diseases [41].
+Our findings also indicated that proteins associated 
+with CHIP were significantly enriched in inflamma-
+tory pathways, similar to those indicated in OA. This 
+overlap suggested that the somatic mutations leading 
+to CHIP might also influence OA progression through 
+chronic low-grade inflammation. Similar findings 
+have been observed in cardiovascular studies, where 
+CHIP contributes to atherosclerosis and other inflam-
+matory conditions [42]. Despite CHIP and OA shar-
+ing some common enriched biological pathways, 
+the mechanistic connections between them remain 
+speculative. The shared pathways relating to immune 
+response and extracellular matrix organization might 
+imply that systemic inflammation could bridge these 
+two conditions [39, 43]. Pathways analyses revealed 
+that OA is more closely related to extracellular matrix 
+and structural pathways, while CHIP was linked to 
+immune signaling and membrane receptor activity 
+[44]. This divergence suggests distinct underlying 
+biological mechanisms, with OA primarily involving 
+tissue degeneration and proinflammatory states, while 
+CHIP is characterized by immune dysregulation. 
+Common immunoregulatory and inflammatory path-
+ways might bridge the interaction between CHIP and 
+OA. For instance, CHIP might increase susceptibility 
+to OA by altering the function of the immune system. 
+As a consequence, these two pathological states may 
+share a biological connection at the levels of immu-
+nity and cellular homeostasis, warranting further 
+investigation.
+The comprehensive proteomics analysis in this 
+study identified key proteins associated with OA, 
+including CD5, CD79B, CEACAM1, FOLR2, 
+LILRA5, SIRPB1, and TXNDC15. CD5 is a gly-
+coprotein predominantly expressed on the surface 
+of T lymphocytes and a subset of B lymphocytes. 
+CD5 can regulate intracellular signals induced by 
+antigen receptors on both T and B cells to influence 
+T and B cell selection and hence immunotolerance 
+[45]. CD79B is a component of the B cell receptor 
+(BCR) complex and participates in BCR signaling, 
+thus affecting the development and functioning of B 
+cells [46]. CEACAM1 is mainly involved in cell–cell 
+adhesion, signal transduction and immune regula-
+tion, and is highly expressed in the tumor microenvi-
+ronment [47]. FOLR2, encoding folate receptor β, is 
+mainly expressed in the placenta and certain cancer 
+cells, facilitating the uptake and metabolism of folate. 
+Of note, overexpression of FOLR2 is often associated 
+GeroScience	
+Vol.: (0123456789)
+with accelerated cancer progression and poor patient 
+prognosis [48]. FOLR2 may indicate increased activ-
+ity of CHIP-related inflammatory macrophages. 
+LILRA5 is a leukocyte immunoglobulin-like recep-
+tor exhibiting both activating and inhibitory functions 
+in leukocytes and may play a role in eliciting innate 
+immune responses [49]. SIRPB1 is an inhibitory 
+receptor that is mainly expressed on myeloid cells. It 
+regulates the activation and function of immune cells 
+by binding to its ligand [50]. TXNDC15 is a thiore-
+doxin-like protein that may play a role in protein 
+folding and intracellular redox balance. It has been 
+reported to be associated with Meckel syndrome. The 
+abovementioned proteins function as seven media-
+tion proteins of CHIP and OA, and may offer valuable 
+insights as potential biomarkers or therapeutic targets 
+for progression of CHIP and OA.
+These proteins might play a role in the pathogene-
+sis of both CHIP and OA as potential common molec-
+ular targets. Subsequent gene knockout or overexpres-
+sion experiments might verify the specific biological 
+effects of these proteins in OA and CHIP. Both OA 
+and CHIP involve multiple immune and inflamma-
+tory pathways, which may be activated in the chronic 
+inflammatory environment, contributing to the accel-
+erated progression of OA by CHIP. The seven media-
+tor proteins discovered in the study provide new 
+insights into the relationship between CHIP and OA. 
+CHIP mutations probably induce a long-term inflam-
+matory state, thereby affecting the health and stabil-
+ity of the joints, providing a favorable environment 
+for the occurrence of OA. We postulated that CHIP 
+is associated with a pro-inflammatory state, which 
+might accelerate the articular cartilage degeneration, 
+contributing to the development of OA.
+Furthermore, aging serves as a shared risk factor 
+for both CHIP and OA, with the prevalence of CHIP 
+increasing significantly after the age of 50 years [51]. 
+This age-related accumulation of somatic muta-
+tions in hematopoietic stem cells may exacerbate the 
+inflammatory environment within the joints, leading 
+to an accelerated progression of OA in individuals 
+with CHIP. This study reinforces the importance of 
+considering CHIP as a contributor to the pathogenesis 
+of non-hematological conditions such as OA, particu-
+larly in aging populations. Further research is needed 
+to elucidate the specific genetic mutations driving 
+CHIP and their direct impact on joint health. Prospec-
+tive studies could clarify whether CHIP serves as a 
+risk factor for early-onset OA or is merely a concur-
+rent condition associated with aging. Further under-
+standing to this relationship could lead to novel thera-
+peutic targets that address both the hematopoietic and 
+joint degeneration associated with aging.
+The study described the first systematic assess-
+ment of the association between CHIP and OA, offer-
+ing novel perspective on the broader impact of CHIP 
+and expanding the scope of CHIP research in inflam-
+matory diseases. Through mediation analysis, the 
+study explored the possibility that CHIP may indi-
+rectly affect OA through inflammatory and immune 
+pathways, providing potential molecular targets and 
+mechanism directions for subsequent studies, and 
+providing a reference for clinical preventive strategies 
+in CHIP carriers. Despite finding a significant asso-
+ciation between CHIP and OA incidence, this study 
+is an observational study and cannot conclusively 
+determine whether CHIP directly causes OA. There-
+fore, there are limitations in determining whether 
+CHIP leads to OA development or OA development 
+gives rise to CHIP. Furthermore, there were potential 
+confounding factors, such as genetic background and 
+detailed physical activity levels that were not fully 
+accounted for. The biological mechanisms behind 
+the observed associations and the causal relationship 
+between CHIP and OA remain to be investigated. 
+Future studies will focus on animal model construc-
+tion and in vitro or in vivo mechanism experiments 
+to establish causal associations as well as to better 
+understand how CHIP could act as a driver for OA 
+development. At the same time, target analysis of 
+specific mutation sites and proteins will provide pos-
+sible therapeutic tools for early prevention and prog-
+nosis of OA. Understanding these connections could 
+help future development of targeted therapies for OA 
+in individuals with CHIP, potentially improving dis-
+ease management and preventing progression in high-
+risk populations. The link between CHIP and OA is 
+likely to be an inflammatory state; therefore, CHIP 
+has the potential to prevent the development of early 
+OA or risk stratification, as CHIP affects the expres-
+sion of inflammatory factors in the microenvironment 
+and the immune system. If someone is found to be 
+a CHIP carrier can be prevented to reduce the inci-
+dence of OA. A growing body of clinical and in vivo 
+evidence supports the potential that CHIP may lead 
+to dysregulation of immune- and inflammation-
+related pathways, and the functional consequences of 
+	
+GeroScience
+Vol:. (1234567890)
+CHIP-associated mutations may have a potential role 
+in the treatment of OA.
+In conclusion, this study demonstrated a signifi-
+cant association between CHIP and incident OA, 
+suggesting that CHIP may exacerbate OA progres-
+sion through inflammatory and immune response 
+mechanisms. This discovery not only deepens our 
+understanding of the role of CHIP in systemic inflam-
+mation but also provides a theoretical basis for the 
+development of OA interventions tailored for CHIP 
+carriers. CHIP may provide a mechanistic explana-
+tion for the clinical response and low-inflammatory 
+state observed in OA. Further experimental and lon-
+gitudinal studies are needed to validate the mecha-
+nisms and to elucidate the specific molecular mecha-
+nisms, as well as their causal relationship and clinical 
+applicability.
+Declaration
+Acknowledgements  This research has been conducted using 
+the UK Biobank Resource under Application Number 106397. 
+The authors thank all UK Biobank participants. We also thank all 
+the staff at the UK Biobank for their contributions to the research.
+Author contribution  Ping Li and Zijian Kang designed and 
+initiated the project; Ping Li and Ruiqi Ma generated somatic 
+mutation calls for UK Biobank studies; Ping Li and Zijian 
+Kang performed statistical analyses and interpreted the data; 
+Ping Li and Zijian Kang drafted the manuscript; all authors 
+made substantial contributions to data analysis and/or interpre-
+tation, drafted and/or revised the manuscript, and approved the 
+final version for publication.
+Funding  This study was supported by the Basic Research 
+Project of Shanghai Sixth People’s Hospital (ynms202408); The 
+2115 Talent Development Program of China Agricultural Uni-
+versity and University of Hong Kong, Hong Kong SAR China; 
+The Postdoctoral Fellowship Program of CPSF under Grant 
+Number 2023M742331 and Pujiang Rheumatism Young Physi-
+cians Training Program under Grant Number SPROG2302.
+Data availability  The data supporting the findings of this 
+study are available from the corresponding author upon request.
+Declarations 
+Ethics approval and consent to participate  UK Biobank 
+data has approval from the North West Multi-centre Research 
+Ethics Committee (MREC) (REC reference: 21/NW/0157). 
+This research has been conducted with the UK Biobank 
+Resource under project 106397.
+Competing interests  The authors declare no competing inter-
+ests.
+References
+	 1.	 Global, regional, and national burden of osteoarthritis, 
+1990–2020 and projections to 2050: a systematic analy-
+sis for the Global Burden of Disease Study 2021. Lancet 
+Rheumatol 2023;5:e50822-e22. https://​doi.​org/​10.​1016/​
+s2665-​9913(23)​00163-7
+	 2.	 Glyn-Jones S, Palmer AJ, Agricola R, Price AJ, Vin-
+cent TL, Weinans H, Carr AJ. Osteoarthritis. Lan-
+cet. 
+2015;386:376–87. 
+https://​doi.​org/​10.​1016/​s0140-​
+6736(14)​60802-3.
+	 3.	 Bland JH, Cooper SM. Osteoarthritis: a review of the cell 
+biology involved and evidence for reversibility. Manage-
+ment rationally related to known genesis and pathophysi-
+ology. Semin Arthritis Rheum. 1984;14:106–33. https://​
+doi.​org/​10.​1016/​0049-​0172(84)​90002-7.
+	 4.	 Colletti A, Cicero AFG. Nutraceutical approach to chronic 
+osteoarthritis: from molecular research to clinical evi-
+dence. Int J Mol Sci. 2021. https://​doi.​org/​10.​3390/​ijms2​
+22312​920.
+	 5.	 Xia B, Di C, Zhang J, Hu S, Jin H, Tong P. Osteoarthritis 
+pathogenesis: a review of molecular mechanisms. Calcif 
+Tissue Int. 2014;95:495–505. https://​doi.​org/​10.​1007/​
+s00223-​014-​9917-9.
+	 6.	 Motta F, Barone E, Sica A, Selmi C. Inflammaging and 
+osteoarthritis. Clin Rev Allergy Immunol. 2023;64:222–
+38. https://​doi.​org/​10.​1007/​s12016-​022-​08941-1.
+	 7.	 Jaiswal S, Fontanillas P, Flannick J, Manning A, Grau-
+man PV, Mar BG, Lindsley RC, Mermel CH, Burtt N, 
+Chavez A, Higgins JM, Moltchanov V, Kuo FC, Kluk MJ, 
+Henderson B, Kinnunen L, Koistinen HA, Ladenvall C, 
+Getz G, Correa A, Banahan BF, Gabriel S, Kathiresan S, 
+Stringham HM, McCarthy MI, Boehnke M, Tuomilehto 
+J, Haiman C, Groop L, Atzmon G, Wilson JG, Neuberg 
+D, Altshuler D, Ebert BL. Age-related clonal hematopoie-
+sis associated with adverse outcomes. N Engl J Med. 
+2014;371:2488–98. https://​doi.​org/​10.​1056/​NEJMo​a1408​
+617.
+	 8.	 Marnell CS, Bick A, Natarajan P. Clonal hematopoiesis 
+of indeterminate potential (CHIP): linking somatic muta-
+tions, hematopoiesis, chronic inflammation and cardio-
+vascular disease. J Mol Cell Cardiol. 2021;161:98–105. 
+https://​doi.​org/​10.​1016/j.​yjmcc.​2021.​07.​004.
+	 9.	 Steensma DP, Bejar R, Jaiswal S, Lindsley RC, Sekeres 
+MA, Hasserjian RP, Ebert BL. Clonal hematopoiesis of 
+indeterminate potential and its distinction from myelodys-
+plastic syndromes. Blood. 2015;126:9–16. https://​doi.​org/​
+10.​1182/​blood-​2015-​03-​631747.
+	10.	 Heuser M, Thol F, Ganser A. Clonal hematopoiesis of 
+indeterminate potential. Dtsch Arztebl Int. 2016;113:317–
+22. https://​doi.​org/​10.​3238/​arzte​bl.​2016.​0317.
+	11.	 Bolton KL, Ptashkin RN, Gao T, Braunstein L, Dev-
+lin SM, Kelly D, Patel M, Berthon A, Syed A, Yabe M, 
+Coombs CC, Caltabellotta NM, Walsh M, Offit K, Stadler 
+Z, Mandelker D, Schulman J, Patel A, Philip J, Bernard E, 
+GeroScience	
+Vol.: (0123456789)
+Gundem G, Ossa JEA, Levine M, Martinez JSM, Farnoud 
+N, Glodzik D, Li S, Robson ME, Lee C, Pharoah PDP, 
+Stopsack KH, Spitzer B, Mantha S, Fagin J, Boucai L, 
+Gibson CJ, Ebert BL, Young AL, Druley T, Takahashi K, 
+Gillis N, Ball M, Padron E, Hyman DM, Baselga J, Nor-
+ton L, Gardos S, Klimek VM, Scher H, Bajorin D, Paraiso 
+E, Benayed R, Arcila ME, Ladanyi M, Solit DB, Berger 
+MF, Tallman M, Garcia-Closas M, Chatterjee N, Diaz 
+LA Jr., Levine RL, Morton LM, Zehir A, Papaemmanuil 
+E. Cancer therapy shapes the fitness landscape of clonal 
+hematopoiesis. Nat Genet. 2020;52:1219–26. https://​doi.​
+org/​10.​1038/​s41588-​020-​00710-0.
+	12.	 Haring B, Reiner AP, Liu J, Tobias DK, Whitsel E, Berger 
+JS, Desai P, Wassertheil-Smoller S, LaMonte MJ, Hayden 
+KM, Bick AG, Natarajan P, Weinstock JS, Nguyen PK, 
+Stefanick M, Simon MS, Eaton CB, Kooperberg C, Man-
+son JE. Healthy lifestyle and clonal hematopoiesis of inde-
+terminate potential: results from the women’s health ini-
+tiative. J Am Heart Assoc. 2021;10: e018789. https://​doi.​
+org/​10.​1161/​jaha.​120.​018789.
+	13.	 Agrawal M, Niroula A, Cunin P, McConkey M, Shkolnik 
+V, Kim PG, Wong WJ, Weeks LD, Lin AE, Miller PG, 
+Gibson CJ, Sekar A, Schaefer IM, Neuberg D, Stone RM, 
+Bick AG, Uddin MM, Griffin GK, Jaiswal S, Natarajan 
+P, Nigrovic PA, Rao DA, Ebert BL. TET2-mutant clonal 
+hematopoiesis and risk of gout. Blood. 2022;140:1094–
+103. https://​doi.​org/​10.​1182/​blood.​20220​15384.
+	14.	 Jaiswal S, Natarajan P, Silver AJ, Gibson CJ, Bick AG, 
+Shvartz E, McConkey M, Gupta N, Gabriel S, Ardissino 
+D, Baber U, Mehran R, Fuster V, Danesh J, Frossard P, 
+Saleheen D, Melander O, Sukhova GK, Neuberg D, Libby 
+P, Kathiresan S, Ebert BL. Clonal hematopoiesis and risk 
+of atherosclerotic cardiovascular disease. N Engl J Med. 
+2017;377:111–21. 
+https://​doi.​org/​10.​1056/​NEJMo​a1701​
+719.
+	15.	 Miller PG, Qiao D, Rojas-Quintero J, Honigberg MC, 
+Sperling AS, Gibson CJ, Bick AG, Niroula A, McConkey 
+ME, Sandoval B, Miller BC, Shi W, Viswanathan K, Lev-
+enthal M, Werner L, Moll M, Cade BE, Barr RG, Correa 
+A, Cupples LA, Gharib SA, Jain D, Gogarten SM, Lange 
+LA, London SJ, Manichaikul A, O’Connor GT, Oelsner 
+EC, Redline S, Rich SS, Rotter JI, Ramachandran V, Yu 
+B, Sholl L, Neuberg D, Jaiswal S, Levy BD, Owen CA, 
+Natarajan P, Silverman EK, van Galen P, Tesfaigzi Y, 
+Cho MH, Ebert BL. Association of clonal hematopoie-
+sis with chronic obstructive pulmonary disease. Blood. 
+2022;139:357–68. 
+https://​doi.​org/​10.​1182/​blood.​20210​
+13531.
+	16.	 Belizaire R, Wong WJ, Robinette ML, Ebert BL. Clonal 
+haematopoiesis and dysregulation of the immune system. 
+Nat Rev Immunol. 2023;23:595–610. https://​doi.​org/​10.​
+1038/​s41577-​023-​00843-3.
+	17.	 Robinson WH, Lepus CM, Wang Q, Raghu H, Mao R, 
+Lindstrom TM, Sokolove J. Low-grade inflammation as 
+a key mediator of the pathogenesis of osteoarthritis. Nat 
+Rev Rheumatol. 2016;12:580–92. https://​doi.​org/​10.​1038/​
+nrrhe​um.​2016.​136.
+	18.	 Hormaechea-Agulla D, Matatall KA, Le DT, Kain B, 
+Long X, Kus P, Jaksik R, Challen GA, Kimmel M, King 
+KY. Chronic infection drives Dnmt3a-loss-of-function 
+clonal hematopoiesis via IFNγ signaling. Cell Stem Cell. 
+2021;28:1428-42.e6. https://​doi.​org/​10.​1016/j.​stem.​2021.​
+03.​002.
+	19.	 Bycroft C, Freeman C, Petkova D, Band G, Elliott LT, 
+Sharp K, Motyer A, Vukcevic D, Delaneau O, O’Connell 
+J, Cortes A, Welsh S, Young A, Effingham M, McVean 
+G, Leslie S, Allen N, Donnelly P, Marchini J. The UK 
+Biobank resource with deep phenotyping and genomic 
+data. Nature. 2018;562:203–9. https://​doi.​org/​10.​1038/​
+s41586-​018-​0579-z.
+	20.	 Backman JD, Li AH, Marcketta A, Sun D, Mbatchou J, 
+Kessler MD, Benner C, Liu D, Locke AE, Balasubra-
+manian S, Yadav A, Banerjee N, Gillies CE, Damask 
+A, Liu S, Bai X, Hawes A, Maxwell E, Gurski L, Wata-
+nabe K, Kosmicki JA, Rajagopal V, Mighty J, Jones M, 
+Mitnaul L, Stahl E, Coppola G, Jorgenson E, Habegger 
+L, Salerno WJ, Shuldiner AR, Lotta LA, Overton JD, 
+Cantor MN, Reid JG, Yancopoulos G, Kang HM, Mar-
+chini J, Baras A, Abecasis GR, Ferreira MAR. Exome 
+sequencing and analysis of 454,787 UK Biobank partici-
+pants. Nature. 2021;599:628–34. https://​doi.​org/​10.​1038/​
+s41586-​021-​04103-z.
+	21.	 Van Hout CV, Tachmazidou I, Backman JD, Hoffman 
+JD, Liu D, Pandey AK, Gonzaga-Jauregui C, Khalid S, 
+Ye B, Banerjee N, Li AH, O’Dushlaine C, Marcketta A, 
+Staples J, Schurmann C, Hawes A, Maxwell E, Barnard 
+L, Lopez A, Penn J, Habegger L, Blumenfeld AL, Bai X, 
+O’Keeffe S, Yadav A, Praveen K, Jones M, Salerno WJ, 
+Chung WK, Surakka I, Willer CJ, Hveem K, Leader JB, 
+Carey DJ, Ledbetter DH, Cardon L, Yancopoulos GD, 
+Economides A, Coppola G, Shuldiner AR, Balasubra-
+manian S, Cantor M, Nelson MR, Whittaker J, Reid JG, 
+Marchini J, Overton JD, Scott RA, Abecasis GR, Yerges-
+Armstrong L, Baras A, Geisinger-Regeneron Discov, 
+EHRC, Regeneron Genetics. Exome sequencing and char-
+acterization of 49,960 individuals in the UK Biobank. 
+Nature. 
+2020;586:749–56. 
+https://​doi.​org/​10.​1038/​
+s41586-​020-​2853-0.
+	22.	 Cingolani P. Variant annotation and functional prediction: 
+SnpEff. Methods Mol Biol. 2022;2493:289–314. https://​
+doi.​org/​10.​1007/​978-1-​0716-​2293-3_​19.
+	23.	 Ulintz PJ, Wu W, Gates CM. Bioinformatics analysis 
+of whole exome sequencing data. Methods Mol Biol. 
+2019;1881:277–318. https://​doi.​org/​10.​1007/​978-1-​4939-​
+8876-1_​21.
+	24.	 Kessler MD, Damask A, O’Keeffe S, Banerjee N, Li 
+D, Watanabe K, Marketta A, Van Meter M, Semrau S, 
+Horowitz J, Tang J, Kosmicki JA, Rajagopal VM, Zou Y, 
+Houvras Y, Ghosh A, Gillies C, Mbatchou J, White RR, 
+Verweij N, Bovijn J, Parikshak NN, LeBlanc MG, Jones 
+M, Glass DJ, Lotta LA, Cantor MN, Atwal GS, Locke AE, 
+Ferreira MAR, Deering R, Paulding C, Shuldiner AR, 
+Thurston G, Ferrando AA, Salerno W, Reid JG, Overton 
+JD, Marchini J, Kang HM, Baras A, Abecasis GR, Jorgen-
+son E. Common and rare variant associations with clonal 
+haematopoiesis phenotypes. Nature. 2022;612:301–9. 
+https://​doi.​org/​10.​1038/​s41586-​022-​05448-9.
+	25.	 Kar SP, Quiros PM, Gu M, Jiang T, Mitchell J, Lang-
+don R, Iyer V, Barcena C, Vijayabaskar MS, Fabre 
+MA, Carter P, Petrovski S, Burgess S, Vassiliou GS. 
+Genome-wide analyses of 200,453 individuals yield 
+new insights into the causes and consequences of clonal 
+	
+GeroScience
+Vol:. (1234567890)
+hematopoiesis. Nat Genet. 2022;54:1155–66. https://​doi.​
+org/​10.​1038/​s41588-​022-​01121-z.
+	26.	 Sun BB, Chiou J, Traylor M, Benner C, Hsu YH, 
+Richardson TG, Surendran P, Mahajan A, Robins C, 
+Vasquez-Grinnell SG, Hou L, Kvikstad EM, Burren 
+OS, Davitte J, Ferber KL, Gillies CE, Hedman ÅK, 
+Hu S, Lin T, Mikkilineni R, Pendergrass RK, Picker-
+ing C, Prins B, Baird D, Chen CY, Ward LD, Deaton 
+AM, Welsh S, Willis CM, Lehner N, Arnold M, Wör-
+heide MA, Suhre K, Kastenmüller G, Sethi A, Cule 
+M, Raj A, Burkitt-Gray L, Melamud E, Black MH, 
+Fauman EB, Howson JMM, Kang HM, McCarthy MI, 
+Nioi P, Petrovski S, Scott RA, Smith EN, Szalma S, 
+Waterworth DM, Mitnaul LJ, Szustakowski JD, Gibson 
+BW, Miller MR, Whelan CD. Plasma proteomic asso-
+ciations with genetics and health in the UK Biobank. 
+Nature. 
+2023;622:329–38. 
+https://​doi.​org/​10.​1038/​
+s41586-​023-​06592-6.
+	27.	 Kang Z, Zhang J, Liu W, Zhu C, Zhu Y, Li P, Li K, Tong 
+Q, Dai SM. Plasma proteomic profiles predict individual 
+future osteoarthritis risk. Arthritis Rheumatol. 2025. 
+https://​doi.​org/​10.​1002/​art.​43143.
+	28.	 Sun BB, Chiou J, Traylor M, Benner C, Hsu YH, Rich-
+ardson TG, Surendran P, Mahajan A, Robins C, Vasquez-
+Grinnell SG, Hou L, Kvikstad EM, Burren OS, Cule M, 
+Davitte J, Ferber KL, Gillies CE, Hedman ÅK, Hu S, Lin 
+T, Mikkilineni R, Pendergrass RK, Pickering C, Prins 
+B, Raj A, Robinson J, Sethi A, Ward LD, Welsh S, Wil-
+lis CM, Genetics AH, Initiative AG, Team BB, Squibb 
+BM, Genetics GH, Sciences GG, Biology PI. Genetic 
+regulation of the human plasma proteome in 54,306 UK 
+Biobank participants. bioRxiv. 2022;06(17):496443. 
+https://​doi.​org/​10.​1101/​2022.​06.​17.​496443.
+	29.	 Sedgwick P. Multiple hypothesis testing and Bonferroni’s 
+correction. BMJ. 2014;349: g6284. https://​doi.​org/​10.​
+1136/​bmj.​g6284.
+	30.	 Xu S, Hu E, Cai Y, Xie Z, Luo X, Zhan L, Tang W, 
+Wang Q, Liu B, Wang R, Xie W, Wu T, Xie L, Yu G. 
+Using clusterProfiler to characterize multiomics data. 
+Nat Protoc. 2024;19:3292–320. https://​doi.​org/​10.​1038/​
+s41596-​024-​01020-z.
+	31.	 White IR, Royston P, Wood AM. Multiple imputation 
+using chained equations: issues and guidance for practice. 
+Stat Med. 2011;30:377–99. https://​doi.​org/​10.​1002/​sim.​
+4067.
+	32.	 Tingley D, Yamamoto T, Hirose K, Keele L, Imai K. 
+Mediation: R package for causal mediation analysis. J Stat 
+Softw. 2014;59:1–38. https://​doi.​org/​10.​18637/​jss.​v059.​
+i05.
+	33.	 Abramoff B, Caldera FE. Osteoarthritis: pathology, 
+diagnosis, and treatment options. Med Clin North Am. 
+2020;104:293–311. https://​doi.​org/​10.​1016/j.​mcna.​2019.​
+10.​007.
+	34.	 Fuster JJ, MacLauchlan S, Zuriaga MA, Polackal MN, 
+Ostriker AC, Chakraborty R, Wu CL, Sano S, Muralid-
+haran S, Rius C, Vuong J, Jacob S, Muralidhar V, Rob-
+ertson AA, Cooper MA, Andrés V, Hirschi KK, Martin 
+KA, Walsh K. Clonal hematopoiesis associated with TET2 
+deficiency accelerates atherosclerosis development in 
+mice. Science. 2017;355:842–7. https://​doi.​org/​10.​1126/​
+scien​ce.​aag13​81.
+	35.	 Kim PG, Niroula A, Shkolnik V, McConkey M, Lin AE, 
+Słabicki M, Kemp JP, Bick A, Gibson CJ, Griffin G, Sekar 
+A, Brooks DJ, Wong WJ, Cohen DN, Uddin MM, Shin 
+WJ, Pirruccello J, Tsai JM, Agrawal M, Kiel DP, Boux-
+sein ML, Richards JB, Evans DM, Wein MN, Charles 
+JF, Jaiswal S, Natarajan P, Ebert BL. Dnmt3a-mutated 
+clonal hematopoiesis promotes osteoporosis. J Exp Med. 
+2021;218: 10.1084/jem.20211872.
+	36.	 Zhang J, Zhou C, Guan S. Association between rheuma-
+toid arthritis and clonal hematopoiesis: a mendelian rand-
+omization study. Twin Res Hum Genet. 2024. https://​doi.​
+org/​10.​1017/​thg.​2024.​24.
+	37.	 Savola P, Lundgren S, Keränen MAI, Almusa H, Ellonen 
+P, Leirisalo-Repo M, Kelkka T, Mustjoki S. Clonal 
+hematopoiesis in patients with rheumatoid arthritis. 
+Blood Cancer J. 2018;8: 69. https://​doi.​org/​10.​1038/​
+s41408-​018-​0107-2.
+	38.	 Hiitola E, Korhonen J, Kokkonen H, Koskela J, 
+Kankainen M, Alakuijala M, Liu A, Lundgren S, Häppölä 
+P, Almusa H, Ellonen P, Savola P, Kelkka T, Leirisalo-
+Repo M, Koivuniemi R, Peltomaa R, Pirilä L, Isomäki P, 
+Kauppi M, Kaipiainen-Seppänen O, Starskaia I, Virtanen 
+AT, Lahesmaa R, Silvennoinen O, Genovese G, Ganna A, 
+Rantapää-Dahlqvist S, Mustjoki S, Myllymäki M. Clonal 
+hematopoiesis is associated with distinct rheumatoid 
+arthritis phenotypes. Sci Adv. 2025;11: eadt9846. https://​
+doi.​org/​10.​1126/​sciadv.​adt98​46.
+	39.	 Wu H, Wei J, Yu Y, Wang N, Tan X. Clonal hematopoie-
+sis of indeterminate potential and the risk of autoimmune 
+diseases. J Intern Med. 2025;297:642–56. https://​doi.​org/​
+10.​1111/​joim.​20080.
+	40.	 Major TJ, Takei R, Matsuo H, Leask MP, Sumpter NA, 
+Topless RK, Shirai Y, Wang W, Cadzow MJ, Phipps-
+Green AJ, Li Z, Ji A, Merriman ME, Morice E, Kelley 
+EE, Wei WH, McCormick SPA, Bixley MJ, Reynolds RJ, 
+Saag KG, Fadason T, Golovina E, O’Sullivan JM, Stamp 
+LK, Dalbeth N, Abhishek A, Doherty M, Roddy E, Jacob-
+sson LTH, Kapetanovic MC, Melander O, Andrés M, 
+Pérez-Ruiz F, Torres RJ, Radstake T, Jansen TL, Janssen 
+M, Joosten LAB, Liu R, Gaal OI, Crişan TO, Rednic S, 
+Kurreeman F, Huizinga TWJ, Toes R, Lioté F, Richette 
+P, Bardin T, Ea HK, Pascart T, McCarthy GM, Helbert 
+L, Stibůrková B, Tausche AK, Uhlig T, Vitart V, Boutin 
+TS, Hayward C, Riches PL, Ralston SH, Campbell A, 
+MacDonald TM, Nakayama A, Takada T, Nakatochi M, 
+Shimizu S, Kawamura Y, Toyoda Y, Nakaoka H, Yama-
+moto K, Matsuo K, Shinomiya N, Ichida K, Lee C, Brad-
+bury LA, Brown MA, Robinson PC, Buchanan RRC, Hill 
+CL, Lester S, Smith MD, Rischmueller M, Choi HK, 
+Stahl EA, Miner JN, Solomon DH, Cui J, Giacomini KM, 
+Brackman DJ, Jorgenson EM, Liu H, Susztak K, Shrin-
+garpure S, So A, Okada Y, Li C, Shi Y, Merriman TR. A 
+genome-wide association analysis reveals new pathogenic 
+pathways in gout. Nat Genet. 2024;56:2392–406. https://​
+doi.​org/​10.​1038/​s41588-​024-​01921-5.
+	41.	 Perner F, Perner C, Ernst T, Heidel FH. Roles of JAK2 in 
+aging, inflammation, hematopoiesis and malignant trans-
+formation. Cells. 2019. https://​doi.​org/​10.​3390/​cells​80808​
+54.
+	42.	 Gumuser ED, Schuermans A, Cho SMJ, Sporn ZA, 
+Uddin MM, Paruchuri K, Nakao T, Yu Z, Haidermota S, 
+GeroScience	
+Vol.: (0123456789)
+Hornsby W, Weeks LD, Niroula A, Jaiswal S, Libby P, 
+Ebert BL, Bick AG, Natarajan P, Honigberg MC. Clonal 
+hematopoiesis of indeterminate potential predicts adverse 
+outcomes in patients with atherosclerotic cardiovascular 
+disease. J Am Coll Cardiol. 2023;81:1996–2009. https://​
+doi.​org/​10.​1016/j.​jacc.​2023.​03.​401.
+	43.	 Kishtagari A, Corty RW, Visconte V. Clonal hematopoie-
+sis and autoimmunity. Semin Hematol. 2024;61:3–8. 
+https://​doi.​org/​10.​1053/j.​semin​hemat​ol.​2024.​01.​012.
+	44.	 Goldman EA, Spellman PT, Agarwal A. Defining clonal 
+hematopoiesis of indeterminate potential: evolutionary 
+dynamics and detection under aging and inflammation. 
+Cold Spring Harb Mol Case Stud. 2023. https://​doi.​org/​
+10.​1101/​mcs.​a0062​51.
+	45.	 Raman C. CD5, an important regulator of lympho-
+cyte selection and immune tolerance. Immunol Res. 
+2002;26:255–63. https://​doi.​org/​10.​1385/​ir:​26:1-​3:​255.
+	46.	 Tkachenko A, Kupcova K, Havranek O. B-cell recep-
+tor signaling and beyond: the role of Igα (CD79a)/Igβ 
+(CD79b) in normal and malignant B cells. Int J Mol Sci. 
+2023. https://​doi.​org/​10.​3390/​ijms2​50100​10.
+	47.	 Kim WM, Huang YH, Gandhi A, Blumberg RS. 
+CEACAM1 structure and function in immunity and its 
+therapeutic implications. Semin Immunol. 2019;42: 
+101296. https://​doi.​org/​10.​1016/j.​smim.​2019.​101296.
+	48.	 Nawaz FZ, Kipreos ET. Emerging roles for folate recep-
+tor FOLR1 in signaling and cancer. Trends Endocrinol 
+Metab. 2022;33:159–74. https://​doi.​org/​10.​1016/j.​tem.​
+2021.​12.​003.
+	49.	 Truong AD, Hong Y, Nguyen HT, Nguyen CT, Chu NT, 
+Tran HTT, Dang HV, Lillehoj HS, Hong YH. Molecular 
+identification and characterisation of a novel chicken leu-
+kocyte immunoglobulin-like receptor A5. Br Poult Sci. 
+2021;62:68–80. 
+https://​doi.​org/​10.​1080/​00071​668.​2020.​
+18125​24.
+	50.	 Barclay AN, Brown MH. The SIRP family of receptors 
+and immune regulation. Nat Rev Immunol. 2006;6:457–
+64. https://​doi.​org/​10.​1038/​nri18​59.
+	51.	 Pandey SN, Agrawal N, Moglad E, Priya GP, Sriv-
+astava M, Chennakesavulu K, Mohanty B, Arya R, 
+Kazmi I, S IA, Almalk WH, Goyal K. CHIP and aging: 
+a key regulator of proteostasis and cellular senescence. 
+Biogerontology. 
+2025;26:104. 
+https://​doi.​org/​10.​1007/​
+s10522-​025-​10247-6.
+Publisher’s Note  Springer Nature remains neutral with regard 
+to jurisdictional claims in published maps and institutional 
+affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) 
+holds exclusive rights to this article under a publishing 
+agreement with the author(s) or other rightsholder(s); author 
+self-archiving of the accepted manuscript version of this article 
+is solely governed by the terms of such publishing agreement 
+and applicable law.

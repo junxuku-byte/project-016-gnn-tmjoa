@@ -1,0 +1,34 @@
+{
+  "title": "The effects of FGF18 in a mouse model for TMJ cartilage degradation",
+  "authors": "Eliane H Dutra",
+  "year": 2024,
+  "journal": "2022 Biomedical Research Awards (BRA)",
+  "category": "TMJ",
+  "research_question": "FGF18能否通过促进软骨祖细胞增殖和抑制降解标志物来修复小鼠颞下颌关节纤维软骨退变？",
+  "methods_summary": [
+    "使用Col1a1xCol2a1xCol10a1三重胶原转基因小鼠建立单侧反颌诱导的TMJ软骨退变模型",
+    "实验分为4组：对照+盐水、对照+rmFGF18、退变+盐水、退变+rmFGF18",
+    "退变组通过粘结金属管形成单侧反颌6周诱导软骨退变",
+    "随后进行3周每周一次的TMJ关节腔内注射（盐水或5μg rmFGF18）",
+    "组织学分析包括甲苯胺蓝染色（软骨厚度）、番红O染色（蛋白聚糖分布和OARSI评分）、Edu标记（细胞增殖）、胶原荧光报告基因（Col I、II、X）及免疫荧光（MMP13、TIMP1、NOGGIN）",
+    "使用ImageJ定量，ANOVA和Tukey事后检验进行统计分析"
+  ],
+  "dataset": "32只6周龄雄性Col1a1xCol2a1xCol10a1转基因小鼠（CD-1背景）",
+  "key_findings": [
+    "FGF18治疗显著增加退变TMJ的软骨厚度、蛋白聚糖分布和软骨细胞增殖（Edu阳性细胞）",
+    "FGF18增加Col I和Col II阳性细胞（软骨祖细胞和细胞外基质标志），减少Col X阳性细胞（肥大软骨细胞和退变标志）",
+    "FGF18降低MMP13和NOGGIN表达，增加TIMP1表达，表明抗分解和促合成代谢效应",
+    "退变+盐水组最终体重显著低于其他组，而FGF18治疗组体重与对照组无显著差异"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "FGF18",
+    "TMJ",
+    "软骨退变",
+    "颞下颌关节",
+    "软骨修复",
+    "小鼠模型",
+    "关节腔内注射"
+  ],
+  "extracted_insights": "本研究首次证明关节腔内注射FGF18可逆转小鼠TMJ纤维软骨退变，通过增加软骨厚度、蛋白聚糖分布、软骨祖细胞增殖，并降低MMP13和NOGGIN、增加TIMP1，提示FGF18通过抑制分解代谢和促进合成代谢发挥修复作用，为TMJ骨关节炎的非手术治疗提供了新策略。"
+}

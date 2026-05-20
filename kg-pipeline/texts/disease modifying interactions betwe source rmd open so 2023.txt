@@ -1,0 +1,982 @@
+   1
+Julovi SM, et al. RMD Open 2023;9:e003109. doi:10.1136/rmdopen-2023-003109
+ORIGINAL RESEARCH
+Disease-­modifying interactions between 
+chronic kidney disease and osteoarthritis: 
+a new comorbid mouse model
+Sohel M Julovi  ‍ ‍ ,1,2 Aiken Dao,2,3 Katie Trinh,1,2 Alexandra K O’Donohue,2,3 
+Cindy Shu,2,4 Susan Smith,4 Meena Shingde,5 Aaron Schindeler,2,3 
+Natasha M Rogers,1,2 Christopher B Little2,4
+To cite: Julovi SM, Dao A, 
+Trinh K, et al. Disease-­
+modifying interactions between 
+chronic kidney disease and 
+osteoarthritis: a new comorbid 
+mouse model. RMD Open 
+2023;9:e003109. doi:10.1136/
+rmdopen-2023-003109
+	
+►Additional supplemental 
+material is published online only. 
+To view, please visit the journal 
+online (http://​dx.​doi.​org/​10.​
+1136/​rmdopen-​2023-​003109).
+NMR and CBL are joint senior 
+authors.
+Received 26 February 2023
+Accepted 28 July 2023
+For numbered affiliations see 
+end of article.
+Correspondence to
+Dr Sohel M Julovi;  
+​sohel.​julovi@​sydney.​edu.​au
+Professor Natasha M Rogers;  
+​natasha.​rogers@​health.​nsw.​
+gov.​au
+Osteoarthritis
+© Author(s) (or their 
+employer(s)) 2023. Re-­use 
+permitted under CC BY-­NC. No 
+commercial re-­use. See rights 
+and permissions. Published 
+by BMJ.
+ABSTRACT
+Objective  The prevalence of comorbid chronic kidney 
+disease (CKD) and osteoarthritis (OA) is increasing globally. 
+While sharing common risk factors, the mechanism and 
+consequences of concurrent CKD-­OA are unclear. The aims 
+of the study were to develop a preclinical comorbid model, 
+and to investigate the disease-­modifying interactions.
+Methods  Seventy (70) male 8–10 week-­old 
+C57BL/6 mice were subjected to 5/6 nephrectomy 
+(5/6Nx)±destabilisation of medial meniscus (DMM) or 
+sham surgery. OA pathology and CKD were assessed 12 
+weeks postinduction by blinded histology scoring, micro-­
+CT, immunohistochemistry for osteoclast and matrix 
+metalloproteinase (MMP)-­13 activity, and serum analysis of 
+bone metabolic markers.
+Results  The 5/6Nx model recapitulated characteristic 
+features of CKD, with renal fibrosis and deranged serum 
+alkaline phosphatase, calcium and phosphate. There was 
+no histological evidence of cartilage pathology induced by 
+5/6Nx alone, however, synovial MMP-­13 expression and 
+subchondral bone osteoclastic activity were increased 
+(p<0.05), with accompanying reductions (p<0.05) in 
+subchondral trabecular bone, bone volume and mineral 
+density. DMM significantly (p<0.05) increased tibiofemoral 
+cartilage damage, subchondral bone sclerosis, marginal 
+osteophytes and synovitis, in association with increased 
+cartilage and synovial MMP-­13. DMM alone induced 
+(p<0.05) renal fibrosis, proteinuria and increased (p<0.05) 
+5/6Nx-­induced serum urea. However, DMM in 5/6Nx-­
+mice resulted in significantly reduced (p<0.05) cartilage 
+pathology and marginal osteophyte development, in 
+association with reduced subchondral bone volume and 
+density, and inhibition of 5/6Nx-­induced subchondral bone 
+osteoclast activation.
+Conclusion  This study assessed a world-­first preclinical 
+comorbid CKD-­OA model. Our findings demonstrate 
+significant bidirectional disease-­modifying interaction 
+between CKD and OA.
+INTRODUCTION
+Osteoarthritis (OA) is the most common joint 
+disease and leading cause of pain, disability 
+and early retirement.1 It is a complex disease 
+affecting the entire joint,1 multifactorial in 
+origin1 2 with its progression and impact wors-
+ened by the presence of other chronic health 
+conditions.3–6 The prevalence of comorbid 
+chronic kidney disease (CKD) and OA is 
+increasing on a global scale.3–6 The reasons 
+for this are not known but may be due to 
+shared risk factors such as ageing, obesity, 
+type 2 diabetes and hypertension. A large 
+temporal cohort study in the UK indicated a 
+bidirectional risk between incident OA and 
+CKD,5 which could suggest disease-­modifying 
+biological cross-­talk. OA is a frequent feature 
+of the dialysis-­dependent CKD population,7 
+demonstrating increased prevalence with 
+duration of dialysis.8 Growth plates in chil-
+dren with CKD show abnormal chondrocyte 
+maturation and delayed cartilage turnover,9 
+and knee cartilage thickness measured by 
+ultrasound is reduced in patients with CKD.10 
+While these studies suggest CKD-­induced 
+WHAT IS ALREADY KNOWN ON THIS TOPIC
+	
+⇒The prevalence of comorbid chronic kidney disease 
+(CKD) and osteoarthritis (OA) is increasing, but the 
+mechanisms underpinning the association between 
+CKD and OA are not known.
+WHAT THIS STUDY ADDS
+	
+⇒There is no preclinical model described in the lit-
+erature to evaluate the molecular mechanisms of 
+OA pathology associated with CKD. This study, for 
+the first time, established a novel preclinical CKD-­
+OA model and demonstrated significant bidirec-
+tional disease-­modifying interactions between CKD 
+and OA, supporting the observations with human 
+patients.
+HOW THIS STUDY MIGHT AFFECT RESEARCH, 
+PRACTICE OR POLICY
+	
+⇒This new preclinical model offers an exciting oppor-
+tunity to explore the molecular pathways involved in 
+OA-­CKD cross-­talk.
+Medicine. Protected by copyright.
+ on August 27, 2023 at Shanghai Jiao Tong University School of
+http://rmdopen.bmj.com/
+RMD Open: first published as 10.1136/rmdopen-2023-003109 on 10 August 2023. Downloaded from 
+2
+Julovi SM, et al. RMD Open 2023;9:e003109. doi:10.1136/rmdopen-2023-003109
+RMD Open
+RMD Open
+RMD Open
+chondropathy may be implicated in increased OA risk, 
+others have shown no change in radiographic knee or 
+hip joint space width as a measure of cartilage loss in 
+patients with CKD.11
+Renal osteodystrophy is common in patients with CKD 
+and represents a complex disorder driven by concur-
+rent biochemical and endocrine derangement.12 Renal 
+osteodystrophy affects bone quality and strength, and 
+alterations in bone and mineral metabolism are part of a 
+broader systemic CKD-­Mineral and Bone Disorder (CKD-­
+MBD).13 Subchondral bone provides mechanical support 
+for cartilage, absorbing and distributing mechanical 
+forces,2 and CKD-­MBD could, therefore, play a role in 
+OA risk. While increased subchondral bone thickness 
+and volume (‘sclerosis’) is a pathognomonic feature of 
+late-­stage OA that may increase mechanical loading and 
+degradation of overlying cartilage, abnormal subchondral 
+bone resorption and increased bone turnover in earlier 
+disease stages is implicated in OA initiation and progres-
+sion.2 14 15 Improving the integrity of subchondral bone 
+delays the onset and progression of cartilage damage in 
+experimental post-­traumatic OA,16 17 and antiresorptive 
+drugs continue to be explored as potential therapies.18 
+As with bone turnover, the relationship between OA and 
+bone mineral density (BMD) is also conflicting with both 
+increased and decreased subchondral BMD associated 
+with OA severity and progression.19–21 Systemic BMD has 
+been positively associated with thicker knee cartilage in 
+patients with OA but also variably with progression of 
+cartilage loss,22 although a recent meta-­analysis showed 
+no association between generalised osteoporosis and 
+OA.23
+The relationship between OA and CKD, their ability 
+to induce microstructural impairment in cartilage and 
+subchondral bone, and how this modulates disease 
+progression has not been investigated. In this study, we 
+have developed a world first comorbid CKD-­OA model 
+in mice, and report that the metabolic changes associ-
+ated with CKD affect OA subchondral bone remodel-
+ling and reduce osteophyte formation and cartilage 
+pathology. Furthermore, we found that OA altered 
+renal morphology and function, indicating bidirectional 
+disease interaction.
+METHODS
+Animals
+Male C57BL/6J (B6) mice were purchased from 
+Australian BioResources (Sydney, Australia), housed and 
+acclimatised for 2 weeks under a 12-­hour light/dark cycle 
+with access to standard chow and water ad libitum.
+CKD and OA model
+Male B6 mice aged 8–10 weeks old were randomly assigned 
+to one of four groups: combined sham knee and sham 
+kidney surgery (sham; n=16), 5/6 nephrectomy (5/6Nx; 
+n=36) that subsequently had either sham (5/6Nx-­sham) or 
+destabilisation of the medial meniscus (5/6Nx-­DMM) knee 
+surgery and DMM surgery alone (DMM; n=18), as detailed 
+below. The 5/6Nx model is characterised by high mortality.24 
+We altered the conventional method of nephrectomy 
+(performed by a single surgeon (SMJ)) which significantly 
+improved mortality to 10%. Animals were anaesthetised with 
+isoflurane and oxygen, the left kidney exposed and exterio-
+rised through a left flank subcostal incision, and connective 
+tissue and adrenal gland separated by using normal saline 
+soaked cotton bud instead of Iris scissors to prevent the 
+injury to renal pedicle. The upper and lower renal poles 
+were removed using Iris scissors. Haemostasis was achieved 
+with direct pressure, the kidney returned to the abdomen 
+and the incision closed with 5/0 monofilament nylon. At 
+day 8 following the initial surgery, a right total nephrectomy 
+was performed through a separate flank incision. In sham 
+mice, the kidneys were exposed in two separate surgeries 
+but not resected. Among 36 mice receiving 5/6Nx, 4 were 
+euthanised (mostly on the second postoperative day) due to 
+sickness and or >25% body weight loss and excluded from 
+the study. One week after right total nephrectomy, the 32 
+surviving 5/6Nx mice were randomly assigned to unilateral 
+(right) sham (5/6Nx-­sham, n=18) or DMM (5/6Nx-­DMM, 
+n=14) knee surgery performed by a single surgeon (CBL) 
+as described previously.25–27 Briefly, the medial menisco-­
+tibial ligament was exposed through a 3 mm medial parap-
+atellar arthrotomy and infrapatellar fat pad elevation. The 
+ligament was isolated and ruptured using dissecting forceps 
+(ligament isolated but kept intact in sham), after which the 
+joint was lavaged with sterile saline, and the incision closed 
+in three layers (joint capsule and subcutaneous tissue with 
+8-­0 Vicryl; skin with tissue glue). Mice received a single 
+dose of buprenorphine 0.01 mg/kg at the end of all three 
+surgeries.
+Postoperatively, body weight and blood pressure (tail-­cuff 
+plethysmography; CODA machine, Kent Scientific Corpo-
+ration, Torrington, CT) were measured weekly. Metabolic 
+caging was performed 10 weeks after the first surgery for 
+12-­hour urine collection, and at week-­12 high-­resolution 
+micro-­CT (µ-CT) was performed under general anaesthesia 
+using a MILabs µ-CT-­UHR (Utrecht, The Netherlands). Legs 
+were scanned with an X-­ray source of 50 kV (current: 0.24 
+mA, voxel size: 21 mm and 0.4 mm aluminium filter), after 
+which mice were euthanised and blood obtained by cardiac 
+puncture. Knee joints and kidney were processed for anal-
+ysis (see below). To demonstrate model consistency, the 
+percentage of removed kidney was calculated: % of removed 
+kidney=weight of excised kidneys (L excised kidney+R 
+kidney)× 100/total wt of 2 kidneys (L excised+L remnant+R 
+kidney).
+Assessment of renal function
+Urine protein and protein/creatinine ratio, blood urea 
+and creatinine were determined using the Siemens Atel-
+lica System (at the Institute of Clinical Pathology and 
+Medical Research, Westmead Hospital, New South Wales, 
+Australia).
+Medicine. Protected by copyright.
+ on August 27, 2023 at Shanghai Jiao Tong University School of
+http://rmdopen.bmj.com/
+RMD Open: first published as 10.1136/rmdopen-2023-003109 on 10 August 2023. Downloaded from 
+3
+Julovi SM, et al. RMD Open 2023;9:e003109. doi:10.1136/rmdopen-2023-003109
+Osteoarthritis
+Osteoarthritis
+Osteoarthritis
+Bone morphological analysis
+Following µ-CT, cross-­sectional slices were generated, 
+each scan was reconstructed using the MILabs-­Rec-­10.16 
+(Utrecht, The Netherlands), and alterations in subchon-
+dral bone were measured in sagittal, coronal and trans-
+verse sections. The morphometric parameters including 
+fraction of bone volume (BV/TV), trabecular number 
+(Tb.N), trabecular thickness (Tb.Th) and trabecular sepa-
+ration (Tb.Sp) were evaluated by an author (AD) blinded 
+to treatment, using the built-­in software—Imalytics. Bone 
+parameters were quantified in separately defined regions 
+of interest (ROI): whole joint—a sphere (5 mm in diam-
+eter) including distal femoral and proximal tibial meta-
+physeal and epiphysial trabecular and cortical bone to 
+enable evaluation of systemic changes; medial and lateral 
+tibial plateau—a disc (0.5×1 mm) within the margin of 
+tibial condyle to evaluate focal OA-­related bone changes.
+Renal histopathology
+Kidneys were fixed in 10% neutral-­buffered formalin 
+(24 hours), embedded in paraffin, sectioned (4 µm) 
+and stained with H&E or picrosirius red using standard 
+methods. Slides were viewed under brightfield conditions 
+by an independent pathologist (MS) blinded to treatment 
+for renal tubulointerstitial lesions (TILs: dilated renal 
+tubules, atrophic tubules and fibrosis) in five randomly 
+selected areas as described previously with minor modifi-
+cations.28 Scoring of TILs was graded on a scale from 0 to 
+4: 0, normal; 1, mild: involvement of <25% of the cortex; 
+2, moderate: involvement of 25%–50% of the cortex; 3, 
+severe: involvement of 50%–75% of the cortex and 4, 
+extensive damage involving >75% of the cortex.
+Joint histopathology
+Knee joints were fixed (24 hours in 10% neutral-­buffered-­
+formalin), decalcified (24 hours in 10% formic acid in 
+5% neutral-­buffered-­formalin), and paraffin embedded. 
+Sagittal 4 µm sections every 40 µm spanning the width of 
+the medial tibiofemoral joint were performed. Sections 
+were stained with toluidine blue and fast green, and 
+digital images acquired (Nano Zoomer 210, Hamamatsu, 
+Iwata City, Japan). Images of three serial sections encom-
+passing the central load-­bearing third of the joint in each 
+mouse were selected and scored by a single experienced 
+researcher (CBL) blinded to treatment as described.25–27 
+Scores were generated for: cartilage chondrocyte hyper-
+trophy/apoptosis (0–3), proteoglycan loss (0–5) and 
+structural damage (0–11); subchondral bone vascular 
+invasion (0–3) and sclerosis (0–3); osteophyte maturity 
+(0–3) and size (0–4); and synovitis (summation of syno-
+vial pannus severity (0–3) and cortical bone erosion 
+(0–3), synoviocyte hyperplasia (0–3), subsynovial inflam-
+matory cell infiltration (0–3), and intrasynovial exudate 
+(0–1)). Maximum (worst) and average (from the three 
+sections indicating spread of the lesions; all outcomes 
+other than synovitis) scores were calculated. Cartilage 
+changes were scored separately in the femur and tibia, 
+followed by summation, synovitis was scored separately 
+in the anterior and posterior regions and summed, and 
+bone changes were scored in the proximal tibia (as this 
+has the most robust and consistent change).
+Tartrate-resistant acid phosphatase staining
+Intervening 4 µM sections were stained in tartrate-­
+resistant acid phosphatase (TRAP) solution (1M Na.Ac-
+etate buffer pH 5.0, 2.2 mM Napthol AS-­BI phosphate 
+dissolved in dimethylformamide, 0.1% Sodium Nitrite) 
+for 1 hour at 37°C as described previously.29 The slides 
+were counter-­stained in 0.5% Methyl Green and mounted 
+in DPX (Sigma-­Aldrich). Images were obtained on the 
+Aperio CS2 slide scanner (Leica Biosystems) and quan-
+tified by regions by an author (AKO), blinded to a treat-
+ment group using FIJI as described previously.30
+Immunohistochemistry
+Immunostaining was performed as previously described.31 
+Briefly, 4 µm sections (intervening levels between the 
+sections used for pathology scoring) from 5 to 8 randomly 
+selected mice from each group, were dewaxed, rehydrated 
+and digested with 500 U/mL bovine testicular hyaluroni-
+dase (Sigma-­Aldrich, St. Louis, MO) before overnight 
+incubation with polyclonal rabbit anti-­rat matrix metal-
+loproteinase (MMP)-­13 that cross reacts with mouse32 
+(LSBio, LS-­B3168, 1.5 µg/mL), in Dako antibody diluent 
+(#S0809, Agilent Technologies) or isotype-­matched IgG. 
+For immunodetection, Dako EnVision+System HRP 
+labelled polymer detection kit (Dako) was used with 
+ImmPACT NovaRED Peroxidase Substrate (Vector Labo-
+ratories, Burlingame, California, USA), counterstained 
+by Mayer’s haematoxylin and Scott’s bluing solution, 
+and digital images acquired (Nano Zoomer). All samples 
+were stained simultaneously to exclude between-­run vari-
+ability. The number of MMP-­13 positive chondrocytes 
+in anterior, central and posterior regions of tibial and 
+femoral non-­calcified and calcified cartilage (demar-
+cated by tidemark) were counted (average from two 
+independent scorers), summed and presented as either 
+total tibial, femoral or tibiofemoral. The percentage of a 
+standard ROI in the anterior tibial synovial fossa stained 
+for MMP-­13 was quantified using ImageJ.
+Statistical analysis
+Statistical analyses were performed by using GraphPad 
+Prism software. All data are presented as mean±SD, 
+*p<0.05, 
+**p<0.01, 
+***p<0.001, 
+****p<0.0001 
+by 
+Student’s t-­test (two groups, parametric data) or one-­way 
+analysis of variance followed by a Sidak post hoc test for 
+multiple (n>2) group comparisons.
+RESULTS
+DMM induces CKD phenotypes in B6 mice
+We developed an OA/CKD comorbid model as illustrated 
+in online supplemental figure 1A. The 5/6Nx resulted in 
+removal of 70%–80% total kidney mass (figure 1A), and 
+significantly reduced gain of body weight in both 5/6Nx-­
+sham and 5/6Nx-­DMM mice (figure 1B). Blood pressure 
+Medicine. Protected by copyright.
+ on August 27, 2023 at Shanghai Jiao Tong University School of
+http://rmdopen.bmj.com/
+RMD Open: first published as 10.1136/rmdopen-2023-003109 on 10 August 2023. Downloaded from 
+4
+Julovi SM, et al. RMD Open 2023;9:e003109. doi:10.1136/rmdopen-2023-003109
+RMD Open
+RMD Open
+RMD Open
+and heart rate did not differ significantly between any 
+group (online supplemental figure 1B). Renal dysfunc-
+tion in 5/6Nx-­sham mice was demonstrated by elevated 
+serum urea, serum creatinine and urine volume 
+(figure  1C), and decreased urine creatinine/plasma 
+creatinine ratio (uCr/pCr) (figure 1D).
+DMM alone increased urine protein and uCr/pCr 
+(figure 1D), and DMM combined with 5/6Nx increased 
+serum urea (figure  1C), showing an unanticipated 
+impact of OA induction on kidney function. Histolog-
+ical examination of the left kidney revealed significantly 
+increased TILs in 5/6Nx-­sham and 5/6Nx-­DMM mice 
+(figure  1E,F). Consistent with figure  1D, DMM alone 
+also increased renal TILs compared with sham although 
+significantly less than in 5/6Nx-­DMM mice (figure 1D,E).
+5/6Nx reduces DMM-induced histological cartilage and bone 
+pathology
+Joint histology in DMM-­mice revealed typical features 
+of OA, including non-­calcified articular cartilage chon-
+drocyte hypertrophy/apoptosis, proteoglycan loss and 
+fibrillation/erosion, subchondral bone sclerosis with 
+Figure 1  Analysis of chronic kidney disease (CKD) phenotypes in 5/6 Nx and DMM mice. (A) Kidney excision percentage in 
+5/6Nx-­sham (n=10) and 5/6Nx-­DMM (n=10) mice. (B) Fold change of body weight of sham (n=16), 5/6Nx-­sham (n=18), DMM 
+(n=18) and 5/6Nx-­DMM (n=12) mice across 12 weeks. (C) Serum urea (mmol/L), serum creatinine (μmol/L) and urine volume 
+(mL/12 hours) in sham (n=9–11), 5/6Nx-­sham (n=10–13), DMM (n=6–13) and 5/6Nx-­DMM (n=6–11) mice. (D) Urine protein (g/L), 
+urine protein/creatinine ratio (mg/mmol) and urine creatinine/plasma creatinine ratio (uCr)/pCr) in sham (n=6), 5/6Nx-­sham 
+(n=6), DMM (n=6) and 5/6Nx-­DMM (n=5–6). (E) Representative H&E and picrosirius stained kidney sections (Scale bar=50‍µ‍ m). 
+(F) Semiquantitative score of tubulointerstitial lesions in sham (n=6), 5/6Nx-­sham (n=6), DMM (n=13) and 5/6Nx-­DMM (n=4) 
+mice. Graphs are mean±SD *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001 by one-­way ANOVA with Sidak’s multiple comparisons 
+test. ANOVA, analysis of variance; DMM, destabilisation of medial meniscus; f, fibrosis; gh, glomerular hypertrophy; ta, tubular 
+atrophy; td, tubular dilation.
+Medicine. Protected by copyright.
+ on August 27, 2023 at Shanghai Jiao Tong University School of
+http://rmdopen.bmj.com/
+RMD Open: first published as 10.1136/rmdopen-2023-003109 on 10 August 2023. Downloaded from 
+5
+Julovi SM, et al. RMD Open 2023;9:e003109. doi:10.1136/rmdopen-2023-003109
+Osteoarthritis
+Osteoarthritis
+Osteoarthritis
+Figure 2  Histological analysis of joint pathology. Representative toluidine blue and fast green stained sections from mice 
+12 weeks after sham or 5/6 nephrectomy and 10 weeks after sham or DMM surgery. (A) Medial tibiofemoral compartment of 
+joints (upper row, scale bar 500 µm) and higher magnification images of: the central weight bearing region indicated by the 
+red box in the upper panel (second row; scale bar 250 µm), the anterior tibia and synovial fossa (third row; scale bar 250 µm), 
+and tibial articular cartilage and sub-­chondral bone (forth row; scale bar 100 µm). OA pathology in DMM joints included: non-­
+calcified articular cartilage chondrocyte hypertrophy/apoptosis (red arrow), proteoglycan loss (reduced toluidine blue staining; 
+black arrows), fibrillation and loss (red arrow heads); subchondral bone sclerosis with accompanying bone marrow loss 
+(red asterisks), marginal osteophyte formation (dashed circle) and synovitis (black arrow heads). (B) Maximal and averaged 
+tibiofemoral (TF) scores of structural cartilage damage and proteoglycan loss. (C) Maximal and averaged scores of tibial 
+subchondral bone sclerosis. (D) Maximal and averaged scores of tibiofemoral osteophyte maturity and size. Graphs represent 
+mean±SD; (sham, n=7, 5/6Nx-­Sham, n=5; DMM, n=14; 5/6Nx-­DMM, n=11). *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001 by 
+one-­way ANOVA with Sidak’s multiple comparisons test. ANOVA, analysis of variance; BM, bone marrow; DMM, destabilisation 
+of medial meniscus; F, femur; FC, femoral cartilage; JS, joint space; M, meniscus; OA, osteoarthritis; T, tibia; TC, tibial cartilage; 
+TSCB, tibial subchondral bone.
+Medicine. Protected by copyright.
+ on August 27, 2023 at Shanghai Jiao Tong University School of
+http://rmdopen.bmj.com/
+RMD Open: first published as 10.1136/rmdopen-2023-003109 on 10 August 2023. Downloaded from 
+6
+Julovi SM, et al. RMD Open 2023;9:e003109. doi:10.1136/rmdopen-2023-003109
+RMD Open
+RMD Open
+RMD Open
+accompanying bone marrow loss, marginal osteophyte 
+formation, and synovitis (figure  2A). Blinded scoring 
+revealed that maximum and average scores for all joint-­
+wide OA-­pathology features were significantly increased 
+in DMM compared with sham-­operated mice which 
+retained normal joint histomorphology (figure  2B–D; 
+online supplemental figure 2A–C). In 5/6Nx-­sham joints, 
+there was no increase in scores indicative of OA-­based 
+cartilage pathology (figure  2B; online supplemental 
+figure 2A), synovitis (online supplemental figure 2B) 
+or osteophyte/enthesophyte development (figure  2D; 
+online supplemental figure 2C), and maximum and 
+average subchondral bone sclerosis was significantly 
+decreased compared with sham (figure 2C). Importantly, 
+5/6Nx significantly reduced DMM-­induced maximal and 
+average articular cartilage proteoglycan loss and struc-
+tural damage (figure  2B) as well as osteophyte devel-
+opment (figure  2D). DMM-­induced subchondral bone 
+sclerosis (figure 2C), chondrocyte hypertrophy (online 
+supplemental figure 2A) and synovitis (online supple-
+mental figure 2B) were not significantly changed by 
+5/6 Nx. Overall, our data indicate that 5/6Nx reduces the 
+severity of DMM-­induced OA structural joint pathology.
+5/6Nx induces loss of subchondral trabecular BV and mineral 
+density
+Analysis of µ-CT from the whole joint ROI (figure 3A) 
+revealed that 5/6Nx induced significant loss of trabec-
+ular bone. Compared with sham, 5/6Nx-­sham mice had 
+decreased BV/TV, Tb.Th and Tb.N (figure  3Ai), with 
+Figure 3  µCT analysis of joint in mice at week 12 after first surgery. (A) Whole joint region of interest (ROI), diameter=5 mm; 
+(B) medial tibial plateau ROI, diameter=(0.5×1 mm). (i) Bone volume fraction (BV/TV), trabecular thickness (Tb.Th) and trabecular 
+number (Tb.N). (ii) Specific bone surface BS/BV and trabecular space (Tb.Sp). (iii) Bone mineral density (BMD). All data are 
+mean±SD; (sham, n=6, 5/6Nx-­Sham, n=6–87; DMM, n=8; 5/6Nx-­DMM, n=5–7) *p<0.05, **p<0.01, ***p<0.001, ****p<0.0001 
+by one-­way ANOVA with Sidak’s multiple comparisons test. ANOVA, analysis of variance; BS/BV, bone surface/bone volume; 
+DMM, destabilisation of medial meniscus; µCT, micro-­CT.
+Medicine. Protected by copyright.
+ on August 27, 2023 at Shanghai Jiao Tong University School of
+http://rmdopen.bmj.com/
+RMD Open: first published as 10.1136/rmdopen-2023-003109 on 10 August 2023. Downloaded from 
+7
+Julovi SM, et al. RMD Open 2023;9:e003109. doi:10.1136/rmdopen-2023-003109
+Osteoarthritis
+Osteoarthritis
+Osteoarthritis
+concomitant increases in bone surface (BS/BV) and 
+Tb.Sp (figure 3Aii). Whole-­joint bone changes induced 
+by 5/6Nx were largely recapitulated when medial and 
+lateral tibial plateau ROIs were evaluated separately 
+(figure  3B and online supplemental figure 3, respec-
+tively). DMM alone significantly increased whole joint 
+BV/TV (figure  3Ai), and medial tibial plateau Tb.Th 
+(figure  3Bi), but did not change any measures in the 
+lateral tibial plateau (online supplemental figure 3). 
+There was no difference in any BV measures between 
+5/6Nx-­sham and 5/6Nx-­DMM mice in whole joint or 
+tibial plateau ROIs (figure 3A,B and online supplemental 
+figure 4). Thus, compared with DMM alone, 5/6Nx-­
+DMM mice had significantly reduced whole joint BV/TV, 
+Tb.Th and Tb.N and medial plateau Tb.Th, while whole-­
+joint BS/BV and Tb.Sp and medial plateau Tb.Sp were 
+significantly increased (figure 3A,B).
+Similarly, BMD was significantly reduced in 5/6Nx-­
+sham compared with sham in whole-­joint and tibial 
+plateau ROIs (figure 3Aiii,Biii and online supplemental 
+figure 3iii). DMM-­alone had no effect on BMD in any 
+region, and 5/6Nx-­DMM mice had significantly lower 
+BMD than DMM alone in all regions, although the 
+reduction of whole joint BMD in 5/6Nx-­DMM mice was 
+less than 5/6Nx-­sham (figure 3iii). Taken together, our 
+data indicate 5/6Nx-­induced CKD resulted in significant 
+bone resorption, that persisted in the face of and inhib-
+ited later-­stage focal DMM-­induced medial tibial plateau 
+subchondral bone formation.
+DMM reduces 5/6Nx-induced subchondral osteoclasts
+Osteoclast number/activity as measured by TRAP 
+staining was increased in association with elevated 
+subchondral bone in turnover in patients with OA33 and 
+early post-­DMM in mice prior to later-­stage bone scle-
+rosis.14 In sham-­operated mice, basal TRAP staining was 
+present in epiphysial and metaphyseal trabecular bone, 
+being restricted to cells adjacent to the resorption front 
+of the proximal tibial and distal femoral growth plates 
+(figure 4A, online supplemental figure 4A). Epiphysial 
+Figure 4  Tartrate-­resistant acid phosphatase (TRAP) staining. (A) TRAP staining of medial tibiofemoral subchondral 
+bone (upper panel, scale bar 600 µm), medial tibial subchondral bone (middle panel, scale bar 300 µm) and anterior medial 
+subchondral bone (lower panel: scale bar 200 µm). Red staining indicates TRAP positive cells. Solid boxes indicate magnified 
+standard ROI for medial tibial subchondral bone and dashed line boxes indicate magnified standard ROI for anterior medial 
+tibial subchondral bone (see figure 2A for labelling of different joint anatomical regions and features). Semiquantitative score of 
+TRAP staining in (B) medial tibiofemoral, (C) medial tibial and (D) anterior medial tibial subchondral bone. All data are mean±SD; 
+(sham, n=5, 5/6Nx-­Sham, n=7; DMM, n=5; 5/6Nx-­DMM, n=6). *p<0.05, **p<0.01, ***p<0.001 by one-­way ANOVA with Sidak’s 
+multiple comparisons test. ANOVA, analysis of variance; DMM, destabilisation of medial meniscus; ROI, regions of interest.
+Medicine. Protected by copyright.
+ on August 27, 2023 at Shanghai Jiao Tong University School of
+http://rmdopen.bmj.com/
+RMD Open: first published as 10.1136/rmdopen-2023-003109 on 10 August 2023. Downloaded from 
+8
+Julovi SM, et al. RMD Open 2023;9:e003109. doi:10.1136/rmdopen-2023-003109
+RMD Open
+RMD Open
+RMD Open
+(and metaphyseal) trabecular bone TRAP staining was 
+significantly increased in 5/6Nx-­sham mice (figure 4A,B, 
+online supplemental figure 4A,B). In DMM-­alone there 
+was no significant difference in epiphysial TRAP-­staining 
+compared with sham-­operated mice as expected at this 
+10-­week time point. Interestingly, DMM reduced the 
+5/6Nx-­induced tibiofemoral epiphysial TRAP staining, 
+this effect being most evident in the anterior medial tibial 
+plateau (figure 4A–D, online supplemental figure 4A–D).
+5/6Nx increases synovial but not cartilage MMP-13
+MMPs collectively degrade all components of the extra-
+cellular matrix and play a role in resorbing both the bone 
+and articular cartilage matrix,15 with MMP-­13 in particular 
+having a central role in both animal models26 and human 
+OA.33 34 In sham-­operated mice, very little MMP-­13 was 
+detected, with mild positive immunostaining in scattered 
+cells in the cartilage (particularly calcified cartilage), 
+meniscus and synovial lining (figure 5A). While there was 
+no change in MMP-­13 in cartilage in 5/6Nx-­sham mice, 
+staining in both synovial lining and subsynovial cells was 
+increased (figure  5A–D). In contrast, DMM increased 
+MMP-­13 in both the calcified cartilage and synovium, 
+and this was not modified further in 5/6Nx-­DMM mice 
+(figure 5A,C and D). There was no difference between 
+groups in MMP-­13 in non-­calcified cartilage (figure 5B).
+DMM alters 5/6Nx-induced biochemical and bone metabolic 
+markers in mice
+The association between changes in alkaline phos-
+phatase (ALP), calcium and phosphate homeostasis and 
+adverse bone outcomes in CKD has been emerging.35 36 
+Consistent with this patient data, we found that serum 
+ALP (figure  6A), phosphate (figure  6B) and calcium 
+(figure  6C) were all significantly increased by 5/6Nx 
+compared with sham. There was no significant effect 
+of DMM alone on serum ALP, phosphate or calcium 
+compared with sham, however the 5/6Nx-­induced 
+increases in serum phosphate and calcium were signifi-
+cantly reduced by comorbid 5/6Nx-­DMM (figure 6B,C).
+DISCUSSION
+This is the first study to investigate the effects of comorbid 
+induction of CKD and OA in a preclinical model, and 
+here we report evidence of significant bidirectional 
+disease-­modifying effects. The mechanisms underpin-
+ning OA/CKD cross-­talk appeared at least in part to be 
+related to altered subchondral bone turnover. Consistent 
+with changes seen in patients13 and a previous study in 
+rats,36 we now show that B6 mice are also susceptible to 
+CKD-­MBD demonstrating 5/6Nx-­induced decreased 
+subchondral BV and BMD through increased osteoclast 
+formation/activity with associated increases in serum 
+Figure 5  Matrix metalloproteinases-­13 (MMP-­13) in articular cartilage and synovium. (A) MMP-­13 staining of medial 
+tibiofemoral cartilage (upper panel, scale bar 500 µm), central tibial cartilage (middle panel, scale bar 50 µm) and anterior 
+synovial fossa (lower panel-­scale bar 50 µm)—see figure 2A for labelling of different joint anatomical regions and features. Solid 
+boxes indicate magnified standard ROI for central medial tibial cartilage and dashed-­line boxes indicate magnified standard 
+ROI for anterior synovial fossa. In the magnified images the dashed line demarcates the tidemark between non-­calcified and 
+calcified cartilage while the solid line indicates the osteochondral junction. Semiquantitative score of MMP-­13 staining in 
+(B) hyaline cartilage, (C) medial tibiofemoral calcified cartilage and (D) anterior synovial fossa. All data are mean±SD; (sham, 
+n=5, 5/6Nx-­Sham, n=8; DMM, n=6; 5/6Nx-­DMM, n=6). *p<0.05, **p<0.01, ***p<0.001 by one-­way ANOVA with Sidak’s multiple 
+comparisons test. ANOVA, analysis of variance; DMM, destabilisation of medial meniscus; ROI, regions of interest.
+Medicine. Protected by copyright.
+ on August 27, 2023 at Shanghai Jiao Tong University School of
+http://rmdopen.bmj.com/
+RMD Open: first published as 10.1136/rmdopen-2023-003109 on 10 August 2023. Downloaded from 
+9
+Julovi SM, et al. RMD Open 2023;9:e003109. doi:10.1136/rmdopen-2023-003109
+Osteoarthritis
+Osteoarthritis
+Osteoarthritis
+calcium and phosphate. Increased differentiation of 
+circulating inflammatory monocytes into bone-­resorptive 
+osteoclasts is part of the CKD-­MBD syndrome associated 
+with secondary hyperparthathyroidism and vascular 
+pathology.37–39 While partially offset by later-­stage OA-­in-
+duced focal bone formation, the persistence of 5/6Nx-­in-
+duced subchondral bone turnover and reduced BMD 
+may ameliorate excessive mechanical loading on the 
+overlying cartilage associated with OA-­induced subchon-
+dral sclerosis as well as abnormal biological cross-­talk 
+from diseased subchondral osteocytes.15
+In addition to subchondral bone remodelling, osteo-
+clasts are critical in regulating calcified cartilage turn-
+over in endochondral ossification. While long-­bone 
+growth had ceased in the mice in the current study the 
+CKD-­induced osteoclast activity may contribute to the 
+reduction in osteophyte size. Osteophytes form as a 
+result of inflammatory and biomechanical signals which 
+drive chondroid differentiation of stem cells in the joint 
+margin and outgrowth of cartilage precursors (chondro-
+phytes) that undergo endochondral ossification.25 40 As 
+well as decreasing chondrocyte growth and maturation,9 
+CKD-­induced synovial MMP-­13 and osteoclast formation/
+activity may accelerate chondrophyte matrix degradation 
+and new bone turnover, thereby reducing osteophyte 
+development. Our data in mice are consistent with the 
+more erosive OA phenotype with limited osteophyte 
+formation in patients with CKD receiving dialysis.11
+Cartilage degradation and osteophyte formation could 
+also be reduced as a result of physical inactivity driven 
+by 5/6Nx-­induced ill health and less mechanical signal-
+ling, as reported with joint unloading following DMM.41 
+We did not measure activity levels but the reduced body 
+weight gain in both 5/6Nx-­sham and 5/6Nx-­DMM 
+groups (compared with sham kidney-­surgery or DMM 
+alone) is consistent with CKD-­specific systemic disease. 
+Metabolic dysfunction can result in systemic proinflam-
+matory state in patients with CKD42 43 and increased 
+synovial MMP-­13 in 5/6Nx mice would be in keeping 
+with this. CKD-­priming of a procatabolic joint environ-
+ment could also promote cartilage degradation and OA 
+risk with time and/or additional stimuli (eg, obesity, 
+age, joint injury).5 44 However, 5/6Nx did not increase 
+articular cartilage chondrocyte MMP-­13, suggesting not 
+only that the inflammatory/procatabolic pathways acti-
+vated by CKD may be tissue-­specific but that chondrocyte 
+(rather than synovial) MMP-­13 may be more important 
+for cartilage degradation. DMM increased both synovial 
+and chondrocyte MMP-­13, the latter predominantly in 
+calcified cartilage, likely as a result of both inflamma-
+tory and biomechanical signals.15 41 That 5/6-­Nx did not 
+augment chondrocyte MMP-­13 enabled CKD-­induced 
+subchondral bone remodelling to be chondro-­protective 
+in DMM joints.
+In addition to 5/6Nx modulating DMM-­induced OA, 
+there was also modification of 5/6Nx-­induced metabolic 
+abnormalities by OA, and surprisingly, a direct effect of 
+DMM on renal pathology. Decreased serum calcium and 
+phosphate in 5/6Nx-­DMM mice likely reflect increased 
+bone formation and reduced bone turnover at this stage of 
+Figure 6  Biochemical analysis of serum markers. (A) Alkaline phosphatase (U/L), (B) phosphate (mmol/L) and (C) corrected 
+calcium levels (mmol/L). All data are mean±SD; (sham, n=6–10, 5/6Nx-­Sham, n=8–10; DMM, n=6; 5/6Nx-­DMM, n=8). *p<0.05, 
+**p<0.01, ***p<0.001, ****p<0.0001 by one-­way ANOVA with Sidak’s multiple comparisons test. (D) A schematic model of 
+osteoarthritis (OA) and chronic kidney disease (CKD). Dominant bone formation in subchondral bone in OA altered by CKD 
+induced resorptive subchondral bone might reduce the loading stress to cartilage. ANOVA, analysis of variance; DMM, 
+destabilisation of medial meniscus.
+Medicine. Protected by copyright.
+ on August 27, 2023 at Shanghai Jiao Tong University School of
+http://rmdopen.bmj.com/
+RMD Open: first published as 10.1136/rmdopen-2023-003109 on 10 August 2023. Downloaded from 
+10
+Julovi SM, et al. RMD Open 2023;9:e003109. doi:10.1136/rmdopen-2023-003109
+RMD Open
+RMD Open
+RMD Open
+OA, counteracting the 5/6Nx-­induced osteoclast activity. It 
+would be interesting to determine in future studies whether 
+serum calcium and phosphate may have actually been 
+elevated earlier post-­DMM when subchondral bone resorp-
+tion is increased.25 How 5/6Nx-­DMM increased serum urea 
+is unclear but may be indicative of increased tissue catabolism 
+both locally in the affected joint and in more distant muscle 
+groups, for example, disuse atrophy.45 Unexpectedly, DMM 
+alone induced renal dysfunction as measured by proteinuria, 
+altered uCr/pCr and increased fibrosis. The renopathic 
+effects of DMM occurred in the absence of confounding risk 
+factors such as non-­steroidal anti-­inflammatory drug admin-
+istration.46 The profibrotic effect of DMM was substantially 
+less than that of 5/6Nx which alone maximised kidney 
+scores, masking any potential effects of comorbid OA at 12 
+weeks. Future studies should examine earlier time points 
+to determine whether DMM/OA alters the time course of 
+5/6Nx-­induced fibrosis. The mechanisms driving the OA/
+CKD link is unclear, and future studies will investigate the 
+temporal regulation and potential role in OA-­associated 
+renal pathology of factors such as changes in circulating 
+inflammatory cytokines47 and/or release of bioactive micro-­
+RNAs from diseased joints.48–50
+Our observation of a bidirectional OA/CKD inter-
+action in mice is consistent with longitudinal patient 
+data but with an important difference: in humans 
+each disease increases incident risk of the other,5 
+while in our mouse model OA increased renal disease 
+but CKD reduced OA severity. This discordance may 
+be related to timing and the duration of disease 
+interaction (10 weeks in mice vs years in patients). 
+A previous study in rats found cartilage proteoglycan 
+content was not affected until 16 weeks post-­5/6Nx 
+with increased cartilage degradation measured at 44 
+weeks.39 These data suggest the duration of comorbid 
+disease interaction may modify effects, and future 
+studies will examine longer time points to establish if 
+OA protection seen at 10 weeks in the current study is 
+lost with time. Other variables that could contribute 
+to differences between our model and the human 
+studies are age (adolescent mice vs aged patients), 
+sex (male mice vs mixed sex patients) and lack of 
+additional comorbidities in our mice (eg, obesity, 
+diabetes) that affect joint structure and function.5 44 
+These confounding effects should be explored in the 
+future.
+In conclusion, this study has established a novel 
+preclinical comorbid model for CKD-­OA and iden-
+tified significant bidirectional disease-­modifying 
+effects. Cartilage sparing appeared to be associated 
+with CKD-­induced remodelling and microarchitec-
+tural changes in the subchondral bone, potentially 
+by altering loading stress transmission in the func-
+tional subchondral bone articular cartilage unit 
+(figure  6D). Unexpectedly, DMM modified 5/6Nx-­
+CKD metabolic changes, and importantly on its own 
+induced kidney fibrosis and proteinuria. CKD pres-
+ents major issues for managing OA pain in patients 
+with available analgesics increasing the risk of CKD 
+progression. The new preclinical model we have 
+described offers an exciting opportunity to explore 
+the molecular pathways involved in OA-­CKD cross-­
+talk, and to define new therapeutic approaches by 
+driving drug development.
+Author affiliations
+1Kidney Injury Group, Centre for Transplant and Renal Research, Westmead Institute 
+for Medical Research, Westmead, New South Wales, Australia
+2The Faculty of Medicine and Health, The University of Sydney, Sydney, New South 
+Wales, Australia
+3Bioengineering & Molecular Medicine (BAMM) Laboratory, the Children's Hospital 
+at Westmead and the Westmead Institute for Medical Research, Westmead, New 
+South Wales, Australia
+4Raymond Purves Bone and Joint Laboratory, Institute of Bone and Joint Research, 
+Kolling Institute of Medical Research, Royal North Shore Hospital, St Leonards, New 
+South Wales, Australia
+5Department of Tissue Pathology and Diagnostic Oncology, Institute of Clinical 
+Pathology and Medical Research, Wentworthville, New South Wales, Australia
+Acknowledgements  We are grateful to Charles Perkins Centre Pre-­Clinical 
+Imaging Facility (University of Sydney) for small animal imaging. We thank Dr. 
+Jennifer Li (Westmead Institute for Medical Research) for technical assistance with 
+the manuscript.
+Contributors  SMJ and NMR conceived the project. SMJ and CBL designed the 
+experiments. All authors conducted the experiments and accumulated data. 
+SMJ, AD, AKO, KT, MS, AS, NMR and CBL analysed experimental data. NMR, AS 
+and CBL provided intellectual input, experimental resources, and protocols for 
+the experiments. CBL and SMJ cowrote the manuscript. SMJ, AS, NMR and CBL 
+edited and revised the manuscript. All authors reviewed and approved the final 
+version. SMJ led the project. SMJ is the guarantor of the study who accepts full 
+responsibility for the work and the conduct of the study, had access to the data and 
+controlled the decision to publish in contribution.
+Funding  This work is funded by Betty Schofield and Joyce Anderson Bequest 
+Grant 2018, Westmead Medical Research Foundation (Westmead, Sydney, NSW, 
+AU) to SMJ. NMR is supported by National Health Medical Research Council grant 
+(GNT2007991) and a National Heart Foundation Vanguard Grant (#106035).
+Competing interests  None declared.
+Patient consent for publication  Not applicable.
+Ethics approval  Animals were used under approved protocols (#4304 Western 
+Sydney Local Health District and #1594 University of Sydney). All animal studies 
+were performed in accordance with the Australian code for the care and use of 
+animals for scientific purposes developed by the National Health and Medical 
+Research Council of Australia.
+Provenance and peer review  Not commissioned; externally peer reviewed.
+Data availability statement  Data are available on reasonable request. All data 
+relevant to the study are included in the article or uploaded as online supplemental 
+information. All data associated with this study are present in the paper or online 
+supplemental materials. Data supporting the findings of this study are available 
+from the corresponding authors on reasonable request.
+Supplemental material  This content has been supplied by the author(s). It has 
+not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been 
+peer-­reviewed. Any opinions or recommendations discussed are solely those 
+of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and 
+responsibility arising from any reliance placed on the content. Where the content 
+includes any translated material, BMJ does not warrant the accuracy and reliability 
+of the translations (including but not limited to local regulations, clinical guidelines, 
+terminology, drug names and drug dosages), and is not responsible for any error 
+and/or omissions arising from translation and adaptation or otherwise.
+Open access  This is an open access article distributed in accordance with the 
+Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which 
+permits others to distribute, remix, adapt, build upon this work non-­commercially, 
+and license their derivative works on different terms, provided the original work is 
+properly cited, appropriate credit is given, any changes made indicated, and the 
+use is non-­commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+ORCID iD
+Sohel M Julovi http://orcid.org/0000-0003-0834-2366
+Medicine. Protected by copyright.
+ on August 27, 2023 at Shanghai Jiao Tong University School of
+http://rmdopen.bmj.com/
+RMD Open: first published as 10.1136/rmdopen-2023-003109 on 10 August 2023. Downloaded from 
+11
+Julovi SM, et al. RMD Open 2023;9:e003109. doi:10.1136/rmdopen-2023-003109
+Osteoarthritis
+Osteoarthritis
+Osteoarthritis
+REFERENCES
+	 1	 Felson DT, Lawrence RC, Dieppe PA, et al. Osteoarthritis: new insights. 
+Part 1: the disease and its risk factors. Ann Intern Med 2000;133:635–46. 
+	 2	 Burr DB, Gallant MA. Bone remodelling in osteoarthritis. Nat Rev 
+Rheumatol 2012;8:665–73. 
+	 3	 Zemedikun DT, Lee H, Nirantharakumar K, et al. Comorbidity 
+phenotypes and risk of mortality in patients with osteoarthritis in the UK: 
+a latent class analysis. Arthritis Res Ther 2022;24:231. 
+	 4	 Muyodi MM, Oyoo GO, Bhatt KM, et al. Prevalence of and factors 
+associated with chronic kidney disease in osteoarthritis patients at 
+Kenyatta national hospital EAOJ. 2020;14:72–80.
+	 5	 Swain S, Coupland C, Mallen C, et al. Temporal relationship between 
+osteoarthritis and comorbidities: a combined case control and 
+cohort study in the UK primary care setting. Rheumatology (Oxford) 
+2021;60:4327–39. 
+	 6	 Breedveld FC. Osteoarthritis - the impact of a serious disease. 
+Rheumatology (Oxford) 2004;43 Suppl 1:i4–8. 
+	 7	 Duncan IJ, Hurst NP, Disney A, et al. Is chronic renal failure a risk 
+factor for the development of erosive osteoarthritis? Ann Rheum Dis 
+1989;48:183–7. 
+	 8	 Hage S, Hage V, El-­Khoury N, et al. Musculoskeletal disorders in 
+hemodialysis patients: different disease clustering according to age 
+and dialysis vintage. Clin Rheumatol 2020;39:533–9. 
+	 9	 Sanchez CP. Growth-­plate cartilage in chronic renal failure. Pediatr 
+Nephrol 2010;25:643–9. 
+	10	 Ünal HU, Tok F, Adıgüzel E, et al. Ultrasonographic evaluation of the 
+femoral cartilage thickness in patients with chronic renal failure. Ren 
+Fail 2016;38:600–4. 
+	11	 Kart-­Köseoglu H, Yucel AE, Niron EA, et al. Osteoarthritis in 
+hemodialysis patients: relationships with bone mineral density 
+and other clinical and laboratory parameters. Rheumatol Int 
+2005;25:270–5. 
+	12	 Slatopolsky E, Gonzalez E, Martin K. Pathogenesis and treatment of 
+renal osteodystrophy. Blood Purif 2003;21:318–26. 
+	13	 Moe S, Drüeke T, Cunningham J, et al. Definition, evaluation, and 
+classification of renal osteodystrophy: a position statement from 
+kidney disease: improving global outcomes (KDIGO). Kidney Int 
+2006;69:1945–53. 
+	14	 Zhen G, Wen C, Jia X, et al. Inhibition of TGF-Β signaling in 
+mesenchymal stem cells of subchondral bone attenuates 
+osteoarthritis. Nat Med 2013;19:704–12. 
+	15	 Vincent TL, Alliston T, Kapoor M. Osteoarthritis pathophysiology: 
+therapeutic target discovery may require a multifaceted approach. 
+Clin Geriatr Med 2022;38:193–219. 
+	16	 Bellido M, Lugo L, Roman-­Blas JA, et al. Improving subchondral 
+bone integrity reduces progression of cartilage damage in 
+experimental osteoarthritis preceded by osteoporosis. Osteoarthr 
+Cartil 2011;19:1228–36. 
+	17	 Kadri A, Funck-­Brentano T, Lin H, et al. Inhibition of bone resorption 
+blunts osteoarthritis in mice with high bone remodelling. Ann Rheum 
+Dis 2010;69:1533–8. 
+	18	 Khokhar K, Conaghan PG. Bone in osteoarthritis: imaging and 
+interventions. Curr Opin Rheumatol 2022;34:73–8. 
+	19	 Dolan AL, Hart DJ, Doyle DV, et al. The relationship of joint 
+hypermobility, bone mineral density, and osteoarthritis in the general 
+population: the Chingford study. J Rheumatol 2003;30:799–803.
+	20	 Bettica P, Cline G, Hart DJ, et al. Evidence for increased bone 
+resorption in patients with progressive knee osteoarthritis: 
+longitudinal results from the Chingford study. Arthritis Rheum 
+2002;46:3178–84. 
+	21	 Bennell KL, Creaby MW, Wrigley TV, et al. Tibial subchondral 
+trabecular volumetric bone density in medial knee joint osteoarthritis 
+using peripheral quantitative computed tomography technology. 
+Arthritis Rheum 2008;58:2776–85. 
+	22	 Cao Y, Stannus OP, Aitken D, et al. Cross-­sectional and longitudinal 
+associations between systemic, subchondral bone mineral density 
+and knee cartilage thickness in older adults with or without 
+radiographic osteoarthritis. Ann Rheum Dis 2014;73:2003–9. 
+	23	 Kim D, Pirshahid AA, Li Y, et al. Prevalence of osteoporosis in 
+osteoarthritis: a systematic review and meta-­analysis. Osteoporos 
+Int 2022;33:1687–93. 
+	24	 Rosendahl A, Kabiri R, Bode M, et al. Adaptive immunity and IL-­17A 
+are not involved in the progression of chronic kidney disease after 
+5/6 nephrectomy in mice. Br J Pharmacol 2019;176:2002–14. 
+	25	 Zaki S, Smith MM, Smith SM, et al. Differential patterns of pathology 
+in and interaction between joint tissues in long-­term osteoarthritis 
+with different initiating causes: phenotype matters. Osteoarthritis 
+Cartilage 2020;28:953–65. 
+	26	 Little CB, Barai A, Burkhardt D, et al. Matrix metalloproteinase 
+13-­deficient mice are resistant to osteoarthritic cartilage erosion but 
+not chondrocyte hypertrophy or osteophyte development. Arthritis 
+Rheum 2009;60:3723–33. 
+	27	 Jackson MT, Moradi B, Zaki S, et al. Depletion of protease activated 
+receptor (PAR)-­2 but not PAR-­1 is protective in osteoarthritis 
+through extra-­cartilaginous mechanisms. Arthritis Rheumatol 
+2014;66:3337–48. 
+	28	 Pulskens WP, Rampanelli E, Teske GJ, et al. TLR4 promotes fibrosis 
+but attenuates tubular damage in progressive renal injury. J Am Soc 
+Nephrol 2010;21:1299–308. 
+	29	 O’Donohue AK, Dao A, Bobyn JD, et al. Modeling anabolic and 
+antiresorptive therapies for fracture healing in a mouse model of 
+osteogenesis imperfecta. J Orthop Res 2023;41:808–14. 
+	30	 Sawyer A, Lott P, Titrud J, et al. Quantification of tartrate resistant 
+acid phosphatase distribution in mouse tibiae using image analysis. 
+Biotech Histochem 2003;78:271–8. 
+	31	 Julovi SM, Sanganeria B, Minhas N, et al. Blocking 
+thrombospondin-­1 signaling via CD47 mitigates renal interstitial 
+fibrosis. Lab Invest 2020;100:1184–96. 
+	32	 Brandt A, Jin CJ, Nolte K, et al. Short-­term intake of a fructose-, fat- 
+and cholesterol-­rich diet causes hepatic steatosis in mice: effect of 
+antibiotic treatment. Nutrients 2017;9:1013. 
+	33	 Shibakawa A, Yudoh K, Masuko-­Hongo K, et al. The role of 
+subchondral bone resorption pits in osteoarthritis: MMP production 
+by cells derived from bone marrow. Osteoarthritis Cartilage 
+2005;13:679–87. 
+	34	 Julovi SM, Yasuda T, Shimizu M, et al. Inhibition of Interleukin-­
+1Beta-­stimulated production of matrix metalloproteinases by 
+hyaluronan via CD44 in human articular cartilage. Arthritis Rheum 
+2004;50:516–25. 
+	35	 Evenepoel P, Wolf M. A balanced view of calcium and phosphate 
+homeostasis in chronic kidney disease. Kidney Int 2013;83:789–91. 
+	36	 Sardiwal S, Magnusson P, Goldsmith DJA, et al. Bone alkaline 
+phosphatase in CKD-­mineral bone disorder. Am J Kidney Dis 
+2013;62:810–22. 
+	37	 Cafiero C, Gigante M, Brunetti G, et al. Inflammation induces 
+osteoclast differentiation from peripheral mononuclear cells in 
+chronic kidney disease patients: crosstalk between the immune and 
+bone systems. Nephrol Dial Transplant 2018;33:65–75. 
+	38	 Wang C-­Y, Hsu Y-­J, Peng Y-­J, et al. Knee subchondral bone perfusion 
+and its relationship to marrow fat and trabeculation on multi-­parametric 
+MRI and micro-­CT in experimental CKD. Sci Rep 2017;7:3073. 
+	39	 Wang C-­Y, Peng Y-­J, Hsu Y-­J, et al. Cartilage MRI T2∗ relaxation time 
+and perfusion changes of the knee in a 5/6 nephrectomy rat model of 
+chronic kidney disease. Osteoarthritis Cartilage 2017;25:976–85. 
+	40	 Roelofs AJ, Kania K, Rafipay AJ, et al. Identification of the skeletal 
+progenitor cells forming osteophytes in osteoarthritis. Ann Rheum 
+Dis 2020;79:1625–34. 
+	41	 Hsia AW, Jbeily EH, Mendez ME, et al. Post-­traumatic osteoarthritis 
+progression is diminished by early mechanical unloading and 
+anti-­inflammatory treatment in mice. Osteoarthritis Cartilage 
+2021;29:1709–19. 
+	42	 Yamada S, Tsuruya K, Kitazono T, et al. Emerging cross-­talks between 
+chronic kidney disease-­mineral and bone disorder (CKD-­MBD) and 
+malnutrition-­inflammation complex syndrome (MICS) in patients 
+receiving dialysis. Clin Exp Nephrol 2022;26:613–29. 
+	43	 Tinti F, Lai S, Noce A, et al. Chronic kidney disease as a systemic 
+inflammatory syndrome: update on mechanisms involved and potential 
+treatment. Life (Basel) 2021;11:419. 
+	44	 Blaker CL, Clarke EC, Little CB. Adding insult to injury: synergistic effect 
+of combining risk-­factors in models of post-­traumatic osteoarthritis. 
+Osteoarthritis Cartilage 2019;27:1731–4. 
+	45	 van der Poel C, Levinger P, Tonkin BA, et al. Impaired muscle function in 
+a mouse surgical model of post-­traumatic osteoarthritis. Osteoarthritis 
+Cartilage 2016;24:1047–53. 
+	46	 Terrill M, Soden M, Srivastava V. Survey of Australasian renal and 
+rheumatology specialists investigating topical NSAID use and adverse 
+renal outcomes. Musculoskeletal Care 2020;18:134–9. 
+	47	 Dong J, Zhang KJ, Li GC, et al. CDDO-­Im ameliorates osteoarthritis and 
+inhibits chondrocyte apoptosis in mice via enhancing NRF2-­dependent 
+autophagy. Acta Pharmacol Sin 2022;43:1793–802. 
+	48	 Kung LHW, Zaki S, Ravi V, et al. Utility of circulating serum miRNAs 
+as biomarkers of early cartilage degeneration in animal models of 
+post-­traumatic osteoarthritis and inflammatory arthritis. Osteoarthritis 
+Cartilage 2017;25:426–34. 
+	49	 Kung LHW, Ravi V, Rowley L, et al. Comprehensive expression analysis 
+of microRNAs and mRNAs in osteoarthritic synovial tissue from a mouse 
+model of early post-­traumatic OA. Sci Rep 2017;7. 
+	50	 Kung LHW, Ravi V, Rowley L, et al. Cartilage microRNA dysregulation 
+during the onset and progression of mouse osteoarthritis is independent 
+of aggrecanolysis and overlaps with candidates from end stage human 
+disease. Arthritis Rheumatol 2018;70:383–95. 
+Medicine. Protected by copyright.
+ on August 27, 2023 at Shanghai Jiao Tong University School of
+http://rmdopen.bmj.com/
+RMD Open: first published as 10.1136/rmdopen-2023-003109 on 10 August 2023. Downloaded from 

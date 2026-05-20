@@ -1,0 +1,698 @@
+Bayramoglu et al. BMC Oral Health          (2023) 23:131  
+https://doi.org/10.1186/s12903-023-02852-z
+RESEARCH ARTICLE
+© The Author(s) 2023. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/. The Creative Commons Public Domain Dedication waiver (http://​creat​iveco​
+mmons.​org/​publi​cdoma​in/​zero/1.​0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Open Access
+BMC Oral Health
+Does intra‑articular injection of tenoxicam 
+after arthrocentesis heal outcomes 
+of temporomandibular joint osteoarthritis? 
+A randomized clinical trial
+Zeynep Bayramoglu1*   , Günay Yapici Yavuz2   , Aydın Keskinruzgar2   , Mahmut Koparal2    and 
+Göksel Simsek Kaya3   
+Abstract 
+Background  Temporomandibular joint osteoarthritis (TMJ-OA) is a degenerative disease and manifests itself with 
+pain and limitation of movement in the jaws. Arthrocentesis alone or in combination with intraarticular injections 
+is one of the most commonly used treatment methods in these patients. The aim of the study is to examine the 
+effectiveness of arthrocentesis plus tenoxicam injection and to compare it with arthrocentesis alone in patients with 
+TMJ-OA.
+Methods  Thirty patients with TMJ-OA who were treated randomly with either arthrocentesis plus tenoxicam injec-
+tion (TX group) or arthrocentesis alone (control group) were examined. Maximum mouth opening (MMO), visual 
+analog scale (VAS) pain values, and joint sounds were the outcome variables, which were evaluated at pre-treatment 
+and at 1, 4, 12, and 24 weeks after treatment. Statistical significance was set at p < 0.05.
+Results  The gender distribution and mean age were not significantly different between the two groups. Pain values 
+(p < 0.001), MMO (p < 0.001), and joint sounds (p < 0.001) improved significantly in both groups. However, there was 
+no significant difference between the groups in terms of outcome variables [pain (p = 0.085), MMO (p = 0.174), joint 
+sounds (p = 0.131)].
+Conclusions  Arthrocentesis plus tenoxicam injection showed no better outcomes in terms of MMO, pain, and joint 
+sounds compared with arthrocentesis alone in patients with TMJ-OA.
+Trial registration  Injection of Tenoxicam Versus Arthrocentesis Alone in the Treatment of Temporomandibular Joint 
+Osteoarthritis, NCT05497570. Registered 11 May 2022.
+Retrospectively registered, https://​regis​ter.​clini​caltr​ials.​gov/​prs/​app/​action/​Selec​tProt​ocol?​sid=​S000C​D7A&​selec​tacti​
+on=​Edit&​uid=​U0006​FC4&​ts=​6&​cx=​f3anuq
+Keywords  Temporomandibular joint osteoarthritis, Tenoxicam, Arthrocentesis, Intra-articular injection
+*Correspondence:
+Zeynep Bayramoglu
+zeynep0569@hotmail.com
+Full list of author information is available at the end of the article
+Page 2 of 7
+Bayramoglu et al. BMC Oral Health          (2023) 23:131 
+Background
+Osteoarthritis is the degeneration and gradual deteriora-
+tion of the cartilage in a joint. It is a chronic, progressive, 
+degenerative disease that causes loss of function, pain, 
+and discomfort [1]. Temporomandibular joint osteo-
+arthritis (TMJ-OA) is discomfort of the cartilage, bone, 
+and supporting tissues of the temporomandibular joint. 
+In this condition, there is pain during jaw movements, 
+limitation of mouth opening, and crepitus sounds. In 
+addition; sclerosis, osseous erosion, osteophyte forma-
+tion, and flattening can be seen at the joint margin [2–4]. 
+TMJ-OA mostly affects women, and there is unilateral 
+involvement of the joint. Unilateral chewing, bruxism, 
+genetic predisposition, overloading, and internal disor-
+ders are involved in the etiology of TMJ-OA [5, 6]. Diag-
+nosis of TMJ-OA is done using the Research Diagnostic 
+Criteria for Temporomandibular Disorders (RDC/TMD) 
+Group IIIb guidelines [1, 7].
+Arthrocentesis alone or in combination with intraar-
+ticular injections is highly effective in the treatment of 
+TMJ-OA. It reduces pain, increases mouth opening, 
+and improves jaw movements [1, 4, 7]. In intra-articular 
+injections, hyaluronic acid, platelet-rich plasma, corti-
+costeroids, and non-steroidal anti-inflammatory drugs 
+(NSAIDS) are used. While there are studies on hyalu-
+ronic acid, platelet-rich plasma, and corticosteroid injec-
+tions, studies with intra-articular NSAIDS injections are 
+insufficient [8–16]. NSAIDS decrease inflammation in 
+the target tissue but may cause complications such as 
+hemorrhagic diathesis, nephrotoxicity and gastric ulcer 
+when applied systemically [9, 17].
+Tenoxicam is an NSAID that is used systemically or 
+locally in joint diseases such as acute or chronic inflam-
+matory rheumatoid arthritis and osteoarthritis [18, 
+19]. It has been reported that its long-lasting analgesic 
+effect and anti-inflammatory effect are higher in intra-
+articular administration than in oral and intravenous 
+administrations [12, 20]. However, there are few stud-
+ies on intra-articular injection of tenoxicam in patients 
+with the temporomandibular joint disc displacements [9, 
+10, 12, 21]. No study in the literature has examined the 
+intra-articular application of tenoxicam in patients with 
+TMJ-OA. Therefore, in this study, intra-articular injec-
+tion of tenoxicam was applied following arthrocentesis in 
+patients with TMJ-OA. The purpose of the study was to 
+compare the efficacy of TMJ arthrocentesis alone versus 
+arthrocentesis plus intra-articular tenoxicam injection in 
+TMJ-OA patients.
+Methods
+Study population
+This randomized, single- blinded, prospective study 
+was conducted with patients who were seen at the 
+maxillofacial surgery clinic of the Faculty of Dentistry 
+of Adıyaman University between May 2019 and Novem-
+ber 2021. The included patients were diagnosed with 
+TMJ-OA through clinical and radiological examinations 
+based on the Diagnostic Criteria for Temporomandibu-
+lar Disorders (axis I group I b). The study protocol was 
+approved by the Turkey Republic Adıyaman Univer-
+sity Clinical Research Ethics Committee on 22/01/2019 
+(approval number 2019/1–2), and all patients signed an 
+informed consent form. The study was conducted in full 
+accordance with the Declaration of Helsinki.
+The study was planned with 38 patients, but 8 patients 
+were excluded because they did not attend follow-up 
+visits. The inclusion criteria were patients who were 
+diagnosed with TMJ-OA clinically and radiologically, 
+18 years of age and older, and sufficient clinical data at 
+baseline and follow-up. Patients were excluded from the 
+study if they had uncontrolled systemic disease, neuro-
+logical disease, previous TMJ surgery, malignant disease 
+in the head and neck region, or did not come to follow-
+up visits. The appropriate sample size was computed with 
+a significance level of 0.05 and power of 80% to detect 
+a clinically meaningful difference of 4 mm in the inter-
+incisal opening. The power analysis indicated that 11 
+patients were needed in each group.
+Surgical procedure
+The patients were randomly separated into two groups by 
+simple randomization method by computer. No conserv-
+ative treatment was applied before arthrocentesis. Only 
+arthrocentesis was given to patients in the control group 
+(n:14), while the TX group (n:16) received both arthro-
+centesis and a 2-ml injection of tenoxicam (Oksamen-L, 
+Mustafa Nevzat İlaç Sanayi, Istanbul, Turkey) to the tem-
+poromandibular joint (Fig. 1) The preauricular area was 
+cleaned with 10% povidone-iodine solution. Ultracaine 
+D-S Forte® (Sanofi-Aventis, İstanbul, Turkey) was used as 
+a local anesthetic. The entry point was along the lateral 
+canthus-tragus line (Holmlund-Hellsing line), 10  mm 
+away from the anterior tragal midline and 2 mm under 
+it. The second point was along the lateral canthus-tragus 
+line, 20  mm away from the anterior tragal midline and 
+10 mm under it [22].
+Preoperative measurements and arthrocentesis pro-
+cedures were performed by the same surgeon (GYY). 
+All patients were irrigated with approximately 100 ml of 
+Ringer’s lactate. In the control group, no additional injec-
+tions were given, but in the TX group, 2  ml(20  mg) of 
+tenoxicam was injected intraarticularly following arthro-
+centesis. A drug containing paracetamol was prescribed 
+to relieve post-procedure pain. A soft diet was recom-
+mended to the patients. Physical therapy, occlusal splint 
+or other preventive treatments were not applied during 
+Page 3 of 7
+Bayramoglu et al. BMC Oral Health          (2023) 23:131 
+	
+the follow-up period. The form in which the data of the 
+patients is processed is given in Fig. 2.
+Patients were followed for 6  months. The outcome 
+variables were pain scores on a visual analog scale 
+(VAS), VAS joint sounds (crepitus sounds), and maxi-
+mum mouth opening (MMO), which were measured at 
+baseline, one week, one month, three months, and six 
+months after the arthrocentesis. To measure the VAS 
+value, a 10-cm-long numbered line was created. The 
+patient chose a point on the line, the corresponding value 
+was measured with a ruler, and a score was given. MMO 
+was gauged between the incisal edges of the maxillar and 
+mandibular central incisors. Outcome variables were 
+evaluated postoperatively by the surgeon (AK), who was 
+unaware of the treatment procedures for all patients.
+Statistical analysis
+The data were examined with the software package IBM 
+SPSS Statistics Version 22. The normal distribution of the 
+data was examined with the Shapiro Wilk test. An inde-
+pendent t test was used for the discrepancy among groups 
+for variables with normal distribution, and a Mann Whit-
+ley U test was used for the discrepancy among groups 
+for variables that did not show a normal distribution. A 
+chi-squared analysis was implemented to study the rela-
+tionship between the groups for the nominal variables. In 
+the intragroup comparison, Friedman’s two-way ANOVA 
+was used for at least two dependent variables that did not 
+show a normal distribution in their analyses. Variables 
+that differed were examined using pairwise comparison 
+tests if significant differences emerged. Statistical signifi-
+cance was set at p < 0.05.
+Results
+Study population
+The study included 30 patients (24 women and 6 men) 
+who were diagnosed with TMJ-OA. The ages of the 
+participants ranged from 22 to 64  years with an aver-
+age age of 41.96 ± 11.50  years. The patients were sepa-
+rated into two groups. Of the 14 patients in the control 
+group, 12 were female and 2 were male, and the mean 
+age was 43.35 ± 11.10 years. Of the 16 patients in the TX 
+group, 12 were female and 4 were male, and their aver-
+age age was 40.75 ± 12.06 years. The gender distribution 
+(p = 0.464) and mean age (p = 0.546) were not signifi-
+cantly different between the two groups (Table 1).
+Intergroup comparison
+The rate of progress was not significantly different 
+between the two groups in terms of MMO (p = 0.174) 
+and VAS pain values (p = 0.085), as shown in Table 2. Fur-
+thermore, no significant difference was found between 
+the groups in terms of pre-treatment (6.35 ± 2.02, 
+6.12 ± 1.89; p = 0.748) and post-treatment (3.28 ± 0.99, 
+2.06 ± 1.06; p = 0.131) joint-noise scores, as shown in 
+Table 3.
+Intragroup comparison
+No significant difference was found in MMO between 
+baseline 
+(25.17 ± 6.15, 
+25.03 ± 6.72) 
+and 
+1 
+week 
+(27.60 ± 5.51, 26.68 ± 5.75) in both groups. In the 
+control group, there was a significant difference in 
+MMO between baseline (25.17 ± 6.15) and 4  weeks 
+(31.07 ± 5.09) (p = 0.015), but no significant difference 
+was found in the TX group. Significant MMO improve-
+ments were found at 12 (32.35 ± 4.49, 32.87 ± 5.17) and 
+24 weeks (34.07 ± 5.12, 36.53 ± 4.52) in both groups.
+A significant difference was not found in VAS pain 
+values between baseline (8.0 ± 1.88, 7.75 ± 2.32) and 
+1  week (5.35 ± 3.34, p = 0.422; 4.56 ± 3.20, p = 0.831) in 
+both groups. However, significant improvements were 
+found at 4 (3.21 ± 3.21, p = 0.004; 2.18 ± 1.52, p = 0.004), 
+12 (2.64 ± 2.70, p = 0.001; 0.87 ± 1.08, p =  < 0.001), and 
+24 (2.14 ± 2.76, p < 0.001; 0.31 ± 0.49, p < 0.001) weeks in 
+both groups (Table  4). Joint-sound values significantly 
+decreased in both groups after treatment (p < 0.001) 
+(Table 5).
+Fig. 1  Arthrocentesis procedure
+Page 4 of 7
+Bayramoglu et al. BMC Oral Health          (2023) 23:131 
+Discussion
+Arthrocentesis is a symptom-focused treatment for inter-
+nal derangement of the TMJ. It reduces pain, increases 
+jaw movements and mouth opening, and eliminates 
+inflammatory products and tissue disruptors [7, 12]. In 
+the literature, the efficacy of various agents combined 
+with arthrocentesis in TMJ-OA patients has been evalu-
+ated [4, 7, 16, 23]. However, the efficacy of intra-articular 
+tenoxicam application after arthrocentesis has not been 
+evaluated in these patients. The goal of the present study 
+was to determine whether intra-articular injection of ten-
+oxicam after arthrocentesis had better outcomes than 
+arthrocentesis alone in terms of MMO, pain, and joint 
+sounds.
+Tenoxicam is a potent analgesic and anti-inflamma-
+tory agent with a half-life of 60–80 h [18, 19]. Because 
+parenteral tenoxicam is water soluble, it is suitable for 
+intra-articular injection. However, other NSAIDs are not 
+suitable for intra-articular injection and may cause local 
+irritation due to the solvents used [9, 20]. Previous stud-
+ies have examined intra-articular tenoxicam injection 
+after arthroscopic knee surgery [18–20, 24, 25]. Öztuna 
+et  al. [25] compared the results of intra-articular injec-
+tion of tenoxicam with oral tenoxicam (20 mg daily for 
+10 days) in patients with osteoarthritic knees with effu-
+sion. There was more rapid pain relief in the intra-artic-
+ular injection group than the oral group. At the end of 
+1  year of follow-up, the count of effusions was signifi-
+cantly lower in the intra-articular group than the oral 
+group. Based on the results, the authors concluded that 
+intra-articular injection of tenoxicam was effective in 
+relieving pain quickly and preventing effusions. Derwich 
+Fig. 2  A patient form sample
+Table 1  Comparison of age and sex between groups
+n: sample size; P: significance
+Group 1 (n:14)
+Group 2 (n:16)
+P value
+Age (years)
+43.35 ± 11.10
+40.75 ± 12.06
+ > 0.05
+Female/Male
+12/2
+12/4
+ > 0.05
+Page 5 of 7
+Bayramoglu et al. BMC Oral Health          (2023) 23:131 
+	
+et  al. [26] reviewed studies examining the efficacy of 
+orally administered NSAIDs for the treatment of patients 
+with TMJ-OA. They stated that the efficacy of diclofenac 
+sodium was mostly examined. They stated that there is 
+nothing clear about the recommendation of oral NSAIDs 
+in the treatment of TMJ-OA due to the insufficient and 
+heterogeneous randomized studies. However, it has been 
+recommended in the literature to use oral NSAIDs for 
+possible shortest time at the lowest effective dose.
+Colbert et  al. [20] compared intravenous and intra-
+articular tenoxicam injections after knee arthroscopy 
+and found that intra-articular administration provides 
+better postoperative analgesia and reduces the need for 
+postoperative analgesic medication. Another study found 
+that a single dose of intra-articular tenoxicam has a long-
+term beneficial effect for osteoarthritis patients [27]. In 
+the present study, only arthrocentesis was applied to one 
+Table 2  Intergroup comparisons (MMO, VAS pain)
+n: sample size, P: significance, MMO Maximal mouth opening
+SD Standard deviation, VAS Visual Analog Scale
+* Mann Whitney U test
+# Independent t test
+Maximal Mouth Opening
+VAS Pain Score
+n
+Mean ± SD
+P value
+Mean ± SD
+P value
+Baseline
+Group 1
+14
+25.17 ± 6.15
+0.951#
+8.0 ± 1.88
+0.886*
+Group 2
+16
+25.03 ± 6.72
+7.75 ± 2.32
+1th week
+Group 1
+14
+27.60 ± 5.51
+0.660#
+5.35 ± 3.34
+0.512#
+Group 2
+16
+26.68 ± 5.75
+4.56 ± 3.20
+4th week
+Group 1
+14
+31.07 ± 5.09
+0.911#
+3.21 ± 3.21
+0.580*
+Group 2
+16
+30.81 ± 7.18
+2.18 ± 1.52
+12th week
+Group 1
+14
+32.35 ± 4.49
+0.774#
+2.64 ± 2.70
+0.077*
+Group 2
+16
+32.87 ± 5.17
+0.87 ± 1.08
+24th week
+Group 1
+14
+34.07 ± 5.12
+0.174#
+2.14 ± 2.76
+0.085*
+Group 2
+16
+36.53 ± 4.52
+0.31 ± 0.49
+Table 3  Comparison of the joint sounds (VAS values) between 
+groups
+n: sample size, P: significance, SD Standard deviation
+* Mann Whitney U test
+# Independent t test
+TMJ noise
+N
+Mean ± SD
+P value
+Baseline
+Group 1
+14
+6.35 ± 2.02
+0.748#
+Group 2
+16
+6.12 ± 1.89
+Post-treatment
+Group 1
+14
+3.28 ± 0.99
+0.131*
+Group 2
+16
+2.06 ± 1.06
+Table 4  Intragroup comparison (MMO, VAS pain)
+n: sample size, P: significance, VAS Visual Analog Scale
+MMO Maximal mouth opening
+Friedman’s Two-Way Pairwise Comparison
+Maximal Mouth Opening
+VAS Pain Score
+n
+Mean difference
+P value
+Mean Difference
+P value
+Baseline–1 week
+Group 1
+14
+-2.42
+1.00
+2.64
+0.422
+Group 2
+16
+-1.66
+1.00
+3.19
+0.831
+Baseline–4 weeks
+Group 1
+14
+-5.89
+0.015
+4.78
+0.004
+Group 2
+16
+-5.78
+0.139
+5.56
+0.004
+Baseline–12 weeks
+Group 1
+14
+-7.17
+0.004
+5.35
+0.001
+Group 2
+16
+-7.84
+0.006
+6.88
+0.000
+Baseline–24 weeks
+Group 1
+14
+-8.89
+0.000
+5.85
+0.000
+Group 2
+16
+-11.50
+0.000
+7.44
+0.000
+Page 6 of 7
+Bayramoglu et al. BMC Oral Health          (2023) 23:131 
+group, while both arthrocentesis and a single dose of ten-
+oxicam were applied to the other group. Although MMO, 
+pain, and joint sounds were evaluated, postoperative 
+analgesia was not evaluated, which is one of the limita-
+tions of the study.
+A few studies have examined intra-articular administra-
+tion of tenoxicam in patients with internal TMJ derange-
+ment [9, 10, 12, 21]. Aktas et al. [9] applied arthrocentesis 
+alone in 14 joints of patients with non-reducing disc dis-
+placement of the TMJ, while they applied intra-articular 
+tenoxicam injection to 10 joints after arthrocentesis in 
+another group. They found that MMO increased and 
+pain decreased in both groups, but there was no statis-
+tical difference between the groups. Similar results were 
+found in the present study. Significant improvement in 
+parameters of MMO, VAS pain values, ​and joint-noise 
+values was seen in both groups, but no statistical dif-
+ference was found between the groups. Yapıcı-Yavuz 
+et al. [12] applied arthrocentesis alone to one group and 
+applied methylprednisolone acetate, sodium hyaluronate, 
+and tenoxicam to other groups after arthrocentesis in A 
+clinical study with 44 patients. There was no significant 
+difference between the groups in terms of treatment suc-
+cess at the end of the sixth month in patients diagnosed 
+with non-reducing disc displacement of the TMJ.
+Another study compared intra-articular tenoxicam 
+and sodium hyaluronate in the treatment of internal 
+TMJ derangement and found that there was no statis-
+tical difference in recovery [10]. Kapusuz Gencer et al. 
+[21] followed patients for 6 weeks in a study compar-
+ing intra-articular sodium hyaluronate, betametha-
+sone, and tenoxicam. The sodium hyaluronate group 
+had better pain results than the control group and the 
+groups that received the other two agents, including 
+tenoxicam. In addition, the tenoxicam group had bet-
+ter pain results than the betamethasone group in the 
+first week, but similar results were found at the 6th 
+week. The authors concluded that intra-articular injec-
+tions of tenoxicam and betamethasone were accept-
+able as economical and effective treatment methods for 
+the treatment of internal TMJ derangement due to the 
+high price of sodium hyaluronate. As a result of their 
+meta-analysis, Liu et al. [28] stated that they could not 
+find any evidence that usage of intra-articular NSAIDs 
+after TMJ arthrocentesis improves pain and MMO. 
+They stated that intra-articular opioids can improve 
+pain and maximum mouth opening, but the literature 
+data on this subject are insufficient and incomplete. 
+Comprehensive studies are needed on intra-articular 
+opioid use.
+In the present study, the TX group did not have bet-
+ter results than the control group. There was a signifi-
+cant improvement in the parameters of MMO, VAS 
+pain values, ​and joint-noise values ​in both groups, but 
+there was no significant difference between the groups. 
+There was no significant difference in both groups 
+in terms of MMO and pain in the first week after the 
+procedure. In the 4th week, there was a significant 
+improvement in MMO in only the control group, while 
+significant improvement was found in both groups at 
+the 12th and 24th weeks. In terms of pain, significant 
+improvement was found in both groups at the 4, 12, 
+and 24 weeks.
+This study has some limitations. Although the sam-
+ple size was computed by power analysis, it was limited 
+because only patients with osteoarthritis were included. 
+Another limitation is that the patient follow-up period 
+was 6 months. To our knowledge, this is the first study 
+to evaluate the efficacy of tenoxicam in patients with 
+TMJ-OA.
+Conclusions
+The results of this study indicate that arthrocente-
+sis plus tenoxicam injection does not produce bet-
+ter results in terms of MMO, pain, and joint sounds 
+in patients with TMJ-OA. Arthrocentesis alone and 
+arthrocentesis plus tenoxicam injection showed similar 
+effects and can be used safely in patients with TMJ-OA.
+Abbreviations
+TMJ-OA	
+Temporomandibular joint osteoarthritis
+MMO	
+Maximum mouth opening
+VAS	
+Visual analog scale
+RDC/TMD	 Research Diagnostic Criteria for Temporomandibular Disorders
+NSAIDS	
+Non-steroidal anti-inflammatory drugs
+Acknowledgements
+Not applicable.
+Authors’ contributions
+ZB carried out the research and participated in drafting the manuscript. 
+GYY made the arthrocentesis procedures and AK participated in collecting 
+data. MK and GSK participated in the statistical analysis. All authors read and 
+approved the final manuscript.
+Funding
+No funding.
+Table 5  Comparison of joint sound (VAS values) within the 
+groups
+SD Standard deviation, n: sample size, P: significance
+TMJ noise
+Paired Test
+n
+Mean difference
+P value
+Group 1
+14
+3.07
+0.000
+Group 2
+16
+4.06
+0.000
+Page 7 of 7
+Bayramoglu et al. BMC Oral Health          (2023) 23:131 
+	
+Availability of data and materials
+All data generated or analyzed during this study are included in this article.
+Declarations
+Ethics approval and consent to participate
+The study protocol was certified by the Ethics Committee of Adıyaman Univer-
+sity (Ethical Number 2019/1–2) All participants informed consent volunteered 
+to participate in the study.
+Consent for publication
+Written informed consent for publication of their clinical images was obtained 
+from the patient. A copy of the consent form is available for review by the 
+Editor of this journal.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1 Department of Oral, Dental and Maxillofacial Surgery, Ataturk University, 
+Erzurum, Turkey. 2 Department of Oral, Dental and Maxillofacial Surgery, Faculty 
+of Dentistry, Adıyaman University, Adıyaman, Turkey. 3 Department of Oral, 
+Dental and Maxillofacial Surgery, Faculty of Dentistry, Akdeniz University, 
+Antalya, Turkey. 
+Received: 19 August 2022   Accepted: 1 March 2023
+References
+	1.	
+Comert Kilic S, Kilic N, Sumbullu MA. Temporomandibular joint osteoar-
+thritis: Cone beam computed tomography findings, clinical features, and 
+correlations. Int J Oral Maxillofac Surg. 2009;44:1268.
+	2.	
+Dworkin SF, LeResche L. Research diagnostic criteria for temporomandib-
+ular disorders: review, criteria, examinations and specifications, critique. J 
+Craniomandib Disord. 1992;6:301.
+	3.	
+Campos MI, Campos PS, Cangussu MC, et al. Analysis of mag- netic 
+resonance imaging characteristics and pain in temporomandibular joints 
+with and without degenerative changes of the condyle. Int J Oral Maxil-
+lofac Surg. 2008;37:529.
+	4.	
+Comert Kilic S, Gungormus M, Sumbullu MA. Is arthrocentesis plus 
+platelet-rich plasma superior to arthrocentesis alone in the treatment of 
+temporomandibular joint osteoarthritis? a randomized clinical trial. J Oral 
+Maxillofac Surg. 2015;73:1473.
+	5.	
+Liu F, Steinkeler A. Epidemiology, diagnosis, and treatment of temporo-
+mandibular disorders. Dent Clin North Am. 2013;57:465.
+	6.	
+Yanik S, Polat ME, Polat M. Effects of arthrocentesis and low-level laser 
+therapy on patients with osteoarthritis of the temporomandibular joint. 
+Br J Oral Maxillofac Surg. 2021;59(3):347–52.
+	7.	
+Cömert KS. Does injection of corticosteroid after arthrocentesis improve 
+outcomes of temporomandibular joint osteoarthritis? a randomized clini-
+cal trial. J Oral Maxillofac Surg. 2016;74(11):2151–8.
+	8.	
+Alpaslan GH, Alpaslan C. Efficacy of temporomandibular joint arthrocen-
+tesis with and without injection of sodium hyaluronate in treatment of 
+internal derangements. J Oral Maxillofac Surg. 2001;59:613–8.
+	9.	
+Aktas I, Yalcin S, Sencer S. Intra-articular injection of tenoxicam following 
+temporomandibular joint arthrocentesis: a pilot study. Int J Oral Maxil-
+lofac Surg. 2010;39:440–5.
+	10.	 Emes Y, Arpinar IS, Oncu B, et al. The next step in the treatment of persis-
+tent temporomandibular joint pain following arthrocentesis: a retrospec-
+tive study of 18 cases. J Craniomaxillofacial Surg. 2014;42:65–9.
+	11.	 Giraddi GB, Siddaraju A, Kumar B, et al. Internal derangement of tem-
+poromandibular joint: an evaluation of effect of corticosteroid injection 
+compared with injection of sodium hyaluronate after arthrocentesis. J 
+Oral Maxillofac Surg. 2012;11:258–63.
+	12.	 Yapici-Yavuz G, Şimşek-Kaya G, Oğul H. A comparison of the effects of 
+Methylprednisolone Acetate, Sodium Hyaluronate and Tenoxicam in the 
+treatment of non-reducing disc displacement of the temporomandibular 
+joint. Med Oral Patol Oral Cir Bucal. 2018;23(3):351–8.
+	13.	 De Riu G, Stimolo M, Meloni SM, et al. Arthrocentesis and temporoman-
+dibular joint disorders: clinical and radiological results of a prospective 
+study. Int J Dent. 2013;2013:790648.
+	14.	 Huddleston Slater JJ, Vos LM, Stroy LP, et al. Randomized trial on the 
+effectiveness of dexamethasone in TMJ arthrocentesis. J Dent Res. 
+2012;91:173–8.
+	15.	 Korkmaz YT, Altıntas NY, Korkmaz FM, et al. Is hyaluronic acid injection 
+effective for the treat- ment of temporomandibular joint disc displace-
+ment with reduction? J Oral Maxillofac Surg. 2016;74:1728–40.
+	16.	 Guarda-Nardini L, Stifano M, Brombin C, et al. A one-year case series of 
+arthrocentesis with hyaluronic acid injections for temporomandibular 
+joint osteoarthritis. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 
+2007;103:14–22.
+	17.	 Ishimaru JI, Ogi N, Mizui T, et al. Effects of a single arthrocentesis and a 
+COX-2 inhibitor on disorders of temporomandibular joints. A preliminary 
+clinical study. Br J Oral Maxillofac Surg. 2003;41:323–8.
+	18.	 Guler G, Karaoglu S, Velibasoglu H, et al. Comparison of analgesic effects 
+of intra-articular tenoxicam and morphine in anterior cruciate ligament 
+reconstruction. Knee Surg Sports Traumatol Arthrosc. 2002;10:229–32.
+	19.	 Talu GK, Ozyalcın S, Koltka K, et al. Comparison of efficacy of intraarticu-
+lar application of tenoxicam, bupivacaine and tenoxicam: bupivacaine 
+combination in arthroscopic knee surgery. Knee Surg Sports Traumatol 
+Arthrosc. 2002;10:355–60.
+	20.	 Colbert ST, Curran E, O’Hanlon DM, et al. Intra-articular tenoxicam 
+improves postoperative analgesia in knee arthroscopy. Can J Anaesth. 
+1999;46:653–7.
+	21.	 Gencer ZK, Özkiriş M, Okur A, et al. A comparative study on the impact of 
+intra-articular injections of hyaluronic acid, tenoxicam and betametazon 
+on the relief of temporomandibular joint disorder complaints. J Cranio-
+maxillofac Surg. 2014;42(7):1117–21.
+	22.	 Laskin DM. Surgical Management of internal derragements. In: Laskin 
+DM Greene, Hylander WL (eds). Temporomandibular disorders: an 
+evidence-based approach to diagnosis and treatment. Chicago: 
+Quintessence. 2006;469–481.
+	23.	 Derwich M, Mitus-Kenig M, Pawlowska E. Mechanisms of action and 
+efficacy of hyaluronic acid, corticosteroids and platelet-rich plasma in the 
+treatment of temporomandibular joint osteoarthritis-a systematic review. 
+Int J Mol Sci. 2021;22(14):7405.
+	24.	 Alagol A, Calpur OU, Usar PS, et al. Intraarticular analgesia after arthro-
+scopic knee surgery: comparison of neostigmine, clonidine, tenoxicam, 
+morphine and bupivacaine. Knee Surg Sports Traumatol Arthrosc. 
+2005;13:658–63.
+	25.	 Oztuna V, Eskandari M, Bugdayci R, et al. Intra-articular injection of 
+tenoxicam in osteoarthritic knee joints with effusion. Orthopedics. 
+2007;30:1039–42.
+	26.	 Derwich M, Mitus-Kenig M, Pawlowska E. Orally administered NSAIDs-
+general characteristics and usage in the treatment of temporoman-
+dibular joint osteoarthritis-a narrative review. Pharmaceuticals (Basel). 
+2021;14(3):219.
+	27.	 Papathanassıou NP. Intra-articular use of tenoxicam in degenerative 
+osteoarthritis of the knee joint. J Int Med Res. 1994;22:332–7.
+	28.	 Liu S, Hu Y, Zhang X. Do intra-articular injections of analgesics improve 
+outcomes after temporomandibular joint arthrocentesis?: a systematic 
+review and meta-analysis. J Oral Rehabil. 2021;48(1):95–105.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.

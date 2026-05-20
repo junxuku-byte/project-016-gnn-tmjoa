@@ -1,0 +1,62 @@
+PMID_28879245_GoogleScholar.txt
+disease modifying interactions betwe source rmd open so 2023.txt
+osteocyte intrinsic mmp13 exacerbate source osteoarthritis cartilage so 2025.txt
+the use of statins can reduce the ri source inflammopharmacology so 2025.txt
+can treatment with chondroitin and g source j oral rehabil so 2024 1.txt
+association between denosumab use an so osteoarthritis cartilage 2026 jan 9 s106.txt
+single cell transcriptomics reveals source drug des devel ther so 2026.txt
+Koh_FrontBioeng_2025_craniofacial_bone.txt
+osteocyte intrinsic mmp13 exacerbate source osteoarthritis cartilage so 2025 1.txt
+PMID_40273050_PLoS.txt
+a physics informed graph neural netw sourcso 2026.txt
+FGFR_Inhibitor_Rescues_OA_2020.txt
+CKD_OA_Interactions_2023_Review.txt
+PMID_36890529_BMC.txt
+fgf receptor inhibitor bgj398 partia source sci rep so 2022.txt
+Embree_NatComm_2016_FCSC.txt
+PMID_39092654_GoogleScholar.txt
+DOI_102334_josnusd17-0_Long-term_effectiveness_of_art.txt
+DOI_101186_s12903-023-0_Does_intra-articular_injection.txt
+DOI_101186_2045-709x-22_Manual_therapy_for_musculoskel.txt
+recent advances in animal models di source tissue eng part b rev so 2022 aug 22.txt
+metformin use and the risk of incide source bmj open so 2026.txt
+node2vec_baseline.txt
+DOI_101007_s12663-011-0_Injection_of_sodium_hyaluronat.txt
+PMID_37608244_OA.txt
+recent advances in animal models di source tissue eng part b rev so 2022 aug 22 .txt
+intra articular pharmacological inje source j evid based dent pract so 2024.txt
+PMID_40273050_GoogleScholar.txt
+Osteocyte_MMP13_TMJ_2026.txt
+PMID29244893.txt
+application of knowledge graphs in r .txt
+Bliddal_STEP9_NEJM_2024.txt
+PMID_29244893_GoogleScholar.txt
+DOI_101371_journalpone_Peptide-mesenchymal_stem_cell_.txt
+inhibition of fgfr signaling partially rescues osteoarthritis in mice overexpres.txt
+efficiency of glucosamine in treatin source curr rheumatol rev so 2024.txt
+PMID_41084405_GoogleScholar.txt
+therapeutic subtypes of knee osteoar source arthritis res ther so 2026.txt
+PMID_30814387_Unpaywall.txt
+PMID_38821656_GoogleScholar.txt
+sgk1 triggers cartilage degradation source arthritis res ther so 2025.txt
+can treatment with chondroitin and g source j oral rehabil so 2024.txt
+FGF23_Wnt_OA_2018_Mouse_Mechanism.txt
+PMID28879245.txt
+fmoc ddt fos hydrogel mitigates temp so mater today bio 2026 apr 37 102906 doi 1.txt
+PMID_37608244_GoogleScholar.txt
+Chen_JAdvRes_2025_trained_immunity_modulators.txt
+Denosumab_OA_Risk_2026.txt
+Hu_NatCommun_2025_Denosumab_FSTL1.txt
+DOI_1032388_5u9vf2_RAIN_method_and_Graph_SAGE_gas.txt
+Riluzole_OA_Repositioning_2026.txt
+a case based explainable graph neura source bioinformatics so 2026.txt
+fgf23 regulates wnt catenin signal source endocrinology so 2018 apr 26.txt
+cloudlib_28636844.txt
+cloudlib_31672865.txt
+Jaiswal_NEJM_2017_CHIP_CVD.txt
+Zioni_NatComm_2023_FBM_DNMT3A.txt
+Kim_JEM_2021_DNMT3A_osteoporosis.txt
+Jaiswal_Science_2019_CHIP_review.txt
+Hiitola_SciAdv_2025_CHIP_RA.txt
+Li_GeroScience_2025_CHIP_OA.txt
+Wang_Cell_2024_CHIP_bone_loss.txt

@@ -1,0 +1,31 @@
+{
+  "title": "Mesenchymal Stem Cell Conditioning Promotes Rat Oligodendroglial Cell Maturation",
+  "authors": "Jadasz JJ等",
+  "year": 2013,
+  "journal": "PLoS ONE",
+  "category": "general",
+  "research_question": "间充质干细胞分泌因子能否在非髓鞘允许环境中促进少突胶质前体细胞的成少突胶质细胞能力？",
+  "methods_summary": [
+    "制备大鼠骨髓间充质干细胞条件培养基",
+    "原代少突胶质前体细胞培养与形态学分期",
+    "定量RT-PCR检测基因表达",
+    "免疫荧光染色与Western blot检测蛋白表达",
+    "HGF中和实验与重组HGF处理"
+  ],
+  "dataset": "原代大鼠少突胶质前体细胞与骨髓间充质干细胞",
+  "key_findings": [
+    "MSC条件培养基促进OPC形态成熟和髓鞘形成",
+    "MSC条件培养基上调CNPase和MBP表达，下调GFAP表达",
+    "MSC条件培养基下调抑制性分化因子Id2和Id4",
+    "HGF不是MSC条件培养基促进OPC分化的关键因子"
+  ],
+  "relevance_score": "medium",
+  "tags": [
+    "间充质干细胞",
+    "少突胶质细胞",
+    "髓鞘再生",
+    "多发性硬化",
+    "条件培养基"
+  ],
+  "extracted_insights": "间充质干细胞分泌因子通过下调Id2/Id4并促进少突胶质分化标志物表达，在星形胶质细胞诱导条件下仍能有效促进OPC向成熟少突胶质细胞分化，且该效应不依赖于HGF，提示MSC移植或相关因子治疗可能通过激活内源性髓鞘修复机制治疗脱髓鞘疾病。"
+}

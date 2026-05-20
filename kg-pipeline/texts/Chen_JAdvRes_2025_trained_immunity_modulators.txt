@@ -1,0 +1,2628 @@
+Journal Pre-proofs
+Review Article
+Trained immunity modulators: A new frontier in immunoregulation and dis‐
+ease intervention
+Jiao Chen, Chenxi Wang, Shilin Chen, Hui Cai, Mengke Wang, Jingjie
+Chang, Xueting Cai, Jie Yang, Peng Cao
+PII:
+S2090-1232(25)00734-9
+DOI:
+https://doi.org/10.1016/j.jare.2025.09.029
+Reference:
+JARE 2456
+To appear in:
+Journal of Advanced Research
+Received Date:
+2 April 2025
+Revised Date:
+3 September 2025
+Accepted Date:
+16 September 2025
+Please cite this article as: Chen, J., Wang, C., Chen, S., Cai, H., Wang, M., Chang, J., Cai, X., Yang, J., Cao, P.,
+Trained immunity modulators: A new frontier in immunoregulation and disease intervention, Journal of
+Advanced Research (2025), doi: https://doi.org/10.1016/j.jare.2025.09.029
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition of a cover
+page and metadata, and formatting for readability, but it is not yet the definitive version of record. This version
+will undergo additional copyediting, typesetting and review before it is published in its final form, but we are
+providing this version to give early visibility of the article. Please note that, during the production process, errors
+may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+© 2025 Published by Elsevier B.V. on behalf of Cairo University.
+Trained Immunity Modulators: A New Frontier in Immunoregulation and 
+Disease Intervention
+Jiao Chena,b*, Chenxi Wangb, Shilin Chenb, Hui Caib, Mengke Wangb, Jingjie Changb, Xueting 
+Caia,b, Jie Yanga,b*, Peng Caoa,b,c,d*
+a Jiangsu Provincial Integrated Innovation Center of Hospital Preparations, Jiangsu Province Academy of 
+Traditional Chinese Medicine, Nanjing, Jiangsu, 210028, China;
+b Jiangsu Provincial Medicinal Innovation Center, Affiliated Hospital of Integrated Traditional Chinese and 
+Western Medicine, Nanjing University of Chinese Medicine, Nanjing, Jiangsu, 210028, China
+c State Key Laboratory on Technologies for Chinese Medicine Pharmaceutical Process Control and Intelligent 
+Manufacture, Nanjing University of Chinese Medicine, Nanjing, Jiangsu, 210023, China
+d Shandong Academy of Chinese Medicine, Jinan, 250014, China
+* Correspondence: 
+E-mail addresses: chenjiao@njucm.edu.cn (J. Chen), yangjie0087@126.com (J. Yang), cao_peng@njucm.edu.cn 
+(P. Cao).
+Trained Immunity Modulators: A New Frontier in Immunoregulation and 
+Disease Intervention
+Abstract:
+Background: Immunotherapy has emerged as one of the most revolutionary approaches in 
+disease treatments. However, most current and emerging immunotherapeutic strategies primarily 
+target the adaptive immune system. Recent studies have elucidated that innate immune myeloid 
+cells can develop sustained phenotypic modifications upon exposure to specific immunomodulators, 
+mediated through coordinated metabolic alterations and epigenetic reprogramming. These changes 
+lead to either hyperresponsive or hyporesponsive innate immune cells when exposed to secondary 
+stimuli, a phenomenon termed “trained immunity”. Over the past decade, trained immunity has 
+garnered increasing attention for its potential to enhance host defense. While numerous studies 
+have investigated trained immunity modulators, comprehensive reviews—especially those 
+focusing on recently identified modulators—are still lacking. 
+Aim of review: This review aims to elucidate the molecular mechanisms underlying trained 
+immunity and its dual roles in various pathological conditions. We provide a comprehensive 
+summary of the classifications and mechanisms of trained immunity inducers and suppressors 
+identified in the past decade, emphasizing their therapeutic potential in immune-related diseases. 
+Additionally, we discuss the limitations of these trained immunity modulators and offer insights 
+into future directions for developing novel therapies targeting trained immunity.
+Key scientific concepts of review: This review first provide an overview of the molecular 
+mechanisms underlying trained immunity, highlighting both its beneficial and detrimental effects 
+on various diseases. Then it focuses on summarizing the classification and mechanisms of trained 
+immunity modulators, including vaccines, polysaccharides, nanobiologics, endogenous mediators 
+and other non-canonical modulators. Finally, the limitations of current trained immunity 
+modulators and insights into future directions for developing novel therapies targeting trained 
+immunity are proposed.
+Keywords: Trained immunity, Inducer, Suppressor, Vaccine, Polysaccharide
+1. Introduction
+Immune memory has garnered increasing worldwide attention due to its crucial role in the 
+protective efficacy of vaccines and other immunotherapies. For a long time, it was believed that 
+immune memory was a unique feature of adaptive immunity. Consequently, most available 
+immunotherapeutic approaches have primarily focused on the adaptive T lymphocytes, with the most 
+advanced clinical applications including specific antibodies directed against PD-1, PD-L1, and 
+CTLA4, which have brought great benefits to patients [1-3]. However, substantial research in recent 
+decade has challenged this classical view of immune responses, revealing that innate immune cells 
+can also acquire memory-like characteristics after exposure to stimuli. These responses, 
+characterized by either heightened or diminished immune reaction upon secondary exposure to 
+identical or unrelated stimuli, are defined as “trained immunity” (also referred to as “innate immune 
+memory”) and “tolerance”, respectively (Fig. 1 A) [4]. Both phenomena are primarily driven by 
+metabolic and epigenetic reprogramming mechanisms, with divergent outcomes determined by the 
+nature of the priming stimulus and the downstream signaling cascades engaged [5-7]. 
+A prominent example is the Bacille Calmette-Guérin (BCG) vaccine, which is currently 
+approved by FDA for immunotherapy of non-muscle invasive bladder cancer (NMIBC). Notably, its 
+therapeutic effect is largely attributed to the activation of trained immunity [8, 9]. Over the past 
+decade, trained immunity has rapidly emerged as a transformative concept in immunology. Given its 
+potential, targeting innate immune cells to regulate trained immunity serves as an encouraging 
+approach for the prevention and treatment of a variety of immune-associated disorders.
+Trained immunity represents a durable, functional adaptation of innate immune cells, 
+maintaining regulatory modifications that endure from several months to even years in humans [10, 
+11]. This phenomenon has been observed in both central and peripheral innate immune cells (Fig. 1 
+B). Early trained immunity research primarily focused on circulating monocytes/macrophages and 
+natural killer (NK) cells [12, 13]. Subsequent studies revealed that bone marrow progenitor cells can 
+also acquire memory-like phenotypes and transmit these traits to their offspring, which eventually 
+migrate to tissues and differentiate into tissue macrophages, neutrophils and NK cells [14-16]. More 
+recent findings indicate that trained immunity can also be triggered in other immune cell types such 
+as dendritic cells (DCs) and innate lymphoid cells (ILCs) [17, 18]. Interestingly, certain nonimmune 
+cell types, including epithelial cells, endothelial cells, vascular smooth muscle cells, and fibroblasts, 
+have also been shown to acquire trained immunity-like characteristics [19-22].
+Unlike T and B lymphocytes, which obtain specific adaptive immune memory though antigen 
+receptor gene rearrangement and clonal expansion, innate immune cells build immune memory 
+mainly via pattern recognition receptors (PRRs). These evolutionarily conserved sensors recognize 
+pathogenic invaders (pathogen-associated molecular patterns, PAMPs) and endogenous danger 
+signals (damage-associated molecular patterns, DAMPs), initiating innate immune activation 
+[23-25]. Major PRRs classes include Toll-like receptors (TLRs), C-type lectin receptors (CLRs), and 
+NOD-like receptors (NLRs), each specialized in detecting distinct microbial or endogenous signals 
+[26-28]. The nature of the PRR-PAMP/DAMP interactions determines the downstream signaling and 
+ultimately the immune responses. 
+Trained immunity develops mainly through the intricate interactions between metabolic and 
+epigenetic modifications within innate immune cells. Upon initial stimulation, the recognition of 
+PAMPs, DAMPs, or other specific ligands by PRRs triggers cascades of intracellular events that 
+enhance metabolic pathways, including the tricarboxylic acid (TCA) cycle, glycolysis, and 
+cholesterol metabolism, primarily through the AKT-mTOR-HIF1α signaling axis [6, 7, 29-31]. 
+Metabolites like fumarate and acetyl-CoA, generated through these pathways, regulate epigenetic 
+enzymes, including histone demethylases (e.g., KDM5) and histone acetyltransferases, thereby 
+modifying chromatin structure [6, 29]. These processes alter histone methylation and acetylation 
+patterns at promoters and enhancers of proinflammatory genes, increasing chromatin accessibility 
+and facilitating transcriptional activation [32]. As a result, innate immune cells exhibit an enhanced 
+ability to produce cytokines and reactive oxygen species (ROS), as well as increased phagocytic and 
+antimicrobial activity upon re-stimulation [33, 34].
+From an evolutionary standpoint, trained immunity likely evolves as a mechanism to enhance 
+host defense against recurrent pathogen challenges or tissue damage [4, 35, 36]. However, 
+maladaptive manifestations of trained immunity, either hyperinflammation or immunosuppression, 
+can contribute to various disease states. Thus, both the induction and deficiency of trained immunity 
+can impact disease pathogenesis and clinical outcomes [37]. In this review, we summarize the 
+beneficial and detrimental effects of trained immunity in different diseases. We also provide an 
+updated overview of potential trained immunity modulators, their mechanisms, and recent advances 
+in trained immunity-based immunotherapy, offering insights for developing novel and more effective 
+modulators for the treatment of related diseases.
+Fig. 1 Trained immunity and involved cell populations. A. Trained immunity and tolerance. Upon stimulation 
+by immunomodulators, the innate immune cells produce an initial response. Upon secondary stimulation, they 
+produce either hyperresponsiveness (trained immunity) or hyporesponsiveness (tolerance). B. Cell populations and 
+mechanisms involved in trained immunity. PAMP/DAMPs or other specific ligands train the progenitor cells of 
+bone marrow to acquire memory-like phenotypes that are transmitted to circulating cells. Circulating cells, which 
+can also be trained directly by immunomodulators, eventually migrate to tissues, where they enhance 
+proinflammatory responses upon rechallenge. In addition, trained immune reprogramming also occurs in 
+non-immune cells, such as epithelial cells, endothelial cells, VSMCs, fibroblasts, etc. Recognition of 
+PAMP/DAMPs by PRRs triggers metabolic upregulation (including glycolysis, TCA cycle, cholesterol/fatty acid 
+synthesis, and glutaminolysis) and epigenetic reprogramming (such as histone demethylation and acetylation), 
+which underlie trained immunity induction. The figure is created with Figdraw.com.
+2. The Role of Trained Immunity in Disease
+2.1 Protective roles in re-infectious diseases
+Infectious diseases represent a major public health threat, particularly in low-income regions. 
+Trained immunity, observed in both innate immune cells and certain nonimmune cell types, plays an 
+important role in resisting various exogenous and endogenous pathogens, especially in cases where 
+adaptive immunity is delayed, inefficient or impaired (Fig. 2). This enhanced immune response 
+provides broad and nonspecific protection upon secondary exposure to pathogens, and has been 
+proved particularly beneficial in re-infectious diseases. Early studies found that vaccination with 
+BCG reduced the overall mortality in newborns and low-birth-weight infants [38, 39]. Interestingly, 
+BCG vaccination also provides beneficial effects against infections in adolescents and older 
+individuals, highlighting its broad immunostimulatory capacity across different age groups [40-43]. 
+Further studies have revealed that vaccinated with BCG induces cross-immunity, offering protection 
+not only against Mycobacterium tuberculosis (Mtb) but also against unrelated pathogens such as 
+influenza virus, poliovirus, Streptococcus pneumoniae (S. pneumoniae), and Plasmodium species 
+[44-48]. This broad-spectrum, T- and B-cell-independent protection is recently attributed to trained 
+immunity. In addition to BCG, other live attenuated vaccines, including the measles-mumps-rubella 
+(MMR) vaccine and oral polio vaccine (OPV), have been shown to induce trained immunity in 
+innate immune system, resulting in broad-spectrum protective responses against subsequent 
+infections, regardless of pathogen specificity [49-51]. This cross-protective effect is particularly 
+beneficial in low-resource settings, where it not only reduces the overall cost of vaccination but also 
+broadens protection against multiple infectious threats.
+Beyond vaccines, other trained immunity inducers such as β-glucan, have demonstrated the 
+capacity to enhance protection against a range of heterologous pathogens, including Pseudomonas 
+aeruginosa (P. aeruginosa), Staphylococcus aureus (S. aureus), Mtb, and Leishmania braziliensis 
+(L. braziliensis) [7, 52-54]. However, persistent or uncontrolled infections can lead to sustained 
+immune activation, resulting in tissue damage. In such cases, excessive trained immune responses 
+may contribute to immunopathology, including sepsis, where overwhelming systemic inflammation 
+leads to multiorgan damage. Therefore, the regulation of trained immunity must be finely tuned to 
+both enhancing host defense and preventing immune-mediated tissue injury.
+Throughout the COVID-19 pandemic, the potential of trained immunity-inducing vaccines has 
+been investigated through experimental, clinical and epidemiological studies for their role in 
+protecting against SARS-CoV-2. Animal studies have demonstrated that BCG vaccination provides 
+partial protection against SARS-CoV-2 infection [55, 56]. Vaccines such as BCG and MMR are 
+hypothesized to reduce disease severity and mortality associated with COVID-19, although 
+conclusive evidence from large-scale randomized clinical trials is still needed [57-63]. Furthermore, 
+BCG vaccination-induced trained immunity has been demonstrated to heighten the responsiveness of 
+B and T lymphocytes to SARS-CoV-2 vaccines utilizing mRNA and adenoviral vector technologies 
+[57, 59]. These findings imply that boosting the innate immune responses may improve vaccine 
+efficacy by creating a more robust immunological environment prior to the activation of 
+antigen-specific responses. Nevertheless, it should be emphasized that, under specific conditions, 
+viral infections themselves can induce overactivation of trained immunity, potentially leading to 
+long-term inflammatory sequelae [64-66]. Lessons learned from trained immunity investigations 
+during the COVID-19 pandemic may provide valuable insights for the design of preventive strategies 
+against future outbreaks of infectious diseases.
+2.2 Harmful impact in persistent inflammatory disorders
+While trained immunity plays a protective role in combating infections, it also exerts 
+detrimental effects in persistent inflammatory disorders, such as autoimmune disorders, 
+cardiovascular diseases, neurodegenerative conditions, allergies, and organ transplantation rejection 
+(Fig. 2). Under such conditions, maladaptive trained immunity may sustain sterile inflammation and 
+initiate persistent inflammatory cascades, thereby fueling the progression of chronic inflammatory 
+disorders. 
+In autoimmune disorders such as rheumatoid arthritis (RA), the aberrant production of 
+proinflammatory cytokines can induce trained immunity, leading to heritable modifications of 
+cellular metabolism and gene expression patterns in hematopoietic stem progenitor cells (HSPCs) 
+populations. This reprogramming results in exacerbated inflammatory responses that perpetuate joint 
+inflammation and induce bone destruction [67-69]. Trained immunity has been observed in both 
+mature osteoclasts and their precursors, which produce stronger secondary inflammatory responses 
+and elevated bone resorption in chronic arthritic conditions [70]. As an immunological regulator, 
+trained immunity alters the host's responsiveness to treatment and affects RA outcomes, typically 
+manifesting as persistent inflammatory episodes and relapse following medication withdrawal [68].
+The role of trained immunity in atherosclerosis and cardiovascular disease has attracted 
+growing attention. Emerging evidence suggests that trained immunity contributes to the sustained 
+inflammatory response underlying atherosclerotic plaque formation and progression [71-75]. 
+Traditional cardiovascular risk factors such as dyslipidaemia, diabetes, hypertension, along with 
+lifestyle-related factors like stress, insomnia, lack of exercise and Western-style diet, as well as 
+inflammatory states such as infections, gout, and periodontitis, all predispose to induce trained 
+immunity and lead to an elevated risk of atherosclerosis [74]. Moreover, acute adverse 
+cardiovascular events themselves can also cause persistent immunological alterations in HSPCs, 
+contributing to continuous generation of proinflammatory innate immune cells such as monocytes, 
+neutrophils, and NK cells [71-73]. Trained immunity can also occur in tissue-resident innate immune 
+cells, which may infiltrate atherosclerotic plaques, where they contribute to the inflammatory 
+environment and plaque instability.
+In the context of neurocognitive disorders, such as Alzheimer's disease (AD), maladaptive 
+trained immunity also exacerbates disease progression. Experimental murine AD models have 
+demonstrated that systemic immune challenges provoke enduring epigenetic reprogramming of 
+central nervous system macrophages (namely microglia), subsequently accelerating cerebral 
+β-amyloid plaque deposition and cognitive decline [76]. These changes are associated with activation 
+of pathways such as HIF1α and mTOR, resulting in transcriptional and functional reprogramming of 
+microglia that promote neuroinflammation [77, 78]. Additionally, patients with neurovascular 
+disorders and comorbid systemic inflammation demonstrate trained immunity phenotypes in 
+circulating monocytes, evidenced by hyperresponsiveness to ex vivo challenge and elevated release 
+of IL-6/IL-8. This hyperinflammatory profile correlates with both clinical severity and 
+neuropathological progression [79]. These findings indicate that the triggering of trained immunity 
+by chronic systemic inflammation contributes to neurodegeneration via sustained neuroinflammatory 
+responses.
+In organ transplantation, post-transplant immune rejection is a crucial factor undermining 
+transplant success, where trained immunity—with its heightened innate immune responses—may 
+potentially compromise graft tolerance. In experimental organ transplantation models, donor organ 
+ischemia-reperfusion injury triggers peripheral inflammation, promoting long-term trained immunity 
+in graft-site macrophages that exacerbates transplant rejection [80]. These trained macrophages 
+exhibit increased pro-inflammatory cytokines production and mTOR/HIF1α pathway activation, 
+which drive changes in epigenetic modification and cellular function. New findings demonstrate that 
+trained immunity impedes kidney transplant success. Uremic toxins such as indoxyl sulfate in 
+patients with chronic kidney disease (CKD) can induce trained immunity, leading to sustained 
+activation of long-lived CD14+CD16++ memory monocytes [81, 82]. These cells promote systemic 
+inflammation and may potentially mediate allograft rejection. Another study establishes trained 
+immunity suppression as a critical determinant of kidney allograft survival, identifying it as a novel 
+therapeutic target to enhance transplant outcomes [83].
+2.3 Dual role in cancer progression
+Recent research has underscored the great potential of trained immunity in combating cancer. 
+Notably, the BCG vaccine has demonstrated anti-tumor effects through the induction of trained 
+immunity and is currently utilized in the treatment of NMIBC, as well as in certain cases of 
+malignant lymphoma and melanoma [84-86]. In addition, BCG has shown therapeutic potential in 
+hepatocellular carcinoma (HCC) and liver metastases, through mechanisms that are believed to 
+resemble those involved in NMIBC treatment [87]. Moreover, BCG has been associated with a 
+reduced risk of several other malignancies, including lung cancer, leukemia, lymphoma, and 
+colorectal cancers [88-93], although whether the treatment outcomes are directly attributable to 
+trained immunity remains to be fully elucidated.
+Another immunostimulatory agent, β-glucan, has also demonstrated the ability to suppress 
+melanoma and Lewis lung carcinoma (LLC) growth by innate immune training of granulopoiesis 
+[33]. Furthermore, whole β-glucan particles have been shown to reprogram lung interstitial 
+macrophages to a trained immunity phenotype, thereby inhibiting tumor metastasis [94]. The 
+strategic enhancement of trained immunity using rationally designed nanobiologics also holds 
+promise in eliciting long-lasting anti-tumor immunity, either as monotherapy or in combination with 
+immune checkpoint blockade therapies (e.g., anti-PD-1) to enhance anti-tumor efficacy [95].
+Despite these encouraging findings, trained immunity functions as a double-edged sword in the 
+context of cancer (Fig. 2). On the one hand, properly harnessed trained immunity can induce robust 
+anti-tumor effects; on the other hand, excessive or chronic activation may promote tumor 
+progression through sustained inflammation. Innate immune cells infiltrating the tumor 
+microenvironment (TME) can undergo metabolic and epigenetic reprogramming, resulting in 
+sustained inflammatory responses that may impede cell apoptosis, enhance oxidative stress, promote 
+mitochondrial dysfunction, and ultimately accelerate tumor growth [4]. In particular, cytokines such 
+as IL-6 and TNF-α secreted from trained innate immune cells have been shown to enhance 
+tumorigenesis and metastasis in multiple malignancies [96]. Therefore, a comprehensive 
+understanding of the multifaceted roles of trained immunity in oncogenesis is essential for guiding 
+its therapeutic application. 
+Fig. 2 The dual role and therapeutic prospects of trained immunity. Trained immunity benefits the treatment of 
+diseases like infection, but also exacerbates the progression of chronic inflammatory diseases like atherosclerosis. 
+Therefore, either inducing or suppressing trained immunity have therapeutic potential. For cancer, properly 
+harnessed trained immunity can induce robust anti-tumor effects, but excessive or chronic stimulation-induced 
+inflammatory states fuel tumor progression. The figure is created with Figdraw.com.
+3. Potential Modulators of Trained Immunity: Inducers and Suppressors
+The factors that regulate trained immunity include immunological modulators (both inducers 
+and suppressors), the gut microbiota and other microbial environments, the inflammatory status, 
+genetic background of the host, and the environmental conditions such as nutrition, lifestyle, and 
+pollutants. This section focuses specifically on the potential inducers and suppressors of trained 
+immunity (Fig. 3), summarizing their types, therapeutic effects, and underlying mechanisms. 
+ 
+Fig. 3 A schematic diagram summarizing the categories and examples of trained immunity modulators.
+3.1 Inducers of trained immunity
+The currently identified trained immunity inducers mainly include vaccines, polysaccharides, 
+endogenous metabolites, and certain pathogenic microorganisms. These agents activate trained 
+immunity, producing enhanced and prolonged immune responses upon secondary exposure to either 
+homologous or heterologous stimuli.
+3.1.1 Vaccines
+Unlike traditional vaccines which are designed to stimulate antigen-specific adaptive immune 
+responses, vaccines associated with trained immunity enhance innate immune responses. These 
+vaccines provide “heterologous protection”, extending defense against a wide range of pathogens, 
+irrespective of related or unrelated. Live attenuated viral vaccines such as BCG, MMR, and the 
+polybacterial mucosal vaccine MV130, have demonstrated the ability to induce trained immunity and 
+confer broad protective effects [39, 48, 97-102]. Additionally, emerging evidence suggests that 
+mRNA vaccines developed against COVID-19 also activate pathways associated with trained 
+immunity [102].
+(1) BCG vaccine
+Most of our knowledge about trained immunity in human stems from studies on the BCG 
+vaccine, a live attenuated strain of Mycobacterium bovis developed for tuberculosis prevention [103, 
+104]. The protective role of BCG against Mtb-unrelated infections and cancers through trained 
+immunity has been discussed in Section 2.1. BCG exerts its effects through the activation of PRRs 
+such as TLR2/4 and NOD2, triggering epigenetic and metabolic reprogramming in monocytes and 
+HSPCs. Key molecular features include histone H3K4 trimethylation and enhanced glycolytic 
+activity, contributing to sustained inflammatory cytokine responses [43, 105] (Table 1). 
+Beyond infectious diseases, BCG exhibits beneficial effects against cancer, partly medicated by 
+trained immunity [106, 107]. Clinical studies report sustained elevation of TNF-α and IL-1β 
+secretion in peripheral monocytes from treated NMIBC patients [106]. Autophagy and interferon 
+(IFNs) signaling are crucial for BCG-induced epigenetic modifications, and their inhibition blocks 
+H3K4 trimethylation in monocytes [9, 108].
+Single-cell RNA sequencing of immune cells from 156 samples revealed heterogenic 
+transcriptional responses to lipopolysaccharides (LPS) in both monocytes and CD8+ T cells. IFN-γ 
+signaling is critical and upregulated in high BCG responders, with STAT1 identified as a key 
+transcription factor involved in trained immunity in monocytes [108]. 
+To enhance BCG-mediated immune responses, recombinant BCG overexpressing cyclic di-AMP 
+has been developed. This modification improves the efficacy of anti-bladder cancer and exhibits 
+greater potential than wild-type BCG by inducing higher IFN-β production, promoting M1-like 
+macrophage polarization, activating epigenetic markers in proinflammatory cytokine promoters 
+while shifting monocyte metabolism toward glycolysis [109, 110]. 
+Combining BCG with cancer immunotherapies has shown promising results [111-113]. A 
+clinical trial found that intravesical BCG combined with MAGE-A3 vaccine therapy enhanced local 
+T-cell responses in patients with NMIBC compared to using the MAGE-A3 cancer vaccine alone 
+[113]. Daman et al. proved that intravesical BCG reprogramed HSPCs via IFN-γ, enhancing myeloid 
+cell antigen presentation and promoting T cell infiltration, which synergized with PD-1 blockade 
+[112]. A case report also described disease stabilization in a gastric neuroendocrine carcinoma 
+patient treated with BCG plus nivolumab [111]. However, further large-scale studies are needed to 
+fully evaluate the potential benefits of trained immunity inducers, such as BCG, as adjuvants to 
+immune checkpoint inhibitor therapy.
+(2) MMR vaccine
+The MMR vaccine provides effective prophylaxis against measles, mumps, and rubella. 
+Epidemiological studies suggest that it also reduces all-cause childhood mortality via heterologous 
+effects [114, 115]. A case-control study observed a reduction in COVID-19 incidence among men 
+who received the MMR vaccine [116]. Most research on trained immunity-induced heterologous 
+protection from vaccines such as BCG and influenza has focused on the training of myeloid cells 
+[10, 117, 118]. However, single-cell multiomics analysis (including transcriptional and epigenetic 
+profiling) from a clinical trial revealed that MMR primarily induced trained immunity in γδT cells 
+rather than monocytes [50]. These γδT cells produce higher levels of TNF and IFN-γ, and upregulate 
+cellular metabolic pathways following MMR stimulation. The differences in trained immunity 
+programs induced by BCG (myeloid cells-dependent) and MMR (lymphoid cells-dependent) suggest 
+that different vaccines can induce distinct types of trained immunity.
+(3) MV130 vaccine
+MV130 is a whole heat-inactivated polybacterial mucosal vaccine comprising of varying ratios 
+of Gram-positive and Gram-negative microorganisms. Clinical trials report that MV130 significantly 
+reduces the incidence of recurrent respiratory infections [119, 120]. In murine models, MV130 
+preconditioning confers cross-protection against viral respiratory infections [49]. It also protects 
+against systemic candidiasis in a manner independent of B and T lymphocytes, and inhibition of 
+trained immunity through the mTOR pathway abrogates its heterologous protection effect. MV130 
+induced epigenetic reprogramming of mouse myeloid progenitors, and drives both epigenetic and 
+metabolic alterations in human monocytes, resulting in increased cytokine production [49]. These 
+findings collectively indicate that MV130 is an inducer of trained immunity.
+3.1.2 Polysaccharides
+   Extensive evidence highlights the therapeutic efficacy of naturally derived polysaccharides 
+across diverse disease states, demonstrating both prophylactic and interventional benefits. Among 
+them, certain polysaccharides such as β-glucan—an established inducer of trained immunity—have 
+become an extraordinarily popular research topic in the fields of infectious disease and tumor 
+immunology. 
+(1) β-Glucan
+The immunostimulating β-glucan is a natural polysaccharide with (1,3)-linked D-glucose 
+backbone and variable lengths of (1-6) glucosidic side chains. It is abundantly found in the cell walls 
+of plants, fungi and certain bacteria [121]. Recent studies have shown that two forms of β-glucan, 
+soluble fiber β-glucan and whole β-glucan particles (WGP), can induce trained immunity by 
+interacting with Dectin-1 and activating the downstream pathway of Akt/mTOR/HIF1α. The 
+combination of β-glucan with immunotherapy has sparked renewed interest in trained immunity and 
+anti-tumor responses [122]. 
+In the context of cancer, aberrant myelopoiesis often leads to an increased production of 
+myeloid-derived immune cells, such as monocytes, macrophages and neutrophils. These immune 
+subsets typically infiltrate the TME, where they undergo functional reprogramming to acquire 
+distinct pro-tumorigenic characteristics. Kalafati et al. demonstrated that prophylactic administration 
+of mice with β-glucan significantly inhibited the growth of melanoma and LLC [33]. The 
+tumor-suppressive properties were mediated by trained immunity mechanisms involving 
+transcriptional and epigenetic remodeling during granulocyte differentiation, as well as the 
+functional polarization of neutrophils from a tumor-promoting phenotype (TAN2) to a 
+tumor-suppressive phenotype (TAN1). These changes were mediated by type I interferon pathway, 
+independent of the host's adaptive immunity. 
+Pancreatic ductal adenocarcinoma (PDAC) is characterized by insufficient infiltration of 
+activated immune cells in the TME, resulting in limited responsiveness to immunotherapies such as 
+CTLA-4 
+and 
+PD-1 
+inhibitors 
+[123]. 
+To 
+overcome 
+the 
+immunologically 
+suppressive 
+microenvironment, particulate WGP β-glucan has been administered intraperitoneally (IP) in murine 
+PDAC models. It selectively accumulates in pancreatic tissue, where it induces infiltration of innate 
+immune cells such as proinflammatory macrophage/monocytes displaying a trained immunity 
+signature in a CCR2-dependent manner [124]. These WGP-educated myeloid cells demonstrate 
+augmented tumoricidal capacity through phagocytic potentiation and ROS-dependent cytotoxicity. In 
+orthotopic PDAC models, WGP-mediated innate immune reprogramming achieves significant tumor 
+regression and survival extension, particularly when combined with PD-L1 checkpoint blockade 
+[124]. Additionally, orally administered β-glucan has been confirmed as an alternative route to elicit 
+trained immunity, working synergistically with surgical ablation to reduce both local and distant 
+PDAC burden [125]. A novel strategy using antibody–β-glucan conjugates (AGC) has been 
+proposed to promote β-glucan delivery into the TME while facilitating interactions between tumor 
+cells and DCs [126]. Compared to monotherapy, AGC induces faster immune responses, increases 
+DC infiltration and T cell activation in the TME, and ultimately leading to enhanced tumor 
+suppression in MC38 murine models. 
+Tumor metastasis remains the primary cause of cancer-associated deaths, and bone 
+marrow-derived hematopoietic progenitors provide a supportive microenvironment in the 
+pre-metastatic niche [127]. Ding et al. discovered that WGP treatment triggers the development of 
+trained immunity characteristics in pulmonary interstitial macrophages, characterized by elevated 
+TNF expression and enhanced phagocytosis upon secondary stimulation [94]. This reprogramming, 
+driven by sphingolipid synthesis and mitochondrial fission, led to reduced metastatic burden and 
+prolonged survival in multiple metastasis models.
+In addition to anti-cancer effects, β-glucan also exhibits promising potential in combating 
+infectious diseases. Moorlag et al. demonstrated that β-glucan triggers protective trained immunity 
+via histone modifications as evidenced in both human monocytes and murine models of Mtb 
+infection [53]. This protective effect is associated with the expansion of HSPCs and increased 
+myelopoiesis via IL-1 signaling. IL-32 has also been identified to be crucial for β-glucan-induced 
+protection against L. braziliensis infection [52]. β-Glucan protects against S. aureus sepsis and 
+Candida albicans (C. albicans) infection via trained immunity mechanisms dependent on 
+mTOR/HIF1α-mediated aerobic glycolysis [7]. Stothers et al. found that β-glucan confers protection 
+against P. aeruginosa infection in murine models through inducing trained immunity in 
+macrophages, which are characterized by augmented phagocytosis, increased ROS production, and 
+sustained enhanced glycolytic and oxidative metabolism [54]. Superparamagnetic iron oxide (SPIO), 
+a clinical used iron supplement approved by FDA has been shown to relieve LPS-stimulated sepsis 
+in murine models by promoting IL-10 secretion from macrophages. Pan et al. developed 
+β-glucan-coupled SPIO nanoparticles (BSNPs), which effectively reprogram macrophages through 
+mTOR signaling to boost trained immunity and enhance bacteria phagocytosis, thereby protecting 
+mice from sepsis and secondary infections [128].
+β-Glucan incorporating tumor antigens have been developed as anti-tumor vaccines, aiming to 
+strategically combine trained innate immunity with adaptive immunity for enhanced cancer 
+immunotherapy. In addition to acting as a trained immunity inducer that triggers proinflammatory 
+cytokine production, β-glucan also enhances antigen uptake and presentation by DCs, promotes DC 
+maturation and boosts T cell-mediated immune responses [129]. A recent study developed a 
+personalized cancer vaccine by engineering the model immunogen ovalbumin, β-glucan and the 
+non-viable probiotic Escherichia coli (E. coli) Nissle 1917 (EcN) [130]. Following subcutaneous 
+injection, the engineered vaccine is phagocytosed by macrophages, resulting in the induction of 
+trained immunity evidenced by enhanced TNF-α production and phagocytosis upon secondary 
+stimulation. These trained macrophages promote DC recruitment and maturation, ultimately 
+enhancing T cell-mediated anti-tumor responses. In vivo experiments confirmed that the engineered 
+vaccine efficiently inhibited tumor growth and prevented postoperative tumor recurrence by eliciting 
+stronger adaptive and trained innate anti-tumor immune responses [130]. 
+Another study developed a nano-cancer vaccine incorporating the human papillomavirus (HPV) 
+E7 tumor antigen with two types of trained immunity inducers, β-glucan and muramyl dipeptide 
+(MDP), which almost completely suppressed the growth of TC-1 tumors [131]. The nanovaccine 
+effectively delivers the tumor antigens and trained immunity inducers to the lymph nodes and DCs, 
+promoting DC maturation and augmenting the responses of E7 antigen-specific CD8+ T cells 
+expressing IFN-γ [131]. These findings indicate that cancer vaccines adjuvanted with trained 
+immunity inducers hold great promise for improving adaptive immunotherapy, although their 
+efficacy, safety and tolerability in human subjects still require carefully evaluation.
+(2) Low dose of LPS
+LPS is a structural element of the membranes of Gram-negative bacteria, which functions as a 
+PAMP that binds to TLR4, thereby eliciting trained immunity under specific conditions [132]. 
+Exposure to low concentrations of LPS activates innate immune cells through MAPK/p38 signaling 
+pathway (Figure 3), resulting in elevated secretion of IL-6 and TNF-α upon secondary stimulation 
+[133]. This response is associated with epigenetic changes in myeloid cells, which is durable since 
+LPS stimulation induces persistent H3K4 methylation in corresponding to enhanced responses upon 
+restimulation [134]. LPS-induced trained immunity also depends on the regulation of transcription 
+factors, including ATF7 and C/EBPβ [135, 136]. In macrophages, LPS treatment induces 
+phosphorylation of ATF7 via p38 kinase, resulting in ATF7 release from chromatin and the 
+subsequent reduction of inhibitory H3K9me2 histone marks [135]. While in HSCs, epigenetic 
+changes induced by LPS are dependent on C/EBPβ, which facilitates long-term transcriptional 
+changes in gene expression via chromatin remodeling [136]. Moreover, metabolic rewiring 
+accompanies these epigenetic modifications. LPS-activated macrophages exhibit upregulation of 
+glycolysis and downregulation of oxidative phosphorylation (OXPHOS), leading to a significant 
+accumulation of succinate, a metabolite known to promote inflammatory responses [137]. These 
+investigations indicate that LPS can trigger trained immunity through both epigenetic and metabolic 
+pathways. In a related study, Zahalka et al. discovered that intranasal exposure to LPS triggers 
+prominent memory responses in alveolar macrophages (AM) upon pneumococcal challenge. This 
+effect is mediated by the type І interferon signaling pathway, fatty acid oxidation (FAO) and 
+glutaminolysis [138]. 
+However, LPS can also induce immune tolerance under different conditions. High concentration 
+of LPS exposure leads to a tolerogenic state characterized by decreased expression of TLR4 and 
+reduced interactions with MyD88, resulting in diminished production of inflammatory cytokines and 
+immunosuppression [133]. Epigenetic modifications are also responsible for LPS-induced immune 
+tolerance, as evidenced by the failure to accumulate activating histone marks at the promoters and 
+enhancers of genes crucial for lipid metabolism and phagocytosis in LPS-treated monocytes [139, 
+140]. Notably, Novakovic et al. found that the epigenetic condition of immune tolerance induced by 
+LPS can be reversed by β-glucan treatment [139].
+(3) Chitin
+Chitin is a natural polysaccharide mainly composed of N-acetylglucosamine units connected by 
+β-1,4-glucosidic bonds [141]. It serves as an important structural component in various organisms, 
+especially in the cell walls of bacteria and fungi, as well as in the exoskeletons of invertebrates such 
+as insects and crustaceans [142]. In mammals, chitin is recognized by the innate immune system, 
+primarily in gut and lung, where it triggers a range of innate immune cells, including monocytes, 
+macrophages and eosinophils, and regulates adaptive immune responses (e.g., Th1, Th2 and Th17 
+responses). Although the PRRs of FIBCD1, RegIIIc, and NKR-P1 have been reported as 
+chitin-binding receptors, the primary immune recognition of chitin in mammals is mediated through 
+TLR-2/4 and Dectin-1 [143, 144]. Interactions with these receptors activate immune cells, leading to 
+cytokine production and the establishment of an immune network that drives inflammatory 
+responses. The full-length chitin polymer is inert; however, catalysis by acidic mammalian chitinase 
+(AMCase) produces bioactive fragment that are recognized by TLR-2 and Dectin-1 on the membrane 
+of immune cells such as macrophages [145]. Rizzetto et al. found that fungal chitin triggers trained 
+immunity in monocytes, as evidenced by amplified secretion of TNF-α and IL-6 upon restimulation 
+with TLR ligands in a Saccharomyces Cerevisiae infection model [146]. These chitin-trained 
+monocytes also exhibit enhanced intracellular killing ability against fungi and bacteria, with histone 
+methylation playing a key role in this process. Despite promising immunostimulatory properties, the 
+mechanisms underlying chitin-induced trained immunity remain less well understood than those 
+triggered by BCG or β-glucan. In addition to the beneficial effects, chitin-induced trained immunity 
+may also have unexpected detrimental effects, as fungi chitin has been shown to exacerbate the 
+severity of intestinal inflammation in colitis models [147].
+3.1.3 Nanobiologic-based inducers
+In this review, nanobiologics are defined as nanoscale platforms that integrate biological or 
+synthetic carriers (e.g., vesicles, lipoproteins) with trained immunity inducers. Their immunological 
+effects rely not only on the cargo but also on the nanostructure itself, which determines 
+biodistribution, cell targeting, and functional synergy. Over the past decade, researchers have 
+identified highly effective nanoparticles, such as bacterial outer membrane vesicles (OMVs) and 
+MTP10-HDL, which target innate immune cells. These nanoparticles can be engineered into 
+nanobiologics by loading them with therapeutic agents. 
+(1) OMVs
+OMVs are nanoscale vesicles naturally secreted by bacteria and contain abundant PAMPs such 
+as peptidoglycan, LPS, and flagellin [148]. These PAMPs endow OMVs with the capacity to 
+function as trained immunity inducers. Pre-inoculation of OMVs to mice activated the 
+inflammasome signaling pathways and stimulated the production of IL-1β. Elevated IL-1β in bone 
+marrow microenvironment causes epigenetic remodeling of hematopoietic progenitor cells, thereby 
+enhancing the production of antigen-presenting cell progenitors for subsequent tumor vaccinations. 
+This process leads to augmented immune responses and enhances the activation of tumor 
+antigen-specific T cells [148]. However, OMVs encounter challenges such as immune tolerance, 
+long-term trained effects, systemic delivery issues, and non-specific tumor-targeting phagocytic 
+activity mediated by macrophages. 
+To overcome these limitations, OMVs have been engineered into a nanohybrid vaccine by 
+conjugating them with fusion proteins comprising signal regulatory protein-α(SIRPα)-Fc and 
+granulocyte macrophage colony-stimulating factor (GM-CSF) [149]. The OMV-based nanohybrids 
+exhibit enhanced anti-tumor activity in the MC38 tumor model (characterized by tumor-associated 
+macrophage (TAM)-hot and T cell-cold features) through the activation of trained immunity and 
+adaptive T cell-mediated antitumor immunity. In contrast, in the B16-F10 murine melanoma model 
+(characterized by TAM-cold and T cell-hot features), their anti-tumor effects are primarily mediated 
+through trained immunity. TAM-mediated phagocytosis serves as a crucial immunological bridge 
+between innate and adaptive immunity [149]. These findings offer insights into the design of 
+immunotherapies that synergize innate training with adaptive response induction.
+Traditional OMVs naturally contain endotoxins such as LPS, which can stimulate both immune 
+responses and reactogenicity. Detoxification strategies have been explored and Gong et al. 
+developed BCG–derived OMVs (B-OMVs) [150]. Unlike traditional OMVs, B-OMVs originate 
+from a Gram-positive bacterium, lack LPS, and are non-replicative, thus reducing the risks of 
+LPS-induced tolerance and infection. Their nanoscale properties promote tissue distribution and 
+penetration. B-OMVs demonstrate stronger trained immunity than BCG, driving immune 
+reprogramming and providing robust protection against sepsis in a TLR2-dependent manner. These 
+features highlight B-OMVs as promising candidates for sepsis vaccination and anti-infective therapy.
+(2) MTP10-HDL
+Apolipoprotein A-I (apoA-I), a primary structural protein constituting natural high-density 
+lipoprotein (HDL), interacts with adenosine triphosphate (ATP)-binding box transporters A1/G1 in 
+myeloid cells and has been demonstrated as a carrier to form nanobiologics targeting trained 
+immunity. Priem et al. developed MTP10-HDL nanobiologics by encapsulating MTP (a TLR agonist) 
+within apoA-I-derived HDL-like particles. These nanobiologics showed promising anti-tumor effects 
+in a mouse melanoma model [95]. MTP10-HDL exhibits high avidity for bone marrow and can 
+induce myelopoiesis via trained immunity, driven by epigenetic reprogramming of multipotent 
+progenitors. This process helps overcome the immunosuppressive TME, thereby enhancing immune 
+surveillance and effector function. Furthermore, MTP10-HDL-promoted trained immunity enhances 
+the therapeutic effectiveness of immune checkpoint blockade therapies targeting PD-1 and CTLA-4, 
+suggesting a potential synergistic strategy for cancer immunotherapy. ApoA-I also holds potential 
+for loading with trained immunity inhibitors, such as mTOR inhibitor rapamycin and S6 kinase-1 
+(S6K1), which may augment the innate immunosuppressive effects.
+Table 1 Vaccines, polysaccharides, and nanobiologic-based inducers of trained immunity.
+Types
+Inducers
+Reported trained cell 
+types
+Pathways 
+involved
+Disease 
+model
+Clinical 
+status
+Referenc
+e
+NMIBC
+FDA 
+approved
+BCG
+Monocytes, 
+macrophages, HSCs
+Recognized by 
+TLR2/4 and 
+NOD2, induce 
+autophagy and 
+up-regulate IFN-γ 
+pathway
+COVID-19
+Phase 4 
+(Complete
+d)
+[40-41, 
+57- 58, 
+106-108]
+MMR
+γδT cells
+Boost TNF and 
+IFN-γ production 
+and metabolic 
+pathways
+COVID-19
+Phase 3 
+(Complete
+d)
+[50, 
+114-116]
+Vaccines
+MV130
+Myeloid cells
+Activate mTOR 
+pathway
+Evaluate the 
+ability of 
+inducing 
+trained 
+immunity
+Phase 1/2 
+(Recruiting
+)
+[49, 119, 
+120]
+Melanoma
+Pre-clinic
+Combination 
+therapy for 
+lung 
+carcinoma 
+and 
+neuroblastom
+a
+Phase 1 
+(Complete
+d)
+Polysaccharid
+es
+β-Glucan
+Macrophages,monocyt
+es, granulocytes,DCs
+Interact with 
+Dectin-1 and 
+activate 
+AKT/mTOR/HIF
+1α pathway, 
+enhance 
+glycolytic and 
+oxidative 
+metabolism
+Infectious 
+diseases
+Pre-clinic
+[7, 33, 
+52-54, 
+94, 
+121-126]
+3.1.4
+Endogenous inducers
+(1) Cytokines
+Trained immunity is characterized by enhanced proinflammatory responses when the host 
+encounters secondary stimuli, making proinflammatory cytokines a crucial component in this 
+process. The IL-1 cytokine family has been established as a critical mediator of trained immunity, 
+especially in the context of β-glucan stimulation and BCG vaccination. Inhibition of IL-1 counteracts 
+the enhanced glycolysis and myelopoiesis induced by β-glucan. Furthermore, the protection efficacy 
+of β-glucan against Mtb infection is abolished in IL-1 receptor-deficient murine models [15, 53]. 
+Arts et al. observed a strong correlation between elevated production of IL-1β and reduced viremia 
+in individuals immunized with BCG followed by yellow fever vaccination as a secondary 
+LPS
+Macrophages,monocyt
+es, AMs, HSCs
+Activate 
+TLR4/MAPK 
+signaling 
+pathway, induce 
+phosphorylation 
+of ATF7 via p38 
+kinase, increase 
+glycolysis and 
+reduce OXPHOS
+Abdominal 
+tumors, 
+combination 
+therapy for 
+melanoma
+Phase 1 
+(Complete
+d)
+[132-138
+]
+Chitin
+Monocytes, 
+macrophages, 
+eosinophils
+Enhance 
+production of 
+TNF-α and IL-6 
+through TLR-2 
+and Dectin-1
+Leishmania 
+infection
+/
+[143-147
+]
+OMVs
+Hematopoietic 
+progenitor cells, 
+macrophages
+Activate the 
+inflammasome 
+and TLR-2 
+signaling 
+pathways 
+MC38 and 
+B16-F10 
+tumor 
+models, 
+polymicrobia
+l Sepsis
+/
+[148-150
+]
+Nanobiologics
+MTP10-HD
+L
+Multipotent 
+progenitors, myeloid 
+cells
+Interact with 
+ATP-binding box 
+transporters 
+A1/G1
+Melanoma
+/
+[95]
+immunological challenge, indicating a functional role for IL-1β in enhancing antiviral defense [151]. 
+Genetic variations in the IL1B locus, particularly single nucleotide polymorphisms (SNPs), have 
+been shown to influence the magnitude of BCG-induced trained immune responses. Another study 
+from Simats et al. demonstrated that IL-1β drives post-stroke trained immunity via epigenetic 
+reprogramming of myeloid cells, and therapeutic inhibition of either IL-1 signaling or monocyte 
+recruitment preserves cardiac function after ischemic injury [72]. Importantly, IL-1β is validated to 
+induce trained immunity in both human hematopoietic progenitor cells and monocytes in vitro 
+through immunological and epigenetic mechanisms [151, 152]. The mechanism underlying 
+IL-1β-induced trained immunity may depend on HIF1α, a transcription factor activated via the 
+AKT/mTOR signaling pathway, which plays a pivotal role in trained immunity establishment [7, 
+137]. 
+In addition to the IL-1 family, IFNs, particularly IFN-γ, have emerged as critical regulators of 
+trained immunity [9, 16, 33, 108, 153, 154]. BCG-trained HSCs give rise to epigenetically altered 
+monocytes/macrophages that exhibit heightened protection against Mtb infection. These protective 
+effects are contingent upon type II IFN (IFN-γ) signaling [16]. Conversely, Mtb can subvert trained 
+immunity by reprogramming HSCs through type I IFN (IFN-α and IFN-β)/iron axis, which inhibits 
+myeloid cell differentiation and impairs the protective trained immunity [153]. Further insights from 
+Tran et al. indicates that BCG-induced CD4+CX3CR1hi T cells are essential for cross-protection and 
+serve as potent producers of IFN-γ [154]. Remarkably, IFN-γ alone is sufficient to educate AMs to 
+generate long-term memory, thereby enhancing protection against inﬂuenza A viruses (IAV) 
+infection in mice. 
+Interestingly, IL-4, a well-known anti-inflammatory cytokine, has been shown to exhibit dual 
+roles. Schrijver et al. revealed that while IL-4 suppresses acute inflammation via STAT6-dependent 
+signaling, it simultaneously induces trained immunity in monocytes through activation of the PI3K–
+mTOR pathway and enhanced OXPHOS, indicating a previously underappreciated proinflammatory 
+function [155, 156]. Given the unfavorable pharmacokinetic characteristics of recombinant IL-4, an 
+engineered fusion protein comprising apoA-I and IL-4 embedded in nanoparticles has been 
+developed. This IL-4 nanotherapy counteracts immune tolerance in mice with LPS-induced 
+hyperinfammation, as well as in ex vivo models of human sepsis and endotoxemia [156]. Therapeutic 
+agents with dual effects—simultaneously reducing inflammation and overcoming immune 
+tolerance—may facilitate patient recovery and help prevent secondary infections.
+Other cytokines, including IL-12/15/18, IL-32, IL-36γ, and GM-CSF [157-166], have also been 
+highlighted as essential in triggering and maintaining trained immunity (Table 2). Their roles in 
+orchestrating immunological memory within the innate compartment highlight the complex 
+regulatory network underpinning this phenomenon.
+Table 2 Cytokines involved in trained immunity
+Effect on
+Cytokine
+Secreted by
+Characteristic
+Trained 
+Pathways
+Referenc
+trained 
+immunity
+cell types
+e
+IL-1β
+Monocytes, 
+macrophages, DCs
+proinflammator
+y
+Monocytes, 
+myeloid 
+cells, 
+macrophag
+e
+AKT/mTOR/HIF
+1α pathway
+[7, 8, 15, 
+53, 137, 
+151]
+IFN-γ
+CD4+ T cells, CD8+ T 
+cells, NK cells, 
+CD4+CX3CR1hi T 
+cells
+proinflammator
+y
+HSCs, 
+monocytes, 
+macrophag
+es
+/
+[9, 33, 
+108, 153, 
+154]
+IL-4
+Th2 cells, monocytes, 
+mast cells
+anti-inflammato
+ry
+Monocytes, 
+macrophag
+es
+PI3K-mTOR, 
+OXPHOS
+[155, 
+156]
+IL-12/15/18
+Macrophages, DCs, 
+NK cells
+proinflammator
+y
+NK cells
+Akt/mTOR/HIF1
+α pathway
+[157, 
+158]
+IL-32
+Monocytes, epithelial 
+and endothelial cells
+proinflammator
+y
+HSCs
+/
+[159]
+IL-36γ
+Monocytes, T cells
+proinflammator
+y
+monocytes
+NF-κB and 
+mTOR signaling
+[160]
+Inducers
+GM-CSF/IL-
+3
+T cells, 
+monocytes/macrophag
+es
+/
+HSPC, 
+monocytes
+p38 and SIRT2
+[161, 
+162]
+IL-10
+Regulatory T cells, B 
+cells, etc.
+anti-inflammato
+ry
+Monocytes, 
+myeloid 
+cells, 
+HAECs
+Inhibit STAT3 
+pathway and ROS 
+production
+[163, 
+164]
+Suppresso
+rs
+IL-35
+Regulatory T cells, B 
+cells, etc.
+anti-inflammato
+ry
+HAECs
+Inhibit ROS 
+production
+[163]
+IL-37
+Monocytes, 
+macrophages, DCs
+anti-inflammato
+ry
+Monocytes, 
+BMDMs
+Inhibit mTOR 
+signaling and 
+IL-1β processing
+[165]
+IL-38
+Monocytes, 
+macrophages, DCs
+anti-inflammato
+ry
+Monocytes, 
+BMDMs
+Inhibit 
+AKT/mTOR/S6K 
+signaling
+[158, 
+166]
+(2) Itaconate and its derivatives
+Itaconate is an immunoregulatory metabolite synthesized by immune cells that elicits 
+anti-inflammatory and antioxidant reactions. It plays a pivotal function in processes including 
+immune regulation, host defense, and tumorigenesis. Under proinflammatory conditions, the enzyme 
+immune-responsive gene 1 (IRG1) is upregulated, catalyzing the decarboxylation of cis-aconitate (a 
+TCA cycle intermediate) to itaconate [167]. A study by Domı´nguez-Andre´s et al. showed that 
+acute activation of myeloid cells by LPS stimulation resulted in a marked increase in IRG1 
+expression, leading to extensive accumulation of itaconate. This accumulation blocks succinate 
+dehydrogenase (SDH) activity and contributes to eliciting innate immune tolerance in monocytes 
+[168]. Notably, β-glucan has been shown to suppress IRG1 expression and restore SDH activity in a 
+human endotoxemia model, thereby counteracting LPS-induced tolerance by preserving the integrity 
+of the TCA cycle. This indicates that the itaconate biosynthetic pathway serves as a crucial metabolic 
+checkpoint in the balance between immune tolerance and trained immunity [168].
+In contrast, the study by Ferreira et al. reveals that itaconate and its derivative dimethyl itaconate 
+(DMI) initially exhibit short-term immunosuppressive effects but ultimately induce long-term trained 
+immunity [169]. After five days of exposure to itaconate or DMI, LPS-stimulated human monocytes 
+showed increased secretion of proinflammatory cytokines. DMI also induces epigenomic and 
+metabolic alterations, regulates IFN responses and enhances ROS production, similar to the effect of 
+β-glucan. The induced trained immunity was found to be dependent on glutathione synthesis. 
+Moreover, in vivo investigations demonstrated that DMI treatment protected mice from S. aureus 
+infection even in the absence of additional stimuli [169]. Taken together, these findings suggest that 
+while itaconate and its derivatives may exert immunosuppression properties under acute 
+proinflammatory conditions, they can also induce trained immunity in the absence of further 
+stimulation. Nevertheless, the precise immunomodulatory mechanisms remain incompletely 
+understood. Given the potential to trigger complex immune responses, caution is warranted when 
+considering therapeutic applications of itaconate and its derivatives. 
+(3) Fumarate
+   Fumarate is a critical metabolic intermediate in TCA cycle generated through the catalysis of 
+succinate by SDH in mitochondria. Arts et al. found the accumulation of fumarate in 
+β-glucan-trained monocytes, which establish a link between immunometabolic reprogramming and 
+long-term epigenetic modifications, notably by suppression of histone demethylase KDM5 [6]. 
+Fumarate also prevents the degradation of HIF1α by inhibiting its hydroxylation, which can enhance 
+the responses induced by β-glucan [6, 7, 137]. Importantly, fumarate itself has been shown to trigger 
+trained immunity by enhancing trimethylation of histone H3 at lysine 4 (H3K4me3) and acetylation 
+at lysine 27 (H3K27ac), recapitulating key aspects of β-glucan-mediated epigenetic reprogramming 
+[6]. Another study also confirmed that extracellular fumarate treatment increased secretion of TNF-α 
+upon LPS stimulation in monocytes [170]. Furthermore, fumarate induces mitochondrial fusion both 
+in vitro and in vivo, which is critical to the initiation of trained immunity in monocytes. Fumarate 
+supplementation has been demonstrated to enhance mitochondrial fusion in both intestinal cells and 
+muscle tissue, and enhance resistance to pharyngeal infection by E. coli in C. elegans. Collectively, 
+these findings underscore a significant association between mitochondrial dynamics and 
+fumarate-induced trained immunity.
+(4) Mevalonate and 24(S),25-epoxycholesterol
+Recent studies indicate that activation of the cholesterol biosynthesis pathway, particularly the 
+production of mevalonate, serves as a critical regulator in the process of trained immunity in myeloid 
+cells. This effect is mediated via the stimulation of the insulin-like growth factor 1 receptor (IGF1-R) 
+and mTOR signaling, which in turn induces histone alterations such as H3K27ac enrichment in 
+inflammatory pathways [30]. Notably, mevalonate accumulation resulting from mevalonate kinase 
+deficiency 
+leads 
+to 
+a 
+persistently 
+trained 
+immunological 
+state 
+in 
+monocytes 
+from 
+hyperimmunoglobulin D syndrome (HIDS) patients, observed at both immunological and epigenetic 
+levels. This phenomenon may explain the recurrent inflammatory episodes observed in HIDS 
+patients. 
+Conversely, 
+statins, 
+pharmacological 
+inhibitors 
+of 
+hydroxymethylglutaryl-CoA 
+(HMG-CoA) reductase that reduce mevalonate biosynthesis, can disrupt immune system homeostasis 
+[171]. Notably, blockade of mevalonate biosynthesis has been associated with proinflammatory 
+consequences, highlighting its dual immunomodulatory role.
+Furthermore, the shunt pathway of cholesterol synthesis catalyzed by squalene epoxidase 
+(SQLE) 
+produces 
+24(S),25-epoxycholesterol 
+(24(S),25-EC), 
+a 
+metabolite 
+essential 
+for 
+β-glucan-triggered trained immune responses in macrophages. 24(S),25-EC stimulates liver X 
+receptor (LXR) and increases chromatin openness, thereby inducing epigenetic reprogramming 
+associated with trained immune memory. Simultaneously, 24(S),25-EC production promotes ROS 
+accumulation and stabilizes HIF1α, facilitating metabolism conversion towards glycolysis. 
+Pretreatment of macrophages with 24(S),25-EC significantly augments the production of TNF-α, 
+IFN-β, and IFN-γ upon secondary stimulation [172]. Moreover, 24(S),25-EC-induced trained 
+immunity has been shown to promote anti-tumor activity in vivo, offering promise for future 
+immunotherapeutic applications.
+(5) Glucose
+   Hyperglycemia is a potential driver of atherosclerotic cardiovascular diseases. Even with 
+rigorous glycaemic control, hyperglycemia-related complications persist in diabetic patients, 
+indicating the existence of ‘hyperglycemic memory’ [173]. The phenomenon can be attributed to 
+epigenetic remodeling of monocytes and HSCs [74, 173, 174]. Experimental studies have 
+demonstrated that elevated glucose concentrations enhance proinflammatory gene expression in 
+monocytes/macrophages through a glycolysis-dependent mechanism. The induced trained immunity 
+subsequently promotes the progression of atherosclerosis in mice [71]. Bone marrow transfer from 
+diabetic mice to normoglycemic Lldr-deficient recipients exacerbates atherosclerotic plaque 
+development, confirming the persistence of hyperglycemia-induced trained immunity. The 
+phenotype in HSCs is marked by alterations of H3K4me3 and H3K27ac levels and chromatin 
+accessibility at pro-inflammatory genes. The open chromatin is associated with Runt-related 
+transcription factor 1 (RUNX1), as its inhibition reverses this trained state [71]. These observations 
+elucidate the pathways through which diabetes-associated proinflammatory states contribute to the 
+development of various complications, particularly atherosclerosis.
+(6) Endogenous alarmins
+S100 alarmins, an important class of DAMPs, play essential roles in immune regulation and 
+inflammatory disease pathogenesis. Preconditioning monocytes with S100A4 enhances their 
+response to LPS re-stimulation, resulting in enhanced secretion of inflammatory mediators including 
+IL-6 and TNFα [175]. This S100A4-induced trained immunity is mediated by a PRDM8-dependent 
+mechanism. Ulash et al. have demonstrated that low concentrations of S100 alarmins in neonatal 
+plasma are significantly associated with high susceptibility to neonatal sepsis. S100A8/A9 treatment 
+protects mouse neonates from fatal sepsis, highlighting their immunomodulatory potential [176]. As 
+TLR4 agonists, high level of S100A8/A9 alarmins induce trained immunity in human monocytes by 
+promoting MyD88-dependent proinflammatory genes expression such as IL6, IL1B and TNF. 
+Notably, they also promote a phenomenon known as “stress tolerance”, wherein phagocytes become 
+unresponsive to a secondary TLR4 stimulus, thus mitigating excessive inflammatory damage [177]. 
+This immune adaptation protects newborns by preventing overzealous inflammatory responses, 
+thereby enhancing their resistance to inflammatory and septic diseases. 
+Another type of endogenous alarmin, cathelicidins, are host-derived antimicrobial peptides 
+constituting part of the innate immune system. van Dijk et al. demonstrated that monocytes trained 
+with DCATH-2, a cathelicidin analog, exhibit enhanced proinflammatory responses and 
+antimicrobial killing capacity [178]. The DCATH-2-induced trained immunity is mediated by 
+purinergic receptors and depends on activation of the PI3K-mTOR-HIF1α axis and p38 MAPK 
+signaling pathway. 
+(7) Oxidized low-density lipoprotein
+Oxidized low-density lipoprotein (oxLDL) plays a crucial role in both the initiation and chronic 
+progression of atherosclerosis, in part by inducing a proinflammatory state of trained immunity in 
+monocytes and macrophages [19, 179, 180]. After exposure to oxLDL, human monocytes undergo 
+metabolic reprogramming through activation of the mitochondrial metabolic pathway, leading to a 
+heightened state of responsiveness. This transformation is reflected not only by the enlargement of 
+mitochondrial morphology and increased OXPHOS activity, but also by the accumulation of TCA 
+cycle metabolites and the engagement of alternative pathways such as those involving glutamine and 
+free fatty acids metabolism [179]. Such reprogramming provides a sustained energy source for 
+oxLDL-trained macrophages, thereby enhancing their cytokine production capacity and 
+inflammatory responses. Moreover, LXR, a key regulator of both metabolism and inflammation, is 
+critically involved in oxLDL-induced trained immunity. Activation of LXRα specifically amplifies 
+the inflammatory responses induced by oxLDL, while its inhibition blocks both epigenetic 
+reprogramming and metabolic changes of trained immunity [180]. Furthermore, mTOR-dependent 
+ROS production has been identified as a driver of this phenotype, highlighting potential therapeutic 
+targets for atherosclerosis [19].
+(8) Aldosterone
+Aldosterone, a steroid hormone secreted by the adrenal cortex, is associated with increased 
+cardiovascular risk when dysregulated. It promotes the generation of ROS in macrophages through 
+the mineralocorticoid receptor (MR) upon restimulation [181]. Interestingly, aldosterone-trained 
+macrophages exhibit no significant increase in glycolysis or OXPHOS activity, distinguishing from 
+β-glucan- or BCG-trained immunity [25]. Additional research revealed that aldosterone upregulates 
+the epigenetic marker H3K4me3 at the promoter sites of key fatty acid biosynthesis genes such as 
+FASN, ACACA and ELOVL6 [25]. This observation implies that the trained immunity established 
+through aldosterone in vitro depends on epigenetic regulation of lipid metabolism. The resultant 
+pro-inflammatory macrophage phenotype contributes to cardiovascular complications, implicating 
+aldosterone-induced trained immunity in chronic disease development. 
+(9) Catecholamine
+Catecholamines, including adrenaline and noradrenaline, are pivotal neurotransmitters in the 
+nervous system, which are primarily released under physical and emotional stress. High levels of 
+catecholamines have been implicated to contribute to inflammatory monocytosis and atherosclerosis 
+via interactions with adrenergic receptors [182]. Further study reveals that exposure of human 
+monocytes to adrenaline and noradrenaline results in acute immunosuppressive effects followed by 
+long-term trained immunity, as demonstrated by enhanced secretion of TNF-α and IL-6 upon LPS 
+restimulation [12]. This catecholamines-induced trained immunity is mediated by the β-adrenergic 
+receptor-cAMP pathway, alongside metabolic reprogramming involving augmented glycolysis and 
+OXPHOS. In pheochromocytoma/paraganglioma (PHEO) patients characterized by persistently high 
+catecholamine levels, monocytes exhibit transcriptional upregulation of inflammatory genes and 
+H3K4me3 enrichment at key loci. This in vivo evidence confirms catecholamine-induced trained 
+immunity and may explain the high cardiovascular disease burden observed in PHEO patients [12]. 
+(10) Indoxyl sulfate
+Indoxyl sulfate (IS), a uremic toxin found at elevated concentrations in patients with chronic 
+kidney disease (CKD), contributes to systemic inflammation and cardiovascular complications. Kim 
+et al. demonstrated that IS elicits trained immune responses in human monocytes via the aryl 
+hydrocarbon receptor (AhR)-mediated arachidonic acid (AA) signaling cascade [82]. Moreover, 
+IS-induced trained immunity has been confirmed in both ex vivo and in vivo models, implying its 
+critical role in mediating chronic inflammatory responses in CKD patients. These findings position 
+IS as a potential therapeutic target for managing inflammation and complications associated with 
+CKD.
+(11) Lactate
+Lactate, traditionally viewed as a metabolic byproduct, is now recognized as a crucial signaling 
+molecule in activating trained immunity. Recent studies reveal that lactate supports metabolic 
+reprogramming of monocytes and macrophages by fueling the TCA cycle, thereby enhancing their 
+long-term responsiveness to subsequent challenges [183, 184]. Trained monocytes are confirmed to 
+preferentially utilize lactate over glucose as a TCA cycle substrate, and this metabolic shift is 
+essential for their responses against infections [184]. Beyond its metabolic role, both endogenous and 
+exogenous lactate promote trained immunity by increasing chromatin accessibility through 
+LDHA-dependent histone lactylation. Supporting this, Ziogas et al. provide evidence that lactate 
+production induced by BCG vaccination promotes sustained H3K18 lactylation in monocytes, 
+linking epigenetic memory to enhanced secondary inflammatory responses [183]. Collectively, these 
+findings indicate that lactate serves as a central link between immunometabolic activity and 
+epigenetic regulation in trained immunity.
+Table 3 Endogenous mediators inducing trained immunity 
+Endogenous Inducers
+Reported trained cell 
+types
+Mechanisms
+Disease model
+Reference
+Cytokines
+See Table 2
+Itaconate, DMI
+Monocytes
+Mediate by 
+glutathione synthesis
+S. aureus infection
+[169]
+Fumarate
+Monocytes, 
+macrophages
+Inhibit KDM5 histone 
+demethylases, 
+suppress HIF1α 
+degradation, induce 
+mitochondrial fusion
+Pharyngeal infection by 
+E. coli
+[6, 7, 137, 
+170]
+Mevalonate
+Monocytes
+Activate the 
+cholesterol synthesis 
+pathway, Activate 
+IGF1-R and mTOR 
+pathways
+HIDS
+[30, 171]
+24(S),25-Epoxycholesterol
+Macrophages
+Activate LXR 
+signaling, increase 
+melanoma, Lewis lung 
+carcinoma
+[172]
+glycolysis
+Glucose
+Macrophages, 
+monocytes, HSCs
+Depend on glycolysis 
+and RUNX1-related 
+epidemic 
+reprogramming
+Hyperglycemia-promoted 
+atherosclerosis
+[71, 74, 
+173]
+S100 alarmins
+Monocytes
+Activate 
+TLR4/MyD88 
+pathway
+Neonatal sepsis
+[175-177]
+Cathelicidin analogs
+Differentiated THP-1 
+cells
+PI3K-mTOR-HIF1α 
+and MAPK p38 
+pathways
+/
+[178]
+oxLDL
+Monocytes, 
+macrophages
+Regulated by 
+mTOR-dependent 
+ROS production, 
+activate LXR 
+signaling
+Atherosclerosis
+[19, 179, 
+180]
+Aldosterone
+Monocyte/macrophages
+Upregulate fatty acid 
+synthesis pathway
+Cardiovascular diseases
+[25, 181]
+Catecholamine
+Monocytes
+β-adrenergic 
+receptor-cAMP 
+pathway
+PHEO
+[25]
+Indoxyl sulfate
+Monocytes
+AhR-AA pathway
+CKD
+[82]
+Lactate
+Monocytes, 
+macrophages
+LDHA-dependent 
+histone lactylation
+C. albicans infection
+[183, 184]
+3.1.5
+Non-canonical trained immunity inducers
+(1) Other small-molecule inducers
+The trained immunity inducers mentioned above are typically microbial pathogens (e.g., BCG), 
+PAMPs (e.g., β-glucan), or endogenous metabolites. However, small-molecule inducers that are 
+neither pathogen-derived nor disease-related have been rarely reported.
+Through high-throughput screening, Knight et al. identified glucocorticoids, specifically 
+flunisolide and hydrocortisone which are traditionally considered immunosuppressive agents, as 
+novel inducers of trained immunity [185]. These non-immunogenic glucocorticoids exhibit distinct 
+inflammatory signatures from classical inducers such as β-glucan. Specifically, while they suppress 
+acute inflammation upon initial administration, they subsequently induce a trained phenotype in 
+bone-marrow derived macrophages (BMDMs) in a dose-dependent manner. This indicates that 
+non-immunogenic molecule-induced trained immunity, when employed therapeutically, may not 
+result in adverse inflammatory responses. Further investigations demonstrate that the 
+glucocorticoids-induced trained immunity is dependent on glycolysis and changes in chromatin 
+accessibility. In vivo results suggest that flunisolide potentiates TNF-α and IL-6 secretion by 
+increasing the number of eosinophils that responsible for producing these cytokines [185]. 
+In addition to glucocorticoids, Knight et al. also identified several other small molecules as 
+trained immunity inducers, including 5-fluoroindole-2-carboxylic acid, myricetin, nerol, 
+hydroquinone and fenoterol hydrobromide. Unlike glucocorticoids, these molecules trigger trained 
+immunity independent of glycolytic pathway [185]. Moreover, another study from the same group 
+discovered A1155463, an inhibitor of Bcl-xL, as a novel non-immunogenic trained immunity 
+inducer [186]. Training BMDMs with nanomolar concentrations of A1155463 results in enhanced 
+proinflammatory cytokines production upon LPS challenge, without causing apoptosis. This process 
+is mediated by glycolysis. 
+Other types of small molecules, including SHIP-1 inhibitors, STING agonists, LXR agonists, 
+RORα antagonists, BIX-01294, oroxylin A, and 17β-estradiol, have also been found to possess 
+capabilities to induce trained immunity [187-193] (Table 4). These findings broaden the spectrum of 
+potential therapeutic agents that modulate trained immunity, although the precise molecular targets 
+and signaling mechanisms by which these compounds induce trained immunity remain to be 
+elucidated.
+(2) Other macromolecular inducers
+Flagellin, the principal structural protein of bacterial flagellate filamentum, is a unique PAMP 
+recognized by PRRs such as TLR5 and NLR-family CARD-containing protein 4 (NLRC4), as well 
+as by B and T cell receptors [194, 195]. Recognition of flagellin triggers both innate and adaptive 
+immunity, facilitating the rapid elimination of pathogens from the host. Owing to its 
+immunostimulatory properties, flagellin has been extensively investigated as a mucosal adjuvant in 
+vaccine development [194]. Studies have demonstrated that pre-exposure to P. aeruginosa flagellin 
+alters the inflammatory responses of bronchial epithelial cells (BECs) upon subsequent exposure to 
+unrelated pathogens or LPS, in a manner dependent on epigenetic regulation [196]. Interestingly, 
+flagellin can induce either trained immunity or tolerance depending on the characteristics and dosage 
+of the secondary stimulus. In another study, initial exposure of monocytes to low concentrations of 
+flagellin increased the response to secondary LPS stimulation, manifested as enhanced secretion of 
+TNF-α and IL-6 [133]. This process is mediated by the p38 and JNK/MAPK signaling pathways, 
+along with epigenetic modifications.
+   Other macromolecular inducers of trained immunity, such as S. pneumonia endopeptidase O, 
+Co1 peptide, leptin, monophosphoryl lipid A (MPLA), and cholera toxin B subunit [197-201], are 
+listed in Table 4. In contrast to nanobiologics, these inducers act directly on cellular signaling or 
+epigenetic pathways without requiring a nanoparticle scaffold or delivery vehicle. Their activity is 
+determined by intrinsic chemical structure rather than carrier-mediated modulation.
+Table 4 Non-canonical trained immunity inducers
+Inducer
+Reported trained 
+cell types
+Mechanism
+Disease model
+Reference
+Flunisolide, ydrocortisone
+(Glucocorticoids)
+BMDMs
+Increase glycolysis
+/
+[185]
+5-fluoroindole-2-carboxylic acid, 
+myricetin, nerol, hydroquinone, 
+fenoterol hydrobromide
+BMDMs
+/
+/
+[185]
+A1155463
+(Bcl-xL inhibitor)
+BMDMs
+Increase glycolysis
+/
+[186]
+3α-aminocholestane
+(SHIP-1 inhibitor)
+BMDMs, myeloid 
+cells
+Activate Akt/mTOR 
+pathway, increase glycolysis
+C. albicans 
+infection
+[187]
+DMXAA, c-di-AMP
+(STING agonists)
+Macrophages
+Activate Akt/mTOR/HIF1α 
+pathway
+Clostridium 
+perfringens 
+infection, 
+bladder cancer
+[109, 188]
+T1317, GW3965
+(LXR agonists)
+Monocytes
+Activate mevalonate 
+pathway and IL-1β 
+signaling
+/
+[189]
+SR3335
+(RORα antagonists)
+Peripheral blood 
+mononuclear cells 
+(PBMCs)
+Depend on lactate 
+dehydrogenase A (LDHA) 
+and glycolysis
+/
+[190]
+BIX-01294
+(Lysine methyltransferase G9a 
+inhibitor)
+Monocytes
+/
+NMIBC
+[191]
+Oroxylin A
+Macrophages
+Increase glycolysis and 
+mTOR phosphorylation, 
+enhance LC3-associated 
+phagocytosis via 
+Dectin-1-syk axis
+Sepsis
+[192]
+17β-Estradiol
+Macrophages
+Suppress nuclear 
+translocation of RelB to 
+regulate macrophage 
+polarization
+Sepsis
+[193]
+Flagellin
+Monocytes, DCs, 
+human sinonasal 
+epithelial cells 
+(HSNECs)
+Recognized by TLR5 and 
+NLRC4, activate MyD88 
+signaling and JNK/MAPK 
+pathways
+Chronic 
+rhinosinusitis
+[133, 194, 
+196]
+S. pneumoniae endopeptidase O
+Macrophages
+Upregulate G-CSF 
+expression
+Various 
+pathogenic 
+infections
+[197]
+Co1 peptide
+(Complement C5a receptor 
+activator)
+Macrophages
+Activate the mTOR 
+pathway
+/
+[198]
+Leptin
+Monocytes
+/
+Systemic 
+inflammation in 
+subjects with 
+obesity
+[199]
+Monophosphoryl lipid A (MPLA)
+Macrophages
+Activate TLR/MyD88 
+pathway
+S. aureus 
+infection
+[200]
+Cholera toxin B subunit
+DCs
+/
+Melanoma
+[201]
+3.2 Suppressors of trained immunity 
+Some modulators of trained immunity can activate innate immune memory, but they elite 
+immune suppression or tolerance upon secondary exposure to identical or different stimuli.
+3.2.1 mTOR inhibitors
+The mTOR/HIF1α axis-dependent glycolysis serves as the metabolic basis for the establishment of 
+trained immunity [7]. Rapamycin, a potent mTOR inhibitor with significant immunosuppressive 
+effects, is clinically used to prevent organ transplant rejection and treat autoimmune diseases. Cheng 
+et al. demonstrated that rapamycin effectively inhibits β-glucan induced trained immunity [7]. 
+Similarly, metformin, which activates AMPK and inhibits mTOR, has been shown to suppress 
+trained immunity in vitro and reduce the protective effects against C. albicans infection in vivo [7]. 
+At the mechanistic level, mTOR serves as a key sensor of the cellular metabolic state, 
+orchestrating glucose metabolism and coordinating immune cell activation. Its inhibition suppresses 
+HIF1α expression, thereby downregulating metabolic pathways such as aerobic glycolysis and the 
+TCA cycle. These pathways generate metabolic intermediates such as acetyl-CoA and fumarate, 
+which are critical for regulating histone modifications (e.g., acetylation and methylation) through 
+modulation of enzymes such as histone acetyltransferases (HATs) and histone demethylases (e.g., 
+KDM5). As a consequence, reduced mTOR signaling lowers histone acetylation (e.g., H3K27ac) and 
+limits histone demethylation (e.g., H3K4me3), leading to the repression of pro-inflammatory gene 
+transcription and cellular activation programs associated with trained immunity [6]. 
+Moreover, rapamycin and related mTOR inhibitors have been shown to decrease the deposition of 
+activating histone marks such as H3K4me3 and H3K27ac at promoters of inflammatory genes, 
+thereby directly attenuating the enhanced transcriptional responsiveness of monocytes/macrophages 
+upon secondary stimulation [6, 30]. Together, these findings support that mTOR inhibitors suppress 
+trained immunity not only by altering metabolic pathways but also through shaping specific 
+epigenetic landscapes, particularly histone methylation and acetylation, which control long-term 
+transcriptional memory in innate immune cells.
+Braza et al. developed a myeloid cell-specific nanoimmunotherapy based on mTOR 
+inhibitor-high-density lipoprotein (mTORi-HDL), in which rapamycin is encapsulated in HDL 
+nanoparticles [80]. Through H3K4me3 epigenetic modifications, this formulation effectively 
+suppresses trained immunity, as evidenced by the inhibition of aerobic glycolysis and reduced 
+release of inflammatory cytokines in macrophages. These trained macrophages not only block 
+alloreactive CD8+ T cell-mediated responses but also facilitate the proliferation of tolerogenic CD4+ 
+regulatory T cells (Tregs). Notably, the combination of mTORi-HDL treatment with TRAF6i-HDL 
+nanoimmunotherapy, a co-stimulation inhibitor targeting CD40, results in long-term allograft 
+survival [80]. This innovative translational therapy demonstrates potential for improving organ 
+transplant success while minimizing the need for sustained immunosuppression. 
+3.2.2 Anti-inflammatory cytokines
+Anti-inflammatory cytokines such as IL-10 and IL-35 exert crucial functions in immune 
+tolerance and regulation of immune functions, with evidence showing that they inhibit acute 
+activation of human aortic endothelial cells (HAECs) [163]. Among them, IL-35 demonstrates 
+superior efficacy compared to IL-10 in inhibiting lipid lysophosphatidylcholine (LPC)-triggered 
+innate immune gene expression in HAECs. LPC activates innate immunity through metabolic 
+regulation of chromatin reprogramming and mitochondrial ROS regulation of transcriptional factors. 
+Mechanistically, neither IL-10 nor IL-35 suppresses the reprogramming of crucial immunometabolic 
+pathways induced by LPC; however, they partially suppress LPC-induced innate immunity via 
+inhibiting mitochondrial ROS production [163]. Additionally, Röring et al. provide evidence that 
+IL-10 suppresses trained immune responses in primary monocytic cells mainly by inhibiting STAT3 
+signaling pathway and ROS production [202]. Furthermore, IL-10 downregulates glycolytic and 
+oxidative metabolism but does not alter the metabolic signatures of β-glucan-induced trained 
+immunity. 
+  IL-37 and IL-38, two anti-inflammatory cytokines within the IL-1 family, have been demonstrated 
+to abrogate the effect of trained immunity induced by β-glucan via blocking mTOR signaling in vivo. 
+This is manifested by decreased generation of inflammatory mediators, reversal glycolysis 
+reprogramming, and mitigation of epigenetic changes in BMDMs induced by β-glucan [165, 166]. 
+IL-37 activates AMPK and subsequently suppresses mTOR. Furthermore, it directly inhibits IL-1β 
+processing by blocking ASC oligomerization [203]. IL-38 has been reported to prevent β-glucan–
+induced trained immunity and reverse the increase in H3K4me3-positive promoters observed in 
+β-glucan-trained mice. IL-38 disrupts AKT/mTOR/S6K signaling in BMDMs and also 
+downregulates HIF1α and IL-1β in synovial tissue cells. Moreover, the IL1F10-related SNP 
+rs58965312 correlates with elevated plasma IL-38 levels and weakened β-glucan-induced trained 
+immunity responses ex vivo [166]. These findings suggest potential applications of IL-37 and IL-38 
+in treating cardiovascular disorders, chronic inflammatory conditions, and malignancies, although 
+further research is needed to elucidate their precise roles in trained immunity.
+3.2.3 MyD88 inhibitors
+MyD88-dependent signaling is essential for TLR-induced trained immunity [200]. Its 
+inhibition has been shown to ameliorate transplantation rejection. Treatment with TJ-M2010-5, a 
+small-molecule MyD88 inhibitor, has been demonstrated to prolong xenograft survival in mice 
+while suppressing systemic inflammation in xenograft recipients (SIXR) and mitigating acute 
+vascular rejection (AVR) [204]. Mechanistically, TJ-M2010-5 impedes CCL-elicited nuclear 
+translocation and phosphorylation of NF-κB p65 in BMDMs and bone marrow-derived dendritic 
+cells 
+(BMDCs), 
+while 
+also 
+prevents 
+epigenetic 
+modifications 
+(e.g., 
+H3K4me3) 
+at 
+pro-inflammatory cytokine loci such as IL-6 and TNF-α. Moreover, MyD88 inhibition leads to 
+downregulation of co-stimulatory markers CD80 and CD86, thereby reducing downstream innate 
+immune responses [204]. Combining TJ-M2010-5 with an anti-CD154 antibody further augments 
+the inhibitory effect on AVR and SIXR, thus prolonging graft survival.
+3.2.4 Other types of trained immunity suppressors
+The therapeutic application of chloroquine and hydroxychloroquine for managing 
+SARS-CoV-2 infections remains controversial due to uncertainties surrounding their efficacy and 
+mechanisms of action. Rother et al. demonstrated that both drugs diminish the generation of IL-6 
+and TNF-α in peripheral blood mononuclear cells (PBMCs) trained with heat-killed C. albicans 
+(HKCA) 
+and 
+subsequently 
+restimulated 
+with 
+LPS 
+or 
+Pam3CSK4 
+in 
+vitro 
+[205]. 
+Hydroxychloroquine also inhibits the expression of genes stimulated by interferons and prevents 
+histone modifications such as H3K27 acetylation and H3K4 trimethylation. Due to its alkaline 
+side chain, hydroxychloroquine accumulates in lysosomes, potentially impairing lysosomal 
+acidification and modulating mTOR signaling, which consequently suppresses trained immunity 
+[205]. Furthermore, hydroxychloroquine alters cellular lipid metabolism by preventing the 
+upregulation of phosphatidylinositol (PI) and phosphatidylserine (PS) lipids, further contributing 
+to its immune-suppressive profile [205]. These findings indicate that hydroxychloroquine may 
+have detrimental effects on the antiviral immune responses required for host defense against 
+SARS-CoV-2 infection.
+LXRs serve as essential regulators of cholesterol homeostasis and fatty acid metabolism. While 
+LXR activation enhances BCG-induced trained immunity [189], LXR antagonism inhibits it. 
+Findeisen et al. demonstrated that the LXR antagonist GSK2033 suppresses oxidized 
+LDL-triggered trained immunity in monocytes by inhibiting aerobic glycolysis, cholesterol efflux, 
+and fatty acid synthesis pathways [180]. Furthermore, it reduces histone alterations, including 
+H3K27ac and H3Kme3 at the IL-6 and TNFα promotors. 
+Other types of molecules, including itaconate, I-BET151, dihydroartemisinin, vitamin A, 
+FhHDM-1, and short-chain fatty acids, have also been found to suppress trained immunity [168, 174, 
+206-209] (Table 5). However, the specific molecular targets and signaling pathways by which these 
+molecules suppress trained immune responses remain insufficiently explored. Furthermore, certain 
+molecules such as resveratrol  exhibit controversial effects on trained immunity, highlighting the 
+need for further investigation into their immunological roles [210]. 
+Table 5 Modulators suppressing trained immunity
+Inhibitor
+Reported 
+trained cell 
+types
+Mechanism
+Disease model
+Reference
+Rapamycin, Metformin, 
+mTORi-HDL (mTOR 
+inhibitors)
+Monocytes, 
+macrophage
+Inhibit the mTOR pathway
+C. albicans infection, 
+organ transplantation
+[7, 80]
+IL-10, IL-35, IL-37, IL-38 
+(anti-inflammatory 
+cytokines)
+See Table 2
+TJ-M2010-5
+(MyD88 inhibitor)
+BMDCs, 
+BMDMs
+Block MyD88/NF-κB 
+signaling pathway，reduce the 
+expression of CD80/CD86
+Xenotransplantation 
+model
+[204]
+GSK2033
+(LXR antagonist)
+Monocytes, 
+macrophages
+Inhibit LXR signaling 
+pathway
+/
+[180]
+Itaconate, DMI (under 
+acute inflammatory 
+condition)
+Monocytes
+Block SDH activity and 
+inhibit TCA cycle
+Endotoxemia
+[168]
+Hydroxychloroquine
+Monocytes
+Inhibit trained 
+immunity-induced alterations 
+in lipidome and histone 
+modifications
+SARS-CoV-2 infection, 
+heat-killed C. albicans 
+challenge
+[205]
+I-BET151
+(Bromodomain inhibitor)
+Monocytes
+/
+C. albicans infection
+[206]
+Dihydroartemisinin
+BMDMs
+Suppress the activation of 
+AKT/mTOR/HIF1α pathway
+Heat-killed C. albicans 
+challenge
+[207]
+Vitamin A
+Monocytes, 
+macrophages
+Increase H3K9me3 and 
+activate the histone 
+methyltransferase SUV39H2
+/
+[208]
+Taken together, we present a comprehensive overview of the classifications and mechanisms of 
+trained immunity inducers and suppressors identified over the past decade, including vaccines, 
+polysaccharides, nanobiologics, endogenous mediators and other non-canonical modulators, with 
+emphasis on their therapeutic potential in immune-related diseases. The trained immunity 
+modulators and their associated signaling pathways are summarized in Fig. 4.
+FhHDM-1
+Macrophages
+Inhibit histone methylation 
+and glycolysis
+Non-obese diabetes 
+mellitus
+[174]
+Short-chain fatty acids
+Monocytes, 
+DCs
+/
+/
+[209]
+Fig. 4 Trained immunity modulators and their associated signaling pathways. Initial exposure to inducers 
+(e.g., vaccines, polysaccharides, nanobiologics) initiates a succession of intracellular cascades that upregulate 
+various metabolic pathways. The endogenous metabolites, such as fumarate, glucose and certain cytokines, also 
+serve as pivotal regulators in shaping trained immune responses. Suppressors that downregulate those metabolic 
+pathways or block chromatin accessibility inhibit trained immunity. The figure is created with Figdraw.com.
+4.  Prospects and Conclusions
+Trained immunity is a novel concept that has recently emerged, suggesting that innate immune 
+cells possess memory properties. These cells undergo functional remodeling in response to primary 
+exogenous or endogenous stimuli, leading to durable functional changes and enhanced inflammatory 
+responses upon subsequent stimulation. Central mechanisms of trained immunity include metabolic 
+alterations and epigenetic reprogramming, with ongoing efforts to elucidate the pathways and 
+mechanisms involved. However, this fascinating new field of immunology still presents numerous 
+questions warranting deeper explored. For example, the molecular mechanisms mediating trained 
+immunity require more detailed characterization, including comprehensive investigations into both 
+immune cell and non-immune cell populations capable of inducing trained immunity. Additionally, 
+there is a need for refined insights into the metabolic, epigenetic and immunological processes that 
+involved in trained immunity. Another critical research priority involves understanding the 
+molecular mechanisms regulating interactions between innate and adaptive immunological 
+mechanisms. The combination of trained immunity inducers with adaptive immunotherapy 
+approaches (such as vaccines and immune checkpoint blockade therapies) may yield synergistic or 
+unpredictable effects. These interactions could either enhance the efficacy of treatment or, 
+conversely, increase the risk of adverse effects, thereby necessitating detailed mechanistic and 
+translational studies. Comprehensive studies in these areas will not only deepen our understanding of 
+trained immunity but also provide crucial insights for designing targeted therapeutic strategies to 
+regulate trained immune responses. 
+Other fascinating areas deserving further research include whether trained immunity can be 
+inherited epigenetically across generations, and the impact of host microbiota on trained immune 
+responses. Epigenetic reprogramming caused by trained immunity may have unpredictable long-term 
+consequences. These alterations could potentially be inherited by future generations (epigenetic 
+inheritance). While such transmission may confer benefits in certain contexts, it also raises concerns 
+about unexpected genetic or epigenetic effects that may affect offspring. Moreover, the host 
+microbiome serves as a key regulator in trained immunity modulation. However, the dynamic 
+interactions between the microbiome and immune system complicate the use of trained immunity 
+modulators. Variability in the microbiome between individuals could generate inconsistent 
+responses, thereby limiting the general application of these immunomodulators.
+Trained immunity has profound implications for disease prevention and therapeutic interventions 
+that involve the immune system, including infections, cancers, and chronic inflammatory conditions. 
+Traditional vaccines primarily work by stimulating the adaptive immune system, but trained 
+immunity can be used to enhance the first line of defense in innate immune system. Trained 
+immunity-promoting vaccines offer broader and faster protection against diverse pathogenic 
+microorganisms, including bacteria, fungi and viruses, which could be particularly beneficial in 
+preventing cross-infections. For instance, the BCG vaccine has been shown to confer non-specific 
+protection against respiratory viral infections and certain malignancies through the induction of 
+trained immunity [47, 48, 211]. 
+Rather than relying solely on traditional immunization, developing therapies that specifically 
+enhance trained immunity may be particularly valuable for vulnerable populations, such as the 
+elderly and immunocompromised individuals, who tend to have weaker adaptive immune responses. 
+Trained immunity-boosting immunotherapies can help combat persistent or recurrent infections, 
+especially those caused by multidrug-resistant bacteria and fungi, and may also reduce the incidence 
+of certain types of cancers. These strategies are largely beneficial in reducing the healthcare burden.
+This review provides a comprehensive and up-to-date summary of trained immunity modulators 
+(Fig. 3 and 4). Although many types of them show promising potential for use in various therapeutic 
+settings, some limitations still remain, including:
+(1) Druggability and safety. Most of the well-known trained immunity inducers reported to date 
+are PAMPs, which are conserved molecules present in different species, such as polysaccharides 
+derived from pathogenic microorganisms and plants. They are generally recognized by PRRs on the 
+surface of a variety of specific immune and non-immune cells. However, the nonspecific nature of 
+this recognition might lead to unwanted immune responses or a broad-spectrum activation of the 
+immune system, potentially causing adverse effects or aggravating autoimmune diseases. 
+Furthermore, although polysaccharides like β-glucan exhibit certain potential in the treatment of 
+infections and cancers, several challenges remain, including issues related to low bioavailability, 
+standardized production and quality control, and the safety of long-term use [121]. Future 
+advancements in drug delivery technologies and additional clinical studies are needed to reduce these 
+risks, making β-glucan a promising therapeutic agent in treating immune-related diseases.
+(2) Duration of trained immunity. Even though trained immunity is long-lasting, it is not 
+permanent. A comprehensive elucidation of the duration of trained immunity triggered by various 
+stimuli, including vaccines, polysaccharides and nanobiologics, is essential. This impermanence 
+represents an opportunity as well as a challenge. Pharmacologically, temporarily triggering trained 
+immunity could overcome immune paralysis caused by infections, cancers or sepsis [16, 128, 156, 
+211]. Meanwhile, once the disease is under control, it is crucial to mitigate the risk of long-term 
+chronic inflammation by suppressing exogenously triggered trained immunity. On the contrary, for 
+conditions such as organ transplantation, where suppressing trained immunity is beneficial, treatment 
+should be discontinued once the therapeutic effect is achieved. 
+(3) Risk of overstimulation and dysregulation of immune responses. Prolonged or inappropriate 
+stimulation of trained immunity by inducers may result in excessive inflammatory responses or 
+immune activation. This overstimulation might potentially increase the risk of autoimmune diseases 
+or chronic inflammation. Therefore, when using trained immunity inducers, a balance should be 
+struck between beneficial trained immune responses and preventing harmful immune responses. Due 
+to the fact that trained immunity is contingent upon alterations in innate immune cell functional 
+phenotypes, it may inadvertently lead to immune response dysregulation, such as inability to respond 
+adequately to new pathogens or inappropriate immune responses to self-tissues. Some 
+non-immunogenic compounds, such as glucocorticoids, have created novel avenues for the study and 
+application of trained immunity, which can induce trained immunity without triggering inflammatory 
+responses, or have a window period of active suppression of inflammation under acute inflammatory 
+conditions [185]. However, the efficacy and mechanisms of these compounds in the treatment of 
+related diseases through trained immunity remain to be fully elucidated. Natural products represent a 
+major source of trained immunity modulators. In addition to the agents summarized in this review, 
+several other molecules—such as certain natural host defense peptides and tumor-associated 
+factors—also play roles in regulating innate immune responses [212, 213]. However, whether these 
+molecules can drive the establishment of memory-like features in innate immune cells requires 
+further investigation.
+In conclusion, trained immunity is an attractive and constantly evolving concept in immunology, 
+with profound influence on both health and disease. The recognition that innate immune cells, 
+especially monocytic cells, macrophages and neutrophils, can undergo long-term functional 
+reprogramming to generate memory under environmental stimulation, providing new avenues of 
+therapeutic strategies for diseases like infections, cancers, and organ transplantation. Although the 
+potential application of trained immunity is enormous, there are still considerable challenges in fully 
+clarifying the potential mechanisms, optimizing the immunomodulators for clinical use, and ensuring 
+their safety and efficacy in humans. The complicated interactions between trained immunity and 
+adaptive immunity, and the influence of genetic predisposition and environmental determinants, 
+should be further investigated to optimize the therapeutic benefit. Future research is essential for 
+improving our knowledge of trained immunity, identifying more specific immunomodulators, and 
+exploring their applications in different clinical settings. With continuous progress, trained immunity 
+may become an indispensable part of personalized medicine, opening the way for new therapies for 
+infectious diseases, cancers, and even autoimmune diseases.
+Declaration of Competing Interest 
+The authors declare that they have no competing interests. 
+Author Contributions
+J. Chen, J. Yang and P. Cao conceived and designed the manuscript, J. Chen, C. Wang, S. Chen 
+and M. Wang wrote and revise the manuscript, J. Yang, P. Cao, H. Cai, J. Chang and X. Cai edited 
+the manuscript with conceptual advice. All the authors read and approved the final manuscript.
+Acknowledgements
+This work was financially supported by the National Key Research and Development Program of 
+China (2023YFC2308200), the Jiangsu Province Science and Technology Development Project of 
+Traditional Chinese Medicine (No. ZT202110), the National Science Fund for Distinguished Young 
+Scholars (No. 82125037), the “New High School 20 Items” Project of Jinan (202333006), and the 
+Taishan Scholars Program (tstp20231239).
+References:
+[1] Saba NF, Steuer CE, Ekpenyong A, McCook-Veal A, Magliocca K, Patel M, et al. 
+Pembrolizumab and cabozantinib in recurrent metastatic head and neck squamous cell carcinoma: a 
+phase 2 trial. Nat Med 2023. doi: 10.1038/s41591-023-02275-x. 
+[2] Skoulidis F, Araujo HA, Do MT, Qian Y, Sun X, Cobo AG, et al. CTLA4 blockade 
+abrogates 
+KEAP1/STK11-related 
+resistance 
+to 
+PD-(L)1 
+inhibitors. 
+Nature 
+2024. 
+doi: 
+10.1038/s41586-024-07943-7. 
+[3] VanderWalde A, Bellasea SL, Kendra KL, Khushalani NI, Campbell KM, Scumpia PO, et 
+al. Ipilimumab with or without nivolumab in PD-1 or PD-L1 blockade refractory metastatic 
+melanoma: a randomized phase 2 trial. Nat Med 2023. doi: 10.1038/s41591-023-02498-y.
+[4] Netea MG, Quintin J, van der Meer JW. Trained immunity: a memory for innate host 
+defense. Cell Host Microbe 2011. doi: 10.1016/j.chom.2011.04.006.
+[5] Saeed S, Quintin J, Kerstens HH, Rao NA, Aghajanirefah A, Matarese F, et al. Epigenetic 
+programming of monocyte-to-macrophage differentiation and trained innate immunity. Science 
+2014. doi: 10.1126/science.1251086.
+[6] Arts RJ, Novakovic B, Ter Horst R, Carvalho A, Bekkering S, Lachmandas E, et al. 
+Glutaminolysis and Fumarate Accumulation Integrate Immunometabolic and Epigenetic Programs in 
+Trained Immunity. Cell Metab 2016. doi: 10.1016/j.cmet.2016.10.008.
+[7] Cheng SC, Quintin J, Cramer RA, Shepardson KM, Saeed S, Kumar V, et al. mTOR- and 
+HIF-1α-mediated aerobic glycolysis as metabolic basis for trained immunity. Science 2014. doi: 
+10.1126/science.1250684.
+[8] Moorlag S, Folkman L, Ter Horst R, Krausgruber T, Barreca D, Schuster LC, et al. 
+Multi-omics analysis of innate and adaptive responses to BCG vaccination reveals epigenetic cell 
+states that predict trained immunity. Immunity 2024. doi: 10.1016/j.immuni.2023.12.005.
+[9] Buffen K, Oosting M, Quintin J, Ng A, Kleinnijenhuis J, Kumar V, et al. Autophagy 
+controls BCG-induced trained immunity and the response to intravesical BCG therapy for bladder 
+cancer. PLoS pathogens 2014. doi: 10.1371/journal.ppat.1004485.
+[10] Sun SJ, Aguirre-Gamboa R, de Bree LCJ, Sanz J, Dumaine A, van der Velden WJFM, et 
+al. BCG vaccination alters the epigenetic landscape of progenitor cells in human bone marrow to 
+influence innate immune responses. Immunity 2024. doi: 10.1016/j.immuni.2024.07.021.
+[11] Kleinnijenhuis J, Quintin J, Preijers F, Benn CS, Joosten LA, Jacobs C, et al. Long-lasting 
+effects of BCG vaccination on both heterologous Th1/Th17 responses and innate trained immunity. J 
+Innate Immun 2014. doi: 10.1159/000355628.
+[12] van der Heijden C, Groh L, Keating ST, Kaffa C, Noz MP, Kersten S, et al. 
+Catecholamines Induce Trained Immunity in Monocytes In Vitro and In Vivo. Circ Res 2020. doi: 
+10.1161/circresaha.119.315800.
+[13] Romee R, Rosario M, Berrien-Elliott MM, Wagner JA, Jewell BA, Schappe T, et al. 
+Cytokine-induced memory-like natural killer cells exhibit enhanced responses against myeloid 
+leukemia. Sci Transl Med 2016. doi: 10.1126/scitranslmed.aaf2341.
+[14] Mills TS, Kain B, Burchill MA, Danis E, Lucas ED, Culp-Hill R, et al. A distinct 
+metabolic and epigenetic state drives trained immunity in HSC-derived macrophages from 
+autoimmune mice. Cell Stem Cell 2024. doi: 10.1016/j.stem.2024.09.010.
+[15] Mitroulis I, Ruppova K, Wang B, Chen LS, Grzybek M, Grinenko T, et al. Modulation of 
+Myelopoiesis Progenitors Is an Integral Component of Trained Immunity. Cell 2018. doi: 
+10.1016/j.cell.2017.11.034.
+[16] Jurado LF, Daman AW, Li Z, Ross VMS, Nikolaou K, Tran KA, et al. A fungal-derived 
+adjuvant amplifies the antitumoral potency of Bacillus Calmette-Guérin via reprogramming 
+granulopoiesis. Immunity 2025. doi: 10.1016/j.immuni.2025.05.026.
+[17] Weizman OE, Song E, Adams NM, Hildreth AD, Riggan L, Krishna C, et al. Mouse 
+cytomegalovirus-experienced ILC1s acquire a memory response dependent on the viral glycoprotein 
+m12. Nat Immunol 2019. doi: 10.1038/s41590-019-0430-1.
+[18] Hole CR, Wager CML, Castro-Lopez N, Campuzano A, Cai H, Wozniak KL, et al. 
+Induction of memory-like dendritic cell responses in vivo. Nat Commun 2019. doi: 
+10.1038/s41467-019-10486-5.
+[19] Schnack L, Sohrabi Y, Lagache SMM, Kahles F, Bruemmer D, Waltenberger J, et al. 
+Mechanisms of Trained Innate Immunity in oxLDL Primed Human Coronary Smooth Muscle Cells. 
+Front Immunol 2019. doi: 10.3389/fimmu.2019.00013.
+[20] Eljaszewicz A, Ruchti F, Radzikowska U, Globinska A, Boonpiyathad T, Gschwend A, et 
+al. Trained immunity and tolerance in innate lymphoid cells, monocytes, and dendritic cells during 
+allergen-specific immunotherapy. J Allergy Clin Immunol 2021. doi: 10.1016/j.jaci.2020.08.042.
+[21] Naik S, Larsen SB, Gomez NC, Alaverdyan K, Sendoel A, Yuan S, et al. Inflammatory 
+memory sensitizes skin epithelial stem cells to tissue damage. Nature 2017. doi: 
+10.1038/nature24271.
+[22] Jeljeli M, Riccio LGC, Doridot L, Chêne C, Nicco C, Chouzenoux S, et al. Trained 
+immunity 
+modulates 
+inflammation-induced 
+fibrosis. 
+Nat 
+Commun 
+2019. 
+doi: 
+10.1038/s41467-019-13636-x.
+[23] Jentho E, Ruiz-Moreno C, Novakovic B, Kourtzelis I, Megchelenbrink WL, Martins R, et 
+al. Trained innate immunity, long-lasting epigenetic modulation, and skewed myelopoiesis by heme. 
+Proc Natl Acad Sci U S A 2021. doi: 10.1073/pnas.2102698118.
+[24] McBride MA, Stothers CL, Fensterheim BA, Caja KR, Owen AM, Hernandez A, et al. 
+Bacteria- and fungus-derived PAMPs induce innate immune memory via similar functional, 
+metabolic, and transcriptional adaptations. J Leukoc Biol 2024. doi: 10.1093/jleuko/qiad120.
+[25] van der Heijden C, Keating ST, Groh L, Joosten LAB, Netea MG, Riksen NP. Aldosterone 
+induces trained immunity: the role of fatty acid synthesis. Cardiovasc Res 2020. doi: 
+10.1093/cvr/cvz137.
+[26] Christ A, Günther P, Lauterbach MAR, Duewell P, Biswas D, Pelka K, et al. Western Diet 
+Triggers 
+NLRP3-Dependent 
+Innate 
+Immune 
+Reprogramming. 
+Cell 
+2018. 
+doi: 
+10.1016/j.cell.2017.12.013.
+[27] Moerings BGJ, van Bergenhenegouwen J, Furber M, Abbring S, Schols HA, Witkamp RF, 
+et al. Dectin-1b activation by arabinoxylans induces trained immunity in human monocyte-derived 
+macrophages. Int J Biol Macromol 2022. doi: 10.1016/j.ijbiomac.2022.04.071.
+[28] Bhattarai S, Li Q, Ding J, Liang F, Gusev E, Lapohos O, et al. TLR4 is a regulator of 
+trained immunity in a murine model of Duchenne muscular dystrophy. Nat Commun 2022. doi: 
+10.1038/s41467-022-28531-1.
+[29] Su H, Huang J, Weng S, Zhang B, Zhang T, Xu Y. Glutathione synthesis primes 
+monocytes metabolic and epigenetic pathway for β-glucan-trained immunity. Redox Biol 2021. doi: 
+10.1016/j.redox.2021.102206.
+[30] Bekkering S, Arts RJW, Novakovic B, Kourtzelis I, van der Heijden C, Li Y, et al. 
+Metabolic Induction of Trained Immunity through the Mevalonate Pathway. Cell 2018. doi: 
+10.1016/j.cell.2017.11.025.
+[31] Liu PS, Wang H, Li X, Chao T, Teav T, Christen S, et al. α-ketoglutarate orchestrates 
+macrophage activation through metabolic and epigenetic reprogramming. Nat Immunol 2017. doi: 
+10.1038/ni.3796.
+[32] Zhou H, Lu X, Huang J, Jordan P, Ma S, Xu L, et al. Induction of Trained Immunity 
+Protects Neonatal Mice Against Microbial Sepsis by Boosting Both the Inflammatory Response and 
+Antimicrobial Activity. J Inflamm Res 2022. doi: 10.2147/JIR.S363995.
+[33] Kalafati L, Kourtzelis I, Schulte-Schrepping J, Li X, Hatzioannou A, Grinenko T, et al. 
+Innate Immune Training of Granulopoiesis Promotes Anti-tumor Activity. Cell 2020. doi: 
+10.1016/j.cell.2020.09.058.
+[34] Saaoud F, Liu L, Xu K, Cueto R, Shao Y, Lu Y, et al. Aorta- and liver-generated TMAO 
+enhances trained immunity for increased inflammation via ER stress/mitochondrial ROS/glycolysis 
+pathways. JCI Insight 2023. doi: 10.1172/jci.insight.158183.
+[35] Jia J, Ji W, Xiong N, Lin J, Yang Q. Trained immunity using probiotics and inactivated 
+pathogens enhances resistance to Salmonella enterica serovar Typhimurium infection by activating 
+the cGAS-STING signal pathway in mice and chickens. J Adv Res 2025. doi: 
+10.1016/j.jare.2025.03.011.
+[36] Chen D, Wu J, Zhang F, Lyu R, You Q, Qian Y, et al. Trained immunity of intestinal tuft 
+cells during infancy enhances host defense against enteroviral infections in mice. EMBO Mol Med 
+2024. doi: 10.1038/s44321-024-00128-9.
+[37] Netea MG, Joosten LA, Latz E, Mills KH, Natoli G, Stunnenberg HG, et al. Trained 
+immunity: A program of innate immune memory in health and disease. Science 2016. doi: 
+10.1126/science.aaf1098.
+[38] Nankabirwa V, Tumwine JK, Mugaba PM, Tylleskär T, Sommerfelt H. Child survival and 
+BCG vaccination: a community based prospective cohort study in Uganda. BMC Public Health 
+2015. doi: 10.1186/s12889-015-1497-8.
+[39] Jensen KJ, Larsen N, Biering-Sørensen S, Andersen A, Eriksen HB, Monteiro I, et al. 
+Heterologous immunological effects of early BCG vaccination in low-birth-weight infants in 
+Guinea-Bissau: a randomized-controlled trial. J Infect Dis 2015. doi: 10.1093/infdis/jiu508.
+[40] de Souza RA, Barreto FR, de Jesus Lima CCO, da Natividade MS, de Souza Teles Santos 
+CA, Ichihara MY, et al. Efficacy of BCG vaccination on incidence, severity and clinical progression 
+of 
+COVID-19: 
+A 
+BCG-REVAC 
+population 
+analysis. 
+Vaccine 
+2025. 
+doi: 
+10.1016/j.vaccine.2025.126911.
+[41] Kumar NP, Padmapriyadarsini C, Rajamanickam A, Bhavani PK, Nancy A, Jeyadeepa B, 
+et al. BCG vaccination induces enhanced humoral responses in elderly individuals. Tuberculosis 
+(Edinb) 2023. doi: 10.1016/j.tube.2023.102320.
+[42] Nemes E, Geldenhuys H, Rozot V, Rutkowski KT, Ratangee F, Bilek N, et al. Prevention 
+of M. tuberculosis Infection with H4:IC31 Vaccine or BCG Revaccination. N Engl J Med 2018. doi: 
+10.1056/NEJMoa1714021.
+[43] Giamarellos-Bourboulis EJ, Tsilika M, Moorlag S, Antonakos N, Kotsaki A, 
+Domínguez-Andrés J, et al. Activate: Randomized Clinical Trial of BCG Vaccination against 
+Infection in the Elderly. Cell 2020. doi: 10.1016/j.cell.2020.08.051.
+[44] Chen J, Gao L, Wu X, Fan Y, Liu M, Peng L, et al. BCG-induced trained immunity: 
+history, 
+mechanisms 
+and 
+potential 
+applications. 
+J 
+Transl 
+Med 
+2023. 
+doi: 
+10.1186/s12967-023-03944-8.
+[45] Zimmermann P, Donath S, Perrett KP, Messina NL, Ritz N, Netea MG, et al. The influence 
+of neonatal Bacille Calmette-Guérin (BCG) immunisation on heterologous vaccine responses in 
+infants. Vaccine 2019. doi: 10.1016/j.vaccine.2019.03.016.
+[46] Walk J, de Bree LCJ, Graumans W, Stoter R, van Gemert GJ, van de Vegte-Bolmer M, et 
+al. Outcomes of controlled human malaria infection after BCG vaccination. Nat Commun 2019. doi: 
+10.1038/s41467-019-08659-3.
+[47] Kang A, Ye G, Singh R, Afkhami S, Bavananthasivam J, Luo X, et al. Subcutaneous BCG 
+vaccination protects against streptococcal pneumonia via regulating innate immune responses in the 
+lung. EMBO Mol Med 2023. doi: 10.15252/emmm.202217084.
+[48] Yu D, Gao X, Shao F, Liu Z, Liu A, Zhao M, et al. Antigen-presenting innate lymphoid 
+cells induced by BCG vaccination promote a respiratory antiviral immune response through the 
+skin‒lung axis. Cell Mol Immunol 2025. doi: 10.1038/s41423-025-01267-w.
+[49] Brandi P, Conejero L, Cueto FJ, Martínez-Cano S, Dunphy G, Gómez MJ, et al. Trained 
+immunity induction by the inactivated mucosal vaccine MV130 protects against experimental viral 
+respiratory infections. Cell Rep 2022. doi: 10.1016/j.celrep.2021.110184.
+[50] Röring RJ, Debisarun PA, Botey-Bataller J, Suen TK, Bulut Ö, Kilic G, et al. MMR 
+vaccination induces trained immunity via functional and metabolic reprogramming of γδ T cells. J 
+Clin Invest 2024. doi: 10.1172/jci170848.
+[51] Geckin B, Konstantin Föhse F, Domínguez-Andrés J, Netea MG. Trained immunity: 
+implications for vaccination. Curr Opin Immunol 2022. doi: 10.1016/j.coi.2022.102190.
+[52] Dos Santos JC, Barroso de Figueiredo AM, Teodoro Silva MV, Cirovic B, de Bree LCJ, 
+Damen M, et al. β-Glucan-Induced Trained Immunity Protects against Leishmania braziliensis 
+Infection: a Crucial Role for IL-32. Cell Rep 2019. doi: 10.1016/j.celrep.2019.08.004.
+[53] Moorlag S, Khan N, Novakovic B, Kaufmann E, Jansen T, van Crevel R, et al. β-Glucan 
+Induces Protective Trained Immunity against Mycobacterium tuberculosis Infection: A Key Role for 
+IL-1. Cell Rep 2020. doi: 10.1016/j.celrep.2020.107634.
+[54] Stothers CL, Burelbach KR, Owen AM, Patil NK, McBride MA, Bohannon JK, et al. 
+β-Glucan Induces Distinct and Protective Innate Immune Memory in Differentiated Macrophages. J 
+Immunol 2021. doi: 10.4049/jimmunol.2100107.
+[55] Zhang BZ, Shuai H, Gong HR, Hu JC, Yan B, Yuen TT, et al. Bacillus 
+Calmette-Guérin-induced trained immunity protects against SARS-CoV-2 challenge in K18-hACE2 
+mice. JCI Insight 2022. doi: 10.1172/jci.insight.157393.
+[56] Hilligan KL, Namasivayam S, Clancy CS, O'Mard D, Oland SD, Robertson SJ, et al. 
+Intravenous administration of BCG protects mice against lethal SARS-CoV-2 challenge. J Exp Med 
+2022. doi: 10.1084/jem.20211862.
+[57] Perera DJ, Domenech P, Babuadze GG, Naghibosadat M, Alvarez F, Koger-Pease C, et al. 
+BCG administration promotes the long-term protection afforded by a single-dose intranasal 
+adenovirus-based SARS-CoV-2 vaccine. iScience 2023. doi: 10.1016/j.isci.2023.107612.
+[58] Berg MK, Yu Q, Salvador CE, Melani I, Kitayama S. Mandated Bacillus Calmette-Guérin 
+(BCG) vaccination predicts flattened curves for the spread of COVID-19. Sci Adv 2020. doi: 
+10.1126/sciadv.abc1463.
+[59] Netea MG, Ziogas A, Benn CS, Giamarellos-Bourboulis EJ, Joosten LAB, Arditi M, et al. 
+The role of trained immunity in COVID-19: Lessons for the next pandemic. Cell Host Microbe 2023. 
+doi: 10.1016/j.chom.2023.05.004.
+[60] Sinha S, Ajayababu A, Thukral H, Gupta S, Guha SK, Basu A, et al. Efficacy of Bacillus 
+Calmette-Guérin (BCG) Vaccination in Reducing the Incidence and Severity of COVID-19 in 
+High-Risk Population (BRIC): a Phase III, Multi-centre, Quadruple-Blind Randomised Control Trial. 
+Infect Dis Ther 2022. doi: 10.1007/s40121-022-00703-y.
+[61] Tsilika M, Taks E, Dolianitis K, Kotsaki A, Leventogiannis K, Damoulari C, et al. 
+ACTIVATE-2: A Double-Blind Randomized Trial of BCG Vaccination Against COVID-19 in 
+Individuals at Risk. Front Immunol 2022. doi: 10.3389/fimmu.2022.873067.
+[62] Pereira SM, Barreto FR, de Souza RA, de Souza Teles Santos CA, Pereira M, da Paixão 
+ES, et al. Previous BCG vaccination is associated with less severe clinical progression of COVID-19. 
+BMC Med 2023. doi: 10.1186/s12916-023-02859-x.
+[63] Escobar LE, Molina-Cruz A, Barillas-Mury C. BCG vaccine protection from severe 
+coronavirus 
+disease 
+2019 
+(COVID-19). 
+Proc 
+Natl 
+Acad 
+Sci 
+U 
+S 
+A 
+2020. 
+doi: 
+10.1073/pnas.2008410117.
+[64] Gu J, Liu Q, Zhang J, Xu S. COVID-19 and trained immunity: the inflammatory burden of 
+long covid. Front Immunol 2023. doi: 10.3389/fimmu.2023.1294959.
+[65] Cheong JG, Ravishankar A, Sharma S, Parkhurst CN, Grassmann SA, Wingert CK, et al. 
+Epigenetic memory of coronavirus infection in innate immune cells and their progenitors. Cell 2023. 
+doi: 10.1016/j.cell.2023.07.019.
+[66] Vijayakumar B, Boustani K, Ogger PP, Papadaki A, Tonkin J, Orton CM, et al. 
+Immuno-proteomic profiling reveals aberrant immune cell regulation in the airways of individuals 
+with 
+ongoing 
+post-COVID-19 
+respiratory 
+disease. 
+Immunity 
+2022. 
+doi: 
+10.1016/j.immuni.2022.01.017.
+[67] Friščić J, Böttcher M, Reinwald C, Bruns H, Wirth B, Popp SJ, et al. The complement 
+system drives local inflammatory tissue priming by metabolic reprogramming of synovial 
+fibroblasts. Immunity 2021. doi: 10.1016/j.immuni.2021.03.003.
+[68] Marzeda AM, Schwenzer A, Didov BS, Woolcock K, Richard JB, Jennings LK, et al. 
+Investigating endogenous immune-mediated monocyte memory in rheumatoid arthritis. Ann Rheum 
+Dis 2025. doi: 10.1016/j.ard.2025.03.016.
+[69] Jeljeli MM, Adamopoulos IE. Innate immune memory in inflammatory arthritis. Nat Rev 
+Rheumatol 2023. doi: 10.1038/s41584-023-01009-0.
+[70] McDonald MM, Khoo WH, Ng PY, Xiao Y, Zamerli J, Thatcher P, et al. Osteoclasts 
+recycle via osteomorphs during RANKL-stimulated bone resorption. Cell 2021. doi: 
+10.1016/j.cell.2021.02.002.
+[71] Edgar L, Akbar N, Braithwaite AT, Krausgruber T, Gallart-Ayala H, Bailey J, et al. 
+Hyperglycemia Induces Trained Immunity in Macrophages and Their Precursors and Promotes 
+Atherosclerosis. Circulation 2021. doi: 10.1161/circulationaha.120.046464.
+[72] Simats A, Zhang S, Messerer D, Chong F, Beşkardeş S, Chivukula AS, et al. Innate 
+immune memory after brain injury drives inflammatory cardiac dysfunction. Cell 2024. doi: 
+10.1016/j.cell.2024.06.028.
+[73] Dong Z, Hou L, Luo W, Pan LH, Li X, Tan HP, et al. Myocardial infarction drives trained 
+immunity 
+of 
+monocytes, 
+accelerating 
+atherosclerosis. 
+Eur 
+Heart 
+J 
+2024. 
+doi: 
+10.1093/eurheartj/ehad787.
+[74] Riksen NP, Bekkering S, Mulder WJM, Netea MG. Trained immunity in atherosclerotic 
+cardiovascular disease. Nat Rev Cardiol 2023. doi: 10.1038/s41569-023-00894-y.
+[75] Domínguez-Andrés J, Dos Santos JC, Bekkering S, Mulder WJM, van der Meer JWM, 
+Riksen NP, et al. Trained immunity: adaptation within innate immune mechanisms. Physiol Rev 
+2023. doi: 10.1152/physrev.00031.2021.
+[76] Wendeln AC, Degenhardt K, Kaurani L, Gertig M, Ulas T, Jain G, et al. Innate immune 
+memory 
+in 
+the 
+brain 
+shapes 
+neurological 
+disease 
+hallmarks. 
+Nature 
+2018. 
+doi: 
+10.1038/s41586-018-0023-4.
+[77] Dong H, Zhang X, Duan Y, He Y, Zhao J, Wang Z, et al. Hypoxia inducible factor-1α 
+regulates microglial innate immune memory and the pathology of Parkinson's disease. J 
+Neuroinflammation 2024. doi: 10.1186/s12974-024-03070-2.
+[78] Huang M, Malovic E, Ealy A, Jin H, Anantharam V, Kanthasamy A, et al. Microglial 
+immune regulation by epigenetic reprogramming through histone H3K27 acetylation in 
+neuroinflammation. Front Immunol 2023. doi: 10.3389/fimmu.2023.1052925.
+[79] Noz MP, Ter Telgte A, Wiegertjes K, Joosten LAB, Netea MG, de Leeuw FE, et al. 
+Trained Immunity Characteristics Are Associated With Progressive Cerebral Small Vessel Disease. 
+Stroke 2018. doi: 10.1161/strokeaha.118.023192.
+[80] Braza MS, van Leent MMT, Lameijer M, Sanchez-Gaytan BL, Arts RJW, Pérez-Medina 
+C, et al. Inhibiting Inflammation with Myeloid Cell-Specific Nanobiologics Promotes Organ 
+Transplant Acceptance. Immunity 2018. doi: 10.1016/j.immuni.2018.09.008.
+[81] Ochando J, Ortiz A. Trained immunity: from kidney failure to organ transplantation. Nat 
+Rev Nephrol 2025. doi: 10.1038/s41581-024-00927-w.
+[82] Kim HY, Kang YJ, Kim DH, Jang J, Lee SJ, Kim G, et al. Uremic toxin indoxyl sulfate 
+induces trained immunity via the AhR-dependent arachidonic acid pathway in end-stage renal 
+disease (ESRD). Elife 2024. doi: 10.7554/eLife.87316.
+[83] Jonkman I, Jacobs MME, Negishi Y, Yanginlar C, Martens JHA, Baltissen M, et al. 
+Trained immunity suppression determines kidney allograft survival. Am J Transplant 2024. doi: 
+10.1016/j.ajt.2024.08.006.
+[84] Paré JF, Tabasinezhad M, Grossman A, Atallah A, Hindmarch CCT, Tyryshkin K, et al. 
+Association of Histone H3 Trimethylation in Circulating Monocytes with Lack of Early Recurrence 
+in Patients with Bladder Cancer following BCG Induction Therapy. Bladder Cancer 2023. doi: 
+10.3233/BLC-230028.
+[85] Villumsen M, Sørup S, Jess T, Ravn H, Relander T, Baker JL, et al. Risk of lymphoma and 
+leukaemia after bacille Calmette-Guérin and smallpox vaccination: a Danish case-cohort study. 
+Vaccine 2009. doi: 10.1016/j.vaccine.2009.08.103.
+[86] Kremenovic M, Chan AA, Feng B, Bäriswyl L, Robatel S, Gruber T, et al. BCG hydrogel 
+promotes CTSS-mediated antigen processing and presentation, thereby suppressing metastasis and 
+prolonging survival in melanoma. J Immunother Cancer 2022. doi: 10.1136/jitc-2021-004133.
+[87] Vaziri F, Setayesh T, Hu Y, Ravindran R, Wei D, Wan YY. BCG as an Innovative Option 
+for HCC Treatment: Repurposing and Mechanistic Insights. Adv Sci (Weinh) 2024. doi: 
+10.1002/advs.202308242.
+[88] Moreo E, Jarit-Cabanillas A, Robles-Vera I, Uranga S, Guerrero C, Gómez AB, et al. 
+Intravenous administration of BCG in mice promotes natural killer and T cell-mediated antitumor 
+immunity in the lung. Nat Commun 2023. doi: 10.1038/s41467-023-41768-8.
+[89] Singh S, Kishore D, Singh RK. "Trained Immunity" from Mycobacterium spp. exposure 
+(BCG vaccination and environmental) may have an impact on the incidence of early childhood 
+leukemia. Front Immunol 2023. doi: 10.3389/fimmu.2023.1193859.
+[90] Usher NT, Chang S, Howard RS, Martinez A, Harrison LH, Santosham M, et al. 
+Association of BCG Vaccination in Childhood With Subsequent Cancer Diagnoses: A 60-Year 
+Follow-up of a Clinical Trial. JAMA Netw Open 2019. doi: 10.1001/jamanetworkopen.2019.12014.
+[91] Liu L, Shi W, Xiao X, Wu X, Hu H, Yuan S, et al. BCG immunotherapy inhibits cancer 
+progression by promoting the M1 macrophage differentiation of THP‑1 cells via the Rb/E2F1 
+pathway in cervical carcinoma. Oncol Rep 2021. doi: 10.3892/or.2021.8196.  
+[92] Lu Y, Huang X, Liu X, He Y, Hu Z, Xu W, et al. Remodels the Immunosuppressive Tumor 
+Microenvironment by Combination of Bacillus Calmette-Guérin and Anti-PD-L1 in an Orthotopic 
+Triple-Negative Breast Cancer Mouse Model. Onco Targets Ther 2021. doi: 10.2147/OTT.S294129.
+[93] Kim YM, Choi JO, Cho YJ, Hong BK, Shon HJ, Kim BJ, et al. Mycobacterium potentiates 
+protection from colorectal cancer by gut microbial alterations. Immunology 2023. doi: 
+10.1111/imm.13586.
+[94] Ding C, Shrestha R, Zhu X, Geller AE, Wu S, Woeste MR, et al. Inducing trained 
+immunity in pro-metastatic macrophages to control tumor metastasis. Nat Immunol 2023. doi: 
+10.1038/s41590-022-01388-8.
+[95] Priem B, van Leent MMT, Teunissen AJP, Sofias AM, Mourits VP, Willemsen L, et al. 
+Trained Immunity-Promoting Nanobiologic Therapy Suppresses Tumor Growth and Potentiates 
+Checkpoint Inhibition. Cell 2020. doi: 10.1016/j.cell.2020.09.059.
+[96] Jeong H, Koh J, Kim S, Yim J, Song SG, Kim H, et al. Cell-intrinsic PD-L1 signaling 
+drives immunosuppression by myeloid-derived suppressor cells through IL-6/Jak/Stat3 in 
+PD-L1-high lung cancer. J Immunother Cancer 2025. doi: 10.1136/jitc-2024-010612.
+[97] Benn CS, Aaby P. Measles vaccination and reduced child mortality: Prevention of immune 
+amnesia or beneficial non-specific effects of measles vaccine? J Infect 2023. doi: 
+10.1016/j.jinf.2023.07.010.
+[98] Gehrt L, Möller S, Englund H, Laake I, Nieminen H, Feiring B, et al. Vaccination against 
+measles-mumps-rubella and rates of non-targeted infectious disease hospitalisations: Nationwide 
+register-based cohort studies in Denmark, Finland, Norway, and Sweden. J Infect 2025. doi: 
+10.1016/j.jinf.2024.106365.
+[99] Rieckmann A, Villumsen M, Sørup S, Haugaard LK, Ravn H, Roth A, et al. Vaccinations 
+against smallpox and tuberculosis are associated with better long-term survival: a Danish case-cohort 
+study 1971-2010. Int J Epidemiol 2017. doi: 10.1093/ije/dyw120.
+[100] Yagovkina NV, Zheleznov LM, Subbotina KA, Tsaan AA, Kozlovskaya LI, Gordeychuk 
+IV, et al. Vaccination With Oral Polio Vaccine Reduces COVID-19 Incidence. Front Immunol 2022. 
+doi: 10.3389/fimmu.2022.907341.
+[101] Aaby P, Benn CS. Developing the concept of beneficial non-specific effect of live 
+vaccines with epidemiological studies. Clin Microbiol Infect 2019. doi: 10.1016/j.cmi.2019.08.011.
+[102] Arunachalam PS, Scott MKD, Hagan T, Li C, Feng Y, Wimmers F, et al. Systems 
+vaccinology 
+of 
+the 
+BNT162b2 
+mRNA 
+vaccine 
+in 
+humans. 
+Nature 
+2021. 
+doi: 
+10.1038/s41586-021-03791-x.
+[103] Soto JA, Gálvez NMS, Andrade CA, Ramírez MA, Riedel CA, Kalergis AM, et al. BCG 
+vaccination induces cross-protective immunity against pathogenic microorganisms. Trends Immunol 
+2022. doi: 10.1016/j.it.2021.12.006.
+[104] Jeyanathan M, Vaseghi-Shanjani M, Afkhami S, Grondin JA, Kang A, D'Agostino MR, et 
+al. Parenteral BCG vaccine induces lung-resident memory macrophages and trained immunity via 
+the gut-lung axis. Nat Immunol 2022. doi: 10.1038/s41590-022-01354-4.
+[105] Prentice S, Nassanga B, Webb EL, Akello F, Kiwudhu F, Akurut H, et al. BCG-induced 
+non-specific effects on heterologous infectious disease in Ugandan neonates: an investigator-blind 
+randomised controlled trial. Lancet Infect Dis 2021. doi: 10.1016/s1473-3099(20)30653-8.
+[106] van Puffelen JH, Novakovic B, van Emst L, Kooper D, Zuiverloon TCM, Oldenhof UTH, 
+et al. Intravesical BCG in patients with non-muscle invasive bladder cancer induces trained 
+immunity 
+and 
+decreases 
+respiratory 
+infections. 
+J 
+Immunother 
+Cancer 
+2023. 
+doi: 
+10.1136/jitc-2022-005518.
+[107] Flaig TW, Spiess PE, Abern M, Agarwal N, Bangs R, Buyyounouski MK, et al. NCCN 
+Guidelines® Insights: Bladder Cancer, Version 3.2024. J Natl Compr Canc Netw 2024. doi: 
+10.6004/jnccn.2024.0024.
+[108] Li W, Moorlag S, Koeken V, Röring RJ, de Bree LCJ, Mourits VP, et al. A single-cell 
+view on host immune transcriptional response to in vivo BCG-induced trained immunity. Cell Rep 
+2023. doi: 10.1016/j.celrep.2023.112487.
+[109] Um PK, Praharaj M, Lombardo KA, Yoshida T, Matoso A, Baras AS, et al. Improved 
+bladder cancer antitumor efficacy with a recombinant BCG that releases a STING agonist. bioRxiv 
+2023. doi: 10.1101/2023.12.15.571740.
+[110] Singh AK, Praharaj M, Lombardo KA, Yoshida T, Matoso A, Baras AS, et al. 
+Re-engineered BCG overexpressing cyclic di-AMP augments trained immunity and exhibits 
+improved efficacy against bladder cancer. Nat Commun 2022. doi: 10.1038/s41467-022-28509-z.
+[111] Föhse K, Debisarun PA, Kilic G, van Dodewaard-de Jong JM, Netea MG. Evaluation of 
+the safety and immunological effects of Bacillus Calmette-Guérin in combination with checkpoint 
+inhibitor therapy in a patient with neuroendocrine carcinoma: a case report. J Med Case Rep 2023. 
+doi: 10.1186/s13256-023-04117-3.
+[112] Daman AW, Antonelli AC, Redelman-Sidi G, Paddock L, Khayat S, Ketavarapu M, et al. 
+Microbial cancer immunotherapy reprograms hematopoiesis to enhance myeloid-driven anti-tumor 
+immunity. Cancer Cell 2025. doi: 10.1016/j.ccell.2025.05.002.
+[113] Derré L, Cesson V, Lucca I, Cerantola Y, Valerio M, Fritschi U, et al. Intravesical 
+Bacillus Calmette Guerin Combined with a Cancer Vaccine Increases Local T-Cell Responses in 
+Non-muscle-Invasive 
+Bladder 
+Cancer 
+Patients. 
+Clin 
+Cancer 
+Res 
+2017. 
+doi: 
+10.1158/1078-0432.Ccr-16-1189.
+[114] Sørup S, Jensen AKG, Aaby P, Benn CS. Revaccination With Measles-Mumps-Rubella 
+Vaccine and Infectious Disease Morbidity: A Danish Register-based Cohort Study. Clin Infect Dis 
+2019. doi: 10.1093/cid/ciy433.
+[115] Byberg S, Thysen SM, Rodrigues A, Martins C, Cabral C, Careme M, et al. A general 
+measles vaccination campaign in urban Guinea-Bissau: Comparing child mortality among 
+participants and non-participants. Vaccine 2017. doi: 10.1016/j.vaccine.2016.11.049.
+[116] Lundberg L, Bygdell M, Stukat von Feilitzen G, Woxenius S, Ohlsson C, Kindblom JM, 
+et al. Recent MMR vaccination in health care workers and Covid-19: A test negative case-control 
+study. Vaccine 2021. doi: 10.1016/j.vaccine.2021.06.045.
+[117] Debisarun PA, Gössling KL, Bulut O, Kilic G, Zoodsma M, Liu Z, et al. Induction of 
+trained immunity by influenza vaccination - impact on COVID-19. PLoS Pathog 2021. doi: 
+10.1371/journal.ppat.1009928.
+[118] Cirovic B, de Bree LCJ, Groh L, Blok BA, Chan J, van der Velden W, et al. BCG 
+Vaccination in Humans Elicits Trained Immunity via the Hematopoietic Progenitor Compartment. 
+Cell Host Microbe 2020. doi: 10.1016/j.chom.2020.05.014.
+[119] García González LA, Arrutia Díez F. Mucosal bacterial immunotherapy with MV130 
+highly reduces the need of tonsillectomy in adults with recurrent tonsillitis. Hum Vaccin Immunother 
+2019. doi: 10.1080/21645515.2019.1581537.
+[120] MontalbáonHernández K, Cogollo-GarcíogA, Girón de Velasco-Sada P, Caballero R, 
+Casanovas M, Subiza JL, et al. MV130 in the Prevention of Recurrent Respiratory Tract Infections: 
+A Retrospective Real-World Study in Children and Adults. Vaccines (Basel) 2024. doi: 
+10.3390/vaccines12020172. 
+[121] Laroche C, Michaud P. New developments and prospective applications for beta (1,3) 
+glucans. Recent Pat Biotechnol 2007. doi: 10.2174/187220807779813938.
+[122] Wattenberg MM, Coho H, Herrera VM, Graham K, Stone ML, Xue Y, et al. Cancer 
+immunotherapy via synergistic coactivation of myeloid receptors CD40 and Dectin-1. Sci Immunol 
+2023. doi: 10.1126/sciimmunol.adj5097.
+[123] Assouline B, Kahn R, Hodali L, Condiotti R, Engel Y, Elyada E, et al. Senescent 
+cancer-associated fibroblasts in pancreatic adenocarcinoma restrict CD8+ T cell activation and limit 
+responsiveness to immunotherapy in mice. Nat Commun 2024. doi: 10.1038/s41467-024-50441-7.
+[124] Geller AE, Shrestha R, Woeste MR, Guo H, Hu X, Ding C, et al. The induction of 
+peripheral trained immunity in the pancreas incites anti-tumor activity to control pancreatic cancer 
+progression. Nat Commun 2022. doi: 10.1038/s41467-022-28407-4.
+[125] Woeste MR, Shrestha R, Geller AE, Li S, Montoya-Durango D, Ding C, et al. Irreversible 
+electroporation augments β-glucan induced trained innate immunity for the treatment of pancreatic 
+ductal adenocarcinoma. J Immunother Cancer 2023. doi: 10.1136/jitc-2022-006221.
+[126] Wang Q, Jiang H, Zhang H, Lu W, Wang X, Xu W, et al. β-Glucan-conjugated 
+anti-PD-L1 antibody enhances antitumor efficacy in preclinical mouse models. Carbohydr Polym 
+2024. doi: 10.1016/j.carbpol.2023.121564.
+[127] Foster BM, Shi L, Harris KS, Patel C, Surratt VE, Langsten KL, et al. Bone 
+Marrow-Derived Stem Cell Factor Regulates Prostate Cancer-Induced Shifts in Pre-Metastatic Niche 
+Composition. Front Oncol 2022. doi: 10.3389/fonc.2022.855188.
+[128] Pan Y, Li J, Xia X, Wang J, Jiang Q, Yang J, et al. β-glucan-coupled superparamagnetic 
+iron oxide nanoparticles induce trained immunity to protect mice against sepsis. Theranostics 2022. 
+doi: 10.7150/thno.64874.
+[129] Jin JW, Tang SQ, Rong MZ, Zhang MQ. Synergistic effect of dual targeting vaccine 
+adjuvant with aminated β-glucan and CpG-oligodeoxynucleotides for both humoral and cellular 
+immune responses. Acta Biomater 2018. doi: 10.1016/j.actbio.2018.08.002.
+[130] Chen Z, Yong T, Wei Z, Zhang X, Li X, Qin J, et al. Engineered Probiotic-Based 
+Personalized Cancer Vaccine Potentiates Antitumor Immunity through Initiating Trained Immunity. 
+Adv Sci (Weinh) 2024. doi: 10.1002/advs.202305081.
+[131] Li D, Li W, Zheng P, Yang Y, Liu Q, Hu Y, et al. A "trained immunity" 
+inducer-adjuvanted nanovaccine reverses the growth of established tumors in mice. J 
+Nanobiotechnology 2023. doi: 10.1186/s12951-023-01832-3.
+[132] Kang A, Ye G, Afkhami S, Aleithan F, Singh K, Dvorkin-Gheva A, et al. LPS-induced 
+lung tissue-resident trained innate immunity provides differential protection against pneumococci 
+and SARS-CoV-2. Cell Rep 2024. doi: 10.1016/j.celrep.2024.114849.
+[133] Ifrim DC, Quintin J, Joosten LA, Jacobs C, Jansen T, Jacobs L, et al. Trained immunity or 
+tolerance: opposing functional programs induced in human monocytes after engagement of various 
+pattern recognition receptors. Clin Vaccine Immunol 2014. doi: 10.1128/cvi.00688-13.
+[134] Zhong Y, Ye P, Mei Z, Huang S, Huang M, Li Y, et al. The novel methyltransferase 
+SETD4 regulates TLR agonist-induced expression of cytokines through methylation of lysine 4 at 
+histone 3 in macrophages. Mol Immunol 2019. doi: 10.1016/j.molimm.2019.07.011.
+[135] Yoshida K, Maekawa T, Zhu Y, Renard-Guillet C, Chatton B, Inoue K, et al. The 
+transcription factor ATF7 mediates lipopolysaccharide-induced epigenetic changes in macrophages 
+involved in innate immunological memory. Nat Immunol 2015. doi: 10.1038/ni.3257.
+[136] de Laval B, Maurizio J, Kandalla PK, Brisou G, Simonnet L, Huber C, et al. 
+C/EBPβ-Dependent Epigenetic Memory Induces Trained Immunity in Hematopoietic Stem Cells. 
+Cell Stem Cell 2020. doi: 10.1016/j.stem.2020.01.017.
+[137] Tannahill GM, Curtis AM, Adamik J, Palsson-McDermott EM, McGettrick AF, Goel G, 
+et al. Succinate is an inflammatory signal that induces IL-1β through HIF-1α. Nature 2013. doi: 
+10.1038/nature11986.
+[138] Zahalka S, Starkl P, Watzenboeck ML, Farhat A, Radhouani M, Deckert F, et al. Trained 
+immunity of alveolar macrophages requires metabolic rewiring and type 1 interferon signaling. 
+Mucosal Immunol 2022. doi: 10.1038/s41385-022-00528-5.
+[139] Novakovic B, Habibi E, Wang SY, Arts RJW, Davar R, Megchelenbrink W, et al. 
+β-Glucan Reverses the Epigenetic State of LPS-Induced Immunological Tolerance. Cell 2016. doi: 
+10.1016/j.cell.2016.09.034.
+[140] Abhimanyu, Longlax SC, Nishiguchi T, Ladki M, Sheikh D, Martinez AL, et al. TCA 
+metabolism regulates DNA hypermethylation in LPS and Mycobacterium tuberculosis-induced 
+immune tolerance. Proc Natl Acad Sci U S A 2024. doi: 10.1073/pnas.2404841121.
+[141] Maia A, Cardona Gloria Y, Fuchs K, Chang TH, Engels P, Zhou M, et al. Chitin 
+oligomers promote lymphoid innate and adaptive immune cell activation. J Leukoc Biol 2023. doi: 
+10.1093/jleuko/qiad044.
+[142] Chen DD, Wang ZB, Wang LX, Zhao P, Yun CH, Bai L. Structure, catalysis, chitin 
+transport, 
+and 
+selective 
+inhibition 
+of 
+chitin 
+synthase. 
+Nat 
+Commun 
+2023. 
+doi: 
+10.1038/s41467-023-40479-4.
+[143] Chang TH, Cardona Gloria Y, Hellmann MJ, Richardo T, Greve CL, Le Roy D, et al. 
+Transkingdom mechanism of MAMP generation by chitotriosidase feeds oligomeric chitin from 
+fungal pathogens and allergens into TLR2-mediated innate immune sensing. Front Immunol 2025. 
+doi: 10.3389/fimmu.2025.1497174.
+[144] Honorato L, Bonilla JJA, Valdez AF, Frases S, Araúa, GRdS, Sabino ALRdN, et al. 
+Toll-like receptor 4 (TLR4) is the major pattern recognition receptor triggering the protective effect 
+of a Candida albicans extracellular vesicle-based vaccine prototype in murine systemic candidiasis. 
+mSphere 2024. doi: 10.1128/msphere.00467-24.
+[145] Wei X, Liu C, Li Z, Gu Z, Yang J, Luo K. Chitosan-based hydrogel dressings for diabetic 
+wound healing via promoting M2 macrophage-polarization. Carbohydr Polym 2024. doi: 
+10.1016/j.carbpol.2024.121873.
+[146] Rizzetto L, Ifrim DC, Moretti S, Tocci N, Cheng SC, Quintin J, et al. Fungal Chitin 
+Induces Trained Immunity in Human Monocytes during Cross-talk of the Host with Saccharomyces 
+cerevisiae. J Biol Chem 2016. doi: 10.1074/jbc.M115.699645.
+[147] Iliev ID, Funari VA, Taylor KD, Nguyen Q, Reyes CN, Strom SP, et al. Interactions 
+between commensal fungi and the C-type lectin receptor Dectin-1 influence colitis. Science 2012. 
+doi: 10.1126/science.1221789.
+[148] Liu G, Ma N, Cheng K, Feng Q, Ma X, Yue Y, et al. Bacteria-derived nanovesicles 
+enhance 
+tumour 
+vaccination 
+by 
+trained 
+immunity. 
+Nat 
+Nanotechnol 
+2024. 
+doi: 
+10.1038/s41565-023-01553-6.
+[149] Liang J, Zhu F, Cheng K, Ma N, Ma X, Feng Q, et al. Outer Membrane Vesicle-Based 
+Nanohybrids Target Tumor-Associated Macrophages to Enhance Trained Immunity-Related 
+Vaccine-Generated Antitumor Activity. Adv Mater 2023. doi: 10.1002/adma.202306158.
+[150] Gong Y, Hao W, Xu L, Yang Y, Dong Z, Pan P, et al. BCG-Derived Outer Membrane 
+Vesicles Induce TLR2-Dependent Trained Immunity to Protect Against Polymicrobial Sepsis. Adv 
+Sci (Weinh) 2025. doi: 10.1002/advs.202504101.
+[151] Arts RJW, Moorlag S, Novakovic B, Li Y, Wang SY, Oosting M, et al. BCG Vaccination 
+Protects against Experimental Viral Infection in Humans through the Induction of Cytokines 
+Associated with Trained Immunity. Cell Host Microbe 2018. doi: 10.1016/j.chom.2017.12.010.
+[152] Flores-Gomez D, Hobo W, van Ens D, Kessler EL, Novakovic B, Schaap NPM, et al. 
+Interleukin-1β induces trained innate immunity in human hematopoietic progenitor cells in vitro. 
+Stem cell reports 2024. doi: 10.1016/j.stemcr.2024.09.004.
+[153] Khan N, Downey J, Sanz J, Kaufmann E, Blankenhaus B, Pacis A, et al. M. tuberculosis 
+Reprograms Hematopoietic Stem Cells to Limit Myelopoiesis and Impair Trained Immunity. Cell 
+2020. doi: 10.1016/j.cell.2020.09.062.
+[154] Tran KA, Pernet E, Sadeghi M, Downey J, Chronopoulos J, Lapshina E, et al. BCG 
+immunization induces CX3CR1(hi) effector memory T cells to provide cross-protection via 
+IFN-γ-mediated trained immunity. Nat Immunol 2024. doi: 10.1038/s41590-023-01739-z.
+[155] Lundahl MLE, Mitermite M, Ryan DG, Case S, Williams NC, Yang M, et al. 
+Macrophage innate training induced by IL-4 and IL-13 activation enhances OXPHOS driven 
+anti-mycobacterial responses. Elife 2022. doi: 10.7554/eLife.74690.
+[156] Schrijver DP, Röring RJ, Deckers J, de Dreu A, Toner YC, Prevot G, et al. Resolving 
+sepsis-induced immunoparalysis via trained immunity by targeting interleukin-4 to myeloid cells. 
+Nat Biomed Eng 2023. doi: 10.1038/s41551-023-01050-0.
+[157] Zhu S, Zhang C, Sun Q, Wang Y, Yu W, Wei F, et al. Trained Immunity of IL-12-, 
+IL-15-, 
+and 
+IL-18-Induced 
+CD(3)+CD(56)+ 
+NKT-Like 
+Cells. 
+J 
+Oncol 
+2022. 
+doi: 
+10.1155/2022/8724933.
+[158] Teufel LU, Arts RJW, Netea MG, Dinarello CA, Joosten LAB. IL-1 family cytokines as 
+drivers and inhibitors of trained immunity. Cytokine 2022. doi: 10.1016/j.cyto.2021.155773.
+[159] Teufel LU, Joosten LAB, Dos Santos JC. Immunotherapeutic Potential of Interleukin-32 
+and 
+Trained 
+Immunity 
+for 
+Leishmaniasis 
+Treatment. 
+Trends 
+Parasitol 
+2021. 
+doi: 
+10.1016/j.pt.2020.09.014.
+[160] Teufel LU, Netea MG, van de Veerdonk FL, Dinarello CA, Joosten LAB, Arts RJW. 
+Opposing Effects of Interleukin-36γ and Interleukin-38 on Trained Immunity. Int J Mol Sci 2023. 
+doi: 10.3390/ijms24032311.
+[161] Borriello F, Iannone R, Di Somma S, Loffredo S, Scamardella E, Galdiero MR, et al. 
+GM-CSF and IL-3 Modulate Human Monocyte TNF-α Production and Renewal in In Vitro Models 
+of Trained Immunity. Front Immunol 2016. doi: 10.3389/fimmu.2016.00680.
+[162] Guerrero P, Bono C, Sobén M, Guiu A, Cheng QJ, Gil ML, et al. GM-CSF receptor 
+expression determines opposing innate memory phenotypes at different stages of myelopoiesis. 
+Blood 2024. doi: 10.1182/blood.2024024330.
+[163] Li X, Fang P, Sun Y, Shao Y, Yang WY, Jiang X, et al. Anti-inflammatory cytokines 
+IL-35 and IL-10 block atherogenic lysophosphatidylcholine-induced, mitochondrial ROS-mediated 
+innate immune activation, but spare innate immune memory signature in endothelial cells. Redox 
+Biol 2020. doi: 10.1016/j.redox.2019.101373.
+[164] Röring RJ, Scognamiglio F, de Jong LC, Groh LA, Matzaraki V, Koeken V, et al. 
+Interleukin-10 inhibits important components of trained immunity in human monocytes. J Leukoc 
+Biol 2024. doi: 10.1093/jleuko/qiae240.
+[165] Cavalli G, Tengesdal IW, Gresnigt M, Nemkov T, Arts RJW, Domínguez-Andrés J, et al. 
+The anti-inflammatory cytokine interleukin-37 is an inhibitor of trained immunity. Cell Rep 2021. 
+doi: 10.1016/j.celrep.2021.108955.
+[166] de Graaf DM, Teufel LU, van de Veerdonk FL, Joosten LAB, Netea MG, Dinarello CA, 
+et al. IL-38 prevents induction of trained immunity by inhibition of mTOR signaling. J Leukoc Biol 
+2021. doi: 10.1002/jlb.3a0220-143rrr.
+[167] Singh S, Singh PK, Jha A, Naik P, Joseph J, Giri S, et al. Integrative metabolomics and 
+transcriptomics identifies itaconate as an adjunct therapy to treat ocular bacterial infection. Cell Rep 
+Med 2021. doi: 10.1016/j.xcrm.2021.100277.
+[168] Domínguez-Andrés J, Novakovic B, Li Y, Scicluna BP, Gresnigt MS, Arts RJW, et al. 
+The Itaconate Pathway Is a Central Regulatory Node Linking Innate Immune Tolerance and Trained 
+Immunity. Cell Metab 2019. doi: 10.1016/j.cmet.2018.09.003.
+[169] Ferreira AV, Kostidis S, Groh LA, Koeken V, Bruno M, Baydemir I, et al. Dimethyl 
+itaconate induces long-term innate immune responses and confers protection against infection. Cell 
+Rep 2023. doi: 10.1016/j.celrep.2023.112658.
+[170] Pérez-Hernández CA, Kern CC, Butkeviciute E, McCarthy E, Dockrell HM, 
+Moreno-Altamirano MMB, et al. Mitochondrial Signature in Human Monocytes and Resistance to 
+Infection in C. elegans During Fumarate-Induced Innate Immune Training. Front Immunol 2020. 
+doi: 10.3389/fimmu.2020.01715.
+[171] Muller AL, Freed DH. Basic and Clinical Observations of Mevalonate Depletion on the 
+Mevalonate 
+Signaling 
+Pathway. 
+Curr 
+Mol 
+Pharmacol 
+2017. 
+doi: 
+10.2174/1874467209666160112125805.
+[172] Liu Y, Wang Z, Jin H, Cui L, Huo B, Xie C, et al. Squalene-epoxidase-catalyzed 
+24(S),25-epoxycholesterol synthesis promotes trained-immunity-mediated antitumor activity. Cell 
+Rep 2024. doi: 10.1016/j.celrep.2024.114094.
+[173] Thiem K, Keating ST, Netea MG, Riksen NP, Tack CJ, van Diepen J, et al. 
+Hyperglycemic Memory of Innate Immune Cells Promotes In Vitro Proinflammatory Responses of 
+Human Monocytes and Murine Macrophages. J Immunol 2021. doi: 10.4049/jimmunol.1901348.
+[174] Quinteros SL, Snyder NW, Chatoff A, Ryan F, O'Brien B, Donnelly S. The 
+helminth-derived peptide, FhHDM-1, reverses the trained phenotype of NOD bone-marrow-derived 
+macrophages 
+and 
+regulates 
+proinflammatory 
+responses. 
+Eur 
+J 
+Immunol 
+2024. 
+doi: 
+10.1002/eji.202350643.
+[175] Neidhart M, Pajak A, Laskari K, Riksen NP, Joosten LAB, Netea MG, et al. Oligomeric 
+S100A4 Is Associated With Monocyte Innate Immune Memory and Bypass of Tolerance to 
+Subsequent 
+Stimulation 
+With 
+Lipopolysaccharides. 
+Front 
+Immunol 
+2019. 
+doi: 
+10.3389/fimmu.2019.00791.
+[176] Ulas T, Pirr S, Fehlhaber B, Bickes MS, Loof TG, Vogl T, et al. S100-alarmin-induced 
+innate immune programming protects newborn infants from sepsis. Nat Immunol 2017. doi: 
+10.1038/ni.3745.
+[177] Freise N, Burghard A, Ortkras T, Daber N, Imam Chasan A, Jauch SL, et al. Signaling 
+mechanisms inducing hyporesponsiveness of phagocytes during systemic inflammation. Blood 2019. 
+doi: 10.1182/blood.2019000320.
+[178] van Dijk A, Anten J, Bakker A, Evers N, Hoekstra AT, Chang JC, et al. Innate Immune 
+Training of Human Macrophages by Cathelicidin Analogs. Front Immunol 2022. doi: 
+10.3389/fimmu.2022.777530.
+[179] Groh LA, Ferreira AV, Helder L, van der Heijden C, Novakovic B, van de Westerlo E, et 
+al. oxLDL-Induced Trained Immunity Is Dependent on Mitochondrial Metabolic Reprogramming. 
+Immunometabolism 2021. doi: 10.20900/immunometab20210025.
+[180] Findeisen HM, Voges VC, Braun LC, Sonnenberg J, Schwarz D, Körner H, et al. LXRα 
+Regulates oxLDL-Induced Trained Immunity in Macrophages. Int J Mol Sci 2022. doi: 
+10.3390/ijms23116166.
+[181] Matarese G, Norata GD. Hormonal control of trained immunity: aldosterone at the 
+crossroad between activation of innate immunity and cardiovascular diseases. Cardiovasc Res 2020. 
+doi: 10.1093/cvr/cvz191.
+[182] Chen Y, Guo X, Zeng Y, Mo X, Hong S, He H, et al. Ferroptosis contributes to 
+catecholamine-induced cardiotoxicity and pathological remodeling. Free Radic Biol Med 2023. doi: 
+10.1016/j.freeradbiomed.2023.07.025. 
+[183] Ziogas A, Novakovic B, Ventriglia L, Galang N, Tran KA, Li W, et al. Long-term histone 
+lactylation connects metabolic and epigenetic rewiring in innate immune memory. Cell 2025. doi: 
+10.1016/j.cell.2025.03.048.
+[184] Cai H, Chen X, Liu Y, Chen Y, Zhong G, Chen X, et al. Lactate activates trained 
+immunity by fueling the tricarboxylic acid cycle and regulating histone lactylation. Nat Commun 
+2025. doi: 10.1038/s41467-025-58563-2.
+[185] Knight HR, Ketter E, Ung T, Weiss A, Ajit J, Chen Q, et al. High-throughput screen 
+identifies non inflammatory small molecule inducers of trained immunity. Proc Natl Acad Sci U S A 
+2024. doi: 10.1073/pnas.2400413121.
+[186] Ajit J, Knight HR, Chen Q, Solanki A, Shen J, Kahn APE. Novel non-immunogenic 
+trained immunity inducing small molecule with improved anti-tumor properties. bioRxiv 2024. doi: 
+10.1101/2024.03.22.585780.
+[187] Saz-Leal P, Del Fresno C, Brandi P, Martínez-Cano S, Dungan OM, Chisholm JD, et al. 
+Targeting SHIP-1 in Myeloid Cells Enhances Trained Immunity and Boosts Response to Infection. 
+Cell Rep 2018. doi: 10.1016/j.celrep.2018.09.092.
+[188] Liu ZZ, Zhou CK, Lin XQ, Gao Y, Luo XY, Zhang JB, et al. STING-dependent trained 
+immunity contributes to host defense against Clostridium perfringens infection via mTOR signaling. 
+Vet Res 2024. doi: 10.1186/s13567-024-01301-1.
+[189] Sohrabi Y, Sonntag GVH, Braun LC, Lagache SMM, Liebmann M, Klotz L, et al. LXR 
+Activation Induces a Proinflammatory Trained Innate Immunity-Phenotype in Human Monocytes. 
+Front Immunol 2020. doi: 10.3389/fimmu.2020.00353.
+[190] Kilic G, Matzaraki V, Bulut O, Baydemir I, Ferreira AV, Rabold K, et al. RORα 
+negatively 
+regulates 
+BCG-induced 
+trained 
+immunity. 
+Cell 
+Immunol 
+2024. 
+doi: 
+10.1016/j.cellimm.2024.104862.
+[191] Mourits VP, van Puffelen JH, Novakovic B, Bruno M, Ferreira AV, Arts RJ, et al. Lysine 
+methyltransferase G9a is an important modulator of trained immunity. Clin Transl Immunology 
+2021. doi: 10.1002/cti2.1253.
+[192] Yin L, Bing Z, Zheng Y, Pan Y, Dong Y, Wang J, et al. Oroxylin A-induced Trained 
+Immunity Promotes LC3-associated Phagocytosis in Macrophage in Protecting Mice Against Sepsis. 
+Inflammation 2024. doi: 10.1007/s10753-024-02033-2.
+[193] Sun Z, Pan Y, Qu J, Xu Y, Dou H, Hou Y. 17β-Estradiol Promotes Trained Immunity in 
+Females Against Sepsis via Regulating Nucleus Translocation of RelB. Front Immunol 2020. doi: 
+10.3389/fimmu.2020.01591.
+[194] Vijay-Kumar M, Bovilla VR, Yeoh BS, Golonka RM, Saha P, Joe B, et al. Bacterial 
+flagellin is a dominant, stable innate immune activator in the gastrointestinal contents of mice and 
+rats. Gut Microbes 2023. doi: 10.1080/19490976.2023.2185031.
+[195] An Y, Zhai Z, Wang X, Ding Y, He L, Li L, et al. Targeting Desulfovibrio vulgaris 
+flagellin-induced NAIP/NLRC4 inflammasome activation in macrophages attenuates ulcerative 
+colitis. J Adv Res 2023. doi: 10.1016/j.jare.2023.08.008.
+[196] Bigot J, Guillot L, Guitard J, Ruffin M, Corvol H, Chignard M, et al. Respiratory 
+Epithelial Cells Can Remember Infection: A Proof-of-Concept Study. J Infect Dis 2020. doi: 
+10.1093/infdis/jiz569.
+[197] Xu W, Yuan Y, Shu Z, Guo T, Liu B, Xiao J, et al. Streptococcus pneumoniae 
+endopeptidase O induces trained immunity and confers protection against various pathogenic 
+infections. Clin Immunol 2024. doi: 10.1016/j.clim.2024.110226.
+[198] Shim EH, Kim SH, Kim DJ, Jang YS. Complement C5a Receptor Signaling in 
+Macrophages Enhances Trained Immunity Through mTOR Pathway Activation. Immune Netw 
+2024. doi: 10.4110/in.2024.24.e24.
+[199] Flores Gomez D, Bekkering S, Ter Horst R, Cossins B, van den Munckhof ICL, Rutten 
+JHW, et al. The effect of leptin on trained innate immunity and on systemic inflammation in subjects 
+with obesity. J Leukoc Biol 2024. doi: 10.1093/jleuko/qiad118.
+[200] Owen AM, Luan L, Burelbach KR, McBride MA, Stothers CL, Boykin OA, et al. 
+MyD88-dependent signaling drives toll-like receptor-induced trained immunity in macrophages. 
+Front Immunol 2022. doi: 10.3389/fimmu.2022.1044662.
+[201] Tepale-Segura A, Gajón JA, Muñoz-Cruz S, Castro-Escamilla O, Bonifaz LC. The 
+cholera toxin B subunit induces trained immunity in dendritic cells and promotes CD8 T cell 
+antitumor immunity. Front Immunol 2024. doi: 10.3389/fimmu.2024.1362289.
+[202] Röring RJ, Scognamiglio F, de Jong LC, Groh LA, Matzaraki V, Koeken V, et al. 
+Interleukin-10 inhibits important components of trained immunity in human monocytes. J Leukoc 
+Biol 2025. doi: 10.1093/jleuko/qiae240.
+[203] Rudloff I, Ung HK, Dowling JK, Mansell A, D'Andrea L, Ellisdon AM, et al. Parsing the 
+IL-37-Mediated Suppression of Inflammasome Function. Cells 2020. doi: 10.3390/cells9010178.
+[204] Li Z, Zhao M, Yang Y, Zou Z, Zhang L, Jiang F, et al. Treatment of a MyD88 inhibitor 
+alleviates rejection and inflammation in xenotransplantation by inhibiting dendritic cells activation 
+and 
+trained 
+immunity 
+in 
+macrophages. 
+Int 
+Immunopharmacol 
+2024. 
+doi: 
+10.1016/j.intimp.2024.111664.
+[205] Rother N, Yanginlar C, Lindeboom RGH, Bekkering S, van Leent MMT, Buijsers B, et 
+al. Hydroxychloroquine Inhibits the Trained Innate Immune Response to Interferons. Cell Rep Med 
+2020. doi: 10.1016/j.xcrm.2020.100146.
+[206] Domínguez-Andrés J, Ferreira AV, Jansen T, Smithers N, Prinjha RK, Furze RC, et al. 
+Bromodomain inhibitor I-BET151 suppresses immune responses during fungal-immune interaction. 
+Eur J Immunol 2019. doi: 10.1002/eji.201848081.
+[207] Gao Y, Liu ZZ, Zhang JB, Zhou CK, Zhang JG, Lin XQ, et al. Dihydroartemisinin is an 
+inhibitor of trained immunity through Akt/mTOR/HIF1α signaling pathway. Exp Cell Res 2024. doi: 
+10.1016/j.yexcr.2024.114052.
+[208] Arts RJ, Blok BA, van Crevel R, Joosten LA, Aaby P, Benn CS, et al. Vitamin A induces 
+inhibitory histone methylation modifications and down-regulates trained immunity in human 
+monocytes. J Leukoc Biol 2015. doi: 10.1189/jlb.6AB0914-416R.
+[209] Porbahaie M, Hummel A, Saouadogo H, Coelho RML, Savelkoul HFJ, Teodorowicz M, 
+et al. Short-chain fatty acids inhibit the activation of T lymphocytes and myeloid cells and induce 
+innate immune tolerance. Benef Microbes 2023. doi: 10.1163/18762891-20220113.
+[210] Bulut O, Baydemir I, Kilic G, Domínguez-Andrés J, Netea MG. Resveratrol Potentiates 
+BCG-induced 
+Trained 
+Immunity 
+in 
+Human 
+Monocytes. 
+J 
+Leukoc 
+Biol 
+2024. 
+doi: 
+10.1093/jleuko/qiae241.
+[211] Schaltz-Buchholzer F, Kjær Sørensen M, Benn CS, Aaby P. The introduction of BCG 
+vaccination to neonates in Northern Sweden, 1927-31: Re-analysis of historical data to understand 
+the 
+lower 
+mortality 
+among 
+BCG-vaccinated 
+children. 
+Vaccine 
+2022. 
+doi: 
+10.1016/j.vaccine.2021.06.006.
+[212] Shi J, Wu J, Feng G, Yang H, Mu L. Natural Amphibian-Derived Host Defense Peptides: 
+Peptide Immunomodulators with Potential Therapeutic Value. Protein Pept Lett 2023. doi: 
+10.2174/0929866530666230525163307.
+[213] Liang D, Zhang Q, Pang Y, Yan R, Ke Y. SGSM2 in Uveal Melanoma: Implications for 
+Survival, 
+Immune 
+Infiltration, 
+and 
+Drug 
+Sensitivity. 
+Protein 
+Pept 
+Lett 
+2024. 
+doi: 
+10.2174/0109298665341953240926041613.
+Highlights:
+
+Trained immunity has garnered increasing attention for its potential to enhance host defense.
+
+The molecular mechanism of trained immunity and its impacts on various diseases are elucidate.
+
+The classification and mechanisms of trained immunity modulators, including vaccines, 
+polysaccharides, nanobiologics, endogenous mediators and other non-canonical modulators are 
+summarized in a comprehensive and up-to-date perspective.
+
+Insights into future directions for developing novel therapies targeting trained immunity are 
+proposed.
+ Jiao Chen, Ph.D., is a Research Fellow and master's supervisor at Nanjing 
+University of Chinese Medicine (Nanjing, China). Her primary research focuses on the 
+anti-inflammatory and immunopharmacological research of traditional Chinese medicine. She has 
+presided over two projects funded by the National Natural Science Foundation of China and one 
+Jiangsu Provincial Project for the Development of Traditional Chinese Medicine. She has published 
+more than 30 peer reviewed papers in journals such as Acta Pharmaceutica Sinica B and Cellular 
+Communication and Signaling.
+ Chenxi Wang is a post-graduate student enrolled at Nanjing University of 
+Chinese Medicine (Nanjing, China). Her research focus is on the anti-tumor immunopharmacology 
+of traditional Chinese medicine.
+ Shilin Chen is a post-graduate student at Nanjing University of Chinese 
+Medicine (Nanjing, China). His research focus is on the anti-tumor and anti-infection 
+immunopharmacology of traditional Chinese medicine.
+Hui Cai is a post-graduate student from the Third Clinical Medical College 
+of Nanjing University of Chinese Medicine (Nanjing, China). Her research interest is cancer 
+immunotherapy by combing trained immunity and adaptive immunity.
+ Mengke Wang is a post-graduate student from the Third Clinical Medical 
+College of Nanjing University of Chinese Medicine (Nanjing, China). Her research interest is 
+anti-tumor immunopharmacology of traditional Chinese medicine.
+Jingjie Chang is a post-graduate student from the Third Clinical Medical 
+College of Nanjing University of Chinese Medicine (Nanjing, China). Her research interest is cancer 
+immunotherapy by inducing trained immunity.
+ Xueting Cai, Ph.D., is a Research Fellow and master's supervisor at 
+Nanjing University of Chinese Medicine (Nanjing, China). She has presided over one project of the 
+National Major New Drug Creation Program, two projects funded by the National Natural Science 
+Foundation of China, and one project supported by the Jiangsu Provincial Natural Science 
+Foundation. She serves as a member of the Committee on Traditional Chinese Medicine 
+Pharmacology of the Jiangsu Pharmacological Society, a member of the Youth Expert Committee of 
+the Jiangsu Biotechnology Association, and a member of the Committee on Biotechnology and 
+Biopharmaceuticals of Jiangsu Province.
+ Jie Yang is an associate Research Fellow and master's supervisor at 
+Nanjing University of Chinese Medicine (Nanjing, China). Her primary research focuses on 
+anti-tumor and anti-inflammatory pharmacology and mechanisms. She has presided over two 
+projects funded by the National Natural Science Foundation related to anti-inflammatory and 
+immunopharmacology, both of which have been successfully completed. As the first author or 
+co-first author, she has published over 10 peer reviewed papers in prestigious immunology journals 
+such as Cellular & Molecular Immunology, as well as other internationally influential journals 
+including Journal 
+of 
+Medicinal 
+Chemistry, Molecular 
+Cancer 
+Therapeutics, 
+and Cellular 
+Communication and Signaling.
+ Peng Cao, Ph.D., is a Research Fellow of Nanjing University of Chinese 
+Medicine (Nanjing, China). His primary research focuses on the anti-inflammatory and 
+immunopharmacological effects and mechanisms of nature products. He has presided over 10 
+national-level projects, including the National Key Research and Development Program, the 
+National Science Fund for Distinguished Young Scholars, the Key Program of the National Natural 
+Science Foundation of China, and the National Major New Drug Creation Project. He has published 
+over 150 peer reviewed papers in journals such as Lancet Oncology, Nature Materials, and Cellular 
+& Molecular Immunology. He has been honored with the Tu Youyou Award for Innovation in 
+Chinese Medicine, the National Health Commission's Outstanding Contribution Award for 
+Middle-aged and Young Experts, the Jiangsu Provincial Leading Talent in Traditional Chinese 
+Medicine, and the Shulan Medical Youth Award.
+Compliance with ethics requirements
+Not applicable
+Declaration of Competing Interest 
+The authors declare that they have no competing interests. 

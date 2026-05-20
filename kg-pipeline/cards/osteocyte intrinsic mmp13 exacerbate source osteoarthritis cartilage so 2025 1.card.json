@@ -1,0 +1,34 @@
+{
+  "title": "Osteocyte-Intrinsic MMP13 Exacerbates Injury-Induced Temporomandibular Joint Osteoarthritis",
+  "authors": "Cristal S. Yee et al.",
+  "year": 2025,
+  "journal": "Osteoarthritis and Cartilage",
+  "category": "TMJ",
+  "research_question": "Does osteocytic MMP13 play a causal role in temporomandibular joint osteoarthritis (TMJOA) progression, similar to its role in knee OA?",
+  "methods_summary": [
+    "Generated DMP1-cre+/-;MMP13fl/fl mice with osteocyte-intrinsic MMP13 deletion",
+    "Induced TMJOA via intra-articular monosodium iodoacetate (MIA) injection in 12-week-old male mice",
+    "Evaluated TMJ and knee joint pathology using histology (Safranin-O/Fast Green, Ploton silver stain, Picrosirius red, TRAP stain, IHC/IF) and microCT",
+    "Assessed cartilage degeneration using Modified TMJ Mankin score",
+    "Analyzed subchondral bone parameters including lacunar density, collagen organization, osteoclast activity, and bone mineralization"
+  ],
+  "dataset": "16-week-old male DMP1-cre+/-;MMP13fl/fl mice and Cre-negative littermate controls (mixed FVB and C57BL/6 background); n=6-9 per group for TMJ studies, n=6-11 per group for knee studies",
+  "key_findings": [
+    "Osteocytic MMP13 deficiency protected TMJ from MIA-induced cartilage degeneration and subchondral bone changes, unlike knee where it exacerbated baseline OA",
+    "MIA increased osteocyte lacunar density in control TMJs but not in DMP1-cre+/-;MMP13fl/fl mice",
+    "Osteocytic MMP13 deficiency prevented injury-induced subchondral bone plate thickening in both TMJ and knee",
+    "No baseline TMJ phenotype was observed in DMP1-cre+/-;MMP13fl/fl mice, contrasting with knee OA at baseline",
+    "Collagen organization in TMJ subchondral bone was unaffected by genotype or MIA treatment"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "TMJOA",
+    "osteocyte",
+    "MMP13",
+    "perilacunocanalicular remodeling",
+    "subchondral bone",
+    "monosodium iodoacetate",
+    "joint-specific mechanisms"
+  ],
+  "extracted_insights": "Osteocytic MMP13 is required for injury-induced TMJOA progression but not for TMJ homeostasis at baseline, highlighting joint-specific roles of osteocyte-mediated perilacunocanalicular remodeling. MMP13 deficiency protects both TMJ and knee from injury-induced subchondral bone changes, suggesting a common protective mechanism despite divergent baseline phenotypes."
+}

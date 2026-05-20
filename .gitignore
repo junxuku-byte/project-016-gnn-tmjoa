@@ -1,0 +1,11 @@
+_archive/
+.trash/
+*.pt
+*.pkl
+__pycache__/
+*.pyc
+.DS_Store
+pdf_extractions/
+batch_search_*/
+download_log.jsonl
+pmids_*.json

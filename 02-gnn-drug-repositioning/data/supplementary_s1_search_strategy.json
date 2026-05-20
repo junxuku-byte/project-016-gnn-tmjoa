@@ -1,0 +1,34 @@
+{
+  "databases": [
+    "PubMed",
+    "Scopus",
+    "OpenAlex"
+  ],
+  "search_date": "2026-05",
+  "topics": [
+    "TMJOA treatment (drugs, injections, arthrocentesis)",
+    "TMD pharmacological management",
+    "Osteoarthritis drug repositioning",
+    "TMJ condylar cartilage mechanisms",
+    "Musculoskeletal pain pharmacology"
+  ],
+  "total_retrieved": "1,392 (Scopus-enhanced)",
+  "after_dedup": "400 unique PMIDs",
+  "inclusion": [
+    "Human/animal studies on TMJOA/TMD/OA pharmacological treatment",
+    "Mechanism studies linking drug targets to TMJOA pathways",
+    "RCTs, meta-analyses, cohort studies"
+  ],
+  "exclusion": [
+    "Pure surgical technique papers",
+    "Non-English without English abstract",
+    "Non-musculoskeletal disease focused"
+  ],
+  "screening_method": "Abstract-level review by two independent reviewers",
+  "evidence_levels": {
+    "strong_positive": "RCT/Meta with positive conclusion for TMJOA/TMD",
+    "weak_positive": "Animal/in-vitro with positive signal",
+    "mechanism_only": "Mechanism evidence without efficacy data",
+    "negative": "Study concluded no benefit"
+  }
+}

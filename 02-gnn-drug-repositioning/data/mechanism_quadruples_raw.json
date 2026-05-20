@@ -1,0 +1,5893 @@
+{
+  "metadata": {
+    "total_cards": 753,
+    "mechanism_cards": 420,
+    "unique_targets": 122,
+    "unique_pathways": 27,
+    "unique_drugs_in_mech": 32,
+    "unique_diseases_in_mech": 18
+  },
+  "target_distribution": {
+    "CLEAR": 139,
+    "OA": 69,
+    "IL-1": 26,
+    "CA": 22,
+    "Collagen": 20,
+    "IL-6": 17,
+    "TNF": 17,
+    "BEST": 17,
+    "TNF-α": 15,
+    "MMP": 14,
+    "NF-κB": 12,
+    "MMP13": 10,
+    "MAPK": 9,
+    "RR": 9,
+    "FGF": 8,
+    "ADAMTS": 8,
+    "TRPV": 8,
+    "Itk": 8,
+    "Wnt": 8,
+    "TGF-β": 8,
+    "RANKL": 8,
+    "CHIP": 7,
+    "RUNX2": 7,
+    "ADAMTS5": 7,
+    "receptor": 7,
+    "Aggrecan": 7,
+    "β-catenin": 7,
+    "fat": 6,
+    "ERK": 6,
+    "BMP": 6,
+    "LA": 6,
+    "VEGF": 6,
+    "CO": 6,
+    "NA": 6,
+    "EX": 6,
+    "OPG": 6,
+    "FGFR": 5,
+    "FGF23": 5,
+    "IGF": 5,
+    "RANK": 5,
+    "PDGF": 5,
+    "JAK": 5,
+    "DKK": 5,
+    "STARD": 5,
+    "SOST": 5,
+    "MAP": 4,
+    "adenosine": 4,
+    "FOXO": 4,
+    "AKT": 4,
+    "MC": 4
+  },
+  "pathway_distribution": {
+    "ARE": 144,
+    "TRPV": 8,
+    "apoptosis": 6,
+    "oxidative stress": 5,
+    "autophagy": 5,
+    "hypoxia": 4,
+    "FOXO": 4,
+    "Wnt/β-catenin": 4,
+    "NF-κB signaling": 2,
+    "angiogenesis": 2,
+    "NLRP3 inflammasome": 2,
+    "mitophagy": 2,
+    "Wnt signaling": 2,
+    "ERK pathway": 2,
+    "ERK signaling": 2,
+    "p38 MAPK": 2,
+    "Irf3-NF-κB": 1,
+    "BMP signaling": 1,
+    "cGAS-STING pathway": 1,
+    "cGAS-STING": 1,
+    "Wnt/β-catenin pathway": 1,
+    "HIF-1α": 1,
+    "PI3K-AKT": 1,
+    "mTORC1": 1,
+    "NF-κB pathway": 1,
+    "AP-1": 1,
+    "PGC-1α": 1
+  },
+  "drug_distribution": {
+    "Prolotherapy": 22,
+    "Dextrose": 22,
+    "Collagen": 20,
+    "Dextrose prolotherapy": 14,
+    "Hypertonic dextrose": 8,
+    "PRP": 7,
+    "SAMe": 7,
+    "Zinc": 5,
+    "NSAIDs": 5,
+    "Hyaluronic acid": 5,
+    "Corticosteroid": 4,
+    "Denosumab": 4,
+    "BGJ398": 3,
+    "Glucosamine": 3,
+    "PDRN": 3,
+    "D5W": 2,
+    "Cisplatin": 2,
+    "Botulinum toxin": 2,
+    "Metformin": 2,
+    "Bisphosphonate": 2
+  },
+  "disease_distribution": {
+    "TMJ": 137,
+    "OA": 69,
+    "temporomandibular joint": 67,
+    "Osteoarthritis": 65,
+    "TMD": 62,
+    "TMJ OA": 22,
+    "TMJOA": 16,
+    "Osteoporosis": 13,
+    "temporomandibular joint osteoarthritis": 11,
+    "bone loss": 9
+  },
+  "quadruples": [
+    {
+      "file": "PMID36843193.card.json",
+      "title": "Accuracy of interproximal enamel reduction during clear aligner treatment",
+      "targets": [
+        "CLEAR",
+        "Enamel"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Kim_JEM_2021_DNMT3A_osteoporosis.card.json",
+      "title": "Dnmt3a-mutated clonal hematopoiesis promotes osteoporosis",
+      "targets": [
+        "CHIP",
+        "IL-20",
+        "IRF3",
+        "NF-κB"
+      ],
+      "pathways": [
+        "Irf3-NF-κB",
+        "NF-κB signaling"
+      ],
+      "drugs": [
+        "Alendronate"
+      ],
+      "diseases": [
+        "Osteoporosis",
+        "bone loss"
+      ]
+    },
+    {
+      "file": "MA_2017_28129794.card.json",
+      "title": "Three-dimensional morphological changes of the temporomandibular joint and functional effects after ",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Vygotsky-1978-constructivism-summary.card.json",
+      "title": "Mind in Society: The Development of Higher Psychological Processes",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "effects of different designs of orthbmc oral health .card.json",
+      "title": "Effects of different designs of orthodontic clear aligners on the maxillary central incisors in the ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID20054634.card.json",
+      "title": "Efficacy and Accuracy of Maxillary Arch Expansion with Clear Aligner Treatment",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID41729442.card.json",
+      "title": "Biomechanical effects of attachment position and pressure ridge design on maxillary arch expansion w",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID41223455_多层次注意力蒸馏阿尔茨海默预测_ComputMedImagingGraph2025.card.json",
+      "title": "CRAD: Cognitive Aware Feature Refinement with Missing Modalities for Early Alzheimer’s Progression P",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Unknown_2025_Causal effects of sleep behaviors on temporomandibular di....card.json",
+      "title": "Causal effects of sleep behaviors on temporomandibular disorders and pain: a bidirectional mendelian",
+      "targets": [
+        "IL-6",
+        "TNF",
+        "TNF-α"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMD"
+      ]
+    },
+    {
+      "file": "BS_2021_33586221_Unknown.card.json",
+      "title": "Three-dimensional morphological and positional analysis of the temporomandibular joint in adults wit",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "PMID36384512.card.json",
+      "title": "The three-dimensional displacement tendency of teeth depending on incisor torque compensation with c",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID37610383.card.json",
+      "title": "Effect of clear aligner attachment design on extrusion of maxillary lateral incisors: A multicenter,",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Liu_2026_41740299_Unknown.card.json",
+      "title": "MRI characteristics of the lateral pterygoid muscle and correlation with temporomandibular disorder ",
+      "targets": [
+        "fat"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD"
+      ]
+    },
+    {
+      "file": "PMID39617801.card.json",
+      "title": "The effect of maxillary premolar distalization with different designed clear aligners: a 4D finite e",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Thistlethwaite-2012-CBL-BEME.card.json",
+      "title": "The effectiveness of case-based learning in health professional education. A BEME systematic review:",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "fgf receptor inhibitor bgj398 partia source sci rep so 2022.card.json",
+      "title": "FGF receptor inhibitor BGJ398 partially rescues osteoarthritis-like phenotype in older high molecula",
+      "targets": [
+        "ADAMTS",
+        "ADAMTS5",
+        "BMP",
+        "ERK",
+        "FGF",
+        "FGF23",
+        "FGFR",
+        "MAPK",
+        "MMP",
+        "MMP13",
+        "OA",
+        "RUNX2"
+      ],
+      "pathways": [
+        "BMP signaling"
+      ],
+      "drugs": [
+        "BGJ398"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "李媛媛 硕士.card.json",
+      "title": "乳酸化修饰调控炎症刺激下牙周膜干细胞成骨分化的机制研究",
+      "targets": [
+        "LA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID41817693.card.json",
+      "title": "Upper arch expansion and spontaneous upper first molar distorotation with Ni–Ti leaf springs and rap",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Levrini_L_2021_34238002.card.json",
+      "title": "Maxillary expansion with clear aligners in the mixed dentition: A preliminary study with Invisalign®",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Abbadi_2022_Arthrocentesis_Injectable_Platelet_Rich_Plasma_and.card.json",
+      "title": "Arthrocentesis, Injectable Platelet-Rich Plasma and Combination of Both Protocols of Temporomandibul",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [
+        "PRP"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "clinical outcome of maxillary arch e source j indian soc pedod prev dent so 2026 (1).card.json",
+      "title": "Clinical outcome of maxillary arch expansion with clear aligners in mixed dentition: A systematic re",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "s41598-025-03041-4.card.json",
+      "title": "Dextrose prolotherapy effect in improving the temporomandibular joint disc displacement symptoms wit",
+      "targets": [
+        "TRPV"
+      ],
+      "pathways": [
+        "ARE",
+        "TRPV"
+      ],
+      "drugs": [
+        "D5W",
+        "Dextrose",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "zinc as a therapeutic agent .card.json",
+      "title": "Zinc as a Therapeutic Agent in Bone Regeneration",
+      "targets": [
+        "CA",
+        "IGF",
+        "NF-κB",
+        "RANK",
+        "RUNX2",
+        "ZIP",
+        "ZnT"
+      ],
+      "pathways": [
+        "ARE",
+        "NF-κB signaling",
+        "apoptosis"
+      ],
+      "drugs": [
+        "Insulin",
+        "Zinc"
+      ],
+      "diseases": []
+    },
+    {
+      "file": "stress and movement trend of lower i source prog orthod so 2023.card.json",
+      "title": "Stress and movement trend of lower incisors with different IMPA intruded by clear aligner: a three‑d",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Yilmaz S_2026_41992227_Comparative_analysis_of_transformer_CNN_and_YOLO_a.card.json",
+      "title": "Comparative analysis of transformer, CNN, and YOLO architectures for mandibular condyle segmentation",
+      "targets": [
+        "BEST"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "PMID31495908.card.json",
+      "title": "Thickness of orthodontic clear aligners after thermoforming and after 10 days of intraoral exposure:",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "osteocyte intrinsic mmp13 exacerbate source osteoarthritis cartilage so 2025 (1).card.json",
+      "title": "Osteocyte-Intrinsic MMP13 Exacerbates Injury-Induced Temporomandibular Joint Osteoarthritis",
+      "targets": [
+        "Collagen",
+        "DMP1",
+        "FL",
+        "MMP",
+        "MMP13",
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Collagen"
+      ],
+      "diseases": [
+        "Knee OA",
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJOA",
+        "temporomandibular joint",
+        "temporomandibular joint osteoarthritis"
+      ]
+    },
+    {
+      "file": "comparative analysis of stress in th source materials basel so 2021 jan 9 14 2.card.json",
+      "title": "Comparative Analysis of Stress in the Periodontal Ligament and Center of Rotation in the Tooth after",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID41918787.card.json",
+      "title": "Assessment of the Accuracy of Clear Aligner Therapy for Maxillary Expansion: A Prospective Clinical ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID40320437.card.json",
+      "title": "Biomechanical effects of periodontal status on molar sequential distalization with clear aligners: a",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [
+        "SAMe"
+      ],
+      "diseases": [
+        "bone loss"
+      ]
+    },
+    {
+      "file": "Kroenke_2019_Core_Outcome_Measures_for_Chronic_Musculoskeletal_Pain_Resea_PMID_30615172.card.json",
+      "title": "Core Outcome Measures for Chronic Musculoskeletal Pain Research: Recommendations from a Veterans Hea",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "chronic pain"
+      ]
+    },
+    {
+      "file": "PMID32965385.card.json",
+      "title": "Indication of clear aligners in the early treatment of anterior crossbite: a case series",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "41598_2021_Article_86115.card.json",
+      "title": "Using deep learning to predict temporomandibular joint disc perforation based on magnetic resonance ",
+      "targets": [
+        "BEST"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "PMID37349701.card.json",
+      "title": "Effects of different designs of orthodontic clear aligners on the maxillary central incisors in the ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Fan_2024_A feedback loop driven by H3K9 lactylation and HDAC2 in e....card.json",
+      "title": "A feedback loop driven by H3K9 lactylation and HDAC2 in endothelial cells regulates VEGF-induced ang",
+      "targets": [
+        "Abl",
+        "LA",
+        "VEGF"
+      ],
+      "pathways": [
+        "angiogenesis"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "effect of low intensity pulsed ultrasound lip source biomed res int 2022 apr 29 2022 4505063.card.json",
+      "title": "Effect of Low-Intensity Pulsed Ultrasound (LIPUS) on Alveolar Bone during Maxillary Expansion Using ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "The Intestinal Redox System and Its Source Oxid Med Cell Longev SO 2022 2022 7255497 (1).card.json",
+      "title": "The Intestinal Redox System and Its Significance in Chemotherapy-Induced Intestinal Mucositis",
+      "targets": [
+        "STAT",
+        "heme",
+        "receptor"
+      ],
+      "pathways": [
+        "ARE",
+        "oxidative stress"
+      ],
+      "drugs": [
+        "Cisplatin"
+      ],
+      "diseases": []
+    },
+    {
+      "file": "detection of degenerative temporoman source dentomaxillofac radiol so 2025.card.json",
+      "title": "Detection of degenerative temporomandibular changes using cone beam CT: a scoping review on technica",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "Osteoarthritis",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "clinical study of magnetic resonance source oral surg oral med oral pathol oral so 2023 (2).card.json",
+      "title": "Clinical study of magnetic resonance imaging-based texture analysis and fasciculation of the lateral",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "temporomandibular disorder"
+      ]
+    },
+    {
+      "file": "Hammick-2007-IPE-BEME-review.card.json",
+      "title": "A best evidence systematic review of interprofessional education: BEME Guide no. 9",
+      "targets": [
+        "BEST"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "effects of different tooth movement front bioeng biotechnol .card.json",
+      "title": "Effects of different tooth movement patterns and aligner thicknesses on maxillary arch expansion wit",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Ravikumar_2024_ACS_vs_Dextrose.card.json",
+      "title": "Evaluation of the efficacy of autologous conditioned serum versus dextrose prolotherapy in internal ",
+      "targets": [
+        "DP",
+        "IL-1"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Dextrose",
+        "Dextrose prolotherapy",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "26_Jung2026_Multimodal_TMJ_NPJDigMed.card.json",
+      "title": "Multimodal deep learning with anatomically constrained attention for screening MRI-detectable TMJ ab",
+      "targets": [
+        "BEST"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Nussi_2022_35585223_Unknown.card.json",
+      "title": "In vivo study of cone beam computed tomography texture analysis of mandibular condyle and its correl",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "maxillary arch expansion in differen source eur j orthod so 2025.card.json",
+      "title": "Maxillary arch expansion in different dentition stages using clear aligners: a three-dimensional fin",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Y_2024_38010496_Unknown.card.json",
+      "title": "Evaluation of morphological and morphometric characteristics of the temporomandibular joint in child",
+      "targets": [
+        "BEST"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "WS_2015_26015688_Unknown.card.json",
+      "title": "Assessment of optimal condylar position with cone-beam computed tomography in south Indian female po",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Zheng_2023_37438801_Unknown.card.json",
+      "title": "Three-dimensional spatial analysis of the temporomandibular joint in adult patients with Class II di",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "PMID40420283.card.json",
+      "title": "Effects of different corticotomy approaches on anterior retraction with clear aligners: a finite ele",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID36651930.card.json",
+      "title": "Dentoskeletal effects of clear aligner vs twin block—a short-term study of functional appliances",
+      "targets": [
+        "CLEAR",
+        "CO"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Liu_2022_Chondrocyte_derived_exosomes_promote_cartilage_cal.card.json",
+      "title": "Chondrocyte-derived exosomes promote cartilage calcification in temporomandibular joint osteoarthrit",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "PMID36294929.card.json",
+      "title": "Analysis of Maxillary First Molar Derotation with Invisalign Clear Aligners in Permanent Dentition",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Figure5_Comprehensive_Summary_v2.card.json",
+      "title": "Clear Aligner Arch Expansion: Biomechanical Analysis Summary",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID40648533.card.json",
+      "title": "Maxillary arch expansion in different dentition stages using clear aligners: a three-dimensional fin",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Monteiro_JLGC_2019_30792086.card.json",
+      "title": "Is there an association between overweight/obesity and dental implant complications? A systematic re",
+      "targets": [
+        "IL-1",
+        "IL-6"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "bone loss"
+      ]
+    },
+    {
+      "file": "the effect of maxillary molar distalprog orthod .card.json",
+      "title": "The effect of maxillary molar distalization with clear aligner: a 4D finite-element study with stagi",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "extracellular vesicles from ipfp msc source bioact mater so 2025.card.json",
+      "title": "Extracellular vesicles from IPFP-MSCs trigger osteoarthritis by transferring mtDNA",
+      "targets": [
+        "Aggrecan",
+        "NF-κB",
+        "OA",
+        "STING",
+        "Sox9",
+        "TBK1",
+        "TNF",
+        "TNF-α",
+        "cGAS",
+        "fat"
+      ],
+      "pathways": [
+        "ARE",
+        "cGAS-STING",
+        "cGAS-STING pathway"
+      ],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "cartilage degradation",
+        "synovitis"
+      ]
+    },
+    {
+      "file": "maxillary arch expansion in differen source eur j orthod so 2025 (1).card.json",
+      "title": "Maxillary arch expansion in different dentition stages using clear aligners: a three-dimensional fin",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "effect of different anchorage reinfo source bioengineering basel so 2023 (1).card.json",
+      "title": "Effect of Different Anchorage Reinforcement Methods on Long-Term Maxillary Whole Arch Distalization ",
+      "targets": [
+        "BEST",
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "texture analysis of temporomandibula source dent j basel so 2024 (1).card.json",
+      "title": "Texture Analysis of Temporomandibular Joint Disc Changes Associated with Effusion Using Magnetic Res",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Ricardo_2023_35948783_Unknown.card.json",
+      "title": "Magnetic resonance imaging texture analysis for quantitative evaluation of the mandibular condyle in",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Yu Y_2024_39735724_Deep_learning-based_automated_diagnosis_of_temporo.card.json",
+      "title": "Deep learning-based automated diagnosis of temporomandibular joint anterior disc displacement and it",
+      "targets": [
+        "MAP"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "osteocyte intrinsic mmp13 exacerbate source osteoarthritis cartilage so 2025.card.json",
+      "title": "Osteocyte-Intrinsic MMP13 Exacerbates Injury-Induced Temporomandibular Joint Osteoarthritis",
+      "targets": [
+        "Collagen",
+        "DMP1",
+        "FL",
+        "MMP",
+        "MMP13",
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Collagen"
+      ],
+      "diseases": [
+        "Knee OA",
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJOA",
+        "temporomandibular joint",
+        "temporomandibular joint osteoarthritis"
+      ]
+    },
+    {
+      "file": "Chen_2023_36750919_Unknown.card.json",
+      "title": "Comprehensive positional and morphological assessments of the temporomandibular joint in adolescents",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Clinical priors inspired privileged Source Med Image Anal SO 2026.card.json",
+      "title": "Clinical priors-inspired privileged knowledge distillation for reliable pancreatic lesion classifica",
+      "targets": [
+        "BEST"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "efficiency of glucosamine in treatin source curr rheumatol rev so 2024.card.json",
+      "title": "Efficiency of Glucosamine in Treating Temporomandibular Joint Osteoarthritis: A Meta-Analytic Umbrel",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Glucosamine",
+        "Ibuprofen",
+        "Tramadol"
+      ],
+      "diseases": [
+        "Knee OA",
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJ OA",
+        "temporomandibular joint",
+        "temporomandibular joint osteoarthritis"
+      ]
+    },
+    {
+      "file": "Fischer_2022_35466687.card.json",
+      "title": "Observer agreement of imaging measurements used for evaluation of dentofacial deformity in juvenile ",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Kim_2025_Prolotherapy_for_temporomandibular_joint_disorders.card.json",
+      "title": "Prolotherapy for temporomandibular joint disorders: an updated comprehensive review",
+      "targets": [
+        "Collagen",
+        "adenosine"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [
+        "Collagen",
+        "Dextrose",
+        "Hypertonic dextrose",
+        "NSAIDs",
+        "PDRN",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "Osteoarthritis",
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "01_VGG-超深卷积网络用于大规模图像识别_Simonyan2014.card.json",
+      "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+      "targets": [
+        "BEST"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Lee_2026_41025464_Unknown.card.json",
+      "title": "Quantitative assessment of condylar bone changes in osteoarthritis patients using single-photon emis",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [
+        "SAMe"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJ OA",
+        "temporomandibular joint",
+        "temporomandibular joint osteoarthritis"
+      ]
+    },
+    {
+      "file": "Comert_Kilic_2023_BTX_vs_Dextrose.card.json",
+      "title": "Botulinum Toxin Versus Dextrose Prolotherapy: Which is More Effective for Temporomandibular Joint Su",
+      "targets": [
+        "DP",
+        "acetylcholine"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [
+        "Botulinum toxin",
+        "Dextrose",
+        "Dextrose prolotherapy",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Briner_2026_41177752_Unknown.card.json",
+      "title": "Quantitative assessment of the temporomandibular joints in patients with osteogenesis imperfecta: a ",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "node2vec_baseline.card.json",
+      "title": "INTRA-ARTICULAR PHARMACOLOGICAL INJECTIONS FOR TEMPOROMANDIBULAR JOINT OSTEOARTHRITIS ARE COMPARABLE",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [
+        "PRP"
+      ],
+      "diseases": [
+        "OA",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "HYA_2024_38188155_Unknown.card.json",
+      "title": "Volumetric comparison of mandibular condyles and mandibles in the different skeletal classes in the ",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Assi_2024_Therapeutic_potential_of_hyaluronic_acid_hydrogel.card.json",
+      "title": "Therapeutic potential of hyaluronic acid hydrogel combined with bone marrow stem cells-conditioned m",
+      "targets": [
+        "Collagen",
+        "IL-1",
+        "NF-κB",
+        "PDGF"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Collagen",
+        "Hyaluronic acid"
+      ],
+      "diseases": [
+        "Osteoarthritis",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Mendoza_2018_30120301_Unknown.card.json",
+      "title": "Linear and Volumetric Mandibular Asymmetries in Adult Patients With Different Skeletal Classes and V",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD"
+      ]
+    },
+    {
+      "file": "metformin use and the risk of incide source bmj open so 2026.card.json",
+      "title": "Metformin use and the risk of incident osteoarthritis among individuals with diabetes: a register-ba",
+      "targets": [
+        "OA",
+        "RR"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Metformin"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "biomechanical analysis of effective source prog orthod so 2022.card.json",
+      "title": "Biomechanical analysis of effective mandibular en-masse retraction using Class II elastics with a cl",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "dual effect of strontium ranelate s source bone so 2008 jan 42 1 129 38.card.json",
+      "title": "Dual effect of strontium ranelate: Stimulation of osteoblast differentiation and inhibition of osteo",
+      "targets": [
+        "Actin"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "Osteoporosis"
+      ]
+    },
+    {
+      "file": "evaluation of the effect of differen source bmc oral health so 2024.card.json",
+      "title": "Evaluation of the effect of different attachment configurations on molar teeth in maxillary expansio",
+      "targets": [
+        "CLEAR",
+        "NA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID40223091.card.json",
+      "title": "An integrated approach to posterior anchorage preparation and incisor torque compensation in premola",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Chen_2022_35606730_Unknown.card.json",
+      "title": "Age-related variations in position and morphology of the temporomandibular joint in individuals with",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "response of knee ligaments to prolot source am j sports med so 2008 jul 36 7 1347 57.card.json",
+      "title": "Response of Knee Ligaments to Prolotherapy in a Rat Injury Model",
+      "targets": [
+        "Collagen"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Collagen",
+        "Dextrose",
+        "Dextrose prolotherapy",
+        "Prolotherapy"
+      ],
+      "diseases": []
+    },
+    {
+      "file": "J_2023_37391274_Unknown.card.json",
+      "title": "Reconstructed magnetic resonance image based effusion volume assessment for temporomandibular joint ",
+      "targets": [
+        "Itk"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "PMID40150081.card.json",
+      "title": "Effect of Low-Intensity Pulsed Ultrasound (LIPUS) on Alveolar Bone during Maxillary Expansion Using ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Chikui_2010_20429766_Unknown.card.json",
+      "title": "Assessment of the sequential change of the masseter muscle by clenching: A quantitative analysis of ",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD"
+      ]
+    },
+    {
+      "file": "PMID36963425.card.json",
+      "title": "Effectiveness of the Attachment Design and Thickness of Clear Aligners during Orthodontic Anterior R",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Hiitola_SciAdv_2025_CHIP_RA.card.json",
+      "title": "Clonal hematopoiesis is associated with distinct rheumatoid arthritis phenotypes",
+      "targets": [
+        "CHIP",
+        "IL-1"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "Rheumatoid arthritis"
+      ]
+    },
+    {
+      "file": "10.1186_s13072-021-00431-6.card.json",
+      "title": "Hypoxic in vitro culture reduces histone lactylation and impairs pre-implantation embryonic developm",
+      "targets": [
+        "LA"
+      ],
+      "pathways": [
+        "hypoxia"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Abrahamsson_2020_Treatment_of_temporomandibular_joint_luxation__a_s....card.json",
+      "title": "Treatment of temporomandibular joint luxation: a systematic literature review",
+      "targets": [
+        "BEST"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [
+        "Dextrose",
+        "Dextrose prolotherapy",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "PMID40343446.card.json",
+      "title": "Comparison of the effects of maxillary expansion applying rapid maxillary expanders or clear aligner",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID37068033.card.json",
+      "title": "Expansion rebound deformation of clear aligners and its biomechanical influence: a three-dimensional",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Jain_2025_41306216_Unknown.card.json",
+      "title": "Evaluation of the Relationship Between Osteoarthritis and Morphological Changes in the Joint Structu",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "Osteoarthritis",
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "DOI_10_18231_j_jco_6913_.card.json",
+      "title": "Effectiveness of maxillary arch expansion with clear aligners in mixed dentition: A research synthes",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Gomes_2015_26158119_Unknown.card.json",
+      "title": "Diagnostic index of three-dimensional osteoarthritic changes in temporomandibular joint condylar mor",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "Coombs_2019_30076808_Unknown.card.json",
+      "title": "Effect of Measurement Technique on TMJ Mandibular Condyle and Articular Disc Morphometry: CBCT, MRI,",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "PMID28879245.card.json",
+      "title": "Effects of High-Dose Capsaicin on TMD Subjects: A Randomized Clinical Study",
+      "targets": [
+        "TRPV"
+      ],
+      "pathways": [
+        "TRPV"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD"
+      ]
+    },
+    {
+      "file": "PMID37981597.card.json",
+      "title": "The displacement of teeth and stress distribution on periodontal ligament under different upper inci",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "applsci-15-02134.card.json",
+      "title": "The Effect of Upper Arch Expansion by Clear Aligners on Nasal Airway Volume in Children: A Prelimina",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Paknahad_2025_41745561.card.json",
+      "title": "Evaluation of the Relationship Between Osteoarthritis and Morphological Changes in the Joint Structu",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "Osteoarthritis",
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Mei_2025_Extracellular vesicles from adipose-derived stromal_stem ....card.json",
+      "title": "Extracellular vesicles from adipose-derived stromal/stem cells reprogram dendritic cells to alleviat",
+      "targets": [
+        "ERK",
+        "FOXO",
+        "MAPK"
+      ],
+      "pathways": [
+        "ARE",
+        "FOXO",
+        "autophagy"
+      ],
+      "drugs": [],
+      "diseases": [
+        "Osteoarthritis",
+        "TMJOA",
+        "cartilage degradation",
+        "temporomandibular joint",
+        "temporomandibular joint osteoarthritis"
+      ]
+    },
+    {
+      "file": "PMID29244893.card.json",
+      "title": "Effectiveness of Intra-Articular Injections of Sodium Hyaluronate or Corticosteroids for Intracapsul",
+      "targets": [
+        "RR"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Corticosteroid"
+      ],
+      "diseases": [
+        "Osteoarthritis",
+        "TMD"
+      ]
+    },
+    {
+      "file": "PMID36066265.card.json",
+      "title": "Comparison between clear aligners and 2×4 mechanics in the mixed dentition: a randomized clinical tr",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Unknown_2023_Ameliorative Effects of Prolotherapy on Histomorphology o....card.json",
+      "title": "Ameliorative Effects of Prolotherapy on Histomorphology of Tibial Articular Cartilage of Chemically ",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Dextrose",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "Zinc_StemCellsDev_2018.card.json",
+      "title": "Zinc Promotes Osteoblast Differentiation in Human Mesenchymal Stem Cells via Activation of the cAMP-",
+      "targets": [
+        "AKT",
+        "IGF",
+        "PKA",
+        "RUNX2",
+        "Wnt",
+        "cAMP",
+        "β-catenin"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Zinc"
+      ],
+      "diseases": [
+        "Osteoporosis"
+      ]
+    },
+    {
+      "file": "maxillary alveolar bone evaluation f source korean j orthod so 2023.card.json",
+      "title": "Maxillary alveolar bone evaluation following dentoalveolar expansion with clear aligners in adults: ",
+      "targets": [
+        "CLEAR",
+        "PC"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "bone loss"
+      ]
+    },
+    {
+      "file": "the contribution of mosaic chromosom source biol psychiatry so 2024.card.json",
+      "title": "The Contribution of Mosaic Chromosomal Alterations to Schizophrenia",
+      "targets": [
+        "GABA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "颞下颌关节上腔灌洗及药物注射治疗关节内紊乱的疗效评价.card.json",
+      "title": "颞下颌关节上腔灌洗及药物注射治疗关节内紊乱的疗效评价",
+      "targets": [
+        "IL-1",
+        "IL-6",
+        "TNF"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID31906577.card.json",
+      "title": "Effect of Low-Intensity Pulsed Ultrasound (LIPUS) on Alveolar Bone during Maxillary Expansion Using ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID37986060.card.json",
+      "title": "Effects of upper arch expansion using clear aligners on different stride and torque: a three‑dimensi",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "cloudlib_41470005.card.json",
+      "title": "SGK1 triggers cartilage degradation in TMJOA via FoxO1/autophagy",
+      "targets": [
+        "Beclin",
+        "Col2a1",
+        "FOXO",
+        "IL-1",
+        "OA"
+      ],
+      "pathways": [
+        "FOXO",
+        "autophagy"
+      ],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "TMJ",
+        "TMJOA",
+        "cartilage degradation"
+      ]
+    },
+    {
+      "file": "Zioni_NatComm_2023_FBM_DNMT3A.card.json",
+      "title": "Inflammatory signals from fatty bone marrow support DNMT3A driven clonal hematopoiesis",
+      "targets": [
+        "CO",
+        "IL-6",
+        "JAK",
+        "STAT"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID38044352.card.json",
+      "title": "Biomechanical effects of different staging and attachment designs in maxillary molar distalization w",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "dentoskeletal effects of clear align source j orofac orthop so 2023.card.json",
+      "title": "Dentoskeletal effects of clear aligner vs twin block—a short-term study of functional appliances",
+      "targets": [
+        "CLEAR",
+        "CO"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Hottecke-2011-HPS-implementation-challenges.card.json",
+      "title": "Why Implementing History and Philosophy in School Science Education is a Challenge: An Analysis of O",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "IK_2014_25045642.card.json",
+      "title": "Pigmented villonodular synovitis of the temporomandibular joint – computed tomography and magnetic r",
+      "targets": [
+        "fat",
+        "hemosiderin"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "synovitis",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Figure4_Clinical_Recommendations.card.json",
+      "title": "Figure 4. Evidence-Based Clinical Recommendations (Table 3 Visualization) – Alternating Activation, ",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "effect of different anchorage reinfo source bioengineering basel so 2023.card.json",
+      "title": "Effect of Different Anchorage Reinforcement Methods on Long-Term Maxillary Whole Arch Distalization ",
+      "targets": [
+        "BEST",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "10.1590_1807-3107bor-2024.vol38.0037.card.json",
+      "title": "Inhibition of lipopolysaccharide-induced NF-κB maintains osteogenesis of dental pulp and periodontal",
+      "targets": [
+        "NF-κB"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "cloudlib_31672865.card.json",
+      "title": "Clonal hematopoiesis in human aging and disease",
+      "targets": [
+        "CHIP",
+        "IL-1",
+        "IL-6"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Silva_2018_29103834_Unknown.card.json",
+      "title": "Changes in condylar volume and joint spaces after orthognathic surgery",
+      "targets": [
+        "Itk"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "cloudlib_41716349.card.json",
+      "title": "Fmoc-DDT@Fos hydrogel mitigates temporomandibular joint osteoarthritis through regulating macrophage",
+      "targets": [
+        "ADAMTS",
+        "ADAMTS5",
+        "Aggrecan",
+        "Collagen",
+        "IL-1",
+        "IL-6",
+        "OA",
+        "Syk",
+        "TGF-β",
+        "TNF",
+        "TNF-α"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Collagen"
+      ],
+      "diseases": [
+        "OA",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "Tepecik_2025_Do_I_PRF_adjuvant_injections_in_TMJ_arthrocentesis.card.json",
+      "title": "Do I-PRF adjuvant injections in TMJ arthrocentesis have a cumulative physiological effect? A retrosp",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Velioğlu E_2023_36652033_Relationships_between_site_index_and_ecological_va_.card.json",
+      "title": "Relationships between site index and ecological variables of trembling poplar forests (Populus tremu",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "23_深度学习与CNN综述.card.json",
+      "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "efficacy of magnetic resonance imagi source dentomaxillofac radiol so 2023 (1).card.json",
+      "title": "Efficacy of magnetic resonance imaging texture features of the lateral pterygoid muscle in distingui",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "Rheumatoid arthritis",
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "evaluation of the fused deposition modeling and the dig source clin exp dent res 2020 nov 30.card.json",
+      "title": "Evaluation of the fused deposition modeling and the digital light processing techniques in terms of ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Serafin_2026_Predicting_transversal_expansion_Invisalign_SRMA.card.json",
+      "title": "Predicting transversal dental arch expansion outcomes with Invisalign aligners in permanent dentitio",
+      "targets": [
+        "CLEAR",
+        "EX"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "analysis of the generalizability of source dentomaxillofac radiol so 2026.card.json",
+      "title": "Analysis of the generalizability of an artificial intelligence-based software for tomographic segmen",
+      "targets": [
+        "MAD"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Kim_2025_Prolotherapy_for_temporomandibular_joint_disorders....card.json",
+      "title": "Prolotherapy for temporomandibular joint disorders: an updated comprehensive review",
+      "targets": [
+        "Collagen",
+        "IL-1",
+        "PDGF",
+        "TGF-β",
+        "VEGF",
+        "adenosine",
+        "receptor"
+      ],
+      "pathways": [
+        "ARE",
+        "angiogenesis"
+      ],
+      "drugs": [
+        "Collagen",
+        "Dextrose",
+        "Hypertonic dextrose",
+        "NSAIDs",
+        "PDRN",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "Osteoarthritis",
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Ma_2015_25803868_Unknown.card.json",
+      "title": "Assessment of Condyle and Glenoid Fossa Morphology Using CBCT in South-East Asians",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "PMID34306530.card.json",
+      "title": "Efficacy and predictability of maxillary and mandibular expansion with the Invisalign® system",
+      "targets": [
+        "EX"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "10.1038_srep26542.card.json",
+      "title": "GCN5 modulates osteogenic differentiation of periodontal ligament stem cells through DKK1 acetylatio",
+      "targets": [
+        "DKK",
+        "Wnt",
+        "β-catenin"
+      ],
+      "pathways": [
+        "Wnt/β-catenin",
+        "Wnt/β-catenin pathway"
+      ],
+      "drugs": [
+        "Aspirin"
+      ],
+      "diseases": [
+        "bone loss"
+      ]
+    },
+    {
+      "file": "applsci-13-03646.card.json",
+      "title": "Anchorage Loss Evaluation during Maxillary Molars Distalization Performed by Clear Aligners: A Retro",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "predicting transversal dental arch e source prog orthod so 2026.card.json",
+      "title": "Predicting transversal dental arch expansion outcomes with Invisalign aligners in permanent dentitio",
+      "targets": [
+        "CLEAR",
+        "EX"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Memi_2022_Evaluation_of_the_effects_of_prolotherapy_on_condy.card.json",
+      "title": "Evaluation of the effects of prolotherapy on condyles in temporomandibular joint hypermobility using",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [
+        "Dextrose",
+        "Dextrose prolotherapy",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "TMJ",
+        "bone loss"
+      ]
+    },
+    {
+      "file": "alterations of the p16ink4a gene in source mol carcinog so 1997 mar 18 3 134 41.card.json",
+      "title": "Alterations of the p16INK4A Gene in Human Ovarian Cancers",
+      "targets": [
+        "p16"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "颞下颌关节骨关节炎的治疗研究进展.card.json",
+      "title": "颞下颌关节骨关节炎的治疗研究进展",
+      "targets": [
+        "IGF"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJOA"
+      ]
+    },
+    {
+      "file": "DOI_10.1371_journal.pone_Peptide-mesenchymal_stem_cell_.card.json",
+      "title": "Mesenchymal Stem Cell Conditioning Promotes Rat Oligodendroglial Cell Maturation",
+      "targets": [
+        "GFAP"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Unknown_0000_00000000_Journal_of_Dentistry_131_2023_104473.card.json",
+      "title": "Clinical comparison of different glass ionomer-based restoratives and a bulk-fill resin composite in",
+      "targets": [
+        "GC"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID40057717.card.json",
+      "title": "The effects of clinical crown length on the sagittal movement of maxillary central incisor in clear ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Osteocyte_MMP13_TMJ_2026.card.json",
+      "title": "Osteocyte-Intrinsic MMP13 Exacerbates Injury-Induced Temporomandibular Joint Osteoarthritis",
+      "targets": [
+        "Collagen",
+        "DMP1",
+        "FL",
+        "MMP",
+        "MMP13",
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Collagen"
+      ],
+      "diseases": [
+        "Knee OA",
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJOA",
+        "temporomandibular joint",
+        "temporomandibular joint osteoarthritis"
+      ]
+    },
+    {
+      "file": "PMID41417578_Transformer隐式神经网络缺失牙形态重建_JProsthodont2026.card.json",
+      "title": "Automated reconstruction of missing tooth morphology using a transformer-based implicit neural netwo",
+      "targets": [
+        "BEST"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Circulating Metabolites Treat Human Source J Extracell Vesicles SO 2026.card.json",
+      "title": "Circulating Metabolites Treat Human TMJ-OA by Eliminating Senescent Chondrocytes via the C1QBP/C1q/p",
+      "targets": [
+        "ARF",
+        "OA"
+      ],
+      "pathways": [
+        "apoptosis"
+      ],
+      "drugs": [
+        "Hyaluronic acid"
+      ],
+      "diseases": [
+        "OA",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "does mandibular advancement with cle source bmc oral health so 2023.card.json",
+      "title": "Does mandibular advancement with clear aligners have the same skeletal and dentoalveolar effects as ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "使用点云数据在 HBIM 生成中优化复杂跨金库几何形状的最佳拟合算法.card.json",
+      "title": "Optimizing best-fit algorithms for complex cross-vault geometries in HBIM generation using point clo",
+      "targets": [
+        "BEST",
+        "BIM"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "OliveiraBrito_2026_41537241_Unknown.card.json",
+      "title": "Radiomic texture mapping improves visualization of simulated condylar bone lesions in cone beam comp",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "evaluation of maxillary dentoalveola  (1).card.json",
+      "title": "Evaluation of Maxillary Dentoalveolar Expansion with Clear Aligners: A Retrospective CBCT Study",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "颞下颌关节骨关节炎动物模型研究进展.card.json",
+      "title": "颞下颌关节骨关节炎动物模型研究进展",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "disease modifying interactions betwe source rmd open so 2023.card.json",
+      "title": "Disease-modifying interactions between chronic kidney disease and osteoarthritis: a new comorbid mou",
+      "targets": [
+        "MMP",
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "checklist for artificial intelligenc source radiol artif intell em editorial em_PMID_33937821.card.json",
+      "title": "Checklist for Artificial Intelligence in Medical Imaging (CLAIM): A Guide for Authors and Reviewers",
+      "targets": [
+        "STARD"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Figure5_Pipeline_Failure_Map.card.json",
+      "title": "Pipeline Failure Map for TMJ Quantitative Imaging",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "PMID37032410_2023_Accumulated biomechanical effects of mandibular molar mesial.card.json",
+      "title": "Accumulated biomechanical effects of mandibular molar mesialization using clear aligners with auxili",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "effects of intravenous pamidronate o source am j med sci so 2010 mar 339 3 225 9.card.json",
+      "title": "Effects of Intravenous Pamidronate on Renal Function, Bone Mineral Metabolism and Bone Mass in Patie",
+      "targets": [
+        "PTH"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "Osteoporosis"
+      ]
+    },
+    {
+      "file": "nihms-1539956.card.json",
+      "title": "Metabolic regulation of gene expression by histone lactylation",
+      "targets": [
+        "Arg",
+        "LA"
+      ],
+      "pathways": [
+        "ARE",
+        "hypoxia"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "sgk1 triggers cartilage degradation source arthritis res ther so 2025.card.json",
+      "title": "SGK1 triggers cartilage degradation in TMJOA via FoxO1/autophagy",
+      "targets": [
+        "ADAMTS",
+        "Beclin",
+        "Col2a1",
+        "FOXO",
+        "IL-1",
+        "MMP",
+        "MMP13"
+      ],
+      "pathways": [
+        "FOXO",
+        "autophagy"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJOA",
+        "cartilage degradation"
+      ]
+    },
+    {
+      "file": "Unknown_0000_00000000_wwwnaturecomscientificreports_(1).card.json",
+      "title": "Interaction of obesity and proteins associated with the NLRP3 inflammasome following mild traumatic ",
+      "targets": [
+        "IL-1"
+      ],
+      "pathways": [
+        "NLRP3 inflammasome"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "assessment of the accuracy of clear source clin cosmet investig dent so 2026.card.json",
+      "title": "Assessment of the Accuracy of Clear Aligner Therapy for Maxillary Expansion: A Prospective Clinical ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Jaiswal_Science_2019_CHIP_review.card.json",
+      "title": "Clonal hematopoiesis in human aging and disease",
+      "targets": [
+        "CHIP",
+        "IL-1",
+        "IL-6"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "El_2026_41845343_Unknown.card.json",
+      "title": "Effect of segmentation techniques (manual versus semiautomatic) on the accuracy of the linear measur",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Höttecke_Silva_2011_Sci_Educ_HPS_obstacles.card.json",
+      "title": "Why Implementing History and Philosophy in School Science Education is a Challenge: An Analysis of O",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "association between denosumab use an so osteoarthritis cartilage 2026 jan 9 s1063 4584 26 00001 4 doi 10 1016 j joca 2026 01 001 online ahead of print.card.json",
+      "title": "Association between denosumab use and risk of osteoarthritis among adults with osteoporosis in a rea",
+      "targets": [
+        "OA",
+        "RANKL"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Bisphosphonate",
+        "Denosumab"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "Osteoporosis"
+      ]
+    },
+    {
+      "file": "extent of vasolidation induced in different source am j med 1947 jul 3 1 125.card.json",
+      "title": "Extent of Vasodilatation Induced in Different Vascular Beds After Systemic Autonomic Blockade with T",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD"
+      ]
+    },
+    {
+      "file": "Figure5_Software_Distribution.card.json",
+      "title": "Software Distribution (Top 8)",
+      "targets": [
+        "Itk"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Jung_2023_34689379_Deep_learning_for_osteoarthritis_classification_TM.card.json",
+      "title": "Deep learning for osteoarthritis classification in temporomandibular joint",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMD",
+        "TMJ",
+        "temporomandibular joint",
+        "temporomandibular joint osteoarthritis"
+      ]
+    },
+    {
+      "file": "毕业论文 压缩版.card.json",
+      "title": "外源性线粒体移植在颞下颌关节骨关节炎治疗中的潜在作用机制",
+      "targets": [
+        "NF-κB"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJOA"
+      ]
+    },
+    {
+      "file": "LH_2015_25865530_Unknown.card.json",
+      "title": "3D superimposition and understanding temporomandibular joint arthritis",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJ OA",
+        "cartilage degradation"
+      ]
+    },
+    {
+      "file": "can treatment with chondroitin and g source j oral rehabil so 2024.card.json",
+      "title": "Can treatment with chondroitin and glucosamine sulphate prevent changes in the articular disc caused",
+      "targets": [
+        "Collagen",
+        "OA",
+        "TNF",
+        "TNF-α"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Chondroitin",
+        "Collagen",
+        "Glucosamine"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJ OA",
+        "temporomandibular joint",
+        "temporomandibular joint osteoarthritis"
+      ]
+    },
+    {
+      "file": "Koh_FrontBioeng_2025_craniofacial_bone.card.json",
+      "title": "Jawbone mesenchymal stromal cells attenuate acute inflammation via hematopoietic niche reinforcement",
+      "targets": [
+        "IL-6"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID35339320.card.json",
+      "title": "A comparative assessment of the dentoskeletal effects of clear aligners vs miniplate-supported poste",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID40104852.card.json",
+      "title": "Predictability of maxillary dentoalveolar expansion with clear aligners in patients with mixed denti",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "biomechanical effects of attachment source am j orthod dentofacial orthop so 2026 (1).card.json",
+      "title": "Biomechanical effects of attachment designs on maxillary molar expansion with clear aligners: A 3-di",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "texture analysis of temporomandibula source dent j basel so 2024 (3).card.json",
+      "title": "Texture Analysis of Temporomandibular Joint Disc Changes Associated with Effusion Using Magnetic Res",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "clinical study of magnetic resonance source oral surg oral med oral pathol oral so 2023.card.json",
+      "title": "Clinical study of magnetic resonance imaging-based texture analysis and fasciculation of the lateral",
+      "targets": [
+        "CLEAR",
+        "CO"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "temporomandibular disorder"
+      ]
+    },
+    {
+      "file": "PMID36903025.card.json",
+      "title": "The Predictability of Transverse Changes in Patients Treated with Clear Aligners",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Sun_2023_35970695_Unknown.card.json",
+      "title": "Natural course of severe temporomandibular joint osteoarthrosis evaluated by a novel condylar remode",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "12903_2025_Article_7398.card.json",
+      "title": "A comparative study of double occlusal splints combined with joint cavity injection and manual reduc",
+      "targets": [
+        "RR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMD"
+      ]
+    },
+    {
+      "file": "Eckle-2012-NatMed.card.json",
+      "title": "Adora2b-elicited Per2 stabilization promotes a HIF-dependent metabolic switch crucial for myocardial",
+      "targets": [
+        "adenosine",
+        "receptor"
+      ],
+      "pathways": [
+        "HIF-1α",
+        "hypoxia"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "strontium functionalization of biomaterials for bone tissue source materials basel 2022 15 5.card.json",
+      "title": "Strontium Functionalization of Biomaterials for Bone Tissue Engineering Purposes: A Biological Point",
+      "targets": [
+        "CA",
+        "CaSR",
+        "FGFR",
+        "MAPK",
+        "OPG",
+        "RANKL",
+        "RUNX2",
+        "Wnt",
+        "β-catenin"
+      ],
+      "pathways": [
+        "Wnt/β-catenin"
+      ],
+      "drugs": [],
+      "diseases": [
+        "Osteoporosis"
+      ]
+    },
+    {
+      "file": "cloudlib_41991265.card.json",
+      "title": "Metformin use and the risk of incident osteoarthritis among individuals with diabetes: a register-ba",
+      "targets": [
+        "OA",
+        "RR"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Metformin"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "PMID35811318.card.json",
+      "title": "Biomechanical analysis of effective mandibular en-masse retraction using Class II elastics with a cl",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "DOI_10.1186_s12903-023-0_Does_intra-articular_injection.card.json",
+      "title": "Does intra-articular injection of tenoxicam after arthrocentesis heal outcomes of temporomandibular ",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Li_2024_Positive feedback regulation between glycolysis and histo....card.json",
+      "title": "Positive feedback regulation between glycolysis and histone lactylation drives oncogenesis in pancre",
+      "targets": [
+        "BUB",
+        "LA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "does mandibular advancement with cle source bmc oral health so 2023 (1).card.json",
+      "title": "Does mandibular advancement with clear aligners have the same skeletal and dentoalveolar effects as ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "clinical_outcome_of_maxillary_arch_expansion_with.4.card.json",
+      "title": "Clinical outcome of maxillary arch expansion with clear aligners in mixed dentition: A systematic re",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID36901642.card.json",
+      "title": "Efficacy and Accuracy of Maxillary Arch Expansion with Clear Aligner Treatment",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Velioğlu E_2023_36652033_Relationships_between_site_index_and_ecological_va.card.json",
+      "title": "Relationships between site index and ecological variables of trembling poplar forests (Populus tremu",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "effectiveness of the attachment design and thickness of clear aligner source eur j dent 2023.card.json",
+      "title": "Effectiveness of the Attachment Design and Thickness of Clear Aligners during Orthodontic Anterior R",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "alginate templated synthesis charac source int j biol macromol so 2023.card.json",
+      "title": "Alginate templated synthesis, characterization and in vitro osteogenic evaluation of strontium-subst",
+      "targets": [
+        "CA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID36719258.card.json",
+      "title": "Effects of different distalization directions and methods on maxillary total distalization with clea",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Clinical and MRI Predictors of Succe Source J Oral Rehabil SO 2026.card.json",
+      "title": "Clinical and MRI Predictors of Successful Mandibular Manipulation Therapy in Anterior Disc Displacem",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Li_2026_41520865_Unknown.card.json",
+      "title": "An artificial intelligence-assisted automated quantitative evaluation system for condylar morphologi",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "effects of upper arch expansion usinbmc oral health.card.json",
+      "title": "Effects of upper arch expansion using clear aligners on different stride and torque: a three‑dimensi",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID35909188.card.json",
+      "title": "Torque movement of the upper anterior teeth using a clear aligner in cases of extraction: a finite e",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "ArbelaezRamirez_2025_41117487_Unknown.card.json",
+      "title": "Tomographic assessment of glenoid fossa morphology and position in symmetric and asymmetric patients",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Osama_2025_41971965.card.json",
+      "title": "Cone-Beam Computed Tomography as a Diagnostic Tool for TMJ Morphological Alterations in Disc Displac",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "biomechanical effects of attachment source am j orthod dentofacial orthop so 2026.card.json",
+      "title": "Biomechanical effects of attachment designs on maxillary molar expansion with clear aligners: A 3-di",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMD"
+      ]
+    },
+    {
+      "file": "PMID_29244893_GoogleScholar.card.json",
+      "title": "Effectiveness of Intra-Articular Injections of Sodium Hyaluronate or Corticosteroids for Intracapsul",
+      "targets": [
+        "RR"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Corticosteroid"
+      ],
+      "diseases": [
+        "Osteoarthritis",
+        "TMD"
+      ]
+    },
+    {
+      "file": "Frid_2025_Cytokines_in_saliva_serum_and_temporomandibular_jo.card.json",
+      "title": "Cytokines in saliva, serum, and temporomandibular joint synovial fluid in children with juvenile idi",
+      "targets": [
+        "CSF",
+        "FGF",
+        "IL-1",
+        "IL-17",
+        "IL-6",
+        "PDGF",
+        "TNF"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Ahedi_2017_Hip_Shape_as_a_Predictor_of_Osteoarthritis_Progression_in_a_PMID_27992684.card.json",
+      "title": "Hip shape as a predictor of osteoarthritis progression in a prospective population cohort",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "Hip OA",
+        "OA",
+        "Osteoarthritis",
+        "synovitis"
+      ]
+    },
+    {
+      "file": "PMID38434769.card.json",
+      "title": "Clear Aligners and Miniscrews in a Scissor Bite Adult Treatment",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Lopez_2025_39011634_Unknown.card.json",
+      "title": "Volumetric differences in the temporomandibular joint in patients with condylar hyperplasia in the a",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "10.1007_s11282-022-00641-y.card.json",
+      "title": "Magnetic resonance imaging texture analysis for quantitative evaluation of the mandibular condyle in",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Proanthocyanidin B2 alleviates Pg LP Source Cytotechnology SO 2025.card.json",
+      "title": "Proanthocyanidin B2 alleviates Pg.LPS-induced RAW264.7 cellular inflammation and oxidative stress vi",
+      "targets": [
+        "AKT",
+        "IL-1",
+        "IL-6",
+        "PI3K",
+        "TNF",
+        "TNF-α"
+      ],
+      "pathways": [
+        "oxidative stress"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "02_ResNet-图像识别深度残差学习_He2016.card.json",
+      "title": "Deep Residual Learning for Image Recognition",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID41625070.card.json",
+      "title": "Finite element analysis of clear aligner with overhanging attachments and extended gingival coverage",
+      "targets": [
+        "CA",
+        "CLEAR",
+        "MET"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Figure2_PICO_Heatmap.card.json",
+      "title": "PICO Heat Map: Outcome Coverage by Intervention",
+      "targets": [
+        "MAP"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Dextrose",
+        "PRP"
+      ],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "effect of strontium substituted calc source acs biomater sci eng so 2024.card.json",
+      "title": "Effect of Strontium-Substituted Calcium Phosphate Coatings Prepared by One-Step Electrodeposition at",
+      "targets": [
+        "CA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "diagnostics-15-01586.card.json",
+      "title": "Evaluation of Maxillary Dentoalveolar Expansion with Clear Aligners: A Retrospective CBCT Study",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID38879479.card.json",
+      "title": "Predictability of expansion movements performed by clear aligners in mixed dentition in both arches:",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Santander_2020_33256789_Unknown.card.json",
+      "title": "Comprehensive 3D analysis of condylar morphology in adults with different skeletal patterns – a cros",
+      "targets": [
+        "BEST"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "mitochondrial transplantation for os source front immunol so 2026.card.json",
+      "title": "Mitochondrial transplantation for osteoarthritis: from molecular mechanisms to clinical translation",
+      "targets": [
+        "ATP",
+        "OA"
+      ],
+      "pathways": [
+        "ARE",
+        "NLRP3 inflammasome",
+        "apoptosis",
+        "mitophagy"
+      ],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "texture analysis of temporomandibula source dent j basel so 2024.card.json",
+      "title": "Texture Analysis of Temporomandibular Joint Disc Changes Associated with Effusion Using Magnetic Res",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Environment-Friendly Synthesis of Trace Element Zn, Sr, and F Codoping .card.json",
+      "title": "Environment-Friendly Synthesis of Trace Element Zn, Sr, and F Codoping Hydroxyapatite with Non-cytot",
+      "targets": [
+        "MC"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Zinc"
+      ],
+      "diseases": []
+    },
+    {
+      "file": "Figure3_Synovial_Inflammation.card.json",
+      "title": "未提供完整论文标题，仅从图表推断可能与颞下颌关节骨关节炎（TMJ OA）中IL-1、TNF-α水平及Gynther评分相关",
+      "targets": [
+        "IL-1",
+        "OA",
+        "TNF",
+        "TNF-α"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "PMID36456944.card.json",
+      "title": "Effects of upper-molar distalization using clear aligners in combination with Class II elastics: a t",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Altan_2021_32020494_Unknown.card.json",
+      "title": "Semi-automated three-dimensional volumetric evaluation of mandibular condyles",
+      "targets": [
+        "Itk"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Oliveira_JX_2012_23207899.card.json",
+      "title": "Assessing joint effusion and bone changes of the head of the mandible in MR images of symptomatic pa",
+      "targets": [
+        "CO",
+        "OA"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "MPGLNet：多尺度渐进式全局–局部融合牙齿点云补全网络.card.json",
+      "title": "MPGLNet: Multi-scale progressive global–local fusion dental point cloud complementation network",
+      "targets": [
+        "BEST"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "effect of clear aligner attachment d source am j orthod dentofacial orthop so 2023.card.json",
+      "title": "Effect of clear aligner attachment design on extrusion of maxillary lateral incisors: A multicenter,",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Embree_NatComm_2016_FCSC.card.json",
+      "title": "Exploiting endogenous fibrocartilage stem cells to regenerate cartilage and repair joint injury",
+      "targets": [
+        "OA",
+        "SOST",
+        "Sclerostin",
+        "Wnt"
+      ],
+      "pathways": [
+        "Wnt signaling"
+      ],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "PMID37079796.card.json",
+      "title": "Effect of attachment type on distal bodily movement of the maxillary canine in aligner orthodontics:",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "cloudlib_28636844.card.json",
+      "title": "Clonal Hematopoiesis and Risk of Atherosclerotic Cardiovascular Disease",
+      "targets": [
+        "CHIP",
+        "JAK"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "fmoc ddt fos hydrogel mitigates temp so mater today bio 2026 apr 37 102906 doi 10 1016 j mtbio 2026 102906.card.json",
+      "title": "Fmoc-DDT@Fos hydrogel mitigates temporomandibular joint osteoarthritis through regulating macrophage",
+      "targets": [
+        "IL-1",
+        "IL-6",
+        "OA",
+        "Syk",
+        "TGF-β",
+        "TNF",
+        "TNF-α",
+        "ds"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "Dilip_2024_39886725_Unknown.card.json",
+      "title": "Quantitative Analysis of Temporomandibular Joint Adaptations After One Year of Complete Denture Use:",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "PMID37497583.card.json",
+      "title": "Maxillary alveolar bone evaluation following dentoalveolar expansion with clear aligners in adults: ",
+      "targets": [
+        "CLEAR",
+        "PC"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "bone loss"
+      ]
+    },
+    {
+      "file": "PMID33435457.card.json",
+      "title": "The Predictability of Transverse Changes in Patients Treated with Clear Aligners",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Howaldt_2019_Soziale_Innovation_1.card.json",
+      "title": "Evaluation of supervised machine learning models in predicting temporomandibular joint disc displace",
+      "targets": [
+        "NA"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "S_2026_41604243_Unknown.card.json",
+      "title": "Evaluation of supervised machine learning models in predicting temporomandibular joint disc displace",
+      "targets": [
+        "NA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "applsci-13-02963.card.json",
+      "title": "Predictability of Maxillary Dentoalveolar Expansion Using Clear Aligners in Different Types of Cross",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "is dextrose prolotherapy beneficial in the management of tempo source cranio 2023 apr 25 1 9.card.json.card.json",
+      "title": "Is dextrose prolotherapy beneficial in the management of temporomandibular joint internal derangemen",
+      "targets": [
+        "TRPV"
+      ],
+      "pathways": [
+        "ARE",
+        "TRPV"
+      ],
+      "drugs": [
+        "Dextrose",
+        "Dextrose prolotherapy",
+        "Hyaluronic acid",
+        "Hypertonic dextrose",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Reis_2022_34050829_Unknown.card.json",
+      "title": "Evaluation of the dimensions, morphology, and position of the mandibular condyles in individuals wit",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Astudillo_2026_42035461_Unknown.card.json",
+      "title": "Prevalence of Osteoarthritis Using Cone Beam in Patients at the University of Cuenca",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJ OA",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Kilic_2026_41775145_Unknown.card.json",
+      "title": "Condylar morphology in skeletal Class II malocclusion: relationship to mandibular retrognathia and a",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "PMID37324442.card.json",
+      "title": "Improvements of tooth movement efficiency and torque control in expanding the arch with clear aligne",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Jaiswal_NEJM_2017_CHIP_CVD.card.json",
+      "title": "Clonal Hematopoiesis and Risk of Atherosclerotic Cardiovascular Disease",
+      "targets": [
+        "CHIP",
+        "IL-1",
+        "IL-6",
+        "JAK"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Dalili_2012_23559927_Unknown.card.json",
+      "title": "Assessing joint space and condylar position in the people with normal function of temporomandibular ",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Enc_2025_41013438_Unknown.card.json",
+      "title": "CBCT-Based measurement of lateral pterygoid muscle length in TMJ dysfunction",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "CM_2024_38534306.card.json",
+      "title": "Texture Analysis of Temporomandibular Joint Disc Changes Associated with Effusion Using Magnetic Res",
+      "targets": [
+        "Collagen"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Collagen"
+      ],
+      "diseases": [
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Sit_2021_Efficacy_of_hypertonic_dextrose_injection_prolothe.card.json",
+      "title": "Efficacy of hypertonic dextrose injection (prolotherapy) in temporomandibular joint dysfunction: a s",
+      "targets": [
+        "Aggrecan",
+        "TRPV"
+      ],
+      "pathways": [
+        "ARE",
+        "TRPV"
+      ],
+      "drugs": [
+        "Dextrose",
+        "Dextrose prolotherapy",
+        "Hypertonic dextrose",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "cone beam computed tomography and its applications source clin radiol 2020 sep 75 9 647 657_PMID_32451060.card.json",
+      "title": "Cone-beam computed tomography and its applications in dental and maxillofacial radiology",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "recent advances in animal models di source tissue eng part b rev so 2022 aug 22.card.json",
+      "title": "Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis",
+      "targets": [
+        "CTGF",
+        "IGF",
+        "IL-1",
+        "PDGF",
+        "TGF-β",
+        "TNF",
+        "TNF-α",
+        "VEGF"
+      ],
+      "pathways": [],
+      "drugs": [
+        "NSAIDs"
+      ],
+      "diseases": [
+        "TMJ",
+        "TMJOA"
+      ]
+    },
+    {
+      "file": "maternal and neonatal complications source ultrasound obstet gynecol so 2019 apr 2.card.json",
+      "title": "Maternal and neonatal complications of fetal macrosomia: a systematic review and meta-analysis",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "predictability of maxillary dentoalv source korean j orthod so 2025.card.json",
+      "title": "Predictability of maxillary dentoalveolar expansion with clear aligners in patients with mixed denti",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Huang_2025_40296140_Unknown.card.json",
+      "title": "Quantitative MRI texture analysis of the lateral pterygoid muscle in unilateral temporomandibular jo",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Alharbi_2025_Retinoblastoma_Detection_Leveraging_Deep_Learning_and_Residu.card.json",
+      "title": "Diagnostic accuracy of deep learning in medical imaging: a systematic review and meta-analysis",
+      "targets": [
+        "STARD"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "s40510-026-00620-7.card.json",
+      "title": "Effectiveness of clear aligners for maxillary expansion in growing patients: a systematic review and",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "does mandibular advancement with cle source bmc oral health so 2023 (2).card.json",
+      "title": "Does mandibular advancement with clear aligners have the same skeletal and dentoalveolar effects as ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID38350943.card.json",
+      "title": "Effect of clear aligner type on maxillary full-arch intrusion: 3D analysis using finite element meth",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID34238002.card.json",
+      "title": "Maxillary expansion with clear aligners in the mixed dentition: A preliminary study with Invisalign®",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "the use of statins can reduce the ri source inflammopharmacology so 2025.card.json",
+      "title": "The use of statins can reduce the risk of osteoarthritis and osteoporosis",
+      "targets": [
+        "AKT",
+        "BMP",
+        "MAPK",
+        "OPG",
+        "PI3K",
+        "RANK",
+        "RANKL",
+        "Ras"
+      ],
+      "pathways": [
+        "PI3K-AKT"
+      ],
+      "drugs": [],
+      "diseases": [
+        "Osteoarthritis",
+        "Osteoporosis"
+      ]
+    },
+    {
+      "file": "proliferation and differentiation of source j dent res so 2008 jul 87 7 650 4.card.json",
+      "title": "Proliferation and Differentiation of MC3T3-E1 Cells on Calcium Phosphate/Chitosan Coatings",
+      "targets": [
+        "MC"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Bliddal_STEP9_NEJM_2024.card.json",
+      "title": "A prospective study on the regulation of osteoarthritis risk through inflammatory pathways in clonal",
+      "targets": [
+        "IL-6",
+        "JAK",
+        "OA",
+        "STAT"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "PMID41923225.card.json",
+      "title": "Tooth rotational control with varying attachment configurations in clear aligners under compromised ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "bone loss"
+      ]
+    },
+    {
+      "file": "PMID36277381_2022_Xia_Q_Assessment_of_labially_impacted_canines_.card.json",
+      "title": "Assessment of labially impacted canines traction mode with clear aligners vs. fixed appliance: A com",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "asl perfusion mri predicts cognitivepg 19 27.card.json",
+      "title": "ASL Perfusion MRI Predicts Cognitive Decline and Conversion From MCI to Dementia",
+      "targets": [
+        "RR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "ameliorative effects of prolotherapy j coll physicians surg pak.card.json",
+      "title": "Ameliorative Effects of Prolotherapy on Histomorphology of Tibial Articular Cartilage of Chemically ",
+      "targets": [
+        "Collagen",
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Collagen",
+        "Dextrose",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "Wei WT_2022_36292389_Trends_in_Research_about_COVID-19_Vaccine_Document.card.json",
+      "title": "Trends in Research about COVID-19 Vaccine Documented through Bibliometric and Visualization Analysis",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "force changes associated with differ source korean j orthod so 2021 jan 15 51 1 32 42.card.json",
+      "title": "Force changes associated with differential activation of en-masse retraction and/or intrusion with c",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Li_GeroScience_2025_CHIP_OA.card.json",
+      "title": "A prospective study on the regulation of osteoarthritis risk through inflammatory pathways in clonal",
+      "targets": [
+        "CHIP",
+        "COX",
+        "JAK",
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "efficacy of magnetic resonance imagi source dentomaxillofac radiol so 2023.card.json",
+      "title": "Efficacy of magnetic resonance imaging texture features of the lateral pterygoid muscle in distingui",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "Rheumatoid arthritis",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "torque movement of the upper anterio source prog orthod so 2022.card.json",
+      "title": "Torque movement of the upper anterior teeth using a clear aligner in cases of extraction: a finite e",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Ikeda_2011_21689204_Unknown.card.json",
+      "title": "Assessment of Optimal Condylar Position in the Coronal and Axial Planes with Limited Cone-Beam Compu",
+      "targets": [
+        "ALS"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "a comparative assess source am j orthod dentofacial orthop 2022 mar 23 s0889 5406 22 00133 0.card.json",
+      "title": "A comparative assessment of the dentoskeletal effects of clear aligners vs miniplate-supported poste",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Ozturk_2021_34210640_Unknown.card.json",
+      "title": "Measurement of the trabecular bone structure of the TMJ region in patients with transverse maxillary",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "PMID30944717.card.json",
+      "title": "Effects of Attachment of Plastic Aligner in Closing of Diastema of Maxillary Dentition by Finite Ele",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Unknown_0000_00000000_The_Saudi_Dental_Journal_36_2024_756760.card.json",
+      "title": "Comparative analysis of temporomandibular joint morphology in degenerative joint disease: A cone-bea",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "effects of intravenous pamidronate o source am j med sci so 2010 mar 339 3 225 9 (1).card.json",
+      "title": "Effects of Intravenous Pamidronate on Renal Function, Bone Mineral Metabolism and Bone Mass in Patie",
+      "targets": [
+        "PTH"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "Osteoporosis"
+      ]
+    },
+    {
+      "file": "口腔扫描仪的最新进展.card.json",
+      "title": "Recent Advances in Intraoral Scanners",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "the role of zinc in bone tissue heal source biol trace elem res so 2023.card.json",
+      "title": "The Role of Zinc in Bone Tissue Health and Regeneration—a Review",
+      "targets": [
+        "BMP",
+        "OPG",
+        "Osterix",
+        "PTH",
+        "RANK",
+        "RANKL",
+        "RUNX2"
+      ],
+      "pathways": [
+        "apoptosis"
+      ],
+      "drugs": [
+        "Zinc"
+      ],
+      "diseases": [
+        "Osteoporosis"
+      ]
+    },
+    {
+      "file": "PMID_40273050_PLoS.card.json",
+      "title": "FGF18 induces chondrogenesis and anti-osteoarthritic effects in a mouse model for TMJ degeneration",
+      "targets": [
+        "BMP",
+        "Col2a1",
+        "FGF",
+        "MMP",
+        "MMP13",
+        "TIMP",
+        "TIMP1"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "Osteoarthritis",
+        "TMJ",
+        "TMJOA"
+      ]
+    },
+    {
+      "file": "FGFR_Inhibitor_Rescues_OA_2020.card.json",
+      "title": "Inhibition of FGFR Signaling Partially Rescues Osteoarthritis in Mice Overexpressing High Molecular ",
+      "targets": [
+        "ADAMTS",
+        "ADAMTS5",
+        "Axin",
+        "DKK",
+        "FGF",
+        "FGF23",
+        "FGFR",
+        "MMP",
+        "MMP13",
+        "OA",
+        "SOST",
+        "Sox9",
+        "Wnt",
+        "β-catenin"
+      ],
+      "pathways": [],
+      "drugs": [
+        "BGJ398"
+      ],
+      "diseases": [
+        "OA"
+      ]
+    },
+    {
+      "file": "Figure1_Evidence_Map.card.json",
+      "title": "Evidence Map: Prolotherapy for TMJ Disorders (2016-2025)",
+      "targets": [
+        "MAP"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "40415105_Taleb_2025_SciRep.card.json",
+      "title": "Dextrose prolotherapy effect in improving the temporomandibular joint disc displacement symptoms wit",
+      "targets": [
+        "TRPV"
+      ],
+      "pathways": [
+        "TRPV"
+      ],
+      "drugs": [
+        "D5W",
+        "Dextrose",
+        "Dextrose prolotherapy",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "PMID_36890529_BMC.card.json",
+      "title": "Does intra-articular injection of tenoxicam after arthrocentesis heal outcomes of temporomandibular ",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "PMID37806991.card.json",
+      "title": "Effective contribution ratio of the molar during sequential distalization using clear aligners and m",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Wang_S_2023_36152024.card.json",
+      "title": "Gender differences in lateral pterygoid muscle in patients with anterior disk displacement",
+      "targets": [
+        "fat"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD"
+      ]
+    },
+    {
+      "file": "Riluzole_OA_Repositioning_2026.card.json",
+      "title": "Single-Cell Transcriptomics Reveals Riluzole as an Osteoarthritis Candidate Drug via OB-NE Signaling",
+      "targets": [
+        "ALS",
+        "ERK",
+        "MAPK",
+        "OA",
+        "receptor"
+      ],
+      "pathways": [
+        "ARE",
+        "ERK pathway",
+        "ERK signaling"
+      ],
+      "drugs": [
+        "Riluzole"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "Tenti_2017_Can_hybrid_hyaluronic_acid_represent_a_valid_appro.card.json",
+      "title": "Can hybrid hyaluronic acid represent a valid approach to treat rizoarthrosis? A retrospective compar",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Hyaluronic acid",
+        "Triamcinolone"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "can treatment with chondroitin and g source j oral rehabil so 2024 (1).card.json",
+      "title": "Can treatment with chondroitin and glucosamine sulphate prevent changes in the articular disc caused",
+      "targets": [
+        "Collagen",
+        "OA",
+        "TNF",
+        "TNF-α"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Chondroitin",
+        "Collagen",
+        "Glucosamine"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJ OA",
+        "temporomandibular joint",
+        "temporomandibular joint osteoarthritis"
+      ]
+    },
+    {
+      "file": "Destine_2008_18467793.card.json",
+      "title": "Metallic Artifacts in MRI Caused by Dental Alloys and Magnetic Keeper",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Extracellular vesicles from adipose Source J Nanobiotechnology SO 2025.card.json",
+      "title": "Extracellular vesicles from adipose-derived stromal/stem cells reprogram dendritic cells to alleviat",
+      "targets": [
+        "ERK",
+        "FOXO",
+        "IL-6",
+        "MAPK",
+        "TNF",
+        "TNF-α"
+      ],
+      "pathways": [
+        "ARE",
+        "FOXO",
+        "autophagy"
+      ],
+      "drugs": [],
+      "diseases": [
+        "Osteoarthritis",
+        "TMJOA",
+        "cartilage degradation",
+        "synovitis",
+        "temporomandibular joint",
+        "temporomandibular joint osteoarthritis"
+      ]
+    },
+    {
+      "file": "expansion rebound deformation of clear aligners and its biomechanic source angle orthod 2023.card.json",
+      "title": "Expansion rebound deformation of clear aligners and its biomechanical influence: a three-dimensional",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Das_2024_39803097_Unknown.card.json",
+      "title": "Volumetric Comparison of the Temporomandibular Joint Space in Skeletal Class I and II Patients Using",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "PMID41251005.card.json",
+      "title": "Maxillary arch expansion in different dentition stages using clear aligners: a three-dimensional fin",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Liu_2026_41740299.card.json",
+      "title": "MRI characteristics of the lateral pterygoid muscle and correlation with temporomandibular disorder ",
+      "targets": [
+        "fat"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD"
+      ]
+    },
+    {
+      "file": "OConnor_2024_EX30_SmartTrack_change_regime.card.json",
+      "title": "Clinical expression of programmed maxillary buccal expansion and buccolingual crown inclination with",
+      "targets": [
+        "EX"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "06_Al-Rawi2017-CBCT在颞下颌关节紊乱病中的应用综述.card.json",
+      "title": "The Risk Factors of High Blood Pressure among Young Adults in the Tujia-Nationality Settlement of Ch",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "humanities-predoctoral-dental-education.card.json",
+      "title": "Humanities in Predoctoral Dental Education: A Scoping Review",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Feng_2023_37870149_Unknown.card.json",
+      "title": "Quantitative assessment of condylar bone resorption using fused CBCT images: differentiating and dia",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "PMID36775824.card.json",
+      "title": "Stress and movement trend of lower incisors with different IMPA intruded by clear aligner: a three‑d",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "inhibition of fgfr signaling partially rescues osteoarthritis in mice overexpressing high molecular weight fgf2 isoforms.card.json",
+      "title": "Inhibition of FGFR Signaling Partially Rescues Osteoarthritis in Mice Overexpressing High Molecular ",
+      "targets": [
+        "ADAMTS",
+        "ADAMTS5",
+        "Axin",
+        "DKK",
+        "FGF",
+        "FGF23",
+        "FGFR",
+        "MMP",
+        "MMP13",
+        "OA",
+        "SOST",
+        "Wnt",
+        "receptor",
+        "β-catenin"
+      ],
+      "pathways": [
+        "Wnt signaling"
+      ],
+      "drugs": [
+        "BGJ398"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "Yajima_2007_17983124.card.json",
+      "title": "MR Evidence of Characteristics in Symptomatic Osteoarthritis of the Temporomandibular Joint: Increas",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "PMID_40273050_GoogleScholar.card.json",
+      "title": "The effects of FGF18 in a mouse model for TMJ cartilage degradation",
+      "targets": [
+        "BMP",
+        "FGF",
+        "MMP",
+        "MMP13",
+        "OA",
+        "TIMP",
+        "TIMP1"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Mehta_2023_38344161_Unknown.card.json",
+      "title": "Three‑dimensional Assessment of Temporomandibular Joint Volume, and Condylar and Glenoid‑fossa Morph",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "structural and molecular effects of source curr rheumatol rev so 2025.card.json",
+      "title": "Structural and Molecular Effects of Dextrose on Cartilage: A Scoping Review",
+      "targets": [
+        "Aggrecan",
+        "COX",
+        "COX-2",
+        "EGF",
+        "ERK",
+        "FAK",
+        "IGF",
+        "IL-1",
+        "IL-6",
+        "MEK",
+        "MMP",
+        "PGE2",
+        "PKC",
+        "TGF-β",
+        "TIMP",
+        "mTORC1",
+        "p38"
+      ],
+      "pathways": [
+        "ARE",
+        "apoptosis",
+        "autophagy",
+        "mTORC1"
+      ],
+      "drugs": [
+        "Dextrose",
+        "Dextrose prolotherapy",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "Osteoarthritis",
+        "cartilage degradation"
+      ]
+    },
+    {
+      "file": "AlSaleh_M_2013_23663414.card.json",
+      "title": "MRI findings of radiation-induced changes of masticatory muscles: a systematic review",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Fillingim-2009-sex-gender-pain.card.json",
+      "title": "Sex, Gender, and Pain: A Review of Recent Clinical and Experimental Findings",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "Osteoarthritis",
+        "TMD",
+        "chronic pain",
+        "fibromyalgia"
+      ]
+    },
+    {
+      "file": "DOI_10_1080_27705781_202.card.json",
+      "title": "Clear aligner orthodontic force and conformity during lateral expansion",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "a metaverse based fully immersive tr source eur j dent educ so 2026.card.json",
+      "title": "A Metaverse-Based Fully Immersive Training for Temporomandibular Joint: A Pilot Study",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [
+        "SAMe"
+      ],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Multimodal deep learning with anatom Source NPJ Digit Med SO 2026.card.json",
+      "title": "Multimodal deep learning with anatomically constrained attention for screening MRI-detectable TMJ ab",
+      "targets": [
+        "BEST"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "PMID41254565.card.json",
+      "title": "Biomechanical effects of aligner trimline design and intrusion protocol on mandibular anterior teeth",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Chondrocyte apoptosis in temporomandibular joint osteoarthritis promotes bone .card.json",
+      "title": "Chondrocyte apoptosis in temporomandibular joint osteoarthritis promotes bone resorption by enhancin",
+      "targets": [
+        "MAPK",
+        "p38"
+      ],
+      "pathways": [
+        "p38 MAPK"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJOA"
+      ]
+    },
+    {
+      "file": "Ichijo K_2024_38868471_Late-life_mood_disorder_as_the_initial_presentatio.card.json",
+      "title": "Late‐life mood disorder as the initial presentation of progressive supranuclear palsy: A case series",
+      "targets": [
+        "Tau"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID36348394.card.json",
+      "title": "Effectiveness of the attachment position in molar intrusion with clear aligners: a finite element st",
+      "targets": [
+        "BEST",
+        "CLEAR",
+        "NA"
+      ],
+      "pathways": [],
+      "drugs": [
+        "SAMe"
+      ],
+      "diseases": []
+    },
+    {
+      "file": "PMID39390419.card.json",
+      "title": "Anchorage loss of the posterior teeth under different extraction patterns in maxillary and mandibula",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Application of advanced surface modi Source J Mater Chem B SO 2024.card.json",
+      "title": "Application of advanced surface modification techniques in titanium-based implants: latest strategie",
+      "targets": [
+        "RUNX2"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "impact of molar teeth distalization source bmc oral health so 2019 aug 13 19 1 182.card.json",
+      "title": "Impact of molar teeth distalization with clear aligners on occlusal vertical dimension: a retrospect",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Figure5_Comprehensive.card.json",
+      "title": "Comprehensive Biomechanical Analysis of Clear Aligner Arch Expansion",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "fgf23 regulates wnt catenin signal source endocrinology so 2018 apr 26.card.json",
+      "title": "FGF23 regulates Wnt/β-catenin signaling-mediated osteoarthritis in mice overexpressing high molecula",
+      "targets": [
+        "ADAMTS",
+        "ADAMTS5",
+        "Axin",
+        "DKK",
+        "FGF",
+        "FGF23",
+        "FGFR",
+        "IL-1",
+        "LRP5",
+        "LRP6",
+        "MMP",
+        "MMP13",
+        "OA",
+        "SOST",
+        "WISP1",
+        "Wnt",
+        "β-catenin"
+      ],
+      "pathways": [
+        "Wnt/β-catenin"
+      ],
+      "drugs": [],
+      "diseases": [
+        "OA"
+      ]
+    },
+    {
+      "file": "Chen_JAdvRes_2025_trained_immunity_modulators.card.json",
+      "title": "Trained Immunity Modulators: A New Frontier in Immunoregulation and Disease Intervention",
+      "targets": [
+        "AKT",
+        "IL-1",
+        "IL-6",
+        "MTP",
+        "NOD",
+        "TNF",
+        "TNF-α",
+        "mTOR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "assessment of dental students diagn source j dent educ so 2026.card.json",
+      "title": "Assessment of Dental Students’ Diagnostic and Management Decision-Making Skills in Temporomandibular",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD"
+      ]
+    },
+    {
+      "file": "Han_2018_29322857_Unknown.card.json",
+      "title": "Morphometric analysis for evaluating the relation between incisal guidance angle, occlusal plane ang",
+      "targets": [
+        "PC"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Wang_2023_36152024_Unknown.card.json",
+      "title": "Gender differences in lateral pterygoid muscle in patients with anterior disk displacement",
+      "targets": [
+        "fat"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD"
+      ]
+    },
+    {
+      "file": "single cell transcriptomics reveals source drug des devel ther so 2026.card.json",
+      "title": "Single-Cell Transcriptomics Reveals Riluzole as an Osteoarthritis Candidate Drug via OB-NE Signaling",
+      "targets": [
+        "ALS",
+        "ERK",
+        "MAPK",
+        "OA"
+      ],
+      "pathways": [
+        "ARE",
+        "ERK pathway",
+        "ERK signaling"
+      ],
+      "drugs": [
+        "Riluzole"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "Louw_2019_Mayo_Clinic_Prolotherapy_RCT.card.json",
+      "title": "Treatment of Temporomandibular Dysfunction With Hypertonic Dextrose Injection (Prolotherapy): A Rand",
+      "targets": [
+        "TRPV"
+      ],
+      "pathways": [
+        "TRPV"
+      ],
+      "drugs": [
+        "Dextrose",
+        "Dextrose prolotherapy",
+        "Lidocaine",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "PMID36437397.card.json",
+      "title": "Predictability of crowding resolution in clear aligner treatment",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "evaluation of maxillary dentoalveola .card.json",
+      "title": "Evaluation of Maxillary Dentoalveolar Expansion with Clear Aligners: A Retrospective CBCT Study",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID39123145.card.json",
+      "title": "Evaluation of the effect of different attachment configurations on molar teeth in maxillary expansio",
+      "targets": [
+        "CLEAR",
+        "NA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Steinbaum_2024_39451655_Unknown.card.json",
+      "title": "Assessment of Condylar Changes in Patients with Degenerative Joint Disease of the TMJ After Stabiliz",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Yelken_2026_41629946_Unknown.card.json",
+      "title": "Temporomandibular Joint Morphology in Cleft Lip and Palate: Evidence from a CBCT-Based Volumetric An",
+      "targets": [
+        "Itk"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "PMID37183221.card.json",
+      "title": "The effect of maxillary molar distalization with clear aligner: a 4D finite‑element study with stagi",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID29972918.card.json",
+      "title": "Accuracy of interproximal enamel reduction during clear aligner treatment",
+      "targets": [
+        "CLEAR",
+        "Enamel"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Taqi-2024-dental-TMD-collaboration-BMCPrimaryCare.card.json",
+      "title": "Dental practitioners’ knowledge, management practices, and attitudes toward collaboration in the tre",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "10.1038_s41746-021-00438-z.card.json",
+      "title": "Diagnostic accuracy of deep learning in medical imaging: a systematic review and meta-analysis",
+      "targets": [
+        "STARD"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID32576935.card.json",
+      "title": "Clear aligners for maxillary anterior en masse retraction: a 3D finite element study",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Shetty_2014_25332835_Assessment_of_condylar_changes_in_TMJ_pain.card.json",
+      "title": "Assessment of Condylar Changes in Patients with Temporomandibular Joint Pain Using Digital Volumetri",
+      "targets": [
+        "OPG"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "FGF23_Wnt_OA_2018_Mouse_Mechanism.card.json",
+      "title": "FGF23 regulates Wnt/β-catenin signaling-mediated osteoarthritis in mice overexpressing high molecula",
+      "targets": [
+        "ADAMTS",
+        "ADAMTS5",
+        "Axin",
+        "DKK",
+        "FGF",
+        "FGF23",
+        "IL-1",
+        "LRP5",
+        "LRP6",
+        "SOST",
+        "WISP1",
+        "Wnt",
+        "β-catenin"
+      ],
+      "pathways": [
+        "Wnt/β-catenin"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Voelkel_1986_PAF_antagonists_different_effects_on_platelets_neutrophils_g.card.json",
+      "title": "Extent of Vasodilatation Induced in Different Vascular Beds After Systemic Autonomic Blockade with T",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "reproducibility and location stabili source dentomaxillofac radiol so 2023.card.json",
+      "title": "Reproducibility and location-stability of radiomic features derived from Cone-Beam Computed Tomograp",
+      "targets": [
+        "CCC"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "radiomic texture mapping improves vi source dentomaxillofac radiol so 2026.card.json",
+      "title": "Radiomic texture mapping improves visualization of simulated condylar bone lesions in cone beam comp",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "LR_2015_26709325_Unknown.card.json",
+      "title": "Diagnostic index of 3D osteoarthritic changes in TMJ condylar morphology",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "intra articular pharmacological inje source j evid based dent pract so 2024.card.json",
+      "title": "INTRA-ARTICULAR PHARMACOLOGICAL INJECTIONS FOR TEMPOROMANDIBULAR JOINT OSTEOARTHRITIS ARE COMPARABLE",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "texture analysis of temporomandibula source dent j basel so 2024 (2).card.json",
+      "title": "Texture Analysis of Temporomandibular Joint Disc Changes Associated with Effusion Using Magnetic Res",
+      "targets": [
+        "Collagen"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Collagen"
+      ],
+      "diseases": [
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "a retrospective study regarding the source diagnostics basel so 2025.card.json",
+      "title": "A Retrospective Study Regarding the Efficacy of Nuvola® OP Clear Aligners in Maxillary Arch Expansio",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "organelle tuning condition robustly source bone res so 2025.card.json",
+      "title": "Organelle-tuning condition robustly fabricates energetic mitochondria for cartilage regeneration",
+      "targets": [
+        "AMPK",
+        "ATP",
+        "MC",
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMD"
+      ]
+    },
+    {
+      "file": "PMID37747552.card.json",
+      "title": "The effect of space arrangement between anterior teeth on their retraction with clear aligners in fi",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "a quantitative three dimensional com source prog orthod so 2023.card.json",
+      "title": "A quantitative three-dimensional comparative study of alveolar bone changes and apical root resorpti",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "bone loss"
+      ]
+    },
+    {
+      "file": "Biological-responses-of-brushite-forming-Zn-and-ZnSr-substituted-Tricalcium-phosphate-bone-cements.card.json",
+      "title": "Biological Responses of Brushite-Forming Zn- and ZnSr-Substituted β-Tricalcium Phosphate Bone Cement",
+      "targets": [
+        "Collagen",
+        "MC"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Collagen",
+        "Zinc"
+      ],
+      "diseases": []
+    },
+    {
+      "file": "Hu_NatCommun_2025_Denosumab_FSTL1.card.json",
+      "title": "Denosumab attenuates knee osteoarthritis progression by inhibiting synovial inflammation via the RAN",
+      "targets": [
+        "NF-κB",
+        "OA",
+        "RANK",
+        "RANKL",
+        "TRAF"
+      ],
+      "pathways": [
+        "NF-κB pathway"
+      ],
+      "drugs": [
+        "Denosumab"
+      ],
+      "diseases": [
+        "Knee OA",
+        "OA",
+        "Osteoarthritis",
+        "Osteoporosis",
+        "synovitis"
+      ]
+    },
+    {
+      "file": "dextrose prolotherapy and corticoste source knee surg sports traumatol arthrosc so 2012 oct 20 10 1895 900.card.json",
+      "title": "Dextrose prolotherapy and corticosteroid injection into rat Achilles tendon",
+      "targets": [
+        "Collagen"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Collagen",
+        "Corticosteroid",
+        "Dextrose",
+        "Prolotherapy"
+      ],
+      "diseases": []
+    },
+    {
+      "file": "Ma_2015_26626730_Unknown.card.json",
+      "title": "MRI thresholds for discrimination between normal and mild temporomandibular joint involvement in juv",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ",
+        "synovitis"
+      ]
+    },
+    {
+      "file": "Muraoka_2023_36594821_Unknown.card.json",
+      "title": "Efficacy of magnetic resonance imaging texture features of the lateral pterygoid muscle in distingui",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "Rheumatoid arthritis",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Vasegh Z_2023_37898789_Assessment_of_bony_changes_in_temporomandibular_jo.card.json",
+      "title": "Assessment of bony changes in temporomandibular joint in patients using cone beam computed tomograph",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ",
+        "temporomandibular disorder",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "关节腔注射治疗颞下颌关节骨关节炎：不同药物与多种联合治疗方案.card.json",
+      "title": "关节腔注射治疗颞下颌关节骨关节炎：不同药物与多种联合治疗方案",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [
+        "PRP"
+      ],
+      "diseases": [
+        "OA",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "cloudlib_10.1259_dmfr.20220321.card.json",
+      "title": "Efficacy of magnetic resonance imaging texture features of the lateral pterygoid muscle in distingui",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "Rheumatoid arthritis",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Unknown_2010_Artificial_IntelligencIII_PMID_34972549.card.json",
+      "title": "Checklist for Artificial Intelligence in Medical Imaging (CLAIM): A Guide for Authors and Reviewers",
+      "targets": [
+        "STARD"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID38903188.card.json",
+      "title": "Effects of different intrusion patterns during anterior teeth retraction using clear aligners in ext",
+      "targets": [
+        "CA",
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "李昊森.card.json",
+      "title": "李昊森简历及代表性论著摘要",
+      "targets": [
+        "NF-κB"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Curcumin"
+      ],
+      "diseases": [
+        "TMD"
+      ]
+    },
+    {
+      "file": "Dresner_2024_38833956_Unknown.card.json",
+      "title": "Positional, morphologic, and volumetric differences in TMJ in unilateral posterior crossbites and co",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Medeiros_2024_EX30_vs_SmartTrack_expansion.card.json",
+      "title": "Accuracy of arch expansion with two thermoplastic materials in Invisalign® patients: EX30® and Smart",
+      "targets": [
+        "CLEAR",
+        "EX"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID35528174.card.json",
+      "title": "Effect of Low-Intensity Pulsed Ultrasound (LIPUS) on Alveolar Bone during Maxillary Expansion Using ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "class iii treatment with skeletal alternating rap source j clin orthod 2024 aug 58 8 474 488.card.json",
+      "title": "Class III Treatment with Skeletal Alternating Rapid Maxillary Expansion and Constriction Protocol an",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "关节腔注射治疗对不同年龄段颞下颌关节骨关节炎患者的疗效评价.card.json",
+      "title": "关节腔注射治疗对不同年龄段颞下颌关节骨关节炎患者的疗效评价",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "Ocak_2019_30009364_Unknown.card.json",
+      "title": "Evaluation of the anatomical measurements of the temporomandibular joint by cone-beam computed tomog",
+      "targets": [
+        "CLA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Jiang-2025-TMD-CBL-draft-version.card.json",
+      "title": "Effectiveness of case-based learning in Chinese dental education: a systematic review and meta-analy",
+      "targets": [
+        "RR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID32719906.card.json",
+      "title": "Accuracy of interproximal enamel reduction during clear aligner treatment",
+      "targets": [
+        "CLEAR",
+        "Enamel"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Figure3_Gap_Map.card.json",
+      "title": "Clinical Impact Evidence Gap Map for TMJ Prolotherapy Research (Priority Matrix for Future Studies)",
+      "targets": [
+        "MAP"
+      ],
+      "pathways": [],
+      "drugs": [
+        "PRP",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "clinical outcome of maxillary arch e source j indian soc pedod prev dent so 2026.card.json",
+      "title": "Clinical outcome of maxillary arch expansion with clear aligners in mixed dentition: A systematic re",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID40348975.card.json",
+      "title": "The effect of canine lingual attachments during maxillary arch distalization with clear aligner: a 4",
+      "targets": [
+        "CLA",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID_28879245_GoogleScholar.card.json",
+      "title": "Effects of systemic glutamate on craniofacial pain",
+      "targets": [
+        "glutamate",
+        "receptor"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD"
+      ]
+    },
+    {
+      "file": "07_深度学习与卷积神经网络综述.card.json",
+      "title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Tanaka_2008_Degenerative_Disorders_of_the_Temporomandibular_Joint_Etiolo_PMID_18362309.card.json",
+      "title": "Degenerative Disorders of the Temporomandibular Joint: Etiology, Diagnosis, and Treatment",
+      "targets": [
+        "IL-1",
+        "IL-6",
+        "TNF",
+        "TNF-α",
+        "VEGF"
+      ],
+      "pathways": [],
+      "drugs": [
+        "NSAIDs"
+      ],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Firatli_2025_40738007_Unknown.card.json",
+      "title": "Cone-Beam Computed Tomography as a Diagnostic Tool for TMJ Morphological Alterations in Disc Displac",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Progression of cartilage degradation bone resorption.card.json",
+      "title": "Progression of Cartilage Degradation, Bone Resorption and Pain in Rat Temporomandibular Joint Osteoa",
+      "targets": [
+        "ADAMTS",
+        "ADAMTS5",
+        "Aggrecan",
+        "Collagen",
+        "MMP",
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Collagen"
+      ],
+      "diseases": [
+        "OA",
+        "TMJOA"
+      ]
+    },
+    {
+      "file": "Skroch_2020_32127305_Unknown.card.json",
+      "title": "Condylar remodeling after osteosynthesis of fractures of the condylar head or close to the temporoma",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "PMID16051910.card.json",
+      "title": "The Predictability of Transverse Changes in Patients Treated with Clear Aligners",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "The Intestinal Redox System and Its Source Oxid Med Cell Longev SO 2022 2022 7255497.card.json",
+      "title": "The Intestinal Redox System and Its Significance in Chemotherapy-Induced Intestinal Mucositis",
+      "targets": [
+        "NF-κB",
+        "heme",
+        "receptor"
+      ],
+      "pathways": [
+        "AP-1",
+        "hypoxia",
+        "oxidative stress"
+      ],
+      "drugs": [
+        "Cisplatin"
+      ],
+      "diseases": []
+    },
+    {
+      "file": "37097125_Bahgat_2023_Cranio.card.json",
+      "title": "Is dextrose prolotherapy beneficial in the management of temporomandibular joint internal derangemen",
+      "targets": [
+        "Collagen",
+        "TRPV"
+      ],
+      "pathways": [
+        "ARE",
+        "TRPV"
+      ],
+      "drugs": [
+        "Collagen",
+        "Dextrose",
+        "Dextrose prolotherapy",
+        "Hypertonic dextrose",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "14_人工智能在牙科放射学中的应用_Hung2019.card.json",
+      "title": "The use and performance of artificial intelligence applications in dental and maxillofacial radiolog",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "Osteoporosis"
+      ]
+    },
+    {
+      "file": "Shao_2023_Association_of_HMGB1_levels_in_synovial_fluid_with.card.json",
+      "title": "Association of HMGB1 levels in synovial fluid with the severity of temporomandibular joint osteoarth",
+      "targets": [
+        "IL-1",
+        "NF-κB",
+        "PGE2",
+        "iNOS"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Hyaluronic acid"
+      ],
+      "diseases": [
+        "TMD",
+        "TMJOA"
+      ]
+    },
+    {
+      "file": "Howaldt_2019_Soziale_Innovation.card.json",
+      "title": "Assessment of IgE and IgG4 Binding Capacities of Cow's Milk Proteins Selectively Altered by Protease",
+      "targets": [
+        "CLEAR",
+        "CO"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "34282199_Sit_2021_SciRep.card.json",
+      "title": "Efficacy of hypertonic dextrose injection (prolotherapy) in temporomandibular joint dysfunction: a s",
+      "targets": [
+        "Aggrecan",
+        "TRPV"
+      ],
+      "pathways": [
+        "TRPV"
+      ],
+      "drugs": [
+        "Dextrose",
+        "Dextrose prolotherapy",
+        "Hypertonic dextrose",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "Guo_2022_Chondrocyte apoptosis in temporomandibular joint osteoart....card.json",
+      "title": "Chondrocyte apoptosis in temporomandibular joint osteoarthritis promotes bone resorption by enhancin",
+      "targets": [
+        "MAPK",
+        "p38"
+      ],
+      "pathways": [
+        "p38 MAPK"
+      ],
+      "drugs": [],
+      "diseases": [
+        "TMJOA"
+      ]
+    },
+    {
+      "file": "biomechanical effects of attachment so prog orthod 2026 feb 23 27 1 6 doi 10 1186 s40510 026 00609 2.card.json",
+      "title": "Biomechanical effects of attachment position and pressure ridge design on maxillary arch expansion w",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "DOI_10_2478_aoj_2024_001.card.json",
+      "title": "Does the trimline extension and attachment size affect maxillary arch expansion in clear aligner the",
+      "targets": [
+        "CLEAR",
+        "NA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID36732724.card.json",
+      "title": "Does mandibular advancement with clear aligners have the same skeletal and dentoalveolar effects as ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Nawawi_2022_35387108_Unknown.card.json",
+      "title": "Volumetric analysis of normal condyles and those with disc displacement with reduction in the Indone",
+      "targets": [
+        "Itk"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID39648191.card.json",
+      "title": "Three-dimensional finite element analysis of maxillary molar distalization treated with clear aligne",
+      "targets": [
+        "BEST",
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "cloudlib_41407913.card.json",
+      "title": "Denosumab attenuates knee osteoarthritis progression by inhibiting synovial inflammation via the RAN",
+      "targets": [
+        "NF-κB",
+        "OA",
+        "RANK",
+        "RANKL",
+        "TRAF"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Denosumab"
+      ],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "synovitis"
+      ]
+    },
+    {
+      "file": "PMID_37608244_GoogleScholar.card.json",
+      "title": "Transforming TMJ pain relief: Hyaluronic acid’s efficacy in focus – a comprehensive systematic revie",
+      "targets": [
+        "RR"
+      ],
+      "pathways": [],
+      "drugs": [
+        "PRP"
+      ],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "PMID36372824.card.json",
+      "title": "Different biomechanical effects of clear aligners in bimaxillary space closure under two strong anch",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Aiello_2025_Temporomandibular_joint_arthritis_in_rheumatic_dis.card.json",
+      "title": "Temporomandibular joint arthritis in rheumatic diseases patients: which are the effective rehabilita",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [
+        "Corticosteroid",
+        "Dexamethasone",
+        "Dextrose",
+        "Lidocaine",
+        "Methylprednisolone"
+      ],
+      "diseases": [
+        "Rheumatoid arthritis",
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "diagnostic accuracy of deep learning source npj digit med em review em_PMID_33828217.card.json",
+      "title": "Diagnostic accuracy of deep learning in medical imaging: a systematic review and meta-analysis",
+      "targets": [
+        "STARD"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Zou_2025_A Feedback Loop Driven by H4K12 Lactylation and HDAC3 in ....card.json",
+      "title": "A Feedback Loop Driven by H4K12 Lactylation and HDAC3 in Macrophages Regulates Lactate-Induced Colla",
+      "targets": [
+        "Collagen",
+        "LA",
+        "TGF-β"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [
+        "Collagen"
+      ],
+      "diseases": []
+    },
+    {
+      "file": "magnetic resonance imaging texture analysis in the .card.json",
+      "title": "Magnetic resonance imaging texture analysis in the quantitative evaluation of acute osteomyelitis of",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Figure4_Cartilage_Degeneration.card.json",
+      "title": "论文标题未提供，根据图表内容推测为关于颞下颌关节骨关节炎（TMJ OA）治疗的研究，可能涉及透明质酸（HA）联合富血小板血浆（PRP）或类似干预",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [
+        "PRP"
+      ],
+      "diseases": [
+        "OA",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "Denosumab_OA_Risk_2026.card.json",
+      "title": "Association between denosumab use and risk of osteoarthritis among adults with osteoporosis in a rea",
+      "targets": [
+        "OA",
+        "RANKL"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Bisphosphonate",
+        "Denosumab"
+      ],
+      "diseases": [
+        "Hip OA",
+        "Knee OA",
+        "OA",
+        "Osteoarthritis",
+        "Osteoporosis"
+      ]
+    },
+    {
+      "file": "Tan_S_2025_BoneRes_40887466.card.json",
+      "title": "The impact of mitochondrial dysfunction on osteoarthritis cartilage: current insights and emerging m",
+      "targets": [
+        "AMPK",
+        "OA"
+      ],
+      "pathways": [
+        "ARE",
+        "PGC-1α",
+        "apoptosis",
+        "mitophagy",
+        "oxidative stress"
+      ],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "Zhang_M_2024_JTranslMed_39529128.card.json",
+      "title": "From dysfunction to healing: advances in mitochondrial therapy for Osteoarthritis",
+      "targets": [
+        "ATP",
+        "OA"
+      ],
+      "pathways": [
+        "oxidative stress"
+      ],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "PMID33474622.card.json",
+      "title": "Maxillary expansion or contraction and occlusal contact adjustment: effectiveness of current aligner",
+      "targets": [
+        "EX"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID33446619.card.json",
+      "title": "Force changes associated with differential activation of en-masse retraction and/or intrusion with c",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID40257591.card.json",
+      "title": "Biomechanical analysis of maxillary first molar intrusion using 3D printed personalized device combi",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Saramantos_2025_Clinical_Efficacy_of_Prolotherapy_for_Temporomandi....card.json",
+      "title": "Clinical Efficacy of Prolotherapy for Temporomandibular Joint Disorders: A Systematic Review and Met",
+      "targets": [
+        "Aggrecan",
+        "TRP"
+      ],
+      "pathways": [],
+      "drugs": [
+        "Botulinum toxin",
+        "Dextrose",
+        "Dextrose prolotherapy",
+        "Hypertonic dextrose",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "TMD",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "Vygotsky-Mind-in-society.card.json",
+      "title": "Mind in Society: The Development of Higher Psychological Processes",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "41466543_Korean_Prolotherapy_Review.card.json",
+      "title": "Prolotherapy for temporomandibular joint disorders: an updated comprehensive review",
+      "targets": [
+        "Collagen",
+        "IL-1",
+        "PDGF",
+        "TGF-β",
+        "TNF",
+        "TNF-α",
+        "VEGF",
+        "adenosine"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [
+        "Collagen",
+        "Dextrose",
+        "Dextrose prolotherapy",
+        "Hypertonic dextrose",
+        "PDRN",
+        "Prolotherapy"
+      ],
+      "diseases": [
+        "Osteoarthritis",
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "PMID38983604.card.json",
+      "title": "Effects of different tooth movement patterns and aligner thicknesses on maxillary arch expansion wit",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID38008884.card.json",
+      "title": "Effects of aligner activation and power arm length and material on canine displacement and periodont",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [
+        "SAMe"
+      ],
+      "diseases": []
+    },
+    {
+      "file": "J_2023_37391274.card.json",
+      "title": "Reconstructed magnetic resonance image based effusion volume assessment for temporomandibular joint ",
+      "targets": [
+        "Itk"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "TMJ"
+      ]
+    },
+    {
+      "file": "PMID33678629.card.json",
+      "title": "Micro-computed tomography evaluation of general trends in aligner thickness and gap width after ther",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [
+        "SAMe"
+      ],
+      "diseases": []
+    },
+    {
+      "file": "predictability of crowding resolutio source prog orthod so 2022.card.json",
+      "title": "Predictability of crowding resolution in clear aligner treatment",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID31409348.card.json",
+      "title": "Impact of molar teeth distalization with clear aligners on occlusal vertical dimension: a retrospect",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "recent advances in animal models di source tissue eng part b rev so 2022 aug 22 (1).card.json",
+      "title": "Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis",
+      "targets": [
+        "CTGF",
+        "IL-1",
+        "OPG",
+        "RANKL",
+        "TGF-β",
+        "TNF",
+        "TNF-α",
+        "VEGF"
+      ],
+      "pathways": [],
+      "drugs": [
+        "NSAIDs"
+      ],
+      "diseases": [
+        "TMJ",
+        "TMJOA"
+      ]
+    },
+    {
+      "file": "clinical study of magnetic resonance source oral surg oral med oral pathol oral so 2023 (1).card.json",
+      "title": "Clinical study of magnetic resonance imaging-based texture analysis and fasciculation of the lateral",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMD",
+        "temporomandibular disorder"
+      ]
+    },
+    {
+      "file": "PMID20220321.card.json",
+      "title": "ASL Perfusion MRI Predicts Cognitive Decline and Conversion From MCI to Dementia",
+      "targets": [
+        "RR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "Lee_C_2026_41025464.card.json",
+      "title": "Quantitative assessment of condylar bone changes in osteoarthritis patients using single-photon emis",
+      "targets": [
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJ OA",
+        "temporomandibular joint",
+        "temporomandibular joint osteoarthritis"
+      ]
+    },
+    {
+      "file": "iPSC MSCs with High Intrinsic MIRO1 Source Stem Cell Reports SO 2016 Oct 11 7 4 749 763.card.json",
+      "title": "iPSC-MSCs with High Intrinsic MIRO1 and Sensitivity to TNF-α Yield Efficacious Mitochondrial Transfe",
+      "targets": [
+        "NF-κB",
+        "TNF",
+        "TNF-α"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "使用不同软件包进行透明牙套治疗的虚拟方案中三维牙齿移动的比较.card.json",
+      "title": "Comparison of three-dimensional tooth movements in virtual setups using different software packages ",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [
+        "SAMe"
+      ],
+      "diseases": []
+    },
+    {
+      "file": "Fischer_2022_35466687_Unknown.card.json",
+      "title": "Observer agreement of imaging measurements used for evaluation of dentofacial deformity in juvenile ",
+      "targets": [],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": [
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "cloudlib_40707728.card.json",
+      "title": "The use of statins can reduce the risk of osteoarthritis and osteoporosis",
+      "targets": [
+        "BMP",
+        "OA",
+        "RUNX2"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "Osteoporosis"
+      ]
+    },
+    {
+      "file": "Gupta_2015_26816996_Unknown.card.json",
+      "title": "Unusual Morphological Alteration in Sigmoid Notch: An Insight Through CBCT",
+      "targets": [
+        "OPG"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "TMJ"
+      ]
+    },
+    {
+      "file": "different biomechanical effects of c source prog orthod so 2022.card.json",
+      "title": "Different biomechanical effects of clear aligners in bimaxillary space closure under two strong anch",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "ion-substituted calcium phosphate coatings by physical vapor deposition magnetron sputtering for.card.json",
+      "title": "Ion-substituted calcium phosphate coatings by physical vapor deposition magnetron sputtering for bio",
+      "targets": [
+        "CA"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "PMID36336726.card.json",
+      "title": "Predictability of lower incisor tip using clear aligner therapy",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "cloudlib_10.3390_dj12030082.card.json",
+      "title": "Texture Analysis of Temporomandibular Joint Disc Changes Associated with Effusion Using Magnetic Res",
+      "targets": [
+        "Collagen"
+      ],
+      "pathways": [
+        "ARE"
+      ],
+      "drugs": [
+        "Collagen"
+      ],
+      "diseases": [
+        "TMD",
+        "TMJ",
+        "temporomandibular joint"
+      ]
+    },
+    {
+      "file": "regional 3d superimposition to asses source dentomaxillofac radiol so 2014 43 1 20130273.card.json",
+      "title": "Regional 3D superimposition to assess temporomandibular joint condylar morphology",
+      "targets": [
+        "Itk",
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis",
+        "TMJ",
+        "TMJ OA"
+      ]
+    },
+    {
+      "file": "CKD_OA_Interactions_2023_Review.card.json",
+      "title": "Disease-modifying interactions between chronic kidney disease and osteoarthritis: a new comorbid mou",
+      "targets": [
+        "MMP",
+        "OA"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": [
+        "OA",
+        "Osteoarthritis"
+      ]
+    },
+    {
+      "file": "PMID27304231.card.json",
+      "title": "The Predictability of Transverse Changes in Patients Treated with Clear Aligners",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "improvements of tooth movement effic bioeng biotechnol .card.json",
+      "title": "Improvements of tooth movement efficiency and torque control in expanding the arch with clear aligne",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    },
+    {
+      "file": "comparison of the effects of maxilla source j orofac orthop so 2025.card.json",
+      "title": "Comparison of the effects of maxillary expansion applying rapid maxillary expanders or clear aligner",
+      "targets": [
+        "CLEAR"
+      ],
+      "pathways": [],
+      "drugs": [],
+      "diseases": []
+    }
+  ]
+}

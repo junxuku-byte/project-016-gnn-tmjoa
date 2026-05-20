@@ -1,0 +1,608 @@
+1
+Dell’Isola A, et al. BMJ Open 2026;16:e115587. doi:10.1136/bmjopen-2025-115587
+Open access
+Metformin use and the risk of incident 
+osteoarthritis among individuals with 
+diabetes: a register-­based nested case-­
+control study
+Andrea Dell’Isola  ‍ ‍ ,1 Karin Magnusson,1,2 Aleksandra Turkiewicz  ‍ ‍ ,1 
+Filippo Recenti,1,3 Stefan Lohmander  ‍ ‍ ,1 Martin Englund,1,4 Ali Kiadaliri1
+To cite: Dell’Isola A, 
+Magnusson K, Turkiewicz A, 
+et al. Metformin use and the 
+risk of incident osteoarthritis 
+among individuals with diabetes: 
+a register-­based nested 
+case-­control study. BMJ Open 
+2026;16:e115587. doi:10.1136/
+bmjopen-2025-115587
+	
+►Prepublication history 
+and additional supplemental 
+material for this paper are 
+available online. To view these 
+files, please visit the journal 
+online (https://doi.org/10.1136/​
+bmjopen-2025-115587).
+Received 18 December 2025
+Accepted 31 March 2026
+1Clinical Epidemiology Unit, 
+Orthopedics, Department of 
+Clinical Sciences Lund, Lund 
+University, Lund, Sweden
+2Cluster for Health Services 
+Research, Oslo, Norway
+3Department of Neurosciences, 
+Rehabilitation, Ophthalmology, 
+Genetics, Maternal and Child 
+Health, University of Genoa, 
+Campus of Savona, Savona, Italy
+4Clinical Epidemiology Research 
+and Training Unit, Boston 
+University School of Medicine, 
+Boston, Massachusetts, USA
+Correspondence to
+Dr Andrea Dell’Isola;  
+​andrea.​dellisola@​med.​lu.​se
+Original research
+© Author(s) (or their 
+employer(s)) 2026. Re-­use 
+permitted under CC BY. 
+Published by BMJ Group.
+ABSTRACT
+Objective  To evaluate the association between metformin 
+use and incident osteoarthritis (OA) in people with diabetes 
+and the impact of dosing.
+Design  Nested case-­control study within a cohort of 
+>1.4 million individuals from Sweden.
+Participants  Participants were aged 35–80 years in 
+2005, without diabetes or OA. We identified persons with 
+incident diabetes between 2006 and 2016 and excluded 
+those with OA before the diabetes diagnosis and those 
+with an incident OA diagnosis within 3 years of the 
+diabetes diagnosis. Cases were defined as individuals 
+with incident OA before 2020 and were matched with 
+up to four controls without OA in the same period, by 
+sex, diabetes duration, birth year (±1 year) and date of 
+diabetes diagnosis (±180 days) using incidence density 
+sampling. Metformin use before the index date (OA 
+diagnosis) was the main exposure. Secondary exposures 
+were quartiles of total metformin use (defined daily doses 
+(DDD)) and duration-­adjusted use (DDD/day), reflecting 
+average daily use. We estimated risk ratios with 95% CIs 
+using conditional logistic regressions, adjusted for age 
+at diabetes diagnosis, education, immigration status and 
+comorbidities.
+Primary outcome  Incident OA diagnosis in primary or 
+specialist care (International Classification of Diseases 
+codes M15–M19).
+Results  We identified 4007 cases and 14 111 controls. 
+Any metformin use was not associated with OA risk (risk 
+ratio (RR) 1.02, 95% CI 0.93 to 1.12). Results for higher 
+total use (0.98 (95% CI 0.86 to 1.11)) and duration-­
+adjusted use (0.92 (95% CI 0.79 to 1.07)) showed no or 
+inconclusive associations.
+Conclusions  In individuals with incident diabetes and 
+no prior OA, metformin was not linked to a lower risk of 
+developing OA.
+INTRODUCTION
+Osteoarthritis (OA) is one of the most prev-
+alent and fastest-­growing causes of disability 
+worldwide.1 Attempts to identify disease-­
+modifying drugs have been negative. With 
+no approved disease-­modifying treatment, 
+repurposing medications with potential OA 
+disease-­modifying properties represents a 
+safe alternative that could limit the costs and 
+hurdles of novel drug development.2
+Metformin is a first-­line treatment for 
+type 2 diabetes, and in addition to its direct 
+role in glucose homeostasis, it exerts anti-­
+inflammatory 
+and 
+immune 
+modulatory 
+effects.3 4 Due to its safety profile and low cost, 
+metformin has been suggested as a promising 
+drug to be repurposed for the treatment of 
+established OA.2 Preclinical studies in mice 
+and primates have suggested a reduction 
+in cartilage degradation and synovitis with 
+metformin treatment.5 A recent placebo 
+randomised controlled trial in overweight 
+and obese individuals with OA has suggested 
+a potentially clinically relevant pain reduc-
+tion following a 6-­month metformin therapy, 
+while a twin-­design observational study 
+suggests metformin to be able to reduce the 
+risk of future OA diagnoses.6 Based on this 
+evidence, we hypothesise that metformin may 
+serve as a preventive treatment for clinically 
+diagnosed OA. However, robust population-­
+level evidence on metformin for OA preven-
+tion remains sparse.7 8 In this study, we 
+address these gaps using a nested case-­control 
+STRENGTHS AND LIMITATIONS OF THIS STUDY
+	
+⇒We implemented an extended look-­back period to 
+ensure that diabetes and its medication, as well as 
+osteoarthritis (OA), were incident, an advantage over 
+previous studies.
+	
+⇒We identified 4007 cases and 14 111 controls who 
+were free of both OA and diabetes and estimated 
+the risk of incident OA up to 14 years after starting 
+metformin.
+	
+⇒Studying metformin using electronic records of 
+medication dispensation may not accurately repre-
+sent actual usage, as overall adherence to the med-
+ication is typically low.
+	
+⇒Since this is an observational study, residual con-
+founding may also be present.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+ . 
+by guest
+ 
+on April 23, 2026
+ 
+http://bmjopen.bmj.com/
+Downloaded from 
+16 April 2026. 
+10.1136/bmjopen-2025-115587 on 
+BMJ Open: first published as 
+2
+Dell’Isola A, et al. BMJ Open 2026;16:e115587. doi:10.1136/bmjopen-2025-115587
+Open access
+study within a regional register-­based incidence cohort of 
+>1.4 million people to evaluate the association between 
+metformin use and incident OA among individuals with 
+diabetes (the main indication for metformin) and to esti-
+mate the impact of dose.
+METHODS
+Study design and source population
+This was a population-­based, nested case-­control study. 
+We used four registers (the Swedish Population Register, 
+the Longitudinal Integration Database for Health Insur-
+ance and Labour Market Studies, the Skåne Healthcare 
+Register and the Swedish Prescribed Drug Register) 
+comprising the entire population of Skåne, the southern-
+most region in Sweden, with approximately 1.4 million 
+inhabitants (13% of the total Swedish population as of 
+December 2020).9 Data from the four registers were linked 
+using patients’ pseudo-­anonymised unique personal 
+identification number, which is assigned to all residents 
+in Sweden by the Swedish Tax Agency. We reported 
+the study in accordance with the REporting of studies 
+Conducted using Observational Routinely-­collected 
+health Data (RECORD) guidelines (online supplemental 
+file 1).10 Our source population included all individuals 
+aged 35–80 years who were residents of the Skåne region 
+in 2005 and had lived in the region since 1998 (n=566 
+769). We then excluded all individuals with a prevalent 
+diabetes diagnosis (International Statistical Classification 
+of Diseases, 10th revision (ICD-­10) codes E10–E14), a 
+diabetes medication dispensation (Anatomical Thera-
+peutic Chemical (ATC) code A10) or OA (ICD-­10 codes 
+M15–M19). We then selected individuals with diabetes 
+onset (diagnosis or medication) during 2006–2016 and 
+no OA diagnosis preceding the diabetes onset or within 3 
+years of the diabetes onset (n=33 330). The study partici-
+pant selection process is summarised in figure 1.
+Case and control definition
+Among the 33 330 selected individuals, we defined cases 
+as those with a principal OA diagnosis (diagnosis set as 
+the main reason for the consultation) at least 3 years after 
+diabetes diagnosis (n=4025, to avoid capturing prevalent 
+undiagnosed OA cases and reduce protopathic bias, as 
+the diagnostic process for diabetes often coincides with a 
+rise in comorbid diagnoses) and randomly matched them 
+Figure 1  Study flowchart. OA, osteoarthritis. N,numberof individuals from source population. n, number of individuals in the 
+study sample
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+ . 
+by guest
+ 
+on April 23, 2026
+ 
+http://bmjopen.bmj.com/
+Downloaded from 
+16 April 2026. 
+10.1136/bmjopen-2025-115587 on 
+BMJ Open: first published as 
+3
+Dell’Isola A, et al. BMJ Open 2026;16:e115587. doi:10.1136/bmjopen-2025-115587
+Open access
+to up to 4 controls (ie, included individuals without an 
+OA diagnosis) by sex, diabetes duration, birth year (±1 
+year) and the date of diabetes diagnosis (±180 days) using 
+incidence density sampling (ie, from those still at risk of 
+OA at the time of the case). This implies that a control 
+may later become a case, and the same person can be 
+selected as a control more than once. Also, this implies 
+that each control was at a similar stage of the diabetes 
+disease as the matched case, reducing the risk of bias by 
+indication, that is, where the occurrence of metformin 
+treatment and OA could be influenced by the severity of 
+diabetes. We used the date of diabetes diagnosis as the 
+start of the follow-­up period. This methodology allows for 
+the estimation of risk ratios (RR) that are adjusted for all 
+matching factors.
+Exposure
+Any dispensation of metformin (Anatomical Therapeutic 
+Chemical (ATC) codes: A10BA02, A10BD02, A10BD03, 
+A10BD05, A10BD07, A10BD08 and A10BD10) prior to 
+the date of incident OA diagnosis (hereafter called the 
+index date) was used as the exposure for the main anal-
+ysis. In the secondary analyses, we used exposure quartiles 
+of the total metformin use (computed as the sum of all 
+defined daily doses (DDD) between the first metformin 
+initiation and the index date) and duration-­adjusted total 
+use (total daily doses divided by days since first metformin 
+initiation to index date (DDD/day), representing average 
+daily use), with individuals not using metformin treated 
+as the reference group.
+Outcome
+Incident OA diagnosis, defined as a recorded ICD-­10 
+code M15–M19 in primary or specialist care, was used as 
+the outcome.
+Statistical analysis
+We performed conditional logistic regressions adjusted 
+for age at diabetes diagnosis, education, immigration 
+status and Elixhauser comorbidity index (1998–2005, 
+using ICD-­10 codes from primary and specialist care) to 
+obtain risk ratios (RR) and associated 95% CIs. We had 
+no available data on body weight. However, we did not 
+consider this to be a significant source of confounding 
+as both cases and controls have diabetes and may be 
+expected to have a similar average body weight.
+In the main analysis, we estimated the risk of devel-
+oping OA in individuals with incident diabetes and 
+incident use of metformin (i.e. any use) compared with 
+individuals with incident diabetes but no metformin use. 
+In secondary analyses, we investigated the risk associated 
+with different levels (quartiles) of total metformin use 
+and duration-­adjusted use, with individuals not using 
+metformin treated as the reference group. Individuals 
+with missing values (n=212) were excluded from analyses.
+We performed several sensitivity analyses to test the 
+robustness of the results: (1) we excluded individuals 
+with metformin dispensed only during the lag period (ie, 
+within 3 years from the diabetes diagnosis date, n=1288); 
+(2) we included only individuals with a diagnosis of OA 
+between 2016 and 2019 so that all included individuals 
+had at least 10 years between their diabetes diagnosis and 
+OA incidence, allowing for a longer period of metformin 
+use (n=10 569); (3) we combined the selection criteria 
+used in analyses 1 and 2 (n=9919) and (4) we excluded 
+individuals with the dispensation of a diabetes medica-
+tion without a main diagnosis of diabetes (807 excluded, 
+final sample 16 816) (online supplemental file 2).
+Patient and public involvement
+There was no patient or public involvement in this study.
+RESULTS
+We identified 18 cases with no controls, 44 with one 
+control, 111 with two controls, 1563 with three controls 
+and 2289 with four controls. Baseline characteristics of 
+cases and controls are reported in table 1.
+Among cases and controls, 3201 (79.9%) and 11 330 
+(80.3%) individuals, respectively, had a metformin 
+dispensation before the index date (date of OA diag-
+nosis) and were treated as exposed. Cases had a mean 
+of 926.3 DDD per person (median (Q1 to Q3); 650 (75 
+to 1400)), while controls had 980.0 DDD per person 
+(median 700 (75 to 1480)). Any use of metformin was 
+not associated with a reduction of the risk of incident OA, 
+even after adjustment for confounders (fully adjusted RR 
+1.02 (95% CI 0.93 to 1.12)) (table 2, online supplemental 
+file 3). Higher total use of metformin was not associated 
+with the risk of developing OA (Q4 (highest quartile); 
+Table 1  Baseline characteristics
+Cases with 
+OA
+Controls 
+without OA
+N
+4007
+14 111
+Female, n (%)
+1955 (48.8)
+6859 (48.6)
+Age at diabetes diagnosis, 
+mean (SD)
+62.9 (9.9)
+62.7 (9.5)
+Diabetes duration at index 
+date, mean (SD)
+6.4 (2.5)
+6.5 (2.5)
+Education, n (%)
+  0–9 years
+1416 (35.3)
+4997 (35.4)
+  10–12 years
+1802 (45.0)
+6199 (43.9)
+  13+ years
+764 (19.1)
+2728 (19.3)
+  Missing
+25 (0.6)
+187 (1.3)
+Born in Sweden, n (%)
+3109 (77.6)
+10 539 (74.7)
+Elixhauser comorbidity index (1998–2005), n (%)
+  0
+2053 (51.2)
+7622 (54.0)
+  1
+1107 (27.6)
+3717 (26.3)
+  2
+539 (13.5)
+1746 (12.4)
+  3+
+308 (7.7)
+1026 (7.3)
+N/n, number; OA, osteoarthritis.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+ . 
+by guest
+ 
+on April 23, 2026
+ 
+http://bmjopen.bmj.com/
+Downloaded from 
+16 April 2026. 
+10.1136/bmjopen-2025-115587 on 
+BMJ Open: first published as 
+4
+Dell’Isola A, et al. BMJ Open 2026;16:e115587. doi:10.1136/bmjopen-2025-115587
+Open access
+fully adjusted RR 0.98 (95% CI 0.86 to 1.11)). Duration-­
+adjusted use was associated with a progressive reduction 
+of the risk of developing OA; however, the 95% CIs did 
+not rule out the possibility of no association (Q4 (highest 
+quartile) fully adjusted RR 0.92 (95% CI 0.79 to 1.07)). 
+The sensitivity analyses yielded similar results, showing no 
+overall association between metformin use and incident 
+OA (online supplemental files 4–7).
+DISCUSSION
+In a large population-­based cohort of individuals with 
+incident diabetes, starting treatment with metformin 
+and the total dose of metformin were not associated with 
+the risk of developing OA within 3 years and up to 14 
+years after starting metformin. Higher average daily doses 
+showed inconclusive results.
+Three previous studies have investigated the associa-
+tion between metformin and incident OA among indi-
+viduals with diabetes, showing contrasting results.7 8 
+One of these studies used a prevalent new user design to 
+compare metformin with sulfonylurea and reported that 
+individuals receiving metformin had a 24% lower hazard 
+of developing OA (HR, 0.76 (95% CI 0.68 to 0.85)).7 
+Another study used electronic health records to compare 
+individuals with diabetes who received metformin with 
+those who did not and found no association with OA 
+incidence.8 Finally, a twin design study showed that indi-
+viduals treated with metformin had a 10-­year incidence 
+of OA diagnosed in specialist care that was 3% lower 
+than their twin without diabetes and not treated with 
+metformin.11 In light of our findings and previous results, 
+starting metformin medication does not appear to have a 
+clear preventive effect on OA in individuals with diabetes.
+However, evidence from a randomised controlled trial 
+and observational studies suggests that metformin may 
+have a clearer beneficial effect in individuals with estab-
+lished diseases, where it appears to reduce pain and 
+protect against progression to total joint replacement.6 12 
+In our secondary analyses, studying metformin doses, we 
+could not rule out a potential reduction in the risk of 
+incident OA at higher average daily use (DDD/day). It 
+is thus possible that certain doses used to treat diabetes 
+may not be high enough to influence OA development 
+and progression. Moreover, metformin therapy is char-
+acterised by overall low adherence, which can impact its 
+effectiveness.13 14 Suboptimal adherence and an uncer-
+tain dose-­effect relationship are likely two factors behind 
+the contrasting results between our and previous studies.
+Overall, the strength of the present study lies in the 
+large cohort, in which we included an extensive look-­
+back period to ensure that diabetes and its medication, 
+as well as OA, were incident—an advantage over previous 
+studies. Nonetheless, there are limitations to be acknowl-
+edged. We lacked data on body weight and composition, 
+which could lead to bias if associated with diabetes therapy 
+selections. We could not account for other diabetes medi-
+cations, which might have biased the results if these drugs 
+delayed OA onset and were more common in one expo-
+sure group. However, Glucagon-­like peptide-­1 (GLP-­1) 
+antagonist—the medication with the potential largest 
+impact on OA in our population—was approved in 
+Europe for diabetes in 2018 and for weight loss in 2022. 
+Considering that our data cover OA only up to 2019, its 
+impact is likely minimal. Sodium/glucose cotransporter 2 
+inhibitors (SGLT2i), another class of antidiabetic drugs, 
+have been suggested to reduce OA incidence.15 Not 
+Table 2  Association of metformin use and risk of incident OA
+RR (95% CI, adjusted for matching factors*)
+Adjusted RR† (95% CI)
+Any use (no-­use: ref)
+1.01 (0.92 to 1.10)
+1.02 (0.93 to 1.12)
+Total use (DDD)
+  No use (ref)
+–
+–
+  Q1 (lowest quartile)
+1.03 (0.93 to 1.16)
+1.04 (0.93 to 1.17)
+  Q2
+1.06 (0.95 to 1.19)
+1.06 (0.95 to 1.16)
+  Q3
+0.97 (0.87 to 1.09)
+0.99 (0.88 to 1.11)
+  Q4 (highest quartile)
+0.96 (0.84 to 1.08)
+0.98 (0.86 to 1.11)
+Total duration-­adjusted use‡ (DDD/day)
+  No use (ref)
+–
+–
+  0–0.49
+1.02 (0.93 to 1.13)
+1.04 (0.94 to 1.14)
+  0.5–0.99
+1.01 (0.91 to 1.12)
+1.03 (0.93 to 1.14)
+  ≥1
+0.90 (0.77 to 1.04)
+0.92 (0.79 to 1.07)
+DDD for Q1: 7–425; Q2: 426–935; Q3: 936–1700; Q4: 1701–6490.
+*Sex, diabetes duration, birth year (±1 year) and the date of diabetes diagnosis (±180 days).
+†Adjusted for matching factors, age at diabetes diagnosis, education, immigration status and Elixhauser comorbidity index (1998–2005).
+‡Duration calculated starting from the first metformin dispensation.
+DDD, defined daily doses; OA, osteoarthritis; ref, reference category; RR, risk ratio.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+ . 
+by guest
+ 
+on April 23, 2026
+ 
+http://bmjopen.bmj.com/
+Downloaded from 
+16 April 2026. 
+10.1136/bmjopen-2025-115587 on 
+BMJ Open: first published as 
+5
+Dell’Isola A, et al. BMJ Open 2026;16:e115587. doi:10.1136/bmjopen-2025-115587
+Open access
+accounting for SGLT2i use may also introduce bias if its 
+use differs between cases and controls. Studying total use 
+and duration-­adjusted use of metformin may not accu-
+rately reflect the cumulative effect of a medication known 
+to have overall low adherence. Relying on diagnosis and 
+electronic health records to establish OA status is also a 
+limitation, despite a previous study reporting overall high 
+validity.16 Finally, the observational nature of the study 
+limits our ability to ascertain causality.
+CONCLUSIONS
+Among individuals with incident diabetes and free of OA, 
+starting metformin was not associated with a reduction 
+in the risk of developing OA. However, our study did 
+not exclude that higher metformin doses could lead to a 
+reduction in the risk of developing OA.
+Contributors  All authors have made substantial contributions to the study 
+conception and design, participated in drafting and revising the article and 
+approved the final version to be published. AD’I was also responsible for the 
+acquisition of the data. AD’I takes full responsibility for the integrity of the content 
+of the manuscript. AD’I is responsible for the overall content as guarantor. AI was 
+not used to create the content; however, software (eg, Grammarly) that uses AI was 
+used for text profiling and correction of grammar and syntax.
+Funding  AD’I is supported by the Swedish Research Council (2022-­01507) and 
+the Greta and Johan Kock Foundation. The study is also supported by funds from 
+the Swedish Research Council (2020-­01103) and Governmental Funding of Clinical 
+Research within the National Health Service (ALF). The funders had no role in 
+study design, data collection and analysis, decision to publish or preparation of the 
+manuscript.
+Competing interests  ME declares consultancy for Grünenthal Sweden AB 
+and Key2Compliance. AK and SL act as part-­time scientific advisers for Arthro 
+Therapeutics. AT is Associate Editor for Statistics at Osteoarthritis and Cartilage. The 
+other authors declare no conflicts of interest.
+Patient and public involvement  Patients and/or the public were not involved in 
+the design, conduct, reporting or dissemination plans of this research.
+Patient consent for publication  Not applicable.
+Ethics approval  The use of Swedish register data was approved by the Lund 
+University Ethics Committee (Dnr 2011e432 with amendments Dnr 2014_276 and 
+Dnr 2018_233).
+Provenance and peer review  Not commissioned; externally peer reviewed.
+Data availability statement  Data is publicaly available upon request. The dataset 
+includes data from the Skåne Healthcare Register, the Swedish Drug Register, 
+the National Patient Register and the Longitudinal Integration Database for Health 
+Insurance and Labour Market Studies (LISA, by Swedish acronym), provided to 
+the researchers through a restricted-­access agreement that prevents sharing the 
+dataset with third parties or publicly. Individual-­level data of patients included in 
+this paper, after de-­identification, are considered sensitive and will not be shared. 
+However, individual-­level data are accessible to authorised researchers following 
+ethical approval and application to https://www.socialstyrelsen.se/, https://www.​
+skane.se/ and https://www.scb.se/.  
+Supplemental material  This content has been supplied by the author(s). It has 
+not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been 
+peer-­reviewed. Any opinions or recommendations discussed are solely those 
+of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and 
+responsibility arising from any reliance placed on the content. Where the content 
+includes any translated material, BMJ does not warrant the accuracy and reliability 
+of the translations (including but not limited to local regulations, clinical guidelines, 
+terminology, drug names and drug dosages), and is not responsible for any error 
+and/or omissions arising from translation and adaptation or otherwise.
+Open access  This is an open access article distributed in accordance with the 
+Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits 
+others to copy, redistribute, remix, transform and build upon this work for any 
+purpose, provided the original work is properly cited, a link to the licence is given, 
+and indication of whether changes were made. See: https://creativecommons.org/​
+licenses/by/4.0/.
+ORCID iDs
+Andrea Dell’Isola https://orcid.org/0000-0002-0319-458X
+Aleksandra Turkiewicz https://orcid.org/0000-0003-1460-2275
+Stefan Lohmander https://orcid.org/0000-0002-5424-9448
+REFERENCES
+	 1	 Steinmetz JD, Culbreth GT, Haile LM, et al. Global, regional, and 
+national burden of osteoarthritis, 1990–2020 and projections to 2050: 
+a systematic analysis for the Global Burden of Disease Study 2021. 
+The Lancet Rheumatology 2023;5:e508–22. 
+	 2	 Kuswanto W, Baker MC. Repurposing drugs for the treatment of 
+osteoarthritis. Osteoarthr Cartil 2024;32:886–95. 
+	 3	 Saisho Y. Metformin and Inflammation: Its Potential Beyond 
+Glucose-­lowering Effect. Endocr Metab Immune Disord Drug Targets 
+2015;15:196–205. 
+	 4	 Flory J, Lipska K. Metformin in 2019. JAMA 2019;321:1926–7. 
+	 5	 Li J, Zhang B, Liu W-­X, et al. Metformin limits osteoarthritis 
+development and progression through activation of AMPK signalling. 
+Ann Rheum Dis 2020;79:635–45. 
+	 6	 Pan F, Wang Y, Lim YZ, et al. Metformin for Knee Osteoarthritis in 
+Patients With Overweight or Obesity: A Randomized Clinical Trial. 
+JAMA 2025;333:1804–12. 
+	 7	 Baker MC, Sheth K, Liu Y, et al. Development of Osteoarthritis 
+in Adults With Type 2 Diabetes Treated With Metformin vs a 
+Sulfonylurea. JAMA Netw Open 2023;6:e233646. 
+	 8	 Barnett LA, Jordan KP, Edwards JJ, et al. Does metformin protect 
+against osteoarthritis? An electronic health record cohort study. Prim 
+Health Care Res Dev 2017;18:623–8. 
+	 9	 Skåne R. Uppföljning av skånes utveckling. n.d. Available: https://
+www.skane.se/organisation-politik/om-region-skane/statistik-om-​
+skane/
+	10	 Benchimol EI, Smeeth L, Guttmann A, et al. The REporting of studies 
+Conducted using Observational Routinely-­collected health Data 
+(RECORD) statement. PLoS Med 2015;12:e1001885. 
+	11	 Magnusson K, Turkiewicz A, Dell’Isola A, et al. Metformin and 
+incident osteoarthritis: Causal inference from a co-­twin control study. 
+Osteoarthr Cartil 2025;33:789–90. 
+	12	 Zhu Z, Huang J-­Y, Ruan G, et al. Metformin use and associated 
+risk of total joint replacement in patients with type 2 diabetes: a 
+population-­based matched cohort study. CMAJ 2022;194:E1672–84. 
+	13	 Syafhan NF, Donnelly R, Harper R, et al. Adherence to metformin in 
+adults with type 2 diabetes: a combined method approach. J Pharm 
+Policy Pract 2022;15:61. 
+	14	 Horsburgh S, Sharples K, Barson D, et al. Patterns of metformin 
+monotherapy discontinuation and reinitiation in people with type 2 
+diabetes mellitus in New Zealand. PLoS ONE 2021;16:e0250289. 
+	15	 Jafarzadeh SR, Ma K, Peloquin CE, et al. SGLT2 INHIBITORS 
+VS. GLP1 AGONISTS AS TREATMENTS FOR OSTEOARTHRITIS. 
+Osteoarthr Cartil 2024;32:S41–2. 
+	16	 Turkiewicz A, Petersson IF, Björk J, et al. Current and future impact 
+of osteoarthritis on health care: a population-­based study with 
+projections to year 2032. Osteoarthr Cartil 2014;22:1826–32. 
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies.
+ . 
+by guest
+ 
+on April 23, 2026
+ 
+http://bmjopen.bmj.com/
+Downloaded from 
+16 April 2026. 
+10.1136/bmjopen-2025-115587 on 
+BMJ Open: first published as 

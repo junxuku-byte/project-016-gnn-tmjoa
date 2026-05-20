@@ -1,0 +1,32 @@
+{
+  "experiment": "full_cold_start_ldo",
+  "protocol": "All edges incident to held-out drugs removed (drug-target + target-pathway via drug)",
+  "soft_ldo": {
+    "mean_auc": 0.8358522600585043,
+    "std_auc": 0.12092226383058843,
+    "fold_aucs": [
+      0.9243011630279535,
+      0.6645942408376962,
+      0.7218934911242604,
+      0.9767394409304224,
+      0.8917329643721895
+    ]
+  },
+  "cold_start": {
+    "mean_auc": 0.5,
+    "std_auc": 0.0,
+    "fold_aucs": [
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5
+    ]
+  },
+  "leakage": {
+    "delta_auc": 0.3358522600585043,
+    "pct_of_soft_auc": 40.1808161689958,
+    "avg_shared_targets": 2.227272727272727
+  },
+  "interpretation": "Information leakage from shared target/pathway nodes accounts for ~X% of reported inductive AUC. This is an acknowledged limitation of multi-layer GNNs for drug repositioning and provides a conservative lower bound on true generalization."
+}

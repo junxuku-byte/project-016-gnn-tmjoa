@@ -1,0 +1,37 @@
+{
+  "title": "Dnmt3a-mutated clonal hematopoiesis promotes osteoporosis",
+  "authors": "Peter Geon Kim et al.",
+  "year": 2021,
+  "journal": "Journal of Experimental Medicine",
+  "category": "general",
+  "research_question": "Does clonal hematopoiesis of indeterminate potential (CHIP), particularly Dnmt3a mutations, causally contribute to osteoporosis?",
+  "methods_summary": [
+    "Analysis of UK Biobank exome sequencing data for association between CHIP and osteoporosis diagnoses and bone mineral density",
+    "Murine bone marrow transplantation models with hematopoietic-specific Dnmt3a or Tet2 knockout",
+    "Micro-computed tomography (µCT) for bone mass assessment",
+    "Histological analysis for osteoclast quantification",
+    "Ex vivo osteoclast differentiation assays",
+    "CRISPR-Cas9 genome-wide screen in RAW264.7 cells",
+    "Cytokine array and ELISA",
+    "Reduced representation bisulfite sequencing (RRBS), ATAC-seq, and ChIP-seq for epigenetic and transcriptional analysis"
+  ],
+  "dataset": "UK Biobank (113,641 unrelated individuals of European ancestry with whole-exome sequencing); murine models (Dnmt3afl/flVav1-Cre, Tet2fl/flVav1-Cre, Dnmt3aR878H)",
+  "key_findings": [
+    "CHIP is associated with increased incident osteoporosis diagnoses (HR 1.44, 95% CI 1.22-1.72) and decreased estimated bone mineral density in humans",
+    "Hematopoietic-specific Dnmt3a mutations in mice decrease trabecular and cortical bone mass via increased osteoclastogenesis",
+    "Dnmt3a-mutant macrophages secrete proinflammatory cytokines, including IL-20, in a non-cell-autonomous manner to promote osteoclast differentiation",
+    "IL-20 neutralization or alendronate treatment reverses bone loss in Dnmt3a-mutant mice",
+    "Dnmt3a loss leads to hypomethylation, increased chromatin accessibility, and enhanced Irf3-NF-κB binding at the Il20 locus"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "clonal hematopoiesis",
+    "osteoporosis",
+    "Dnmt3a",
+    "IL-20",
+    "inflammation",
+    "osteoclast",
+    "epigenetics"
+  ],
+  "extracted_insights": "CHIP mutations, particularly in DNMT3A, causally promote osteoporosis through a non-cell-autonomous mechanism where mutant macrophages secrete IL-20 via Irf3-NF-κB signaling, driving osteoclastogenesis and bone loss, which can be therapeutically targeted by IL-20 neutralization or bisphosphonates."
+}

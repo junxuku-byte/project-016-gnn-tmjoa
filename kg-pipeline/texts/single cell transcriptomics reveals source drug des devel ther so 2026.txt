@@ -1,0 +1,1187 @@
+O R I G I N A L  R E S E A R C H
+Single-Cell Transcriptomics Reveals Riluzole as an 
+Osteoarthritis Candidate Drug via OB-NE 
+Signaling Modulation and CTSS/NOS1 Inhibition
+Kun Liu
+1, Jia-Li Li1, Yan Chen2, Yu-Xin Li1, Jeffrey D Deng3, Yun Gong4, Chong Cao1, Qin Zeng1, 
+Zheng-Wu Xiao5, Kai-Zhi Wen5, Xiao-Chao Qu1, Xiang-Ding Chen1, Yun Deng6, Hong-Wen Deng4, 
+Li-Jun Tan1
+1Laboratory of Molecular and Statistical Genetics, College of Life Sciences, Hunan Normal University, Changsha, Hunan, 410081, People’s Republic of 
+China; 2Xingtai Medical College, Xingtai City, Hebei, 054000, People’s Republic of China; 3Geisel School of Medicine, Dartmouth College, Hanover, 
+NH, 03755, USA; 4Tulane Center of Biomedical Informatics and Genomics, Deming Department of Medicine, Tulane University School of Medicine, 
+New Orleans, LA, 70112, USA; 5Center for System Biology, Data Sciences, and Reproductive Health, School of Basic Medical Science, Central South 
+University, Changsha, Hunan, 410013, People’s Republic of China; 6Zebrafish Genetics Laboratory, College of Life Sciences, Hunan Normal University, 
+Changsha, 410081, People’s Republic of China
+Correspondence: Li-Jun Tan, Laboratory of Molecular and Statistical Genetics, College of Life Sciences, Hunan Normal University, Changsha, Hunan, 
+410081, People’s Republic of China, Tel +86-731-8887-2791, Email ljtan@hunnu.edu.cn; Hong-Wen Deng, Tulane Center of Biomedical Informatics 
+and Genomics, Deming Department of Medicine, Tulane University School of Medicine, 1440 Canal Street Suite 1610, New Orleans, LA, 70112, USA, 
+Tel +1 504-988-1310, Email hdeng2@tulane.edu
+Introduction: Osteoarthritis (OA) is a degenerative joint disease involving multiple cell types, yet the role of osteoblast (OB)- 
+immune cell interactions remains poorly understood.
+Methods: Single-cell RNA sequencing of human femoral head tissue was employed in this study, followed by integrated analysis 
+using bioinformatics tools such as differential expression analysis, enrichment analysis and cell communication analysis. A network 
+proximity-based drug repositioning approach was employed to identify potential drug candidates. Mendelian randomization (MR) 
+analysis was used to explore the causal relationship between drug targets and OA. In vivo, a triclocarban (TCC)-induced zebrafish OA 
+model was treated with selected drugs, and transcriptomic sequencing, network pharmacology and molecular docking were performed 
+to identify potential drug targets.
+Results: We found OB populations as key OA-associated cells, differentially expressed genes in OBs were enriched in neutrophil 
+(NE)-mediated immune pathways. Cell communication analysis revealed enhanced bidirectional OB-NE signaling in OA, primarily 
+mediated through the CXCL12-CXCR4 and RETN-CAP1 pathways. Riluzole was identified as a therapeutic candidate through drug 
+repositioning analysis. MR showed an inverse association between the expression of its target SLC7A11 and OA risk (OR=0.84, 95% 
+CI=0.72–0.98, P=0.027). In zebrafish OA models, riluzole treatment significantly reduced joint degeneration and downregulated 
+CTSS, NOS1 and key components of the MAPK/ERK pathway. Molecular docking studies demonstrated strong binding affinity of 
+riluzole to CTSS and NOS1, suggesting that inhibition of these targets may underlie its therapeutic action via suppression of MAPK/ 
+ERK suppression.
+Conclusion: This study highlights riluzole as a promising repositioned drug for OA. Limitations of this study include the relatively 
+small sample size and the need for further translational validation in clinical settings.
+Keywords: osteoarthritis, single-cell transcriptome sequencing, drug repositioning, riluzole, osteoblasts
+Introduction
+Osteoarthritis (OA) is a prevalent and multifactorial skeletal disorder characterized by progressive structural deteriora­
+tion, including articular cartilage degradation, subchondral bone remodeling, osteophyte formation and synovial 
+inflammation.1 Despite its high prevalence and increasing burden, current OA treatments, which largely focus on 
+symptom relief, often fail to address the underlying pathophysiology. The development of novel therapeutics remains 
+Drug Design, Development and Therapy 2026:20 544803                                                       
+1
+© 2026 Liu et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.php 
+and incorporate the Creative Commons Attribution – Non Commercial (unported, v4.0) License (http://creativecommons.org/licenses/by-nc/4.0/). By accessing the work 
+you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For 
+permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+Drug Design, Development and Therapy                                           
+Open Access Full Text Article
+https://doi.org/10.2147/DDDT.S544803
+Received: 17 June 2025
+Accepted: 12 September 2025
+Published: 11 April 2026
+challenging due to the high cost, long timelines, and high attrition rates associated with traditional drug discovery 
+pipelines. In this context, drug repurposing offers a promising strategy to identify novel therapeutic agents that may be 
+more effective and safer for OA treatment.2
+Osteoblasts (OBs), which mediate bone remodeling, chondrocytes, which maintain cartilage matrix metabolism, and 
+synoviocytes, which regulate pro-inflammatory factors, play important roles in the development of OA. Currently, there 
+are many studies on chondrocytes and synoviocytes, but few studies on osteoblasts in OA. OBs play a pivotal role in the 
+pathogenesis of OA by depositing bone matrix proteins onto the calcified cartilage matrix, thereby initiating new bone 
+formation in the subchondral region.3–5 The close interplay between skeletal and immune systems -referred to as 
+“osteoimmunology”- has been increasingly recognized, with dysregulated bone-immune cell interactions contributing 
+to various skeletal diseases.6,7 Single-cell RNA sequencing (scRNA-seq) enables high-resolution profiling of cell 
+populations and their molecular signatures within complex tissues,8 while cell-cell communication analysis facilitates 
+the investigation of molecular interactions between distinct cell types.9 Despite these advances, the specific intercellular 
+communication patterns between OBs and immune cells, particularly in OA, remain largely unexplored.
+Among immune cells, Neutrophils (NEs) contribute to joint pathology in OA by releasing pro-inflammatory factors, 
+which disrupt bone and cartilage homeostasis.10,11 Our prior work was among the first to apply freshly collected human 
+femoral head samples, revealing cellular heterogeneity and identifying potential functional roles of various cell subsets in 
+the OA microenvironment.12 Another study have reported ligand-receptor interactions between immune cells and 
+osteoblastic lineage cells, suggesting complex communication networks within the bone niche,6 but the specific 
+molecular mechanisms of OB-NE interaction in OA remain unclear.
+Drug repositioning refers to identifying new therapeutic indications for existing approved drugs. Drug repositioning 
+offers several advantages over de novo drug development, including reduced costs, shortened timelines, and improved 
+clinical translation due to pre-established safety profiles.13 For example, the Food and Drug Administration (FDA) 
+approved drug memantine, originally indicated for Alzheimer’s disease, has shown potential to delay cartilage degenera­
+tion and reduce OA-related pain.14 Riluzole is an FDA-approved glutamate release inhibitor used to treat amyotrophic 
+lateral sclerosis (ALS). Riluzole has been found to exert antitumor effects through drug repositioning studies.15 However, 
+few studies have utilized scRNA-seq data for drug repositioning in OA, and to date, none have focused on repositioning 
+drugs targeting OB-NE interactions.
+In our study, we conducted an integrative analysis of scRNA-seq datasets across multiple human femoral head 
+samples to investigate the interaction between OBs and NEs in OA. Then we adopted a network-based drug repositioning 
+approach, integrating scRNA-seq data with drug-target and protein-protein interaction networks to identify promising OA 
+therapeutic candidates. To our knowledge, this is the first study to reposition drugs targeting OB and NE in OA. We 
+further applied Mendelian randomization (MR) analysis to investigate causal relationship between drug targets and OA. 
+Experimental validation in a zebrafish OA model, combined with transcriptomic profiling, network pharmacology, and 
+molecular docking, allowed us to predict novel targets and elucidate the potential mechanisms of action of candidate 
+compounds. Our findings provide a comprehensive framework for precision drug repurposing in OA and provide new 
+insights into drug-mediated mechanisms.
+Method
+Study Samples
+This study included three femoral neck fracture samples (control group) and three osteoarthritis patients (OA group). 
+Femoral head tissues were obtained from patients undergoing hip replacement surgery at Xiangya Hospital, Central 
+South University. Detailed sample information is provided in Table 1 and the diagnostic criteria refer to previously 
+published article.16 After surgery, the discarded samples were promptly collected, carefully packaged in sterile bags, and 
+transported in an ice box to maintain appropriate temperature conditions. The samples were then rapidly transported to 
+the laboratory for further processing. This research was approved by the Ethics Committee of Xiangya Hospital, Central 
+South University (No. 201912315)., and conducted in accordance with the Declaration of Helsinki.
+https://doi.org/10.2147/DDDT.S544803                                                                                                                                                                                                                                                                                                                                     
+Drug Design, Development and Therapy 2026:20 
+2
+Liu et al                                                                                                                                                                              
+Powered by TCPDF (www.tcpdf.org)
+Cell Isolation and scRNA-Seq
+In this study, Magnetic-Activated Cell Sorting (MACS) was utilized to isolate specific cells from femoral head samples. 
+Briefly, after collection, the femoral head specimens were processed into small bone fragments and enzymatically 
+digested using a tissue dissociation solution. The erythrocyte lysis buffer (Solarbio Science & Technology Co., Ltd, 
+Beijing, China) was used to remove red blood cells. And the cells with low cell viability were removed by using a dead 
+cell removal kit (Mitenyi Biotec, Germany). CD45−ALPL+ osteoblasts were enriched using magnetic bead-based sorting 
+to ensure high specificity.
+Single-cell transcriptome sequencing was then performed using the 10x Genomics platform (Chromium™ Controller, 
+USA). Library preparation followed the manufacturer’s guidelines outlined in the Single Cell 3′ Library & Gel Bead Kit 
+V3 user manual (10x Genomics User Guide). Sequencing was performed to a minimum depth of 50,000 reads per cell 
+with 150-bp paired-end reads. The resulting sequencing data were used for downstream bioinformatics analysis.
+Data Preprocessing and Integration
+Single-cell expression matrix files were imported using the Read10X function in the Seurat V5 package in R.17 A Seurat object 
+was then created using the CreateSeuratObject function for subsequent analysis and visualization. To ensure data quality, cells 
+were excluded if they met any of the following criteria: gene count <200 or >8000, or mitochondrial and ribosome gene 
+expression exceeded 5%. This stringent filtering strategy ensured the inclusion of only high-quality single-cell.
+For dataset integration, we used the Find Integration Anchors function with the parameter dims = 1:20. To correct for 
+potential batch effects across samples, we using the RunHarmony function.18 Cell clustering was performed using the 
+Find Clusters function with a resolution 0.6. Cell type annotation was conducted by cross-referencing known marker 
+genes from the literature and using the CellMarker database19 (http://bio-bigdata.hrbmu.edu.cn/CellMarker/search.jsp). 
+For dimensionality reduction and visualization, the Uniform Manifold Approximation and Projection (UMAP) method 
+was employed to distinguish and display different cell populations.
+Identifying Disease-Associated Cells
+To identify genome-wide association studies (GWAS)-associated cell types, we utilized the single-cell disease relevance 
+score (scDRS) approach to establish connections between specific cell types and OA.20 First, we employed the 
+MAGMA21 tool to generate disease-associated gene sets based on GWAS data for OA. Subsequently, we applied the 
+scDRS to assess the relevance of each cell by quantifying the expression of putative disease-related genes across the 
+entire cell population and calculating the disease association p-value at the single-cell level. The GWAS datasets for OA 
+(ebi-a-GCST005812) analyzed in this study were obtained from the openGWAS database (https://gwas.mrcieu.ac.uk).
+Differential Gene Expression Analysis
+The subset function was used to extract OBs or NEs, and differential expression genes (DEGs) analysis was performed 
+on OBs or NEs between the control and OA group using the Find Markers function. The criteria for identifying 
+significant DEGs were |avg_log2FC| > 1.5 and p_val_adj < 0.05.
+Table 1 The Sample Information Used in 
+scRNA-Seq Analysis
+ID
+Age (Years)
+Gender
+Group
+Control1
+60
+Male
+Control
+Control 2
+62
+Female
+Control
+Control 3
+85
+Female
+Control
+OA1
+61
+Female
+OA
+OA2
+45
+Female
+OA
+OA3
+31
+Male
+OA
+Drug Design, Development and Therapy 2026:20                                                                             
+https://doi.org/10.2147/DDDT.S544803                                                                  
+3
+Liu et al
+Powered by TCPDF (www.tcpdf.org)
+Functional Enrichment Analysis
+To identify the significantly enriched pathways of DEGs or key genes, we employed the clusterProfiler package in R to 
+perform GO enrichment analysis. Only terms with p_val_adj < 0.05 were considered as significantly enriched. Gene set 
+enrichment analysis (GSEA) was performed by the R package “ClusterProfiler” with normalized corrected ES values > 1 
+and p-val_adj < 0.05 for significance.
+Cell Communication Analysis
+Intercellular communication was analyzed using the CellChat package in R.9 Using CellChat, we identified distinct 
+ligand and receptor expression patterns across various cell types. These analyses allowed us to identify unique signaling 
+mechanisms for each cell population and uncover functional communication among different cell types.
+Drug Repositioning Analysis
+We employed a network-based approach for drug repositioning analysis.2,22,23 Initially, known drug targets were mapped 
+to the human proteome, which was subsequently mapped to disease modules. In this study, DEGs in OB and NE were 
+first extracted from control and OA groups. These DEGs were then utilized to extract relevant interactions from the 
+human interactome to construct the protein-protein interaction (PPI) network representing the disease modules. A drug- 
+target network was built using drug-target interactions obtained from the DrugBank (https://go.drugbank.com/) and 
+Therapeutic Target Database (TTD). After constructing the drug-target network, we calculated the network closeness 
+between drug targets and disease modules. A higher network proximity, indicated by a lower Z-score, suggests stronger 
+network relationships.
+MR Analysis
+To evaluate the causal association of drug targets with OA, we conducted MR analysis using the inverse-variance 
+weighted (IVW) approach. Expression quantitative trait locis (eQTLs) from openGWAS database were used as instru­
+mental variables. Single nucleotide polymorphisms (SNPs) that were strongly associated with the SLC7A11, PDE4A and 
+VDR were selected based on a GWAS p-value threshold of 5×10−8, along with a linkage disequilibrium (LD) r2 < 0.1. 
+The OA GWAS data (ebi-a-GCST005814) from openGWAS database was used as the outcome. Heterogeneity was 
+assessed using Cochran’s Q test, and pleiotropy was evaluated via MR-Egger intercept. Additionally, a leave-one-out 
+analysis was conducted to systematically exclude individual SNPs and evaluate the influence of each SNP on the overall 
+MR analysis results. Detailed information regarding the instrumental variables used in the analyses was provided in 
+Tables S1–S3.
+OA Zebrafish Model
+Wild-type zebrafish were obtained from the Department of Genetics and Developmental Biology at Hunan Normal 
+University. All animal experiments were approved by the Institutional Animal Care and Use Committee of Hunan 
+Normal University. Based on previously published studies, zebrafish were exposed to 2μM Triclocarban (TCC, Solarbio, 
+BeiJing, China) for 21 consecutive days. Successful model establishment was confirmed by histological staining, which 
+revealed a marked narrowing of the anal fin joint space.24 Adult zebrafish were randomly divided into 5 groups: a control 
+group treated with 0.25% dimethyl sulfoxide (DMSO, Coolaber, BeiJing, China) and an OA model group treated with 2μM 
+TCC. For the TCC-induced groups, 10 μg/mL chondroitin sulfate was administered in combination with TCC induction as 
+the positive control group (TCC+Cho). Based on the clinical oral dose of riluzole (MCE, ShangHai, China) in human 
+(50 mg/day), the equivalent dose for zebrafish was calculated to be approximately 10μM using body surface area 
+conversion factors. However, our preliminary experiments revealed significant lethality at concentrations of 2.5, 5 and 
+10μM, while zebrafish exposed to 1 and 1.5 μM exhibited normal physiological activities. Therefore, we selected the 
+concentration range of 1 and 1.5 μM for subsequent experimental investigations. The drug treatment groups received TCC 
+induction combined with either 1 μM or 1.5 μM riluzole, designated as TCC+Ril (1) and TCC+Ril (1.5), respectively. After 
+21 days, zebrafishes were stained using Alcian blue and Alizarin red. The joint space at the anal fin of zebrafish was 
+https://doi.org/10.2147/DDDT.S544803                                                                                                                                                                                                                                                                                                                                     
+Drug Design, Development and Therapy 2026:20 
+4
+Liu et al                                                                                                                                                                              
+Powered by TCPDF (www.tcpdf.org)
+quantified using Image J software to assess the success of OA modeling. Specifically, all measurements were conducted 
+using a single-blind design, with the operator unaware of the group assignments to avoid subjective bias. For each zebrafish, 
+the joint space of the same specific region of the anal fin was measured three times, and the final joint space value was 
+calculated as the mean of the three repeated measurements to minimize random errors.
+Bulk RNA-Seq and Data Analysis
+Total RNA was extracted from the anal fin tissues of zebrafish in both the TCC group and TCC+Ril (1.5 μM) group. 
+RNA quality was verified by agarose gel electrophoresis, and sequencing was performed using the BGI platform. RNA 
+integrity, assessed with an Agilent 2100 Bioanalyzer, showed a RNA Integrity Number (RIN) > 8.0.
+Strand-specific cDNA libraries were constructed through poly(A) selection and subsequently sequenced to generate 
+150-bp paired-end reads. The obtained reads were aligned to the zebrafish GRCz11 reference genome using the STAR 
+aligner, achieving a mapping rate of over 90% for all samples.
+Significant DEGs were identified using standard RNA-seq data analysis pipelines, with criteria set at |avg_log2FC| > 
+0.585 and p_val_adj < 0.05. These DEGs were subsequently subjected to GO enrichment analysis.
+Drug Target Prediction
+The SMILES notation for riluzole was retrieved from the PubChem database (https://pubchem.ncbi.nlm.nih.gov/) and 
+subsequently imported into the SwissTargetPrediction platform (http://www.swisstargetprediction.ch) to predict its 
+potential drug targets. We then analyzed the intersection between these predicted targets and DEGs identified from 
+transcriptome sequencing data to determine the final candidate targets of riluzole.
+Molecular Docking
+Molecular docking, a computational biology method, was employed to investigate the interactions between riluzole and 
+its protein targets. The 2D structure of riluzole was obtained from PubChem (https://pubchem.ncbi.nlm.nih.gov/), while 
+the 3D structures of the target proteins were downloaded from the Protein Data Bank (PDB; http://www1.rcsb.org/). 
+Docking simulations were performed using AutoDock Vina, an open-source software, to evaluate binding affinities and 
+conformational stability between riluzole and the targets.
+Results
+scRNA-Seq Combined GWAS Analysis Reveals Cells Associated with OA
+We identified 26 clusters (Figure 1A) which were annotated into 10 cell types, 57772 cells in total: OB (23.51%), NE 
+(56.70%), Chondrocytes (CHON, 1.01%), Erythrocytes (ER, 4.67%), Macrophages (MAC, 2.44%), B cells (B, 1.91%), 
+T cells (T, 5.43%), plasma cells (PC, 1.72%), Endothelial cells (EC, 1.34%), Smooth muscle cells (SMC, 1.27%), based 
+on previously reported marker genes and cell marker genes provided by the CellMarker database (Figure 1B), a summary 
+table in Table 2. To identify cells associated with OA, we utilized scDRS analysis to integrate scRNA-seq data with 
+GWAS data. UMAP plots demonstrated that cells associated with OA (Figure 1C) was predominantly enriched in OB 
+cell cluster. This finding suggests that OBs play a central role in the pathogenesis of OA, and highlights their potential as 
+a key focus for further investigation in our study.
+To investigate the functions of genes in OB, we performed differential expression analysis. The volcano plot in 
+Figure 1D illustrates genes that exhibit significant differences between control and OA groups. GO enrichment analysis 
+revealed that the DEGs in OB of OA were significantly enriched in pathways related to oxidative stress, inflammation 
+and immune-related pathways, especially NE-mediated immune signaling pathways (Figure 1E). The enrichment in NE- 
+mediated immune signaling pathways suggests that differential genes of OBs in the OA group are associated with the 
+function of NE.
+Drug Design, Development and Therapy 2026:20                                                                             
+https://doi.org/10.2147/DDDT.S544803                                                                  
+5
+Liu et al
+Powered by TCPDF (www.tcpdf.org)
+Cellular Communication Between Different Cell Types Across Groups
+To investigate the intercellular communication, we analyzed the intercellular communication network using the CellChat 
+package. Comparative analysis of interaction strength revealed significantly enhanced interactions from NE to OB and 
+from OB to NE in the OA group (Figure 2A). CellChat analysis revealed ligand-receptor (L-R) interactions between OBs 
+and other cells (Figure S1). Specifically, in the OA group, cellular communication from OB to NE was mediated by the 
+Figure 1 Cell type annotation and identification of OA-associated cell populations. (A) Clustering analysis at a resolution of 0.6 identified 26 clusters in the integrated 
+dataset, with distinct colors representing each cluster. (B) Based on marker gene distribution, a total of 10 cell types were annotated. (C) Distribution of OA related cells 
+across various cell types. Cells significantly correlated with disease are highlighted in red, where higher correlation values indicate stronger associations. (D) Differential 
+expression analysis of genes was performed in OB between the OA and control groups. Red dots represent genes highly expressed in the OA group, while blue dots indicate 
+lower expression. (E) GO enrichment analysis of DEGs.
+https://doi.org/10.2147/DDDT.S544803                                                                                                                                                                                                                                                                                                                                     
+Drug Design, Development and Therapy 2026:20 
+6
+Liu et al                                                                                                                                                                              
+Powered by TCPDF (www.tcpdf.org)
+CXCL12-CXCR4 (CXCL pathway) L-R pair (Figure 2B), while communication from NE to OB was mediated through 
+the RETN-CAP1 (RESISTIN pathway) L-R pair (Figure 2C). Notably, the RETN-CAP1 L-R pair was exclusively 
+involved in NE-OB interactions and not in other cell-OB communications.
+Key signaling pathways were ranked based on the differences in overall information flow inferred across the different 
+groups. Both the CXCL and RESISTIN signaling pathways were significantly enriched in the OA group (Figure 2D). 
+Previous studies have reported that RESISTIN upregulated the expression of inflammatory cytokines in human OA,25 
+and the CXCL12/CXCR4 axis promoted cartilage degradation.26 These findings suggest that the enhanced information 
+flow of RESISTIN and CXCL in OA group may disrupt the bone microenvironment.
+The circle diagram provides a more intuitive representation of changes in CXCL signaling during OB communication 
+with other cells, revealing that CXCL signaling between OB and NE was stronger in OA (Figure 2F) compared to control 
+group (Figure 2E). For RESISTIN pathway, the results showed that, unlike in the control group (Figure 2G), this pathway 
+mediated cellular communication exclusively from NE to OB in OA group (Figure 2H).
+Functional Analysis of the DEGs in NE
+Cellular communication analysis revealed a significant increase in communication strength between OB and NE in OA. 
+This finding suggests that NE may play a crucial role in the development of OA. Therefore, we further investigated the 
+function of NE. Initially, differently expression analysis was conducted on NE from the OA group and the control group 
+(Figure 3A). GO enrichment analysis revealed that the DEGs in the OA group were enriched in immune-related pathways 
+such as “immune response-regulating signaling pathway” and “immune response-activating signaling pathway”, as well as 
+in typical inflammatory pathways, including “I-kappaB kinase/NF-kappaB signaling”. Additionally, these DEGs were 
+significantly enriched in bone metabolism-related signaling pathways, including “osteoclast development” and “bone cell 
+development” (Figure 3B). These results indicate that the DEGs in NE are implicated in bone metabolism.
+Drug Repositioning Analysis
+Building on the results obtained, we conducted a drug repositioning analysis targeting OB and NE cells. Using screening 
+criteria of Z < −2 and P < 0.05, and after excluding small-molecule compounds, metal-based drugs and radioactive 
+ligands, we identified 34 candidate drugs in the OB group and 79 candidate drugs in the NE group, with 25 overlapping 
+drugs between the two groups (Figure 4A; detailed information provided in Table 3). The targets of these 25 drugs were 
+retrieved from DrugBank, and MR analysis was performed to evaluate causal relationships between these targets and OA 
+(target list in Table 4). The IVW results revealed significant causal associations between the gene expression of drug 
+targets SLC7A11 (OR=0.84, 95% CI=0.72–0.98, P= 0.027), PDE4A (OR=1.14, 95% CI=1.01–1.28, P=0.028) and VDR 
+(OR=0.92, 95% CI=0.86–0.98, P=0.011) with OA (Figure 4B).
+Cochran’s Q test and MR-Egger intercept analysis demonstrated no evidence of heterogeneity (Table 5) or horizontal 
+pleiotropy (Table 6) in the MR analysis. To further assess whether the results were influenced by individual SNPs, 
+Table 2 A Summary Table for Each Cell Type
+Cell Type
+Cell Count
+Mean Reads
+Median Genes
+Total Reads
+Detected Genes
+OB
+13580
+7826.71
+2409
+106286723
+28556
+NE
+32759
+3215.96
+795
+105351560
+26858
+T
+3136
+5198.32
+1650.5
+16301929
+19025
+ER
+2696
+25752.5
+1721
+69428739
+22626
+MAC
+1409
+8972.82
+2310
+12642704
+18444
+B
+1104
+5108.52
+1779.5
+5639808
+17689
+PC
+994
+28108.36
+2513
+27939711
+20131
+EC
+773
+11734.78
+2695
+9070982
+22977
+SMC
+736
+8395.93
+2538
+6179404
+23392
+CHON
+585
+19397.25
+3883
+11347394
+24447
+TOTAL
+57772
+6407.757287
+1419
+370188954
+29864
+Drug Design, Development and Therapy 2026:20                                                                             
+https://doi.org/10.2147/DDDT.S544803                                                                  
+7
+Liu et al
+Powered by TCPDF (www.tcpdf.org)
+a leave-one-out sensitivity test was conducted (Figure 4C–E). The results indicated that the causal effect of SLC7A11, 
+PDE4K and VDR on the OA did not significantly change upon excluding any single SNP. Detailed information for OA- 
+related SNPs is provided in Tables S1-3.
+Notably, the gene expression of riluzole target SLC7A11 and cholecalciferol target VDR exhibited significant reverse 
+causal effects on OA, while riluzole and cholecalciferol act agonistic activity toward SLC7A11 and VDR, respectively. 
+Figure 2 Cell communication analysis. (A) Compared to the control group, changes in cell communication strength between different cell types in the OA group. Red 
+indicates enhanced communication, while blue indicates reduced communication. (B and C) Ligand-receptor pair mediating OB-to-NE (B) and NE-to-OB (C) commu­
+nication. (D) Comparative analysis of information flow strength between the OA and control groups. (E and F) Visualization of CXCL signaling using a circle chart, with OB 
+as the sender in control and OA group. (G and H) Visualization of RESISTIN signaling using a circle chart, with NE as the sender in control and OA group.
+https://doi.org/10.2147/DDDT.S544803                                                                                                                                                                                                                                                                                                                                     
+Drug Design, Development and Therapy 2026:20 
+8
+Liu et al                                                                                                                                                                              
+Powered by TCPDF (www.tcpdf.org)
+These findings suggest their potential therapeutic efficacy against OA. Conversely, the expression of apremilast target 
+PDE4A showed a significant positive causal effect on OA, while apremilast acts as a PDE4A antagonist, indicating its 
+therapeutic potential role in OA management.
+Cholecalciferol (vitamin D3) is known to inhibit synovial fluid effusion27 and improve the Western Ontario and 
+McMaster Universities Arthritis Index pain score after 12-month supplementation.28 Apremilast has been shown to 
+prevent chondrocyte senescence29 and suppress inflammatory responses in chondrocytes by upregulating SOX9.30 
+Figure 3 The GO enrichment analysis of DEGs in NE. (A) DEGs identified in NE between OA group and control group. (B) GO enrichment analysis of NE-specific DEGs.
+Figure 4 Drug repositioning and causal effects between the drug targets and OA. (A) The intersection of drugs simultaneously screened in OB and NE. (B) The drug targets 
+SLC7A11, PDE4A, and VDR show significant causal relationships with OA. Leave-one-out analysis of the targets SLC7A11 (C), PDE4A (D), and VDR (E) in relation to OA.
+Drug Design, Development and Therapy 2026:20                                                                             
+https://doi.org/10.2147/DDDT.S544803                                                                  
+9
+Liu et al
+Powered by TCPDF (www.tcpdf.org)
+Although riluzole has not been extensively studied in the context of OA, it was prioritized as a novel candidate for further 
+analysis. These findings also demonstrate the feasibility of the method used for screening candidate drugs for OA.
+Effects of Riluzole on OA in Zebrafish
+To investigate whether riluzole alleviates TCC-induced OA symptoms in zebrafish, adult zebrafish were co-exposed to 
+TCC and riluzole at different concentrations (1 μM and 1.5 μM) for 21 days. Alcian Blue-Alizarin Red double staining 
+revealed changes in anal fin joint space following drug treatment (Figure 5A). Compared to control group, the TCC 
+group exhibited a narrowed anal fin joint space, confirming successful modeling of OA. In contrast, the TCC+Ril (1 μM) 
+and TCC+Ril (1.5 μM) groups showed significantly widened joint spaces (the distance between cartilage and hard bone), 
+with the most pronounced effect in the TCC+Ril (1.5 μM) group (Figure 5B), indicating riluzole’s inhibitory effect on 
+OA progression.
+To further explore riluzole’s mechanism of action, anal fin tissues from the TCC and TCC+Ril (1.5 μM) groups were 
+subjected to transcriptome sequencing. Differential gene expression analysis identified both upregulated and down­
+regulated genes (Figure 5C). GO enrichment analysis of DEGs revealed that riluzole treatment significantly DEGs 
+enriched in inflammatory pathways, including “inflammatory response”, “response to interleukin-1” and “response to 
+tumor necrosis factor”, as well as pathways such as positive regulation of MAPK/ERK signaling and “regulation of 
+catalytic activity” (Figure 5D). The heatmap shows the expression of key genes in the MAPK/ERK signaling pathway in 
+both groups (Figure 5E), and riluzole inhibited the mRNA expression levels of key genes in the MAPK/ERK signaling 
+pathway (Figure 5F). The above results indicate that riluzole suppresses the inflammatory response, the MAPK/ERK 
+signaling pathway and the catalytic activity of enzymes.
+Table 3 Network Proximity Scores for Common Drugs for OB and NE
+DrugBank ID
+Drug Name
+OB
+NE
+D-value
+Z-value
+P-value
+D-value
+Z-value
+P-value
+DB00091
+Cyclosporine
+2.142
+−3.442
+0
+2.154
+−3.298
+0
+DB00169
+Cholecalciferol
+2.158
+−2.209
+0
+2.177
+−2.051
+0.001
+DB00308
+Ibutilide
+2.191
+−2.144
+0.008
+2.2
+−2.016
+0.008
+DB00337
+Pimecrolimus
+2.137
+−2.063
+0.004
+2.143
+−2.316
+0.005
+DB00419
+Miglustat
+2.191
+−2.097
+0.002
+2.196
+−2.524
+0.001
+DB00456
+Cefalotin
+2.095
+−2.039
+0.007
+2.098
+−2.462
+0.003
+DB00640
+Adenosine
+2.088
+−3.157
+0
+2.093
+−3.203
+0
+DB00651
+Dyphylline
+2.181
+−2.464
+0
+2.167
+−3.178
+0
+DB00677
+Isoflurophate
+2.17
+−2.416
+0
+2.173
+−2.658
+0.001
+DB00730
+Thiabendazole
+2.117
+−2.1
+0.003
+2.125
+−2.228
+0.004
+DB00740
+Riluzole
+2.187
+−2.493
+0
+2.183
+−3.087
+0
+DB00746
+Deferoxamine
+1.918
+−2.563
+0.01
+1.934
+−2.494
+0.016
+DB00878
+Chlorhexidine
+2.073
+−2.265
+0.003
+2.074
+−2.613
+0.002
+DB00903
+Etacrynic acid
+2.088
+−2.584
+0
+2.1
+−2.242
+0.003
+DB01427
+Amrinone
+2.045
+−2.739
+0
+2.044
+−3.315
+0
+DB01590
+Everolimus
+2.145
+−2.29
+0.001
+2.15
+−2.825
+0
+DB03424
+Ubenimex
+2.182
+−2.087
+0
+2.182
+−2.492
+0
+DB05018
+Migalastat
+2.179
+−2.058
+0.002
+2.19
+−2.241
+0.002
+DB05219
+Crisaborole
+2.197
+−2.3
+0
+2.186
+−2.445
+0
+DB05676
+Apremilast
+2.127
+−2.256
+0.005
+2.135
+−2.272
+0.001
+DB06287
+Temsirolimus
+2.124
+−2.782
+0
+2.127
+−3.097
+0
+DB08168
+Coumarin 120
+2.111
+−3.671
+0
+2.122
+−3.432
+0
+DB09074
+Olaparib
+2.109
+−2.348
+0.002
+2.111
+−2.575
+0
+DB09283
+Trapidil
+2.126
+−2.942
+0
+2.104
+−4.521
+0
+https://doi.org/10.2147/DDDT.S544803                                                                                                                                                                                                                                                                                                                                     
+Drug Design, Development and Therapy 2026:20 
+10
+Liu et al                                                                                                                                                                              
+Powered by TCPDF (www.tcpdf.org)
+Molecular Docking
+In our previous analysis, we examined the causal relationship between riluzole’s known targets and OA, however, potential 
+reported targets of riluzole warrant further explored. We identified 89 potential targets of riluzole from the SwissTargetPrediction 
+database (Table S4), of which 5 targets were significantly DEGs in the TCC+riluzole group (Figure 6A). Table S5 displays the 
+top 40 differentially expressed genes. These five genes include ctss2 (orthologous to human CTSS; cathepsin S), nos1 
+Table 4 Target Information for Each Drug
+DrugBank ID
+Drug Name
+Target
+Actions
+DB00640
+Adenosine
+ADORA1
+Activitor
+DB01427
+Amrinone
+PDE3A
+Inhibitor
+DB05676
+Apremilast
+PDE4A
+Inhibitor
+DB00456
+Cefalotin
+pbpA
+Inhibitor
+DB00878
+Chlorhexidine
+Bacterial outer membrane
+Incorporation into and destabilization
+DB00169
+Cholecalciferol
+VDR
+Activitor
+DB08168
+Coumarin 120
+PPIA
+Inhibitor
+DB05219
+Crisaborole
+PDE4B
+Inhibitor
+DB00091
+Cyclosporine
+PPP3R2
+Inhibitor
+DB00746
+Deferoxamine
+APP
+Unknown
+DB00651
+Dyphylline
+PDE4B
+Inhibitor
+DB00903
+Etacrynic acid
+SLC12A1
+Inhibitor
+DB01590
+Everolimus
+MTOR
+Inhibitor
+DB00308
+Ibutilide
+KCNH2
+Inhibitor
+DB00677
+Isoflurophate
+ACHE
+Inhibitor
+DB05018
+Migalastat
+GLA
+Stabilization
+DB00419
+Miglustat
+UGCG
+Inhibitor
+DB09074
+Olaparib
+PARP1
+Inhibitor
+DB00337
+Pimecrolimus
+PPP3CA
+Inhibitor
+DB00740
+Riluzole
+SLC7A11
+Activitor
+DB06287
+Temsirolimus
+MTOR
+Inhibitor
+DB00730
+Thiabendazole
+FRDA
+Inhibitor
+DB09283
+Trapidil
+FGFR3
+Inhibitor
+DB03424
+Ubenimex
+LTA4H
+Inhibitor
+Table 5 The Results of Cochran’s Q Test in the MR Analysis
+Outcome
+Exposure
+Method
+Q
+Q_df
+Q_pval
+OA
+VDR
+MR Egger
+25.216
+20
+0.193
+OA
+VDR
+IVW
+26.621
+21
+0.184
+OA
+SLC7A11
+MR Egger
+1.828
+3
+0.609
+OA
+SLC7A11
+IVW
+1.832
+4
+0.766
+OA
+PDE4A
+MR Egger
+15.191
+8
+0.055
+OA
+PDE4A
+IVW
+16.245
+9
+0.062
+Abbreviation: IVW, inverse-variance weighted.
+Table 6 The Results of MR-Egger Intercept Analysis in the 
+MR Analysis
+Outcome
+Exposure
+Egger_Intercept
+se
+pval
+OA
+VDR
+0.0156
+0.015
+0.304
+OA
+SLC7A11
+0.0016
+0.021
+0.956
+OA
+PDE4A
+0.0126
+0.016
+0.477
+Drug Design, Development and Therapy 2026:20                                                                             
+https://doi.org/10.2147/DDDT.S544803                                                                  
+11
+Liu et al
+Powered by TCPDF (www.tcpdf.org)
+(orthologous to human NOS1; nitric oxide synthase 1), qpct (orthologous to human QPCT; glutaminyl-peptide cyclotransferase), 
+pi4kaa (orthologous to human PI4KA; phosphatidylinositol 4-kinase alpha), plcg2 (orthologous to human PLCG2; phospholi­
+pase C gamma 2). All five genes were significantly downregulated in the TCC+riluzole group, with detailed information 
+provided in Table 7. Figure 6B shows the 2D and 3D molecular structures of riluzole.
+We utilized AutoDock software to analyze potential interactions between riluzole and these candidate proteins. The 
+scoring function in AutoDock indicates that stable binding between ligand and protein molecules occurs when the 
+docking affinity value is less than 0, with a more negative binding score reflecting stronger binding stability. The results 
+demonstrate strong binding capabilities of riluzole with CTSS, NOS1, PLCG2, QPCT and PI4KA (Table 8). Among 
+them, CTSS and NOS1 showed the strongest binding energy with riluzole at −7 kcal/mol and −6.9 kcal/mol, respectively.
+Figure 6C and D illustrate the binding interactions of riluzole with the targets CTSS and NOS1, respectively. The 
+molecular docking analysis revealed that riluzole effectively binds to the active pockets of these targets. Hydrogen bonds 
+were formed between riluzole and amino acid residues GLN (Glutamine)-316, HIS (Histidine)-287 and ASP (Aspartic acid)- 
+315 of CTSS (Figure 6C). Additionally, hydrogen bonds are observed between riluzole and the residues HIS-719 and GLN- 
+530 of NOS1 (Figure 6D). The binding interactions of riluzole with PLCG2, QPCT and PI4KA are detailed in Figure S2A–C. 
+The residues TYR (Tyrosine)-1884 and LEU (Leucine)-1862 of PI4KA establish hydrogen bonds with riluzole (Figure S2A). 
+Additionally, riluzole forms a hydrogen bond with the amino acid residue PHE (Phenylalanine)-295 of PLCG2 (Figure S2B). 
+Hydrogen bonds are also observed between riluzole and the residues GLU-202 and ASP-159 of QPCT (Figure S2C).
+Figure 5 In Vivo Validation of Riluzole Efficacy and Transcriptome Sequencing. (A) Alcian blue-Alizarin red double staining was performed on a TCC-induced zebrafish 
+osteoarthritis model after 21 days of drug treatment. The red arrow indicates the joint space. (B) Quantification of the joint space in the anal fins of zebrafish across groups. 
+(C) Transcriptome sequencing was conducted on anal fin tissues of zebrafish, followed by analysis of DEGs between the TCC+Ril (1.5) group and the TCC group. (D) Bar 
+plot showing the signaling pathways enriched by the DEGs mediated by riluzole. (E) The heatmap shows the expression of key genes in the MAPK/ERK signaling pathway in 
+both groups. (F) The mRNA expression level of key genes in the MAPK/ERK signaling pathway in two groups. (*** P <0.001).
+https://doi.org/10.2147/DDDT.S544803                                                                                                                                                                                                                                                                                                                                     
+Drug Design, Development and Therapy 2026:20 
+12
+Liu et al                                                                                                                                                                              
+Powered by TCPDF (www.tcpdf.org)
+Furthermore, riluzole treatment significantly suppressed ctss2 (Figure 6E), nos1 (Figure 6F), pi4kaa (Figure S2D), 
+plcg2 (Figure S2E) and qpct (Figure S2F) expression in a TCC-induced zebrafish OA model. Taken together, these findings 
+provide strong evidence that riluzole slows OA progression by downregulating the expression of CTSS and NOS1.
+Figure 6 Result of molecular docking. (A) Intersecting genes between the potential targets of riluzole predicted by the SwissTargetPrediction database and DEGs after 
+riluzole treatment. (B) 2D and 3D molecular structures of riluzole. Molecular docking results of riluzole with the potential targets CTSS (C) and NOS1 (D), which are 
+involved in catalytic activity-related signaling pathways. Significantly downregulated expression of ctss2 (E) and nos1 (F) after riluzole treatment. (** P <0.01, *** P <0.001).
+Table 7 Differential Expression Analysis of Drug 
+Targets in the TCC+Ril Vs TCC Group
+Gene
+log2 Fold Change
+p_value
+p_adj Value
+ctss2
+−3.377
+1.62E-04
+3.93E-03
+nos1
+−3.385
+4.81E-05
+1.46E-03
+qpct
+−4.580
+1.48E-05
+5.50E-04
+pi4kaa
+−2.132
+1.23E-05
+4.74E-04
+plcg2
+−2.178
+9.05E-10
+1.51E-07
+Notes: ctss2, orthologous to human CTSS (cathepsin S). nos1, ortho­
+logous to human NOS1 (nitric oxide synthase 1). qpct, orthologous to 
+human QPCT (glutaminyl-peptide cyclotransferase). pi4kaa, ortholo­
+gous to human PI4KA (phosphatidylinositol 4-kinase alpha). plcg2, 
+orthologous to human PLCG2 (phospholipase C gamma 2).
+Table 8 Analysis of Docking Results Between Compounds and 
+Targets
+Compound
+Target
+PDB ID
+Binding Energy (kcal/mol)
+riluzole
+CTSS
+4MZS
+−7
+NOS1
+6PNG
+−6.9
+PLCG2
+8T7C
+−6.9
+QPCT
+2AFW
+−6.6
+PI4KA
+6BQ1
+−6.3
+Drug Design, Development and Therapy 2026:20                                                                             
+https://doi.org/10.2147/DDDT.S544803                                                                  
+13
+Liu et al
+Powered by TCPDF (www.tcpdf.org)
+CTSS and NOS1 Regulate MAPK/ERK Pathway
+To further investigate the regulatory mechanism of riluzole’s targets CTSS and NOS1, we performed GSEA analysis of 
+CTSS and NOS1, and found that ctss2 (Figure 7A) and nos1 (Figure 7B) activate the MAPK pathway. Meanwhile, ctss2 
+(Figure 7C) and nos1 (Figure 7D) also activate the ERK pathway. Given that riluzole inhibits the expression of ctss2 and 
+nos1 in zebrafish, along with the downregulation of genes in the MAPK/ERK pathway, we can infer that riluzole, as 
+a drug with inhibitory effects on OA by inhibiting the activation of MAPK/ERK by target CTSS and NOS1.
+Discussion
+OA is a common multifactorial degenerative joint disease. ScRNA-seq technology enables precise identification of 
+cellular constituents within highly heterogeneous lesioned tissues. By comparing control tissues, this approach facilitates 
+a systematic investigation into functional alterations across distinct cell populations and changes in intercellular 
+communication networks within pathological microenvironments, ultimately providing mechanistic insights for targeted 
+therapeutic development.
+Building upon this foundation, we integrated scRNA-seq data derived from femoral head tissues to identify OA- 
+associated cell types through scDRS analysis. Cell communication analysis revealed significantly altered communication 
+intensities between specific cell populations in OA group. Then, functional enrichment analysis and drug repositioning 
+Figure 7 Result of GSEA. GSEA revealing the significant positive association between ctss2 expression and MAPK signaling pathway (A), nos1 expression and MAPK 
+signaling pathway (B), ctss2 expression and ERK signaling pathway (C), nos1 expression and ERK signaling pathway (D).
+https://doi.org/10.2147/DDDT.S544803                                                                                                                                                                                                                                                                                                                                     
+Drug Design, Development and Therapy 2026:20 
+14
+Liu et al                                                                                                                                                                              
+Powered by TCPDF (www.tcpdf.org)
+analysis were performed on the DEGs of these cell types between OA and control groups. After screening candidate 
+compounds, we administered the selected drugs to OA zebrafish models, monitored phenotypic changes and performed 
+transcriptome sequencing. Subsequent network pharmacology analysis identified novel drug targets, which provides 
+a new therapeutic candidate for the treatment of OA.
+While some studies have utilized scRNA-seq to explore murine OBs,31 but there have been limited research on 
+human primary OBs isolated from hard bone tissue. This limitation was due to the specific mechanical hardness of hard 
+bone tissue, which presented challenges in sample processing, and the relatively low abundance of OBs, making it 
+difficult to isolate individual cells. Additionally, stably obtaining a single-cell suspension enriched with OBs is extremely 
+challenging.12,32 In this study, through extensive pre-experiment exploration, we developed a relatively robust cell 
+dissociation protocol for enriching OBs by adjusting digestion conditions and using the MASC method. We utilized 
+scRNA-seq to analyze freshly isolated primary cells from the femoral head, allowing for a more comprehensive 
+understanding of the transcriptional characteristics of local cells.
+Using the scDRS method to integrate single-cell data and GWAS data, we found that OA-associated cells were 
+predominantly localized within OB populations. Compared to the control group, the DEGs in the OA group of OB were 
+significantly enriched in pathways associated with oxidative stress, I-kappaB kinase/NF-kappaB signaling, MAPK 
+signaling, JNK signaling and NE-mediated immunity. The activation of MAPK,33 JNK34 and Nf-κB34 signaling path­
+ways has been shown to drive inflammatory responses.35 NE also emerged as a pivotal player in maintaining bone 
+homeostasis. Hyperactivation of NEs could induce OB apoptosis by increasing ROS levels and promoting osteoclasto­
+genesis via RANKL signaling.36 Notably, in rheumatoid arthritis, activated NEs induces RANKL expression, enhancing 
+osteoclast-mediated bone resorption in inflamed joints.37 These findings suggest that the DEGs identified in OB are 
+integrally involved in NE-mediated immune responses, highlighting their potential role in the complex interplay between 
+inflammation, oxidative stress, and bone remodeling.
+Interactions among diverse cell types within the bone microenvironment are essential for maintaining bone 
+homeostasis.6,7 The analysis revealed enhanced cellular communication between OB and NE, the RESISTIN and 
+CXCL signaling pathways are significantly up-regulated in the OA group compared to the control group. In OA, 
+RESISTIN promoted the secretion of pro-inflammatory factors such as TNF-α and IL-1β, with high expression of 
+RESISTIN positively correlated with disease severity.25 Similarly, the CXCL signaling pathway has been implicated in 
+promoting inflammation and cartilage degradation, thereby contributing to the progression of OA.26 We propose that this 
+enhanced cellular communication between OB and NE may activate key signaling pathways, including RESISTIN and 
+CXCL, which are involved in inflammation and tissue remodeling, and may contribute to the progression of OA. 
+Osteoblast-derived signals like CXCL chemokines may further recruit and activate NEs, creating a feed-forward 
+inflammatory loop that promotes subchondral bone sclerosis. Elevated levels of RESISTIN and CXCL family members 
+may induce MMP expression in chondrocytes and accelerate extracellular matrix degradation and amplify synovial 
+inflammation, indirectly contributing to pain, swelling, and joint dysfunction in OA patients.
+Functional enrichment analysis of DEGs in NE cells revealed that these DEGs are not only implicated in immune- 
+related signaling pathways but also regulate osteogenesis-associated pathways, such as “osteoblast differentiation” and 
+“bone cell development”. This finding further supports the theoretical premise that cellular communication between OB 
+and NE is enhanced under OA disease conditions, also provides a theoretical foundation for subsequent drug repurposing 
+analyses targeting NE and OB cells.
+Current clinical therapies for OA patients fail to modify disease progression. Recent advances in network medicine 
+have enabled the systematic repurposing of existing drugs.2 In this study, we implemented an innovative network 
+proximity-based drug repositioning strategy, constructing disease-specific network modules for OA by integrating single- 
+cell sequencing data. By conducting in-depth analysis of the network proximity between the OA disease module and 
+drug-target modules, combined with MR analysis to validate causal relationships between candidate drug targets and OA, 
+we selected candidate drugs riluzole, cholecalciferol and apremilast. All three compounds exhibit anti-OA potential: 
+cholecalciferol reduces synovial effusion27 and pain;28 Apremilast mitigates chondrocyte aging29 and inflammation;30 
+While riluzole emerges as a novel candidate requiring further exploration in OA therapeutics.
+Drug Design, Development and Therapy 2026:20                                                                             
+https://doi.org/10.2147/DDDT.S544803                                                                  
+15
+Liu et al
+Powered by TCPDF (www.tcpdf.org)
+Riluzole, a glutamate release inhibitor, is a neuroprotective agent approved for the treatment of amyotrophic lateral 
+sclerosis, a neurodegenerative disorder. In damaged joint, the release of glutamate promotes pain and induces inflamma­
+tion and degeneration.38,39 Memantine, also FDA-approved drug for the treatment of Alzheimer’s disease, exerts its 
+therapeutic effects by blocking the function of its downstream N-methyl-D-aspartate receptor (a subtype of glutamate 
+receptor) in the central nervous system. In a drug repositioning study for OA, memantine was found to not only prevents 
+cartilage degeneration but also aid in pain management.14 This evidence highlights the potential of repurposing glutamate 
+inhibitors, for the treatment of OA. In this study, the concentration of riluzole used in zebrafish (1–1.5 μM) is 
+significantly lower than the therapeutic dose for human ALS. It is hypothesized that a lower dose may be needed for 
+OA treatment, which may reduce the risk of elevated liver enzymes and central nervous system (CNS) side effects. While 
+riluzole has an established safety profile in ALS treatment, its long-term use in OA patients warrants careful considera­
+tion, particularly regarding liver function and CNS side effects. These concerns should be addressed in future clinical 
+trials, including dose-response studies specific to OA.
+To further validate the therapeutic effects of riluzole, we established an OA zebrafish model and administered 
+riluzole. Phenotypic observations revealed that riluzole treatment increased the joint space in the anal fin, indicating 
+a protective role in articular cartilage. Subsequent transcriptomic sequencing analysis of drug-treated zebrafish demon­
+strated that riluzole administration significantly suppressed inflammatory pathways, MAPK signaling pathways, and 
+catalytic activity-associated signaling pathways.
+Although riluzole has known therapeutic targets, the discovery of novel targets could expand its therapeutic 
+indications and enhance its clinical value. In this study, we employed online platforms to predict potential targets of 
+riluzole and identified overlapping targets by intersecting these predictions with DEGs from riluzole-treated samples. 
+Molecular docking analysis revealed that CTSS and NOS1 are potential novel targets of riluzole. CTSS, a lysosomal 
+cysteine protease, effectively hydrolyze aggrecan after release at the site of inflammation, leading to the destruction of 
+the chondrocyte extracellular matrix.40 NOS1 is a key enzyme that catalyzes the production of NO, excessive NO could 
+accelerate cartilage degradation in OA by promoting chondrocyte apoptosis and inhibiting cartilage repair mechanisms.41 
+Additionally, NO derived from NOS1 may exacerbate joint damage by promoting oxidative stress, thus driving further 
+disease progression.42 Among the five potential targets (CTSS, NOS1, PLCG2, QPCT, and PI4KA), CTSS and NOS1 
+were prioritized because (i) both demonstrated the strongest binding affinities in docking analysis, and (ii) previous 
+studies have reported significant associations of CTSS and NOS1 with OA pathogenesis. By contrast, the roles of 
+PLCG2, QPCT, and PI4KA in OA remain poorly characterized, and no direct evidence has yet linked them to OA 
+progression. Therefore, CTSS and NOS1 were highlighted as the most biologically relevant and mechanistically 
+plausible targets for riluzole in the current study.
+To further investigate the mechanism of CTSS and NOS1, we performed GSEA analysis of single genes and showed 
+that CTSS and NOS1 activate the MAPK/ERK signaling pathway. The MAPK pathway has been shown to be activated 
+in OA, and ERK, a member of the MAPK family, is known to have the ability to disrupt cartilage to promote OA.43,44 In 
+the riluzole-treated group, the expression of the CTSS, NOS1 and genes in MAPK/ERK signaling pathway was 
+significantly decreased, in addition, as targets of riluzole, CTSS and NOS1 activate the MAPK/ERK signaling pathway. 
+Therefore, we hypothesized that riluzole inhibits the progression of OA by inhibiting the expression of the targets CTSS 
+and NOS1, thus further inhibits the MAPK/ERK signaling pathway. Further in vivo validation is necessary to strengthen 
+the conclusions We propose establishing NOS1 and CTSS knockout zebrafish models using CRISPR/Cas9 technology to 
+examine whether gene knockouts in these pathways protect against OA progression. Additionally, constructing NOS1 
+and CTSS overexpression zebrafish models could help explore whether these molecules increase OA susceptibility, while 
+also verifying their regulatory effects on the MAPK/ERK signaling pathway.
+We have demonstrated the inhibitory effect of riluzole on OA through multiple bioinformatics methods and in vivo 
+experiments, identifying potential targets regulated by riluzole. However, our study has some limitations. First, extracting 
+OB from hard bone tissue is extremely challenging, limiting the amount of publicly available data and the number of 
+successfully isolated samples from our team. Increasing the sample size in future studies would strengthen the credibility 
+of our findings. The femoral heads used in this study were sourced from patients with advanced OA undergoing total hip 
+replacement, and it remains unclear whether similar OB-NE interactions occur in earlier OA stages. Future studies should 
+https://doi.org/10.2147/DDDT.S544803                                                                                                                                                                                                                                                                                                                                     
+Drug Design, Development and Therapy 2026:20 
+16
+Liu et al                                                                                                                                                                              
+Powered by TCPDF (www.tcpdf.org)
+investigate the role of these interactions at different stages of OA to better understand the progression of the disease and 
+the potential for drug repurposing. Second, network proximity is a powerful and widely used strategy in drug 
+repositioning, it has important limitations that should not be overlooked. Network-based proximity measures rely heavily 
+on the completeness and accuracy of the underlying interactome and disease module definitions and often consider global 
+network interactions, they may inadvertently prioritize drugs with broad molecular effects and increase the risk of off- 
+target effects. To improve reliability, future studies should integrate complementary drug repositioning strategies, such as 
+transcriptional signature reversal analysis (eg, CMap), alongside network-based approaches. Third, molecular docking 
+and transcriptome analysis indicated that CTSS and NOS1 are potential targets of riluzole, which may exert its effects by 
+regulating the MAPK/ERK pathway. These results provide preliminary evidence for the repurposing of riluzole in OA 
+treatment. However, the causal role of CTSS and NOS1 in OA requires additional verification through subsequent gene 
+interference experiments. Finally, although zebrafish anal fin joints share key features with human cartilage, their simpler 
+bone/immune systems suggest that validation in mammalian models would strengthen the conclusions. Future studies 
+should include OA femoral head samples from different stages to analyze changes in cell communication and assess the 
+efficacy of liraglutide at various stages of OA progression. Despite several other drugs with higher network proximity 
+scores, riluzole was selected due to its established safety profile in ALS treatment and its potential to modulate the CTSS/ 
+NOS1-MAPK/ERK pathway, which aligns with the specific mechanisms of OA pathogenesis identified in this study.
+Conclusion
+This study highlights riluzole as a promising repositioned drug for osteoarthritis by targeting OB-NE interaction, 
+a previously underexplored cellular mechanism in OA pathogenesis. Given riluzole’s existing clinical approval for 
+ALS and its well-established safety profile, the findings suggest strong translational potential for OA treatment, pending 
+further preclinical and clinical validation.
+Abbreviations
+CHON, Chondrocytes; DEGs, Differentially expressed genes; DEX, Dexamethasone; EC, Endothelial cells; eQTLs, 
+Expression quantitative trait locis; ER, Erythrocytes; GO, Gene Ontology; GWAS, genome-wide association study; IVW, 
+Inverse variance weighted; L-R, ligand-receptor; MAC, Macrophages; MACS, Magnetic-Activated Cell Sorting; MR, 
+Mendelian randomization; NE, neutrophils; OA, Osteoarthritis; OB, Osteoblasts; PC, Plasma cells; scDRS, single-cell 
+disease relevance score; scRNA-seq, single-cell RNA sequencing; SMC, Smooth muscle cells; SNPs, Single nucleotide 
+polymorphisms; TCC, Triclocarban; UMAP, Uniform manifold approximation and projection.
+Data Sharing Statement
+All the datasets could be downloaded directly from the indicated websites. We have uploaded the scRNA seq data of 
+three fracture samples to the GEO database (GSE286109). The three previous scRNA-seq data used in this study can be 
+accessed with accession number of GSE169396.
+Consent
+All authors approve the manuscript for publication. Written informed consent was obtained from all participants prior to 
+inclusion in the study, confirming their understanding and voluntary agreement with the research protocol.
+Funding
+There is no funding to report.
+Disclosure
+The authors have no competing interests in this work.
+Drug Design, Development and Therapy 2026:20                                                                             
+https://doi.org/10.2147/DDDT.S544803                                                                  
+17
+Liu et al
+Powered by TCPDF (www.tcpdf.org)
+References
+1. Knights AJ, Redding SJ, Maerz T. Inflammation in osteoarthritis: the latest progress and ongoing challenges. Curr Opin Rheumatol. 2023;35 
+(2):128–134. doi:10.1097/BOR.0000000000000923
+2. Lal JC, Mao C, Zhou Y, et al. Transcriptomics-based network medicine approach identifies metformin as a repurposable drug for atrial fibrillation. 
+Cell Rep Med. 2022;3(10):100749. doi:10.1016/j.xcrm.2022.100749
+3. Yang L, Tsang KY, Tang HC, Chan D, Cheah KS. Hypertrophic chondrocytes can become osteoblasts and osteocytes in endochondral bone 
+formation. Proc Natl Acad Sci USA. 2014;111(33):12097–12102. doi:10.1073/pnas.1302703111
+4. Karsdal MA, Bay-Jensen AC, Lories RJ, et al. The coupling of bone and cartilage turnover in osteoarthritis: opportunities for bone antiresorptives 
+and anabolics as potential treatments? Ann Rheum Dis. 2014;73(2):336–348. doi:10.1136/annrheumdis-2013-204111
+5. Lieben L. Osteoarthritis: osteophyte formation involves PAR2. Nat Rev Rheumatol. 2016;12(2):70–71. doi:10.1038/nrrheum.2016.6
+6. Wang S, Greenbaum J, Qiu C, et al. Single-cell RNA sequencing reveals in vivo osteoimmunology interactions between the immune and skeletal 
+systems. Front Endocrinol. 2023;14:1107511. doi:10.3389/fendo.2023.1107511
+7. Guder C, Gravius S, Burger C, Wirtz DC, Schildberg FA. Osteoimmunology: a current update of the interplay between bone and the immune 
+system. Front Immunol. 2020;11:58. doi:10.3389/fimmu.2020.00058
+8. Salhotra A, Shah HN, Levi B, Longaker MT. Mechanisms of bone development and repair. Nat Rev Mol Cell Biol. 2020;21(11):696–711. 
+doi:10.1038/s41580-020-00279-w
+9. Trapnell C, Cacchiarelli D, Grimsby J, et al. The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single 
+cells. Nat Bbiotechnol. 2014;32(4):381–386. doi:10.1038/nbt.2859
+10. Pliyev BK, Kalintseva MV, Abdulaeva SV, Yarygin KN, Savchenko VG. Neutrophil microparticles modulate cytokine production by natural killer 
+cells. Cytokine. 2014;65(2):126–129. doi:10.1016/j.cyto.2013.11.010
+11. Benigni G, Dimitrova P, Antonangeli F, et al. CXCR3/CXCL10 axis regulates neutrophil-NK cell cross-talk determining the severity of 
+experimental osteoarthritis. J Iimmunol. 2017;198(5):2115–2124. doi:10.4049/jimmunol.1601359
+12. Gong Y, Yang J, Li X, et al. A systematic dissection of human primary osteoblasts in vivo at single-cell resolution. Aging. 2021;13 
+(16):20629–20650. doi:10.18632/aging.203452
+13. Ashburn TT, Thor KB. Drug repositioning: identifying and developing new uses for existing drugs. Nat Rev Drug Discov. 2004;3(8):673–683. 
+doi:10.1038/nrd1468
+14. Cheng Q, He K, Zhu J, et al. Memantine attenuates the development of osteoarthritis by blocking NMDA receptor mediated calcium overload and 
+chondrocyte senescence. J Orthop Translat. 2024;48:204–216. doi:10.1016/j.jot.2024.08.007
+15. Blyufer A, Lhamo S, Tam C, Tariq I, Thavornwatanayong T, Mahajan SS. Riluzole: a neuroprotective drug with potential as a novel anti-cancer 
+agent (Review). Int J Oncol. 2021;59(5). doi:10.3892/ijo.2021.5275
+16. Qiu X, Liu Y, Shen H, et al. Single-cell RNA sequencing of human femoral head in vivo. Aging. 2021;13(11):15595–15619. doi:10.18632/ 
+aging.203124
+17. Hao Y, Hao S, Andersen-Nissen E, et al. Integrated analysis of multimodal single-cell data. Cell. 2021;184(13):3573–3587e29. doi:10.1016/j. 
+cell.2021.04.048
+18. Korsunsky I, Millard N, Fan J, et al. Fast, sensitive and accurate integration of single-cell data with Harmony. Nature Methods. 2019;16 
+(12):1289–1296. doi:10.1038/s41592-019-0619-0
+19. Hu C, Li T, Xu Y, et al. CellMarker 2.0: an updated database of manually curated cell markers in human/mouse and web tools based on scRNA-seq 
+data. Nucleic Acids Res. 2023;51(D1):D870–D876. doi:10.1093/nar/gkac947
+20. Zhang MJ, Hou K, Dey KK, et al. Polygenic enrichment distinguishes disease associations of individual cells in single-cell RNA-seq data. Nature 
+Genet. 2022;54(10):1572–1580. doi:10.1038/s41588-022-01167-z
+21. de Leeuw CA, Mooij JM, Heskes T, Posthuma D, de Leeuw CA. MAGMA: generalized gene-set analysis of GWAS data. PLoS Comput Biol. 
+2015;11(4):e1004219. doi:10.1371/journal.pcbi.1004219
+22. Fang J, Zhang P, Zhou Y, et al. Endophenotype-based in silico network medicine discovery combined with insurance record data mining identifies 
+sildenafil as a candidate drug for Alzheimer’s disease. Nat Aging. 2021;1(12):1175–1188. doi:10.1038/s43587-021-00138-z
+23. Fang J, Zhang P, Wang Q, et al. Artificial intelligence framework identifies candidate targets for drug repurposing in Alzheimer’s disease. 
+Alzheimers Res Ther. 2022;14(1):7. doi:10.1186/s13195-021-00951-z
+24. Zhang Y, He L, Yang Y, et al. Triclocarban triggers osteoarthritis via DNMT1-mediated epigenetic modification and suppression of COL2A in 
+cartilage tissues. J Hazard Mater. 2023;447:130747. doi:10.1016/j.jhazmat.2023.130747
+25. Chen WC, Lu YC, Kuo SJ, et al. Resistin enhances IL-1beta and TNF-alpha expression in human osteoarthritis synovial fibroblasts by inhibiting 
+miR-149 expression via the MEK and ERK pathways. FASEB J. 2020;34(10):13671–13684. doi:10.1096/fj.202001071R
+26. Lu W, Shi J, Zhang J, et al. CXCL12/CXCR4 axis regulates aggrecanase activation and cartilage degradation in a post-traumatic osteoarthritis rat 
+model. Int J Mol Sci. 2016;17(10):1522. doi:10.3390/ijms17101522
+27. Wang X, Cicuttini F, Jin X, et al. Knee effusion-synovitis volume measurement and effects of vitamin D supplementation in patients with knee 
+osteoarthritis. Osteoarthritis Cartilage. 2017;25(8):1304–1312. doi:10.1016/j.joca.2017.02.804
+28. George J. Vitamin D supplementation and progression of knee osteoarthritis. JAMA. 2016;316(3):347–348. doi:10.1001/jama.2016.6314
+29. Wang B, Sun W, Bi K, Li Y, Li F. Apremilast prevents IL-17-induced cellular senescence in ATDC5 chondrocytes mediated by SIRT1. Int J Mol 
+Med. 2021;47(3). doi:10.3892/ijmm.2021.4845
+30. Zhang Y, Huang X, Yuan Y. Anti-inflammatory capacity of Apremilast in human chondrocytes is dependent on SOX-9. Inflammation Res. 2020;69 
+(11):1123–1132. doi:10.1007/s00011-020-01392-4
+31. Jilka RL. The relevance of mouse models for investigating age-related bone loss in humans. J Gerontol a Biol Sci Med Sci. 2013;68 
+(10):1209–1217. doi:10.1093/gerona/glt046
+32. Liao Z, Jin Y, Chu Y, et al. Single-cell transcriptome analysis reveals aberrant stromal cells and heterogeneous endothelial cells in alcohol-induced 
+osteonecrosis of the femoral head. Commun Biol. 2022;5(1):324. doi:10.1038/s42003-022-03271-6
+33. Schieber M, Chandel NS. ROS function in redox signaling and oxidative stress. Curr Biol. 2014;24(10):R453–62. doi:10.1016/j.cub.2014.03.034
+https://doi.org/10.2147/DDDT.S544803                                                                                                                                                                                                                                                                                                                                     
+Drug Design, Development and Therapy 2026:20 
+18
+Liu et al                                                                                                                                                                              
+Powered by TCPDF (www.tcpdf.org)
+34. Sha Y, Marshall HE. S-nitrosylation in the regulation of gene transcription. Biochim Biophys Acta. 2012;1820(6):701–711. doi:10.1016/j. 
+bbagen.2011.05.008
+35. Riegger J, Schoppa A, Ruths L, Haffner-Luntzer M, Ignatius A. Oxidative stress as a key modulator of cell fate decision in osteoarthritis and 
+osteoporosis: a narrative review. Cell Mol Biol Lett. 2023;28(1):76. doi:10.1186/s11658-023-00489-y
+36. Fischer V, Haffner-Luntzer M. Interaction between bone and immune cells: implications for postmenopausal osteoporosis. Semin Cell Dev Biol. 
+2022;123:14–21. doi:10.1016/j.semcdb.2021.05.014
+37. Chakravarti A, Raquil MA, Tessier P, Poubelle PE. Surface RANKL of Toll-like receptor 4-stimulated human neutrophils activates osteoclastic 
+bone resorption. Blood. 2009;114(8):1633–1644. doi:10.1182/blood-2008-09-178301
+38. Bonnet CS, Gilbert SJ, Blain EJ, Williams AS, Mason DJ. AMPA/kainate glutamate receptor antagonists prevent posttraumatic osteoarthritis. JCI 
+Insight. 2020;5(13). doi:10.1172/jci.insight.134055
+39. Piepoli T, Mennuni L, Zerbi S, Lanza M, Rovati LC, Caselli G. Glutamate signaling in chondrocytes and the potential involvement of NMDA 
+receptors in cell proliferation and inflammatory gene expression. Osteoarthritis Cartilage. 2009;17(8):1076–1083. doi:10.1016/j.joca.2009.02.002
+40. Yasuda Y, Kaleta J, Bromme D. The role of cathepsins in osteoporosis and arthritis: rationale for the design of new therapeutics. Adv Drug Delivery 
+Rev. 2005;57(7):973–993. doi:10.1016/j.addr.2004.12.013
+41. Zhou Y, Liu SQ, Yu L, et al. Berberine prevents nitric oxide-induced rat chondrocyte apoptosis and cartilage degeneration in a rat osteoarthritis 
+model via AMPK and p38 MAPK signaling. Apoptosis. 2015;20(9):1187–1199. doi:10.1007/s10495-015-1152-y
+42. Bolduc JA, Collins JA, Loeser RF. Reactive oxygen species, aging and articular cartilage homeostasis. Free Radic Biol Med. 2019;132:73–82. 
+doi:10.1016/j.freeradbiomed.2018.08.038
+43. Loeser RF, Erickson EA, Long DL. Mitogen-activated protein kinases as therapeutic targets in osteoarthritis. Curr Opin Rheumatol. 2008;20 
+(5):581–586. doi:10.1097/BOR.0b013e3283090463
+44. Lohberger B, Kaltenegger H, Eck N, et al. Shikonin derivatives inhibit inflammation processes and modulate MAPK signaling in human healthy 
+and osteoarthritis chondrocytes. Int J Mol Sci. 2022;23(6):3396. doi:10.3390/ijms23063396
+Drug Design, Development and Therapy                                                                                     
+Publish your work in this journal 
+Drug Design, Development and Therapy is an international, peer-reviewed open-access journal that spans the spectrum of drug design and development 
+through to clinical applications. Clinical outcomes, patient safety, and programs for the development and effective, safe, and sustained use of medicines 
+are a feature of the journal, which has also been accepted for indexing on PubMed Central. The manuscript management system is completely online 
+and includes a very quick and fair peer-review system, which is all easy to use. Visit http://www.dovepress.com/testimonials.php to read real quotes 
+from published authors.  
+Submit your manuscript here: https://www.dovepress.com/drug-design-development-and-therapy-journal
+Drug Design, Development and Therapy 2026:20                                                                                     
+19
+Liu et al
+Powered by TCPDF (www.tcpdf.org)

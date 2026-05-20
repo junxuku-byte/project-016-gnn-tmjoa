@@ -1,0 +1,37 @@
+{
+  "title": "Inhibition of FGFR Signaling Partially Rescues Osteoarthritis in Mice Overexpressing High Molecular Weight FGF2 Isoforms",
+  "authors": "Liping Xiao et al.",
+  "year": 2020,
+  "journal": "Endocrinology",
+  "category": "general",
+  "research_question": "Does in vivo treatment with the FGFR tyrosine kinase inhibitor NVP-BGJ398 modulate the development of osteoarthritis (OA) phenotype in HMWTg mice overexpressing high molecular weight FGF2 isoforms?",
+  "methods_summary": [
+    "Transgenic mouse model (HMWTg mice overexpressing HMWFGF2 isoforms in osteoblast lineage)",
+    "In vivo treatment with FGFR inhibitor NVP-BGJ398 (2 mg/kg, daily subcutaneous injection for 13 weeks starting at 21 days of age)",
+    "Micro-computed tomography (microCT) for bone morphometry",
+    "Histological assessment (Safranin-O staining, alkaline phosphatase staining, OARSI scoring)",
+    "Real-time quantitative RT-PCR (qRT-PCR) for gene expression",
+    "Immunohistochemistry for protein expression and localization",
+    "Serum FGF23 and estradiol measurement by ELISA"
+  ],
+  "dataset": "HMWTg transgenic mice and VectorTg control mice (FVBN strain), both male and female, treated with vehicle or BGJ (n=7-9 males/group, n=7-8 females/group)",
+  "key_findings": [
+    "BGJ treatment partially rescued radiographic and microCT abnormalities (irregular subchondral bone, decreased BV/TV, Tb.Th, Tb.N) in HMWTg mice, especially in males.",
+    "BGJ restored articular cartilage thickness and proteoglycan content, and reduced OARSI scores in HMWTg mice.",
+    "BGJ decreased OA degradative enzymes (MMP13, ADAMTS5) and hypertrophic markers (Col10, SOX9) in HMWTg joints.",
+    "BGJ reduced increased pFGFR1, FGF23, and Wnt signaling components (WNT7b, pLRP5, active β-catenin, AXIN2, pGSK3β) while restoring Wnt inhibitors (DKK1, SOST) in HMWTg cartilage.",
+    "BGJ had negative effects on bone parameters in female VectorTg mice but did not alter serum estradiol levels."
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "FGFR inhibitor",
+    "osteoarthritis",
+    "FGF2 isoforms",
+    "HMWTg mice",
+    "Wnt signaling",
+    "NVP-BGJ398",
+    "cartilage",
+    "subchondral bone"
+  ],
+  "extracted_insights": "Overexpression of HMWFGF2 isoforms in preosteoblasts leads to osteoarthropathy partially mediated by increased FGFR1 signaling and aberrant Wnt pathway activation. The FGFR inhibitor NVP-BGJ398 partially rescues the OA phenotype by reducing activated Wnt signaling, suggesting FGFR blockade as a potential therapeutic strategy for OA associated with XLH and related conditions."
+}

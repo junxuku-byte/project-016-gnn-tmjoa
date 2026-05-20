@@ -1,0 +1,362 @@
+{
+  "pubmed_excl_graph": {
+    "method": "PubMed search excluding graph-construction PMIDs",
+    "graph_pmids_excluded": 442,
+    "results": [
+      {
+        "drug": "Dextrose",
+        "total": 217,
+        "excluded": 1,
+        "clean": 216,
+        "evidence_clean": "strong"
+      },
+      {
+        "drug": "Hypertonic dextrose",
+        "total": 18,
+        "excluded": 0,
+        "clean": 18,
+        "evidence_clean": "strong"
+      },
+      {
+        "drug": "Prolotherapy",
+        "total": 55,
+        "excluded": 0,
+        "clean": 55,
+        "evidence_clean": "strong"
+      },
+      {
+        "drug": "Chondroitin",
+        "total": 82,
+        "excluded": 3,
+        "clean": 79,
+        "evidence_clean": "strong"
+      },
+      {
+        "drug": "Dextrose prolotherapy",
+        "total": 47,
+        "excluded": 0,
+        "clean": 47,
+        "evidence_clean": "strong"
+      },
+      {
+        "drug": "PDRN",
+        "total": 3,
+        "excluded": 0,
+        "clean": 3,
+        "evidence_clean": "moderate"
+      },
+      {
+        "drug": "Zinc",
+        "total": 100,
+        "excluded": 3,
+        "clean": 97,
+        "evidence_clean": "strong"
+      },
+      {
+        "drug": "BGJ398",
+        "total": 0,
+        "excluded": 0,
+        "clean": 0,
+        "evidence_clean": "none"
+      },
+      {
+        "drug": "Resveratrol",
+        "total": 11,
+        "excluded": 2,
+        "clean": 9,
+        "evidence_clean": "moderate"
+      },
+      {
+        "drug": "Quercetin",
+        "total": 6,
+        "excluded": 0,
+        "clean": 6,
+        "evidence_clean": "moderate"
+      },
+      {
+        "drug": "Curcumin",
+        "total": 8,
+        "excluded": 2,
+        "clean": 6,
+        "evidence_clean": "moderate"
+      },
+      {
+        "drug": "Aspirin",
+        "total": 25,
+        "excluded": 0,
+        "clean": 25,
+        "evidence_clean": "strong"
+      },
+      {
+        "drug": "Metformin",
+        "total": 7,
+        "excluded": 0,
+        "clean": 7,
+        "evidence_clean": "moderate"
+      },
+      {
+        "drug": "Insulin",
+        "total": 146,
+        "excluded": 1,
+        "clean": 145,
+        "evidence_clean": "strong"
+      },
+      {
+        "drug": "Fisetin",
+        "total": 1,
+        "excluded": 0,
+        "clean": 1,
+        "evidence_clean": "weak"
+      },
+      {
+        "drug": "Alendronate",
+        "total": 18,
+        "excluded": 2,
+        "clean": 16,
+        "evidence_clean": "strong"
+      },
+      {
+        "drug": "Riluzole",
+        "total": 1,
+        "excluded": 0,
+        "clean": 1,
+        "evidence_clean": "weak"
+      },
+      {
+        "drug": "Cisplatin",
+        "total": 51,
+        "excluded": 0,
+        "clean": 51,
+        "evidence_clean": "strong"
+      },
+      {
+        "drug": "EGCG",
+        "total": 5,
+        "excluded": 0,
+        "clean": 5,
+        "evidence_clean": "moderate"
+      },
+      {
+        "drug": "Denosumab",
+        "total": 7,
+        "excluded": 0,
+        "clean": 7,
+        "evidence_clean": "moderate"
+      }
+    ],
+    "summary": {
+      "raw_confirmed": 19,
+      "clean_confirmed": 19,
+      "strong": 10,
+      "moderate": 7,
+      "weak": 2,
+      "none": 1
+    }
+  },
+  "openalex": [
+    {
+      "drug": "Dextrose",
+      "count": 1010,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Hypertonic dextrose",
+      "count": 106,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Prolotherapy",
+      "count": 362,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Chondroitin",
+      "count": 1349,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Dextrose prolotherapy",
+      "count": 216,
+      "evidence": "strong"
+    },
+    {
+      "drug": "PDRN",
+      "count": 24,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Zinc",
+      "count": 6804,
+      "evidence": "strong"
+    },
+    {
+      "drug": "BGJ398",
+      "count": 19,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Resveratrol",
+      "count": 974,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Quercetin",
+      "count": 902,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Curcumin",
+      "count": 1278,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Aspirin",
+      "count": 1381,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Metformin",
+      "count": 1035,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Insulin",
+      "count": 8162,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Fisetin",
+      "count": 85,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Alendronate",
+      "count": 568,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Riluzole",
+      "count": 76,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Cisplatin",
+      "count": 1505,
+      "evidence": "strong"
+    },
+    {
+      "drug": "EGCG",
+      "count": 215,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Denosumab",
+      "count": 389,
+      "evidence": "strong"
+    }
+  ],
+  "scopus": [
+    {
+      "drug": "Dextrose",
+      "count": 65,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Hypertonic dextrose",
+      "count": 14,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Prolotherapy",
+      "count": 81,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Chondroitin",
+      "count": 95,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Dextrose prolotherapy",
+      "count": 41,
+      "evidence": "strong"
+    },
+    {
+      "drug": "PDRN",
+      "count": 4,
+      "evidence": "moderate"
+    },
+    {
+      "drug": "Zinc",
+      "count": 217,
+      "evidence": "strong"
+    },
+    {
+      "drug": "BGJ398",
+      "count": 0,
+      "evidence": "none"
+    },
+    {
+      "drug": "Resveratrol",
+      "count": 13,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Quercetin",
+      "count": 11,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Curcumin",
+      "count": 17,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Aspirin",
+      "count": 115,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Metformin",
+      "count": 15,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Insulin",
+      "count": 186,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Fisetin",
+      "count": 1,
+      "evidence": "weak"
+    },
+    {
+      "drug": "Alendronate",
+      "count": 15,
+      "evidence": "strong"
+    },
+    {
+      "drug": "Riluzole",
+      "count": 0,
+      "evidence": "none"
+    },
+    {
+      "drug": "Cisplatin",
+      "count": 52,
+      "evidence": "strong"
+    },
+    {
+      "drug": "EGCG",
+      "count": 1,
+      "evidence": "weak"
+    },
+    {
+      "drug": "Denosumab",
+      "count": 19,
+      "evidence": "strong"
+    }
+  ],
+  "cross_confirmed_2plus": 19,
+  "cross_confirmed_3": 18
+}

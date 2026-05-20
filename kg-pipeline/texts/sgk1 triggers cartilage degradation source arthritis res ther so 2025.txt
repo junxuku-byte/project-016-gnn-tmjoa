@@ -1,0 +1,668 @@
+RESEARCH
+Open Access
+© The Author(s) 2025. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the 
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit ​h​t​t​p​:​/​/​c​r​e​a​t​i​
+v​e​c​o​m​m​o​n​s​.​o​r​g​/​l​i​c​e​n​s​e​s​/​b​y​-​n​c​-​n​d​/​4​.​0​/.
+Tang et al. Arthritis Research & Therapy          (2025) 27:231 
+https://doi.org/10.1186/s13075-025-03690-w
+Arthritis Research & Therapy
+†Hongyao Tang and Chuan Ma contributed equally to this work.
+*Correspondence:
+Lei Chen
+sddxchenlei@163.com
+1Department of Orthodontics, School and Hospital of Stomatology, 
+Cheeloo College of Medicine, Shandong Key Laboratory of Oral Tissue 
+Regeneration & Shandong Engineering Research Center of Dental 
+Materials and Oral Tissue Regeneration & Shandong Provincial Clinical 
+Research Center for Oral Diseases, Shandong University, No. 44-1 Wenhua 
+Road West, Jinan 250012, Shandong, China
+2Department of Oral and Maxillofacial Surgery, School and Hospital of 
+Stomatology, Cheeloo College of Medicine, Shandong Key Laboratory 
+of Oral Tissue Regeneration & Shandong Engineering Research Center 
+of Dental Materials and Oral Tissue Regeneration & Shandong Provincial 
+Clinical Research Center for Oral Diseases, Shandong University, No. 44-1 
+Wenhua Road West, Jinan 250012, Shandong, China
+3Department of Nuclear Medicine, The 960th Hospital of PLA, 
+Jinan 250031, China
+4Department of Otolaryngology-Head and Neck Surgery, Cheeloo 
+College of Medicine, Shandong Provincial ENT Hospital, Shandong 
+University, Jinan 250022, Shandong, China
+Abstract
+Background  Temporomandibular joint osteoarthritis (TMJOA) is a prevalent inflammatory disease with unclear 
+pathogenesis. Serum and glucocorticoid-inducible kinase 1 (SGK1) has been implicated in osteoarthritis-related 
+cartilage degeneration. This study investigated the role of SGK1 in a mouse model of TMJOA and explored its 
+mechanism, focusing on SGK1’s regulation of Forkhead box O1 (FoxO1) and its subsequent effects on autophagy and 
+extracellular matrix degradation in mouse condylar chondrocytes (MCCs).
+Methods  A TMJOA model was established using unilateral anterior crossbite (UAC), and an SGK1 knockdown model 
+was generated via intra-articular injection of AAV virus.
+Results  SGK1 expression was significantly upregulated in condylar cartilage of UAC-induced TMJOA mice. SGK1 
+knockdown alleviated cartilage matrix degradation and increased the expression of anabolic marker. In MCCs, SGK1 
+directly bound to FoxO1, promoting its phosphorylation and nuclear export, thereby inhibiting autophagy. Inhibiting 
+SGK1 enhanced autophagy, as evidenced by increased Beclin-1, elevated LC3-II/LC3-I ratio, and decreased P62, which 
+consequently attenuated IL-1β-induced extracellular matrix catabolism. These effects were reversed by autophagy 
+inhibitor chloroquine and FoxO1 inhibitor AS1842856.
+Conclusions  This study is the first to propose the regulatory role of SGK1 in TMJOA, providing new insights for future 
+therapeutic research.
+Keywords  Temporomandibular joint, Condylar cartilage, Chondrocyte, Extracellular matrix, Catabolism, Anabolism
+SGK1 triggers cartilage degradation in TMJOA 
+via FoxO1/autophagy
+Hongyao Tang1†, Chuan Ma2†, Mengchen Xu1, Gaoyi Wu3, Na Li4 and Lei Chen1*
+Page 2 of 11
+Tang et al. Arthritis Research & Therapy          (2025) 27:231 
+Background
+Temporomandibular joint osteoarthritis (TMJOA) is 
+characterized by the gradual deterioration of cartilage, 
+remodeling of the underlying bone, inflammation in the 
+synovial membrane, and persistent pain [1]. The preva­
+lence of this condition varies from 8% to 60%, with a 
+higher occurrence among women [2, 3]. Currently, symp­
+tomatic treatment can control pain and inflammation, 
+but effective strategies for alleviating TMJOA progression 
+are lacking. Unlike the hyaline cartilage found in knees 
+and hips, the TMJ is composed of fibrocartilage and is 
+subjected to a distinct biomechanical environment influ­
+enced by complex occlusal forces and mandibular move­
+ments [2, 4]. This fundamental anatomical and functional 
+difference suggests that the pathological mechanisms 
+underlying TMJOA may not simply mirror those in other 
+joints, necessitating dedicated investigation.
+Autophagy, a crucial cellular catabolic process, has 
+emerged as a key regulatory mechanism in cartilage 
+homeostasis. Its dysregulation is implicated in the patho­
+genesis of various arthritic degenerative diseases [5, 
+6]. Under inflammatory conditions, autophagy is often 
+suppressed in chondrocytes, leading to an imbalance 
+in extracellular matrix (ECM) metabolism—promot­
+ing the expression of catabolic enzymes (e.g., MMP-
+13, ADAMTS-5) while inhibiting anabolic factors (e.g., 
+Collagen Type II Alpha 1 Chain, COL2A1; Aggrecan, 
+ACAN) [7–9]. Consequently, enhancing autophagy has 
+been proposed as a potential therapeutic strategy for OA.
+Serum and glucocorticoid-regulated kinase 1 (SGK1), a 
+member of the AGC kinase family, is a well-established 
+negative regulator of autophagy [10–12]. Its expression 
+is markedly elevated in osteoarthritic cartilage tissues, 
+wherein SGK1 suppression effectively activates autoph­
+agy and significantly attenuates ECM degradation [13]. 
+In chondrocytes, inhibition of SGK1 with the Chinese 
+herbal compound columbianetin activates autophagy, 
+thereby reducing cell death and alleviating osteoarthritis 
+progression [14]. Moreover, SGK1 modulates autoph­
+agy through its action on the downstream transcription 
+factor Forkhead box O1 (FoxO1) [15–17]. SGK1 phos­
+phorylates FoxO1, prompting its translocation from the 
+nucleus to the cytoplasm, which leads to FoxO1 down­
+regulation and consequent suppression of autophagy [18, 
+19].
+Given the potential involvement of SGK1-FoxO1 
+signaling and autophagic dysfunction in TMJOA, we 
+hypothesized that SGK1 exacerbates TMJOA by inhibit­
+ing autophagy via FoxO1 phosphorylation. In this study, 
+we aimed to understand the impact of SGK1 on TMJOA 
+in a mouse model. To elucidate potential underlying 
+mechanisms, we investigated how SGK1 affects autoph­
+agy and cell matrix degradation in mouse condylar chon­
+drocytes (MCCs) by regulating FoxO1. Our findings 
+contribute toward developing more effective TMJOA 
+treatments.
+Methods
+Animal models
+Twelve C57BL/6J mice (male; 8 weeks) were divided into 
+Control (n = 6) and unilateral anterior crossbite (UAC) 
+groups (n = 6) using a random allocation method. In the 
+UAC group, the upper and lower incisors on the right 
+side were bonded to construct an anterior anticlinal 
+occlusal relationship, and the intervention lasted for 21 
+days. In the Control group, the same operation was per­
+formed but without bonding the cannulas. All mice were 
+reared under the same conditions. All experimental pro­
+cedures involving animals were approved by the Ethics 
+Committee at Shandong University (no: 2022080606, 29 
+July 2022).
+Histological analysis
+Arthritis was assessed using the Osteoarthritis Research 
+Society International (OARSI) scoring system: grade 0: 
+normal cartilage with smooth surface; grade 1: cartilage 
+surface affected, with slight fibrosis and abrasion-like 
+changes; grade 2: localized fibrosis in superficial layers of 
+cartilage; grade 3: presence of vertical fissures (3.5 if there 
+are branches); grade 4: cartilage erosion (4.5 if there is 
+exfoliation); grade 5: exposed or semi-exposed phenom­
+enon in the depths of cartilage; repair tissue on bone sur­
+face may be 5.5; grade 6: joint deformation with marginal 
+or central osteophytes.
+To analyze optical density, positive cellular responses 
+(brownish-yellow or reddish area) in the image were 
+assessed in Image-Pro Plus 6.0 (Media Cybernetics, Inc. 
+Rockville, MD, USA). The total positive optical density 
+was determined by multiplying the area of the image pix­
+els, and the average optical density (AOD) was obtained 
+through their division. Positive response increases as the 
+AOD rises, which is calculated by dividing optical density 
+by pixel area.
+Hematoxylin-eosin (H&E) staining
+Tissue sections were placed in xylene for dewaxing; 
+hematoxylin staining was processed for 5 min. After acid 
+washing, the sections were immersed in a 0.5% eosin 
+solution for 2 min before being desiccated and securely 
+sealed. Sections were analyzed using the OARSI scoring 
+system.
+Safranin O staining
+The tissue sections underwent deparaffinization, fol­
+lowed by 3–5 min of staining with solid green and sub­
+sequent washing to eliminate excess stain. The sections 
+were stained with safranin O for 1 min and washed again, 
+dehydrated in anhydrous ethanol, and blocked with 
+Page 3 of 11
+Tang et al. Arthritis Research & Therapy          (2025) 27:231 
+neutral gum. The proportion of positive areas was ana­
+lyzed based on AOD.
+Immunohistochemical (IHC) staining
+Sections were dewaxed and dehydrated and then 
+immersed in a 3% hydrogen peroxide solution for approx­
+imately 10 min, followed by rinsing with PBS. An antigen 
+retrieval solution was added and incubated at ambient 
+temperature for 20  min; 10% goat serum was used for 
+sealing. The primary antibody was diluted and incubated 
+at 37 ℃ for 2  h. The secondary antibody labeled with 
+horseradish peroxidase (Beyotime, China) was added 
+and incubated at 37 ℃ for 1.5  h, and chromatography 
+was performed. The proportion of positively stained cells 
+was analyzed based on AOD, and the primary antibodies 
+were against SGK1 (1:1000, Sigma, USA) and COL2A1 
+(1:1000, Sigma).
+SGK1-knockout mice
+Twenty-four male, 6–8-week-old C57BL/6 mice were 
+selected for TMJ intra-articular injection of AAV9-SGK1 
+with AAV9-GFP (Vizen Biotech, China). Each mouse was 
+injected unilaterally into the TMJ with 15 µl, 1 × 1012 vg/
+ml. After 2 weeks, a 3-week UAC inflammation model 
+(UAC group) and negative control groups were con­
+structed. The mice were categorized into AAV9-GFP (6 
+mice), AAV9-SGK1 (6 mice), UAC + AAV9-GFP (6 mice), 
+and UAC + AAV9-SGK1 (6 mice) groups. The final TMJs 
+were collected for histological analysis after euthanizing 
+the mice.
+MCCs culturing and characterization
+MCCs were isolated from condylar tissues of eight male, 
+3-week-old C57BL/6J mice. The condylar tissues were 
+fragmented using delicate surgical scissors; the condy­
+lar tissues underwent enzymatic digestion with 1 ml of 
+pancreatic enzyme solution (0.25%) at 37 ℃ for 20 min, 
+followed by digestion with 1  ml of type II collagenase 
+solution (2 mg/ml) at 37 ℃ for 120 min. Afterward, the 
+cells were placed in a culture medium containing 15% 
+fetal bovine serum and incubated at 37℃ with 5% CO2. 
+To visualize their characteristics, the MCCs were stained 
+with Alcian blue (1%) for approximately 30  min, after 
+which they were rinsed with distilled water. Samples 
+were observed following dehydration and transparency 
+procedures.
+MCCs were subsequently subjected to procedures and 
+assays, including cell transfection, drug treatment, cell 
+immunofluorescence, 
+monodansylcadaverine 
+(MDC) 
+staining, real-time quantitative PCR, western blot­
+ting, and immunoprecipitation, which are detailed in 
+Additional File (Table S1, Table S2  and Supplementary 
+Methods).
+Cell transfection
+After achieving 85% density in 6-well plates, the MCCs 
+underwent transfection using a transfection reagent 
+(lipofectamine 
+RNAiMAX 
+reagent) 
+(GenePharma, 
+China). The cells were collected 48  h after transfection 
+for examination. si-RNA (GenePharma) sequences are 
+shown in Table S1.
+Autophagy and FoxO1 Inhibition
+To investigate functional rescue, we administered spe­
+cific inhibitors to MCCs following siRNA transfec­
+tion and IL-1β challenge. The cells were incubated with 
+either chloroquine (CQ, 25 µmol/L; Sigma) to suppress 
+autophagy or AS1842856 (1 µmol/L; Sigma) to inhibit 
+FoxO1 signaling for a duration of 24 h. Additional experi­
+mental procedures are described in the Supplementary 
+Materials.
+Statistical analysis
+The t-test was used to analyze the differences between 
+two groups. Data across multiple groups were compared 
+using a one-way ANOVA followed by the Student–New­
+man–Keuls post-hoc test. The normality was confirmed 
+using Shapiro–Wilk test, and homogeneity of variance 
+was verified via F-tests (for t-tests) or Bartlett’s test (for 
+ANOVA). *P < 0.05, **P < 0.01, and ***P < 0.001 indicated 
+significance. All statistical tests were performed using 
+GraphPad Prism 9.0 (La Jolla, CA, USA).
+Results
+Establishment of TMJOA model and upregulation of SGK1
+H&E staining and OARSI scoring indicated that the UAC 
+group had a significantly higher score than the Control 
+group (Fig.  1A and B). Safranin O staining analysis of 
+AOD demonstrated reduced proteoglycan content in the 
+UAC group (Fig. 1C and D). IHC staining and optical den­
+sity values showed that the expression rate of COL2A1 in 
+the UAC group was significantly lower than that in the 
+Control group (Fig. 1E and F). Thus, the UAC inflamma­
+tion model was successfully constructed, and the mouse 
+condyle cartilage matrix degraded under inflammatory 
+conditions. Conversely, IHC indicated markedly higher 
+SGK1 expression in the UAC group (Fig.  1G and H). 
+MCCs were successfully isolated and identified via Alcian 
+blue staining (Fig. 1I). Furthermore, in IL-1β-stimulated 
+MCCs, IF, qPCR, and WB analyses consistently showed 
+upregulation of SGK1 at both mRNA and protein levels 
+(Fig. 1J–N). These results confirm aberrant SGK1 upreg­
+ulation in TMJOA inflammation.
+SGK1 knockdown alleviates TMJOA cartilage ECM 
+degradation
+To explore the role of SGK1 in TMJOA, SGK1-knock­
+down mice were generated via articular cavity injection 
+Page 4 of 11
+Tang et al. Arthritis Research & Therapy          (2025) 27:231 
+Fig. 1  SGK1 expression in TMJOA cartilage and MCCs. A, C Representative H&E and Safranin O staining of normal and UAC inflamed TMJ (scale bar: 
+200 μm). B Cartilage destruction in Control and UAC groups, under H&E staining, assessed based on OARSI scoring. D Cartilage matrix degradation in 
+Control and UAC groups, under saffron O staining, assessed based on optical density value. Representative IHC images of COL2A1 (E) and SGK1 (G) in 
+the above TMJ (scale bar: 200 μm). Optical density quantification of COL2A1 (F) and SGK1 (H) (Control vs. UAC groups, IHC). I Representative Alcian blue 
+staining of extracted MCCs (scale bar: 100 μm). J, K WB of MCCs after 24 h IL-1β treatment. L, M IF results after 24 h of IL-1β-treated MCCs. N qPCR of MCCs 
+after 24 h IL-1β treatment. Data represent means ± SD (n ≥ 3), *P < 0.05, **P < 0.01
+ 
+Page 5 of 11
+Tang et al. Arthritis Research & Therapy          (2025) 27:231 
+of AAV9 and subjected to UAC-induced inflammation 
+(Fig.  2A). SGK1 knockdown efficiency was verified via 
+IHC (Fig. 2B and C). Safranin O staining revealed greater 
+cartilage matrix loss in the UAC + AAV9-GFP group than 
+in the UAC + AAV9-SGK1 group (Fig.  2D–F), suggest­
+ing that SGK1 knockdown alleviates matrix degrada­
+tion. Under inflammatory conditions, SGK1 knockdown 
+significantly increased COL2A1 expression (Fig. 2F and 
+G), whereas no notable difference was observed between 
+non-inflammatory AAV9-GFP and AAV9-SGK1 groups, 
+indicating that SGK1 mainly influences ECM metabolism 
+under inflammatory stimulation.
+Given that SGK1 knockdown could alleviate ECM deg­
+radation in TMJOA, we knocked down SGK1 in MCCs 
+with the IL-1β-induced inflammatory microenviron­
+ment (Fig.  2H–J). qPCR and WB showed that, in this 
+inflammatory context, MCCs downregulated COL2A1 
+and ACAN and upregulated MMP13 and ADAMTS-5, 
+i.e., exhibiting ECM degradation. Knocking down SGK1 
+gradually restored ECM metabolic homeostasis (Fig. 2K–
+M). Thus, at the cellular level, IL-1β-induced ECM degra­
+dation occurred in the inflammatory microenvironment 
+of MCCs, which was reversed by SGK1 knockdown.
+SGK1 knockdown enhances autophagy to alleviate ECM 
+degradation
+As SGK1 acts as an autophagy inhibitor, we investi­
+gated whether cellular autophagy contributes to SGK1-
+mediated ECM regulation. SGK1 knockdown promoted 
+autophagy in MCCs, which was confirmed by the relative 
+upregulation of Beclin-1 and LC3-II/LC3-I conversion 
+levels and the relative downregulation of P62 expression 
+(Fig. 3A–C). MDC staining further confirmed increased 
+autophagosome formation (Fig.  3D and E), indicating 
+that SGK1 negatively regulates autophagy in MCCs. Sub­
+sequently, an autophagy inhibition rescue experiment 
+was conducted using CQ, with ECM metabolic indicators 
+detected using WB. CQ reversed the relief of ECM meta­
+bolic disorders originally caused by SGK1 knockdown 
+(Fig. 3F and G). This functional reversal experiment fur­
+ther demonstrated that the ECM metabolic imbalance 
+exhibited in inflamed MCCs is mediated by autophagy, 
+and that SGK1 also affects ECM metabolism through 
+autophagy.
+SGK1 phosphorylate FoxO1 and regulate its subcellular 
+localization
+Co-immunoprecipitation confirmed a direct interac­
+tion between SGK1 and FoxO1 in MCCs (Fig. 4A). WB 
+confirmed that SGK1 knockdown inhibited FoxO1 phos­
+phorylation in the inflammatory microenvironment of 
+MCCs, i.e., the ratio of p-FoxO1/FoxO1 was markedly 
+downregulated (Fig.  4B and C). Phosphorylation regu­
+lation is often associated with subcellular localization. 
+Our WB with IF analyses showed that SGK1 knock­
+down increased FoxO1 in the nucleus (Fig. 4D–G). In the 
+inflammatory microenvironment of MCCs, SGK1 inter­
+acts with FoxO1 and induces phosphorylation, thereby 
+regulating the subcellular localization of FoxO1. Spe­
+cifically, this leads to an increase in FoxO1 outside the 
+nucleus.
+To determine whether FoxO1 mediates SGK1-
+regulated autophagy and ECM metabolism, rescue 
+experiments were performed using a FoxO1 inhibitor 
+(AS1842856). WB showed that SGK1 knockdown alle­
+viated ECM degradation and promoted autophagy in 
+MCCs, which was reversed by AS (Fig. 5A and B). Thus, 
+in the inflammatory conditions, SGK1 knockdown 
+increased cellular autophagy, and alleviated ECM degra­
+dation in a FoxO1-dependent manner.
+Discussion
+Current research investigating the influence of SGK1 
+on OA progression is focused on major joints like knees 
+and ankles and less so on TMJOA. As the only joint in 
+the maxillofacial region, the soft and hard tissues of the 
+TMJ are constantly altered by the interactions with the 
+surrounding structures and their environment, including 
+occlusal forces, resulting in a landscape more complex 
+than that found in other joints. Additionally, the sensi­
+tivity of SGK1-related inhibitors or drugs is regulated to 
+some extent by SGK2 and SGK3 [1, 20]. In drug trials, the 
+treatment of SGK1 by relevant inhibitors or drugs had a 
+limited impact on the normal homeostasis of the over­
+all organism [21]. Therefore, exploring the link between 
+SGK1 and TMJOA has potential clinical therapeutic 
+value.
+In this study, SGK1 was found to regulate autophagy 
+during cartilage matrix metabolism by altering FoxO1 
+subcellular localization. We verified that SGK1 knock­
+down can alleviate ECM degradation in TMJOA by acti­
+vating cellular autophagy through both in vivo and ex 
+vivo experiments. Rescue experiments using a FoxO1-
+specific inhibitor (AS1842856) confirmed that FoxO1 is 
+the core downstream target of SGK1 in regulating carti­
+lage matrix metabolism (Fig. 5A and B). Furthermore, its 
+mediated decrease in FoxO1 phosphorylation, resulting 
+in increased retention in the nucleus, may be the key to 
+the regulation of ECM metabolism by autophagy-associ­
+ated proteins in MCCs (Fig. 5C).
+SGK1 is an immediate-early gene widely expressed in 
+the tissues examined but is subject to strict transcrip­
+tional and post-transcriptional regulation. The half-life of 
+both the mRNA and protein does not exceed 30 min [22]. 
+This early and stringent transcriptional management 
+means that SGK1 expression is characterized by protein 
+stability, and therefore, any expression aberrations may 
+influence various pathophysiological processes. SGK1 
+Page 6 of 11
+Tang et al. Arthritis Research & Therapy          (2025) 27:231 
+Fig. 2  Effect of SGK1 knockdown on TMJ cartilage matrix metabolism. A Schematic diagram of animal experiments. B Representative IHC images of SGK1 
+in the four groups. C Quantitative analysis of AOD. D Representative images of Sanguinaria O staining in the four groups and (E) quantitative analysis 
+of AOD, scale bar: 200 μm. F Representative images of cartilage matrix metabolism index (COL2A1) IHC and (G) quantitative analysis of AOD, scale bar: 
+200 μm. H–J Validation of SGK1 knockdown efficiency in transfected MCCs. K qPCR for COL2A1, ACAN, MMP13, ADAMTS-5 in MCCs (transfected 24 h, then 
+IL-1β treated 24 h). L WB for COL2A1, ACAN, MMP13 under the same conditions as (K). M Semi-quantitative analysis represented as the average ± standard 
+deviation (n = 3). *P < 0.05, **P < 0.01, ns indicates no significant difference
+ 
+Page 7 of 11
+Tang et al. Arthritis Research & Therapy          (2025) 27:231 
+Fig. 3  SGK1-mediated autophagy in MCCs affects ECM metabolism. A qPCR for autophagy markers in MCCs (transfected 24 h, then IL-1β treated 24 h). 
+B WB for autophagy markers under the same conditions as (A). C Semi-quantitative analysis of (B). D, E MDC staining to detect autophagic vesicles in 
+MCCs. F WB for ECM metabolism markers in MCCs after 24 h CQ treatment. G Semi-quantitative analysis of (F). Data represent means ± SD (n = 3), *P < 0.05, 
+**P < 0.01, ***P < 0.001, ns no significant difference
+ 
+Page 8 of 11
+Tang et al. Arthritis Research & Therapy          (2025) 27:231 
+Fig. 4  SGK1 binds FoxO1 to phosphorylate it and regulate its subcellular localization. A Co-IP verified the interaction between FoxO1 and SGK1. B After 
+24 h of treatment with si-NC or si-SGK1 transfection, followed by 2 h of treatment with IL-1β, the expression of FoxO1 and p-FoxO1 was detected via WB. 
+C Semi-quantitative analysis. D FoxO1 expression levels in the nuclei of MCCs detected via WB. E Semi-quantitative analysis. F, G Expression of FoxO1 in 
+the nucleus of cells detected via IF. Data represent means ± SD (n = 3), *P < 0.05, **P < 0.01, ns no significant difference
+ 
+Page 9 of 11
+Tang et al. Arthritis Research & Therapy          (2025) 27:231 
+Fig. 5  SGK1 regulates autophagy and alleviates ECM degradation in MCCs via FoxO1. A Autophagy and ECM metabolism indexes were detected via 
+WB after transfection for 24 h, underwent continued treatment with IL-1β for 24 h, and were finally treated with AS for 24 h. B Semi-quantitative analysis. 
+Data represent means ± SD (n = 3), *P < 0.05, **P < 0.01, ns no significant difference. C Mode of action diagram of SGK1 regulating autophagy level through 
+FoxO1 to alleviate cartilage extracellular matrix degradation in TMJOA, “→” indicates “promote”, and “⊥” indicates “inhibit”
+ 
+Page 10 of 11
+Tang et al. Arthritis Research & Therapy          (2025) 27:231 
+expression is generally minimal in most normal cells; 
+however, it undergoes a significant increase under spe­
+cific pathophysiological conditions such as excessive 
+administration of glucocorticoids or saline corticoste­
+roids, inflammation accompanied by the release of TGF-
+β, elevated blood sugar levels, cellular shrinkage, and 
+ischemia [23]. SGK1 overexpression and aberrant activ­
+ity are closely associated with various disease mecha­
+nisms, including immunoinflammation, hypertension, 
+and fibrosis [21]. Aberrant upregulation of SGK1 has 
+been observed in various chronic inflammatory diseases, 
+including chronic inflammatory nephropathy [24] and 
+pulmonary fibrosis [25]. Therefore, in our preliminary 
+study, SGK1 upregulation in TMJOA was confirmed both 
+in vitro and in vivo.
+In inflammatory diseases, pathologic alterations in the 
+ECM microenvironment are common. In normal TMJ, 
+the cartilage ECM is structurally stable [26]. The develop­
+ment of TMJOA is often accompanied by dynamic imbal­
+ance, degradation, and disruption of the cartilage ECM 
+structure [27]. Therefore, we linked SGK1 to cartilage 
+ECM metabolism and confirmed that SGK1 knockdown 
+attenuated ECM metabolic imbalance. This implies that 
+SGK1 is involved in TMJOA development.
+SGK1 is a regulator of cellular autophagy [28, 29], and 
+suppressing SGK1 using SI113 enhances the conversion 
+of LC3-II to LC3-I and elevates Beclin-1 levels in human 
+glioblastoma cells, thereby facilitating cellular autophagy 
+[30, 31]. However, its role in the regulation of autophagy 
+proteins in MCCs is unclear. We confirmed that the cel­
+lular autophagy mechanism mediated by SGK1 is also 
+present in MCCs and that the ECM degradation exhib­
+ited during MCC inflammation could be regulated by 
+autophagy mechanisms. Therefore, the regulatory mech­
+anism of SGK1 in MCC inflammation requires further 
+study.
+FoxO1 and SGK1 interact to regulate autophagy in 
+OS cell lines [32, 33], but this has not been confirmed 
+in MCCs. In this study, we determined that p-FoxO1 
+undergoes direct binding with SGK1 in MCCs and sub­
+sequently influences its subcellular localization. FoxO1 
+is rendered inactive through phosphorylation, caus­
+ing its translocation from the nucleus to the cytoplasm 
+and subsequent degradation. Thus, it loses its ability to 
+regulate autophagy-related genes like Beclin-1 and LC3-
+b. This could potentially explain how SGK1 influences 
+autophagy in MCCs. The potential alteration in the intra­
+cellular distribution of FoxO1 may be associated with the 
+presentation of its phosphorylated modification to chap­
+erone 14-3−3 at its binding site, leading to their simulta­
+neous movement into the nucleus. The exposure of the 
+14-3−3 chaperone protein modifies the nuclear localiza­
+tion sequence of FoxO1 and impedes its re-entry into the 
+nucleus [34].
+This study presents findings on the correlations among 
+SGK1, autophagy, and cartilage ECM metabolism in 
+TMJOA pathology. SGK1 is upregulated during TMJOA, 
+and SGK1 knockdown mediates autophagy via the sub­
+cellular localization of FoxO1, which alleviates ECM deg­
+radation. The properties of SGK1 inhibitors observed in 
+their respective sensitization assays suggest the potential 
+for “SGK1 inhibition” to be investigated as a viable clini­
+cal approach for treating TMJOA. However, the lack of 
+functional response validation in animal studies and the 
+lack of sufficient human TMJ samples have limited fur­
+ther exploration of the association between SGK1 and 
+TMJOA in the present study.
+Conclusions
+This study reveals for the first time the mechanism by 
+which SGK1 acts as a regulatory factor involved in the 
+TMJOA process in MCCs. SGK1 can directly bind to 
+FoxO1 and enhance the p-FoxO1/FoxO1 translocation as 
+well as nuclear degradation, thereby inhibiting autophagy 
+in MCCs and disrupting the homeostasis of the cartilage 
+matrix. Therefore, it may be possible to halt TMJOA pro­
+gression via SGK1 inhibition.
+Abbreviations
+ACAN	
+Aggrecan
+AOD	
+Average optical density
+COL2A1	 Collagen type II alpha 1 chain
+ECM	
+Extracellular matrix
+FoxO1	
+Forkhead box O1
+H&E	
+Hematoxylin-eosin
+IHC	
+Immunohistochemical
+MDC	
+Monodansylcadaverine
+OARSI	
+Osteoarthritis research society international
+SGK1	
+Serum and glucocorticoid-inducible kinase 1
+TMJOA	 Temporomandibular joint osteoarthritis
+UAC	
+Unilateral anterior crossbite
+Supplementary Information
+The online version contains supplementary material available at ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​
+g​/​1​0​.​1​1​8​6​/​s​1​3​0​7​5​-​0​2​5​-​0​3​6​9​0​-​w.
+Additional file 1
+Additional file 2
+Additional file 3: Table S1 Sequences of si-RNA primers. Table S2 RT-qPCR 
+primer sequences. Supplementary Methods. 
+Acknowledgements
+We acknowledge the reviewers’ suggestions and comments and the support 
+from the Laboratory Animal Centre of the 960th Hospital of the PLA Joint 
+Logistics Support Force.
+Authors’ contributions
+L. Chen contributed to conception, design, data acquisition, and analysis and 
+drafted and critically revised the manuscript; H. Tang contributed to design 
+and data interpretation and drafted the manuscript; C. Ma contributed to 
+data interpretation and critically revised the manuscript; M. Xu contributed to 
+acquisition and interpretation, and drafted the manuscript; G. Wu, contributed 
+to data interpretation, and critically revised the manuscript; N. Li, contributed 
+Page 11 of 11
+Tang et al. Arthritis Research & Therapy          (2025) 27:231 
+to data interpretation, and critically revised the manuscript. All authors gave 
+their final approval and agree to be accountable for all aspects of the work.
+Funding
+The authors have received the following financial support for the research, 
+authorship, and/or publication of this article: National Natural Science 
+Foundation of China (82201092 and 61771290), Natural Science Foundation of 
+Shandong Province (ZR2025MS1365), Taishan Scholars (tsqn201812137), and 
+Scientific Fundamental Research Funds of Shandong University (2019GN091).
+Data availability
+All data generated or analysed during this study are included in this published 
+article [and its supplementary information files].
+Declarations
+Ethics approval and consent to participate
+All experimental procedures involving animals were approved by the Ethics 
+Committee at Shandong University (no: 2022080606, 29 July 2022). The 
+research methods in this article conform to the ARRIVE Guidelines and the 
+completed ARRIVE 2.0 checklist (full version) uploaded as Supplementary 
+Information.
+Consent for publication
+Not Applicable.
+Competing interests
+The authors declare no competing interests.
+Received: 6 April 2025 / Accepted: 12 November 2025
+References
+1.	
+Kapos FP, Exposto FG, Oyarzo JF, Durham J. Temporomandibular disorders: 
+a review of current concepts in aetiology, diagnosis and management. Oral 
+Surg. 2020;13(4):321–34.
+2.	
+Derwich M, Mitus-Kenig M, Pawlowska E. Interdisciplinary approach to 
+the temporomandibular joint osteoarthritis-review of the literature. Med 
+(Kaunas). 2020;56(5):225.
+3.	
+Mélou C, Pellen-Mussi P, Jeanne S, Novella A, Tricot-Doleux S, Chauvel-Lebret 
+D. Osteoarthritis of the temporomandibular joint: A narrative overview. Med 
+(Kaunas). 2022;59(1):8.
+4.	
+Li B, Guan G, Mei L, Jiao K, Li H. Pathological mechanism of chondrocytes and 
+the surrounding environment during osteoarthritis of temporomandibular 
+joint. J Cell Mol Med. 2021;25(11):4902–11.
+5.	
+Parzych KR, Klionsky DJ. An overview of autophagy: morphology, mecha­
+nism, and regulation. Antioxid Redox Signal. 2014;20(3):460–73.
+6.	
+Karamanos NK, Theocharis AD, Piperigkou Z, Manou D, Passi A, Skandalis SS, 
+et al. A guide to the composition and functions of the extracellular matrix. 
+FEBS J. 2021;288(24):6850–912.
+7.	
+Yang H, Wen Y, Zhang M, Liu Q, Zhang H, Zhang J, et al. MTORC1 coordinates 
+the autophagy and apoptosis signaling in articular chondrocytes in Osteoar­
+thritic temporomandibular joint. Autophagy. 2020;16(2):271–88.
+8.	
+Wang J, Zhang Y, Cao J, Wang Y, Anwar N, Zhang Z, et al. The role of 
+autophagy in bone metabolism and clinical significance. Autophagy. 
+2023;19(9):2409–27.
+9.	
+Yang C, Dong W, Wang Y, Dong X, Xu X, Yu X, et al. DDIT3 aggravates TMJOA 
+cartilage degradation via Nrf2/HO-1/NLRP3-mediated autophagy. Osteoarthr 
+Cartil. 2024;32(8):921–37.
+10.	 Tang X, Sun Y, Xu C, Guo X, Sun J, Pan C, et al. Caffeine induces autophagy 
+and apoptosis in auditory hair cells via the SGK1/HIF-1α pathway. Front Cell 
+Dev Biol. 2021;9:751012.
+11.	 Ghani MJ. SGK1, autophagy and cancer: an overview. Mol Biol Rep. 
+2022;49(1):675–85.
+12.	 Talarico C, Dattilo V, D’Antona L, Barone A, Amodio N, Belviso S, et al. SI113, 
+A SGK1 inhibitor, potentiates the effects of radiotherapy, modulates the 
+response to oxidative stress and induces cytotoxic autophagy in human 
+glioblastoma multiforme cells. Oncotarget. 2016;7(13):15868–84.
+13.	 Huang W, Cheng C, Shan WS, Ding ZF, Liu FE, Lu W, et al. Knockdown of SGK1 
+alleviates the IL-1β-induced chondrocyte anabolic and catabolic imbalance 
+by activating FoxO1-mediated autophagy in human chondrocytes. FEBS J. 
+2020;287(1):94–107.
+14.	 Chen W, Zheng H, Zhang X, Xu Y, Fu Z, Ji X, et al. Columbianetin allevi­
+ates lipopolysaccharides (LPS)-induced inflammation and apoptosis in 
+chondrocyte through activation of autophagy by inhibiting serum and 
+glucocorticoid-induced protein kinase 1 (SGK1) expression. Bioengineered. 
+2022;13(2):4051–62.
+15.	 Sumida T, Lincoln MR, Ukeje CM, Rodriguez DM, Akazawa H, Noda T, et al. 
+Activated β-catenin in Foxp3 + regulatory T cells links inflammatory environ­
+ments to autoimmunity. Nat Immunol. 2018;19(12):1391–402.
+16.	 Aspernig H, Heimbucher T, Qi W, Gangurde D, Curic S, Yan Y, et al. Mitochon­
+drial perturbations couple mTORC2 to autophagy in C elegans. Cell Rep. 
+2019;29(6):1399–e14095.
+17.	 Santos BF, Grenho I, Martel PJ, Ferreira BI, Link W. FOXO family isoforms. Cell 
+Death Dis. 2023;14(10):702.
+18.	 Zhang L, Zhang Z, Li C, Zhu T, Gao J, Zhou H, et al. S100A11 promotes liver 
+steatosis via FOXO1-mediated autophagy and lipogenesis. Cell Mol Gastroen­
+terol Hepatol. 2021;11(3):697–724.
+19.	 Zhang M, Sui W, Xing Y, Cheng J, Cheng C, Xue F, et al. Angiotensin IV attenu­
+ates diabetic cardiomyopathy via suppressing FoxO1-induced excessive 
+autophagy, apoptosis and fibrosis. Theranostics. 2021;11(18):8624–39.
+20.	 Lang F, Böhmer C, Palmada M, Seebohm G, Strutz-Seebohm N, Vallon V. 
+(Patho)physiological significance of the serum- and glucocorticoid-inducible 
+kinase isoforms. Physiol Rev. 2006;86(4):1151–78.
+21.	 Lang F, Voelkl J. Therapeutic potential of serum and glucocorticoid inducible 
+kinase Inhibition. Expert Opin Investig Drugs. 2013;22(6):701–14.
+22.	 Hochstetler A, Smith H, Reed M, Hulme L, Territo P, Bedwell A, et al. Inhibition 
+of serum- and glucocorticoid-induced kinase 1 ameliorates hydrocephalus in 
+preclinical models. Fluids Barriers CNS. 2023;20(1):61.
+23.	 Maqbool M, Fekadu G, Jiang X, Bekele F, Tolossa T, Turi E, et al. An up to date 
+on clinical prospects and management of osteoarthritis. Ann Med Surg 
+(Lond). 2021;72:103077.
+24.	 Yu XH, Xu XM, Zhang SX. Low-dose dexamethasone promotes osteoblast 
+viability by activating autophagy via the SGK1/FOXO3a signaling pathway. 
+Cell Biol Int. 2023;47(3):669–78.
+25.	 Talarico C, Dattilo V, D’Antona L, Menniti M, Bianco C, Ortuso F, et al. SGK1, 
+the new player in the game of resistance: chemo-radio molecular target and 
+strategy for Inhibition. Cell Physiol Biochem. 2016;39(5):1863–76.
+26.	 Theocharis AD, Manou D, Karamanos NK. The extracellular matrix as a multi­
+tasking player in disease. FEBS J. 2019;286(15):2830–69.
+27.	 Guilak F, Nims RJ, Dicks A, Wu CL, Meulenbelt I. Osteoarthritis as a disease of 
+the cartilage pericellular matrix. Matrix Biol. 2018;71–72:40–50.
+28.	 Cicenas J, Meskinyte-Kausiliene E, Jukna V, Rimkus A, Simkus J, Soderholm D. 
+SGK1 in cancer: biomarker and drug target. Cancers. 2022;14(10):2385.
+29.	 Wu L, Lin Y, Gao S, Wang Y, Pan H, Wang Z, et al. Luteolin inhibits triple-
+negative breast cancer by inducing apoptosis and autophagy through SGK1-
+FOXO3a-BNIP3 signaling. Front Pharmacol. 2023;14:1200843.
+30.	 Sang Y, Kong P, Zhang S, Zhang L, Cao Y, Duan X, et al. SGK1 in human cancer: 
+emerging roles and mechanisms. Front Oncol. 2020;10:608722.
+31.	 Zhu R, Yang G, Cao Z, Shen K, Zheng L, Xiao J, et al. The prospect of serum 
+and glucocorticoid-inducible kinase 1 (SGK1) in cancer therapy: a rising star. 
+Ther Adv Med Oncol. 2020;12:1758835920940946.
+32.	 Di Pietro N, Panel V, Hayes S, Bagattin A, Meruvu S, Pandolfi A, et al. Serum- 
+and glucocorticoid-inducible kinase 1 (SGK1) regulates adipocyte differentia­
+tion via forkhead boxO1. Mol Endocrinol. 2010;24(2):370–80.
+33.	 Bhansali RS, Rammohan M, Lee P, Laurent AP, Wen Q, Suraneni P, et al. DYRK1A 
+regulates B cell acute lymphoblastic leukemia through phosphorylation of 
+FOXO1 and STAT3. J Clin Invest. 2021;131(1):e135937.
+34.	 Xu K, Yin N, Peng M, Stamatiades EG, Shyu A, Li P, et al. Glycolysis fuels 
+phosphoinositide 3-kinase signaling to bolster T cell immunity. Science. 
+2021;371(6527):405–10.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

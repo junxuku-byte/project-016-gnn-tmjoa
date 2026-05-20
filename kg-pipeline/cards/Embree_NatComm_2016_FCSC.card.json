@@ -1,0 +1,35 @@
+{
+  "title": "Exploiting endogenous fibrocartilage stem cells to regenerate cartilage and repair joint injury",
+  "authors": "Mildred C. Embree等",
+  "year": 2016,
+  "journal": "Nature Communications",
+  "category": "TMJ",
+  "research_question": "能否利用颞下颌关节髁突内源性纤维软骨干细胞（FCSCs）再生软骨并修复关节损伤？",
+  "methods_summary": [
+    "通过EDU标记滞留细胞（LRCs）和αSMA谱系追踪鉴定TMJ浅表区（SZ）的FCSCs",
+    "分离SZ细胞进行体外克隆形成、多向分化及流式细胞术分析",
+    "单细胞移植实验验证FCSCs体内生成软骨和骨的能力",
+    "通过Wnt抑制剂（SOST、Dkk1等）和组成型活性β-catenin突变体调控Wnt信号，检测软骨分化",
+    "在SOST敲除小鼠和兔TMJ损伤模型中评估Wnt信号对FCSC池维持和软骨再生的影响",
+    "分析人TMJ骨关节炎样本中β-catenin表达与病理评分的关系"
+  ],
+  "dataset": "大鼠、小鼠、兔及人TMJ组织样本",
+  "key_findings": [
+    "TMJ髁突浅表区存在表达CD90、CD44等间充质标志物的FCSCs，具有克隆形成和多向分化能力",
+    "单细胞FCSC移植可自发形成软骨、骨并重建造血微环境",
+    "抑制经典Wnt信号（如SOST处理）促进FCSC向软骨分化并维持FCSC池",
+    "Wnt过度激活（SOST敲除或β-catenin突变）导致FCSC耗竭和软骨退变",
+    "关节内注射SOST可维持FCSC池并修复兔TMJ损伤模型中的软骨",
+    "人OA样本中β-catenin表达升高与病理严重程度相关"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "纤维软骨干细胞",
+    "颞下颌关节",
+    "Wnt信号",
+    "软骨再生",
+    "SOST",
+    "内源性干细胞"
+  ],
+  "extracted_insights": "本研究首次证明TMJ浅表区存在内源性纤维软骨干细胞（FCSCs），并通过调控Wnt信号（如局部注射SOST）可维持FCSC池并促进软骨再生，为替代细胞移植的微创治疗策略提供了新方向。"
+}

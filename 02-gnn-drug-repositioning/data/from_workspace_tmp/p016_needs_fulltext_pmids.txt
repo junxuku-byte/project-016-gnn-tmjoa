@@ -1,0 +1,11 @@
+29251361	Pulsed electromagnetic field improves subchondral bone microstructure in knee os	RCT/Meta but conclusion unclear from abstract
+18565252	The differential expression of osteoprotegerin (OPG) and receptor activator of n	conflicting keywords need resolution
+35900969	RETRACTED: Zoledronic acid generates a spatiotemporal effect to attenuate osteoa	RCT/Meta but conclusion unclear from abstract
+26069623	Influence of Tumor Necrosis Factor α, Parathyroid Hormone, and Vitamin D3 on Mod	conflicting keywords need resolution
+39890574	Intra-articular injection of orthobiologics for temporomandibular joint osteoart	conflicting keywords need resolution
+31166260	Clinical and Radiological Comparison of Effects of Platelet-Rich Plasma, Hyaluro	RCT/Meta but conclusion unclear from abstract
+9054908	Correlation between arthroscopic diagnosis of osteoarthritis and synovitis of th	conflicting keywords need resolution
+41084405	Comparison of NSAID therapy alone versus combined NSAID and home exercise therap	RCT/Meta but conclusion unclear from abstract
+29668626	Effect of arthrocentesis plus platelet-rich plasma and platelet-rich plasma alon	conflicting keywords need resolution
+42134190	Injection of Adipose-Derived Mesenchymal Stem Cell-Enriched Adipose Extract for 	RCT/Meta but conclusion unclear from abstract
+41619174	Circulating Metabolites Treat Human TMJ-OA by Eliminating Senescent Chondrocytes	key drug in high-IF journal

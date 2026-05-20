@@ -1,0 +1,861 @@
+{
+  "target_disease": "TMJOA",
+  "case_studies": [
+    {
+      "drug": "BGJ398",
+      "rationale": "FGFR inhibitor \u2014 only prediction with 0 PubMed hits, truly novel",
+      "score": 0.5125765204429626,
+      "direct_mechanism_paths": [
+        {
+          "path": [
+            "BGJ398",
+            "MMP13",
+            "ECM degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "MMP13\u2192ECM degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "MMP13",
+            "OA cartilage degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "MMP13\u2192OA cartilage degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "FGF",
+            "FGF signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "FGF\u2192FGF signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "FGF",
+            "angiogenesis",
+            "TMJOA"
+          ],
+          "target_pathway": "FGF\u2192angiogenesis",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "FGF",
+            "FGF signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "FGF\u2192FGF signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "FGF",
+            "angiogenesis",
+            "TMJOA"
+          ],
+          "target_pathway": "FGF\u2192angiogenesis",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "RUNX2",
+            "bone metabolism",
+            "TMJOA"
+          ],
+          "target_pathway": "RUNX2\u2192bone metabolism",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "RUNX2",
+            "bone metabolism",
+            "TMJOA"
+          ],
+          "target_pathway": "RUNX2\u2192bone metabolism",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "BMP",
+            "TGF-\u03b2/Smad",
+            "TMJOA"
+          ],
+          "target_pathway": "BMP\u2192TGF-\u03b2/Smad",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "BMP",
+            "BMP signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "BMP\u2192BMP signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "MAPK",
+            "ERK pathway",
+            "TMJOA"
+          ],
+          "target_pathway": "MAPK\u2192ERK pathway",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "MAPK",
+            "MAPK signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "MAPK\u2192MAPK signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "MAPK",
+            "p38 MAPK",
+            "TMJOA"
+          ],
+          "target_pathway": "MAPK\u2192p38 MAPK",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "ADAMTS5",
+            "ECM degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "ADAMTS5\u2192ECM degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "ADAMTS5",
+            "OA cartilage degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "ADAMTS5\u2192OA cartilage degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "ADAMTS",
+            "ECM degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "ADAMTS\u2192ECM degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "ADAMTS",
+            "OA cartilage degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "ADAMTS\u2192OA cartilage degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "MMP",
+            "ECM degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "MMP\u2192ECM degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "MMP",
+            "OA cartilage degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "MMP\u2192OA cartilage degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "MMP",
+            "ECM degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "MMP\u2192ECM degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "BGJ398",
+            "MMP",
+            "OA cartilage degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "MMP\u2192OA cartilage degradation",
+          "depth": 3
+        }
+      ],
+      "orphan_targets": [
+        "\u03b2-catenin",
+        "Wnt",
+        "receptor"
+      ],
+      "graph_connectivity": {
+        "n_targets": 11,
+        "n_pathways": 16,
+        "n_disease_paths": 21
+      }
+    },
+    {
+      "drug": "Chondroitin",
+      "rationale": "known cartilage-protective agent, validated by literature",
+      "score": 0.4810958206653595,
+      "direct_mechanism_paths": [
+        {
+          "path": [
+            "Chondroitin",
+            "TGF-\u03b2",
+            "BMP signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "TGF-\u03b2\u2192BMP signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "TGF-\u03b2",
+            "TGF-\u03b2/Smad",
+            "TMJOA"
+          ],
+          "target_pathway": "TGF-\u03b2\u2192TGF-\u03b2/Smad",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "TGF-\u03b2",
+            "BMP signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "TGF-\u03b2\u2192BMP signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "TGF-\u03b2",
+            "TGF-\u03b2/Smad",
+            "TMJOA"
+          ],
+          "target_pathway": "TGF-\u03b2\u2192TGF-\u03b2/Smad",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "TGF-\u03b2",
+            "BMP signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "TGF-\u03b2\u2192BMP signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "TGF-\u03b2",
+            "TGF-\u03b2/Smad",
+            "TMJOA"
+          ],
+          "target_pathway": "TGF-\u03b2\u2192TGF-\u03b2/Smad",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "Collagen",
+            "cartilage matrix",
+            "TMJOA"
+          ],
+          "target_pathway": "Collagen\u2192cartilage matrix",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "Collagen",
+            "ECM degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "Collagen\u2192ECM degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "ADAMTS",
+            "ECM degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "ADAMTS\u2192ECM degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "ADAMTS",
+            "OA cartilage degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "ADAMTS\u2192OA cartilage degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "TNF-\u03b1",
+            "NF-\u03baB signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "TNF-\u03b1\u2192NF-\u03baB signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "TNF-\u03b1",
+            "apoptosis",
+            "TMJOA"
+          ],
+          "target_pathway": "TNF-\u03b1\u2192apoptosis",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "TNF-\u03b1",
+            "inflammatory cytokine pathway",
+            "TMJOA"
+          ],
+          "target_pathway": "TNF-\u03b1\u2192inflammatory cytokine pathway",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "NF-\u03baB",
+            "NF-\u03baB signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "NF-\u03baB\u2192NF-\u03baB signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "NF-\u03baB",
+            "inflammatory response",
+            "TMJOA"
+          ],
+          "target_pathway": "NF-\u03baB\u2192inflammatory response",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "NF-\u03baB",
+            "NF-\u03baB signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "NF-\u03baB\u2192NF-\u03baB signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "NF-\u03baB",
+            "inflammatory response",
+            "TMJOA"
+          ],
+          "target_pathway": "NF-\u03baB\u2192inflammatory response",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "TNF",
+            "NF-\u03baB signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "TNF\u2192NF-\u03baB signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "TNF",
+            "apoptosis",
+            "TMJOA"
+          ],
+          "target_pathway": "TNF\u2192apoptosis",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "TNF",
+            "inflammatory cytokine pathway",
+            "TMJOA"
+          ],
+          "target_pathway": "TNF\u2192inflammatory cytokine pathway",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "MMP",
+            "ECM degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "MMP\u2192ECM degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "MMP",
+            "OA cartilage degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "MMP\u2192OA cartilage degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "MMP",
+            "ECM degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "MMP\u2192ECM degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Chondroitin",
+            "MMP",
+            "OA cartilage degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "MMP\u2192OA cartilage degradation",
+          "depth": 3
+        }
+      ],
+      "orphan_targets": [],
+      "graph_connectivity": {
+        "n_targets": 7,
+        "n_pathways": 13,
+        "n_disease_paths": 24
+      }
+    },
+    {
+      "drug": "Metformin",
+      "rationale": "AMPK activator, repurposing candidate",
+      "score": 0.41960781812667847,
+      "direct_mechanism_paths": [],
+      "orphan_targets": [
+        "AMPK",
+        "GPD2",
+        "Complex I",
+        "SIRT1",
+        "mTOR"
+      ],
+      "graph_connectivity": {
+        "n_targets": 5,
+        "n_pathways": 11,
+        "n_disease_paths": 0
+      }
+    },
+    {
+      "drug": "Quercetin",
+      "rationale": "flavonoid with NF-\u03baB/COX-2 mechanism",
+      "score": 0.4631975591182709,
+      "direct_mechanism_paths": [
+        {
+          "path": [
+            "Quercetin",
+            "COX-2",
+            "inflammatory response",
+            "TMJOA"
+          ],
+          "target_pathway": "COX-2\u2192inflammatory response",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Quercetin",
+            "COX-2",
+            "inflammatory response",
+            "TMJOA"
+          ],
+          "target_pathway": "COX-2\u2192inflammatory response",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Quercetin",
+            "COX-2",
+            "inflammatory response",
+            "TMJOA"
+          ],
+          "target_pathway": "COX-2\u2192inflammatory response",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Quercetin",
+            "NF-\u03baB",
+            "NF-\u03baB signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "NF-\u03baB\u2192NF-\u03baB signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Quercetin",
+            "NF-\u03baB",
+            "inflammatory response",
+            "TMJOA"
+          ],
+          "target_pathway": "NF-\u03baB\u2192inflammatory response",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Quercetin",
+            "NF-\u03baB",
+            "NF-\u03baB signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "NF-\u03baB\u2192NF-\u03baB signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Quercetin",
+            "NF-\u03baB",
+            "inflammatory response",
+            "TMJOA"
+          ],
+          "target_pathway": "NF-\u03baB\u2192inflammatory response",
+          "depth": 3
+        }
+      ],
+      "orphan_targets": [
+        "AMPK",
+        "Nrf2",
+        "Akt"
+      ],
+      "graph_connectivity": {
+        "n_targets": 5,
+        "n_pathways": 12,
+        "n_disease_paths": 7
+      }
+    },
+    {
+      "drug": "Dextrose",
+      "rationale": "prolotherapy agent, top-ranked prediction",
+      "score": 0.5275837779045105,
+      "direct_mechanism_paths": [
+        {
+          "path": [
+            "Dextrose",
+            "TGF-\u03b2",
+            "BMP signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "TGF-\u03b2\u2192BMP signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "TGF-\u03b2",
+            "TGF-\u03b2/Smad",
+            "TMJOA"
+          ],
+          "target_pathway": "TGF-\u03b2\u2192TGF-\u03b2/Smad",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "TGF-\u03b2",
+            "BMP signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "TGF-\u03b2\u2192BMP signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "TGF-\u03b2",
+            "TGF-\u03b2/Smad",
+            "TMJOA"
+          ],
+          "target_pathway": "TGF-\u03b2\u2192TGF-\u03b2/Smad",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "TGF-\u03b2",
+            "BMP signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "TGF-\u03b2\u2192BMP signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "TGF-\u03b2",
+            "TGF-\u03b2/Smad",
+            "TMJOA"
+          ],
+          "target_pathway": "TGF-\u03b2\u2192TGF-\u03b2/Smad",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "IL-6",
+            "NF-\u03baB signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "IL-6\u2192NF-\u03baB signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "IL-6",
+            "JAK-STAT",
+            "TMJOA"
+          ],
+          "target_pathway": "IL-6\u2192JAK-STAT",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "IL-6",
+            "inflammatory cytokine pathway",
+            "TMJOA"
+          ],
+          "target_pathway": "IL-6\u2192inflammatory cytokine pathway",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "Aggrecan",
+            "ECM degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "Aggrecan\u2192ECM degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "Aggrecan",
+            "cartilage matrix",
+            "TMJOA"
+          ],
+          "target_pathway": "Aggrecan\u2192cartilage matrix",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "Collagen",
+            "cartilage matrix",
+            "TMJOA"
+          ],
+          "target_pathway": "Collagen\u2192cartilage matrix",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "Collagen",
+            "ECM degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "Collagen\u2192ECM degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "TNF-\u03b1",
+            "NF-\u03baB signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "TNF-\u03b1\u2192NF-\u03baB signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "TNF-\u03b1",
+            "apoptosis",
+            "TMJOA"
+          ],
+          "target_pathway": "TNF-\u03b1\u2192apoptosis",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "TNF-\u03b1",
+            "inflammatory cytokine pathway",
+            "TMJOA"
+          ],
+          "target_pathway": "TNF-\u03b1\u2192inflammatory cytokine pathway",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "TNF",
+            "NF-\u03baB signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "TNF\u2192NF-\u03baB signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "TNF",
+            "apoptosis",
+            "TMJOA"
+          ],
+          "target_pathway": "TNF\u2192apoptosis",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "TNF",
+            "inflammatory cytokine pathway",
+            "TMJOA"
+          ],
+          "target_pathway": "TNF\u2192inflammatory cytokine pathway",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "MMP",
+            "ECM degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "MMP\u2192ECM degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "MMP",
+            "OA cartilage degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "MMP\u2192OA cartilage degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "MMP",
+            "ECM degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "MMP\u2192ECM degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "MMP",
+            "OA cartilage degradation",
+            "TMJOA"
+          ],
+          "target_pathway": "MMP\u2192OA cartilage degradation",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "IL-1",
+            "NF-\u03baB signaling",
+            "TMJOA"
+          ],
+          "target_pathway": "IL-1\u2192NF-\u03baB signaling",
+          "depth": 3
+        },
+        {
+          "path": [
+            "Dextrose",
+            "IL-1",
+            "inflammatory cytokine pathway",
+            "TMJOA"
+          ],
+          "target_pathway": "IL-1\u2192inflammatory cytokine pathway",
+          "depth": 3
+        }
+      ],
+      "orphan_targets": [
+        "receptor",
+        "TRPV"
+      ],
+      "graph_connectivity": {
+        "n_targets": 10,
+        "n_pathways": 15,
+        "n_disease_paths": 25
+      }
+    }
+  ],
+  "attention_weights": {
+    "Drug\u2192Target": 0.2529282867908478,
+    "Target\u2192Pathway": 0.4380973279476166,
+    "Pathway\u2192Disease": 0.30897435545921326
+  }
+}

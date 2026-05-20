@@ -1,0 +1,943 @@
+{
+  "search_metadata": {
+    "timestamp": "2026-05-17T13:42:06.883438",
+    "total": 50,
+    "tier_distribution": {
+      "A": 0,
+      "B": 0,
+      "C": 50,
+      "D": 0
+    }
+  },
+  "results": [
+    {
+      "doi": "10.1016/s0007-117x(78)80050-x",
+      "pmid": "280364",
+      "title": "Loose bodies of the temporo-mandibular joint, synovial chondromatosis or osteoarthritis.",
+      "authors": [
+        "Blenkinsopp PT"
+      ],
+      "first_author": "Blenkinsopp PT",
+      "year": 1978,
+      "journal": "The British journal of oral surgery",
+      "article_type": "Case Reports",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1111/j.1600-0528.1975.tb00284.x",
+      "pmid": "1056291",
+      "title": "Characteristics of a group of patients with temporomandibular joint disorders.",
+      "authors": [
+        "Helöe B",
+        "Helöe LA"
+      ],
+      "first_author": "Helöe B",
+      "year": 1975,
+      "journal": "Community dentistry and oral epidemiology",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1080/08869634.1992.11677910",
+      "pmid": "1423681",
+      "title": "Development of alloplastic materials for temporomandibular joint prosthesis: a historical perspective with clinical illustrations.",
+      "authors": [
+        "Morgan DH"
+      ],
+      "first_author": "Morgan DH",
+      "year": 1992,
+      "journal": "Cranio : the journal of craniomandibular practice",
+      "article_type": "Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "pmid": "2032478",
+      "title": "[Transmission electron microscopic and light microscopic study of condylar and joint disk in TMJ disturbance syndrome].",
+      "authors": [
+        "Gu ZY"
+      ],
+      "first_author": "Gu ZY",
+      "year": 1991,
+      "journal": "Zhonghua kou qiang yi xue za zhi = Zhonghua kouqiang yixue zazhi = Chinese journal of stomatology",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "pmid": "2640340",
+      "title": "[Therapeutic aspects of functional pathology of edentulous patients with temporomandibular osteoarthritis].",
+      "authors": [
+        "Rodríguez E",
+        "Liberona A"
+      ],
+      "first_author": "Rodríguez E",
+      "year": 1989,
+      "journal": "Revista dental de Chile",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "pmid": "2666347",
+      "title": "[Arthroscopic surgery--current status and perspectives].",
+      "authors": [
+        "Glinz W"
+      ],
+      "first_author": "Glinz W",
+      "year": 1989,
+      "journal": "Helvetica chirurgica acta",
+      "article_type": "Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "pmid": "3178020",
+      "title": "Evaluation of immune complexes and collagen type-specific antibodies in sera and synovial fluids of horses with secondary osteoarthritis.",
+      "authors": [
+        "Niebauer GW",
+        "Wolf B",
+        "Yarmush M",
+        "Richardson DW"
+      ],
+      "first_author": "Niebauer GW",
+      "year": 1988,
+      "journal": "American journal of veterinary research",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/s0749-8063(88)80012-4",
+      "pmid": "3355639",
+      "title": "Instrumentation for small joints: the arthroscope.",
+      "authors": [
+        "Poehling GG"
+      ],
+      "first_author": "Poehling GG",
+      "year": 1988,
+      "journal": "Arthroscopy : the journal of arthroscopic & related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/0030-4220(86)90407-x",
+      "pmid": "3458137",
+      "title": "Estrogen receptors in the temporomandibular joint of the baboon (Papio cynocephalus): an autoradiographic study.",
+      "authors": [
+        "Aufdemorte TB",
+        "Van Sickels JE",
+        "Dolwick MF",
+        "Sheridan PJ",
+        "Holt GR",
+        "Aragon SB",
+        "Gates GA"
+      ],
+      "first_author": "Aufdemorte TB",
+      "year": 1986,
+      "journal": "Oral surgery, oral medicine, and oral pathology",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/0030-4220(87)90025-9",
+      "pmid": "3478633",
+      "title": "Sexual dimorphism in the distribution of estrogen receptors in the temporomandibular joint complex of the baboon.",
+      "authors": [
+        "Milam SB",
+        "Aufdemorte TB",
+        "Sheridan PJ",
+        "Triplett RG",
+        "Van Sickels JE",
+        "Holt GR"
+      ],
+      "first_author": "Milam SB",
+      "year": 1987,
+      "journal": "Oral surgery, oral medicine, and oral pathology",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/s0300-9785(74)80041-4",
+      "pmid": "4209423",
+      "title": "Closed condylotomy in the treatment of osteoarthritis of the temporomandibular joint.",
+      "authors": [
+        "Tasanen A",
+        "Lamberg MA"
+      ],
+      "first_author": "Tasanen A",
+      "year": 1974,
+      "journal": "International journal of oral surgery",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.14219/jada.archive.1983.0108",
+      "pmid": "6575085",
+      "title": "Osteoarthritis of the TMJ in teenaged females: report of cases.",
+      "authors": [
+        "Stewart CL",
+        "Standish SM"
+      ],
+      "first_author": "Stewart CL",
+      "year": 1983,
+      "journal": "Journal of the American Dental Association (1939)",
+      "article_type": "Case Reports",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/0022-3913(84)90417-7",
+      "pmid": "6587091",
+      "title": "Practical evaluation of the lateral temporomandibular joint radiograph.",
+      "authors": [
+        "Weinberg LA"
+      ],
+      "first_author": "Weinberg LA",
+      "year": 1984,
+      "journal": "The Journal of prosthetic dentistry",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1002/hed.2890060513",
+      "pmid": "6724963",
+      "title": "Chip fractures of the mandibular condyle.",
+      "authors": [
+        "Avrahami E",
+        "Horowitz I"
+      ],
+      "first_author": "Avrahami E",
+      "year": 1984,
+      "journal": "Head & neck surgery",
+      "article_type": "Case Reports",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "pmid": "6746388",
+      "title": "Ulnar fracture and dislocation of the proximal radial epiphysis (Monteggia lesion) in the dog and cat: a review of 28 cases.",
+      "authors": [
+        "Schwarz PD",
+        "Schrader SC"
+      ],
+      "first_author": "Schwarz PD",
+      "year": 1984,
+      "journal": "Journal of the American Veterinary Medical Association",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/s0300-9785(81)80064-6",
+      "pmid": "6809651",
+      "title": "Closed condylotomy in the treatment of osteoarthritis of the temporomandibular joint. Clinical and radiographic study.",
+      "authors": [
+        "Tasanen A",
+        "Jokinen J"
+      ],
+      "first_author": "Tasanen A",
+      "year": 1981,
+      "journal": "International journal of oral surgery",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/0030-4220(81)90142-0",
+      "pmid": "6940071",
+      "title": "Treatment of osteoarthritis of the temporomandibular joint.",
+      "authors": [
+        "Kraut RA"
+      ],
+      "first_author": "Kraut RA",
+      "year": 1981,
+      "journal": "Oral surgery, oral medicine, and oral pathology",
+      "article_type": "Case Reports",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1111/j.1834-7819.1981.tb05229.x",
+      "pmid": "6949533",
+      "title": "The treatment of some disorders of the maxillo-mandibular apparatus. III. the maxillo-septal facies, ipsilateral deficiency of facial mesenchyme (mesectoderm) and condylar displacement.",
+      "authors": [
+        "Griffin CJ"
+      ],
+      "first_author": "Griffin CJ",
+      "year": 1981,
+      "journal": "Australian dental journal",
+      "article_type": "Case Reports",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "pmid": "7055365",
+      "title": "Post-traumatic disorders of the jaw joint.",
+      "authors": [
+        "Norman JE"
+      ],
+      "first_author": "Norman JE",
+      "year": 1982,
+      "journal": "Annals of the Royal College of Surgeons of England",
+      "article_type": "Journal Article",
+      "is_oa": true,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "pmid": "7406275",
+      "title": "Effect of hyaluronic acid in naturally occurring and experimentally induced osteoarthritis.",
+      "authors": [
+        "Auer JA",
+        "Fackelman GE",
+        "Gingerich DA",
+        "Fetter AW"
+      ],
+      "first_author": "Auer JA",
+      "year": 1980,
+      "journal": "American journal of veterinary research",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "pmid": "7528023",
+      "title": "Topical capsaicin-pharmacology and potential role in the treatment of temporomandibular pain.",
+      "authors": [
+        "Hersh EV",
+        "Pertes RA",
+        "Ochs HA"
+      ],
+      "first_author": "Hersh EV",
+      "year": 1994,
+      "journal": "The Journal of clinical dentistry",
+      "article_type": "Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/s0278-2391(10)80448-3",
+      "pmid": "7692023",
+      "title": "Estrogen and progesterone receptors in temporomandibular joint discs of symptomatic and asymptomatic persons: a preliminary study.",
+      "authors": [
+        "Abubaker AO",
+        "Raslan WF",
+        "Sotereanos GC"
+      ],
+      "first_author": "Abubaker AO",
+      "year": 1993,
+      "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/s0278-2391(10)80449-5",
+      "pmid": "7692024",
+      "title": "Estrogen receptor analysis of human temporomandibular disc.",
+      "authors": [
+        "Campbell JH",
+        "Courey MS",
+        "Bourne P",
+        "Odziemiec C"
+      ],
+      "first_author": "Campbell JH",
+      "year": 1993,
+      "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1080/08869634.1994.11678014",
+      "pmid": "7813028",
+      "title": "The use of magnetic resonance imaging to determine splint position in the management of internal derangements of the temporomandibular joint.",
+      "authors": [
+        "Cohen SG",
+        "MacAfee KA 2nd"
+      ],
+      "first_author": "Cohen SG",
+      "year": 1994,
+      "journal": "Cranio : the journal of craniomandibular practice",
+      "article_type": "Case Reports",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1111/j.1365-2842.1994.tb01153.x",
+      "pmid": "7965350",
+      "title": "Temporomandibular joint osteoarthritis: a comparative clinical and tomographic study pre- and post-treatment.",
+      "authors": [
+        "Sato H",
+        "Fujii T",
+        "Yamada N",
+        "Kitamori H"
+      ],
+      "first_author": "Sato H",
+      "year": 1994,
+      "journal": "Journal of oral rehabilitation",
+      "article_type": "Clinical Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/0030-4220(94)90319-0",
+      "pmid": "8065724",
+      "title": "Evaluation of iontophoretically applied dexamethasone for painful pathologic temporomandibular joints.",
+      "authors": [
+        "Reid KI",
+        "Dionne RA",
+        "Sicard-Rosenbaum L",
+        "Lord D",
+        "Dubner RA"
+      ],
+      "first_author": "Reid KI",
+      "year": 1994,
+      "journal": "Oral surgery, oral medicine, and oral pathology",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1080/08869634.1993.11677978",
+      "pmid": "8118897",
+      "title": "Temporomandibular joint osteoarthrosis and temporomandibular joint hypermobility.",
+      "authors": [
+        "Dijkstra PU",
+        "de Bont LG",
+        "de Leeuw R",
+        "Stegenga B",
+        "Boering G"
+      ],
+      "first_author": "Dijkstra PU",
+      "year": 1993,
+      "journal": "Cranio : the journal of craniomandibular practice",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/s0278-2391(96)90690-4",
+      "pmid": "8648477",
+      "title": "Effects of sex hormones on protein and collagen content of the temporomandibular joint disc of the rat.",
+      "authors": [
+        "Abubaker AO",
+        "Hebda PC",
+        "Gunsolley JN"
+      ],
+      "first_author": "Abubaker AO",
+      "year": 1996,
+      "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/s0278-2391(96)90352-3",
+      "pmid": "8859239",
+      "title": "The effect of ovariectomy on the temporomandibular joints of growing rats.",
+      "authors": [
+        "Okuda T",
+        "Yasuoka T",
+        "Nakashima M",
+        "Oka N"
+      ],
+      "first_author": "Okuda T",
+      "year": 1996,
+      "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/s1073-8746(95)80056-5",
+      "pmid": "8935055",
+      "title": "Implications of temporomandibular disorders for facial growth and orthodontic treatment.",
+      "authors": [
+        "Dibbets JM",
+        "Carlson DS"
+      ],
+      "first_author": "Dibbets JM",
+      "year": 1995,
+      "journal": "Seminars in orthodontics",
+      "article_type": "Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1080/08869634.1996.11745961",
+      "pmid": "8949870",
+      "title": "Signs of temporomandibular dysfunction related to edentulousness and complete dentures: an anamnestic study.",
+      "authors": [
+        "Klemetti E"
+      ],
+      "first_author": "Klemetti E",
+      "year": 1996,
+      "journal": "Cranio : the journal of craniomandibular practice",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "pmid": "8995909",
+      "title": "Use of Hylan G-F 20 for viscosupplementation of the temporomandibular joint for the management of osteoarthritis: a case report.",
+      "authors": [
+        "Yustin D",
+        "Kryshtalskyj B",
+        "Galea A"
+      ],
+      "first_author": "Yustin D",
+      "year": 1995,
+      "journal": "Journal of orofacial pain",
+      "article_type": "Case Reports",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/s1079-2104(97)90100-1",
+      "pmid": "9007933",
+      "title": "Orthodontic treatment and temporomandibular disorders.",
+      "authors": [
+        "McNamara JA Jr"
+      ],
+      "first_author": "McNamara JA Jr",
+      "year": 1997,
+      "journal": "Oral surgery, oral medicine, oral pathology, oral radiology, and endodontics",
+      "article_type": "Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "pmid": "9023579",
+      "title": "Women as dental patients: are there any gender differences?",
+      "authors": [
+        "Zakrzewska JM"
+      ],
+      "first_author": "Zakrzewska JM",
+      "year": 1996,
+      "journal": "International dental journal",
+      "article_type": "Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/s0278-2391(97)90526-7",
+      "pmid": "9054908",
+      "title": "Correlation between arthroscopic diagnosis of osteoarthritis and synovitis of the human temporomandibular joint and keratan sulfate levels in the synovial fluid.",
+      "authors": [
+        "Israel HA",
+        "Diamond BE",
+        "Saed-Nejad F",
+        "Ratcliffe A"
+      ],
+      "first_author": "Israel HA",
+      "year": 1997,
+      "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "pmid": "9057920",
+      "title": "Concentrations of keratan sulfate in plasma and synovial fluid from clinically normal horses and horses with joint disease.",
+      "authors": [
+        "Todhunter RJ",
+        "Fubini SL",
+        "Freeman KP",
+        "Lust G"
+      ],
+      "first_author": "Todhunter RJ",
+      "year": 1997,
+      "journal": "Journal of the American Veterinary Medical Association",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/s0304-3959(96)03230-7",
+      "pmid": "9060026",
+      "title": "Use of exogenous hormones and risk of temporomandibular disorder pain.",
+      "authors": [
+        "LeResche L",
+        "Saunders K",
+        "Von Korff MR",
+        "Barlow W",
+        "Dworkin SF"
+      ],
+      "first_author": "LeResche L",
+      "year": 1997,
+      "journal": "Pain",
+      "article_type": "Clinical Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1111/j.2042-3306.1997.tb03138.x",
+      "pmid": "9306060",
+      "title": "Effects of triamcinolone acetonide on an in vivo equine osteochondral fragment exercise model.",
+      "authors": [
+        "Frisbie DD",
+        "Kawcak CE",
+        "Trotter GW",
+        "Powers BE",
+        "Walton RM",
+        "McIlwraith CW"
+      ],
+      "first_author": "Frisbie DD",
+      "year": 1997,
+      "journal": "Equine veterinary journal",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/s0278-2391(98)90854-0",
+      "pmid": "9461136",
+      "title": "Efficacy of arthroscopic lysis and lavage in patients with temporomandibular joint symptoms associated with generalized osteoarthritis or rheumatoid arthritis.",
+      "authors": [
+        "Gynther GW",
+        "Holmlund AB"
+      ],
+      "first_author": "Gynther GW",
+      "year": 1998,
+      "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/s0278-2391(98)90870-9",
+      "pmid": "9461146",
+      "title": "Proteoglycans in the synovial fluid of the temporomandibular joint as an indicator of changes in cartilage metabolism during primary and secondary osteoarthritis.",
+      "authors": [
+        "Ratcliffe A",
+        "Israel HA",
+        "Saed-Nejad F",
+        "Diamond B"
+      ],
+      "first_author": "Ratcliffe A",
+      "year": 1998,
+      "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1177/00220345980770020401",
+      "pmid": "9465168",
+      "title": "Natural course of untreated symptomatic temporomandibular joint disc displacement without reduction.",
+      "authors": [
+        "Kurita K",
+        "Westesson PL",
+        "Yuasa H",
+        "Toyama M",
+        "Machida J",
+        "Ogi N"
+      ],
+      "first_author": "Kurita K",
+      "year": 1998,
+      "journal": "Journal of dental research",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "pmid": "9470620",
+      "title": "Surgical arthroscopy of the temporomandibular joint.",
+      "authors": [
+        "Kryshtalskyj B",
+        "Weinberg S"
+      ],
+      "first_author": "Kryshtalskyj B",
+      "year": 1996,
+      "journal": "Ontario dentist",
+      "article_type": "Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1259/dmfr.24.2.9515384",
+      "pmid": "9515384",
+      "title": "Clinical and radiological findings related to treatment outcome in patients with temporomandibular disorders.",
+      "authors": [
+        "Nilner M",
+        "Petersson A"
+      ],
+      "first_author": "Nilner M",
+      "year": 1995,
+      "journal": "Dento maxillo facial radiology",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1080/08869634.1997.11746016",
+      "pmid": "9586502",
+      "title": "The clinical significance of the horizontal condylar angle in patients with temporomandibular disorders.",
+      "authors": [
+        "Sato H",
+        "Fujii T",
+        "Kitamori H"
+      ],
+      "first_author": "Sato H",
+      "year": 1997,
+      "journal": "Cranio : the journal of craniomandibular practice",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1038/sj/dmfr/4600334",
+      "pmid": "9656876",
+      "title": "Comparison of arthroscopy and radiography in patients with temporomandibular joint symptoms and generalized arthritis.",
+      "authors": [
+        "Gynther GW",
+        "Tronje G"
+      ],
+      "first_author": "Gynther GW",
+      "year": 1998,
+      "journal": "Dento maxillo facial radiology",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "pmid": "9656902",
+      "title": "The long-term effect of occlusal therapy on self-administered treatment outcomes of TMD.",
+      "authors": [
+        "Yatani H",
+        "Minakuchi H",
+        "Matsuka Y",
+        "Fujisawa T",
+        "Yamashita A"
+      ],
+      "first_author": "Yatani H",
+      "year": 1998,
+      "journal": "Journal of orofacial pain",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1080/08869634.1998.11746043",
+      "pmid": "9709561",
+      "title": "Effect of parafunctional clenching and estrogen on temporomandibular disorder pain.",
+      "authors": [
+        "Glaros AG",
+        "Baharloo L",
+        "Glass EG"
+      ],
+      "first_author": "Glaros AG",
+      "year": 1998,
+      "journal": "Cranio : the journal of craniomandibular practice",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "pmid": "9714180",
+      "title": "Targeted induction of collagenase and stromelysin by relaxin in unprimed and beta-estradiol-primed diarthrodial joint fibrocartilaginous cells but not in synoviocytes.",
+      "authors": [
+        "Kapila S",
+        "Xie Y"
+      ],
+      "first_author": "Kapila S",
+      "year": 1998,
+      "journal": "Laboratory investigation; a journal of technical methods and pathology",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/s0278-2391(98)90246-4",
+      "pmid": "9734762",
+      "title": "Osteoarthritis and synovitis as major pathoses of the temporomandibular joint: comparison of clinical diagnosis with arthroscopic morphology.",
+      "authors": [
+        "Israel HA",
+        "Diamond B",
+        "Saed-Nejad F",
+        "Ratcliffe A"
+      ],
+      "first_author": "Israel HA",
+      "year": 1998,
+      "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1177/08959374980120012001",
+      "pmid": "9972122",
+      "title": "The potential role of doxycycline in the treatment of osteoarthritis of the temporomandibular joint.",
+      "authors": [
+        "Israel HA",
+        "Ramamurthy NS",
+        "Greenwald R",
+        "Golub L"
+      ],
+      "first_author": "Israel HA",
+      "year": 1998,
+      "journal": "Advances in dental research",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    }
+  ]
+}

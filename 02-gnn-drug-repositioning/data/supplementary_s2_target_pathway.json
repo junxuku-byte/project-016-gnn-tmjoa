@@ -1,0 +1,1348 @@
+[
+  {
+    "target": "5-HT",
+    "pathways": [
+      "pain",
+      "mood",
+      "serotonergic signaling"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "pain"
+  },
+  {
+    "target": "5-HT2A",
+    "pathways": [
+      "hallucinogen",
+      "serotonergic signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "5-HT2C",
+    "pathways": [
+      "appetite",
+      "serotonergic signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "5-HT3",
+    "pathways": [
+      "serotonergic signaling",
+      "emesis"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "50S ribosome",
+    "pathways": [
+      "bacterial protein synthesis"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "ACE",
+    "pathways": [
+      "RAS signaling",
+      "blood pressure"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "ACh",
+    "pathways": [
+      "muscle contraction",
+      "cholinergic signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "ADAMTS",
+    "pathways": [
+      "OA cartilage degradation",
+      "ECM degradation"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "catabolic"
+  },
+  {
+    "target": "ADAMTS5",
+    "pathways": [
+      "ECM degradation",
+      "OA cartilage degradation"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "catabolic"
+  },
+  {
+    "target": "AICAR",
+    "pathways": [
+      "AMPK signaling"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "autophagy"
+  },
+  {
+    "target": "AMPA",
+    "pathways": [
+      "glutamatergic signaling",
+      "excitatory"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "AMPK",
+    "pathways": [
+      "energy metabolism",
+      "autophagy",
+      "AMPK signaling"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "autophagy"
+  },
+  {
+    "target": "AP-1",
+    "pathways": [
+      "MAPK signaling",
+      "inflammatory response"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "AT1",
+    "pathways": [
+      "RAS signaling",
+      "blood pressure"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "ATIII",
+    "pathways": [
+      "antithrombotic",
+      "coagulation"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "Aggrecan",
+    "pathways": [
+      "ECM degradation",
+      "cartilage matrix"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "catabolic"
+  },
+  {
+    "target": "Akt",
+    "pathways": [
+      "cell survival",
+      "PI3K-AKT"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "BMP",
+    "pathways": [
+      "BMP signaling",
+      "TGF-\u03b2/Smad"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "anabolic"
+  },
+  {
+    "target": "CD44",
+    "pathways": [
+      "hyaluronan receptor",
+      "cell adhesion",
+      "inflammation"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "CHIP",
+    "pathways": [
+      "protein quality control",
+      "ER stress"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "COL2A1",
+    "pathways": [
+      "cartilage matrix"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "COMT",
+    "pathways": [
+      "catecholamine metabolism"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "COX",
+    "pathways": [
+      "inflammatory response",
+      "prostaglandin synthesis"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "COX-1",
+    "pathways": [
+      "prostaglandin synthesis"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "COX-2",
+    "pathways": [
+      "inflammatory response",
+      "pain",
+      "prostaglandin synthesis"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "CYP51",
+    "pathways": [
+      "antifungal",
+      "ergosterol synthesis"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "CaSR",
+    "pathways": [
+      "calcium sensing",
+      "bone metabolism"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "bone"
+  },
+  {
+    "target": "CaV",
+    "pathways": [
+      "excitation",
+      "calcium signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "CaV1.2",
+    "pathways": [
+      "cardiac",
+      "L-type calcium channel",
+      "smooth muscle"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "CaV2.2",
+    "pathways": [
+      "N-type calcium channel",
+      "neurotransmitter release",
+      "pain"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "pain"
+  },
+  {
+    "target": "Collagen",
+    "pathways": [
+      "cartilage matrix",
+      "ECM degradation"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "catabolic"
+  },
+  {
+    "target": "Complex I",
+    "pathways": [
+      "oxidative phosphorylation",
+      "mitochondrial respiration"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "Cyclophilin",
+    "pathways": [
+      "T cell activation",
+      "immunosuppressive"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "DAT",
+    "pathways": [
+      "dopaminergic signaling",
+      "dopamine reuptake"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "DHFR",
+    "pathways": [
+      "DNA synthesis",
+      "folate metabolism"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "DHODH",
+    "pathways": [
+      "pyrimidine synthesis"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "DNA",
+    "pathways": [
+      "DNA synthesis",
+      "cell cycle"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "DNA gyrase",
+    "pathways": [
+      "bacterial",
+      "DNA topology"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "DNA polymerase",
+    "pathways": [
+      "DNA replication"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "DNMT",
+    "pathways": [
+      "DNA methylation",
+      "epigenetics"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "EGFR",
+    "pathways": [
+      "EGF signaling",
+      "cell growth"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "FGF",
+    "pathways": [
+      "cell growth",
+      "FGF signaling",
+      "angiogenesis"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "anabolic"
+  },
+  {
+    "target": "FKBP12",
+    "pathways": [
+      "mTOR inhibition",
+      "immunosuppressive"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "autophagy"
+  },
+  {
+    "target": "FPPS",
+    "pathways": [
+      "bone metabolism",
+      "farnesyl pyrophosphate synthase"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "bone"
+  },
+  {
+    "target": "GABA",
+    "pathways": [
+      "GABAergic signaling",
+      "inhibitory neurotransmission"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "GABA-A",
+    "pathways": [
+      "anxiolysis",
+      "GABAergic signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "GABA-B",
+    "pathways": [
+      "GABAergic signaling",
+      "spasticity"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "GPD2",
+    "pathways": [
+      "glycerol phosphate shuttle"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "GR",
+    "pathways": [
+      "anti-inflammatory",
+      "glucocorticoid signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "H+/K+ ATPase",
+    "pathways": [
+      "gastric acid secretion"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "H1",
+    "pathways": [
+      "histaminergic signaling",
+      "allergy"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "H2",
+    "pathways": [
+      "histaminergic signaling",
+      "gastric acid"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "HDAC",
+    "pathways": [
+      "epigenetics",
+      "gene regulation"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "HGPRT",
+    "pathways": [
+      "purine metabolism"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "HMGCR",
+    "pathways": [
+      "cholesterol synthesis",
+      "isoprenoid metabolism"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "IGF",
+    "pathways": [
+      "IGF signaling",
+      "cell growth"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "IL-1",
+    "pathways": [
+      "NF-\u03baB signaling",
+      "inflammatory cytokine pathway"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "IL-6",
+    "pathways": [
+      "inflammatory cytokine pathway",
+      "JAK-STAT",
+      "NF-\u03baB signaling"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "IMPDH",
+    "pathways": [
+      "purine metabolism"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "INSR",
+    "pathways": [
+      "insulin signaling",
+      "glucose uptake"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "IRS",
+    "pathways": [
+      "PI3K-AKT",
+      "insulin signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "JAK",
+    "pathways": [
+      "immune response",
+      "JAK-STAT"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "JAK1",
+    "pathways": [
+      "immune response",
+      "JAK-STAT"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "JAK2",
+    "pathways": [
+      "JAK-STAT",
+      "hematopoiesis"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "KCNQ",
+    "pathways": [
+      "neuronal excitability",
+      "K+ channel"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "KOR",
+    "pathways": [
+      "analgesia",
+      "opioid signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "pain"
+  },
+  {
+    "target": "LOX",
+    "pathways": [
+      "leukotriene synthesis",
+      "inflammatory response"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "MAPK",
+    "pathways": [
+      "p38 MAPK",
+      "ERK pathway",
+      "MAPK signaling"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "MAT",
+    "pathways": [
+      "methionine cycle"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "MMP",
+    "pathways": [
+      "ECM degradation",
+      "OA cartilage degradation",
+      "tissue remodeling"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "catabolic"
+  },
+  {
+    "target": "MMP13",
+    "pathways": [
+      "ECM degradation",
+      "OA cartilage degradation"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "catabolic"
+  },
+  {
+    "target": "MOR",
+    "pathways": [
+      "analgesia",
+      "opioid signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "pain"
+  },
+  {
+    "target": "MR",
+    "pathways": [
+      "mineralocorticoid",
+      "aldosterone signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "MT1",
+    "pathways": [
+      "melatonin signaling",
+      "circadian"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "MT2",
+    "pathways": [
+      "circadian",
+      "melatonin signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "NET",
+    "pathways": [
+      "noradrenergic signaling",
+      "norepinephrine reuptake"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "NF-\u03baB",
+    "pathways": [
+      "immune response",
+      "inflammatory response",
+      "NF-\u03baB signaling"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "NGF",
+    "pathways": [
+      "pain",
+      "neurotrophin signaling",
+      "neuron survival"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "pain"
+  },
+  {
+    "target": "NKCC2",
+    "pathways": [
+      "ion transport",
+      "diuresis"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "NMDA",
+    "pathways": [
+      "excitatory neurotransmission",
+      "glutamatergic signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "Na+/K+ ATPase",
+    "pathways": [
+      "cardiac contractility",
+      "ion transport"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "NaV",
+    "pathways": [
+      "sodium channel",
+      "neuronal excitability"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "NaV1.7",
+    "pathways": [
+      "nociception",
+      "pain signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "pain"
+  },
+  {
+    "target": "Nrf2",
+    "pathways": [
+      "antioxidant response",
+      "cytoprotection"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "OPG",
+    "pathways": [
+      "osteoclast inhibition",
+      "bone metabolism"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "bone"
+  },
+  {
+    "target": "P2Y12",
+    "pathways": [
+      "platelet aggregation"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "PBP",
+    "pathways": [
+      "bacterial",
+      "cell wall synthesis"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "PDGF",
+    "pathways": [
+      "wound healing",
+      "cell growth",
+      "PDGF signaling"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "PI3K",
+    "pathways": [
+      "metabolism",
+      "cell survival",
+      "PI3K-AKT"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "PPAR-\u03b1",
+    "pathways": [
+      "PPAR signaling",
+      "lipid metabolism"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "PPAR-\u03b3",
+    "pathways": [
+      "PPAR signaling",
+      "adipogenesis"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "RANKL",
+    "pathways": [
+      "osteoclast differentiation",
+      "RANK/RANKL/OPG",
+      "bone metabolism"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "bone"
+  },
+  {
+    "target": "RAR",
+    "pathways": [
+      "differentiation",
+      "retinoid signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "RUNX2",
+    "pathways": [
+      "bone metabolism",
+      "osteoblast differentiation"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "bone"
+  },
+  {
+    "target": "RXR",
+    "pathways": [
+      "differentiation",
+      "retinoid signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "S6K1",
+    "pathways": [
+      "protein synthesis",
+      "mTOR signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "autophagy"
+  },
+  {
+    "target": "SERT",
+    "pathways": [
+      "serotonin reuptake",
+      "serotonergic signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "SIRT1",
+    "pathways": [
+      "metabolism",
+      "SIRT signaling",
+      "longevity"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "autophagy"
+  },
+  {
+    "target": "SNAP-25",
+    "pathways": [
+      "synaptic vesicle",
+      "neurotransmitter release"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "SNARE",
+    "pathways": [
+      "synaptic vesicle",
+      "neurotransmitter release"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "STAT3",
+    "pathways": [
+      "immune response",
+      "JAK-STAT",
+      "inflammation"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "TGF-\u03b2",
+    "pathways": [
+      "cell growth",
+      "differentiation",
+      "TGF-\u03b2/Smad",
+      "BMP signaling"
+    ],
+    "n_pathways": 4,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "anabolic"
+  },
+  {
+    "target": "TLR2",
+    "pathways": [
+      "innate immunity",
+      "inflammatory response"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "TLR4",
+    "pathways": [
+      "innate immunity",
+      "inflammatory response"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "TNF",
+    "pathways": [
+      "NF-\u03baB signaling",
+      "apoptosis",
+      "inflammatory cytokine pathway"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "TNF-\u03b1",
+    "pathways": [
+      "NF-\u03baB signaling",
+      "apoptosis",
+      "inflammatory cytokine pathway"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "TPMT",
+    "pathways": [
+      "purine metabolism"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "TRPV",
+    "pathways": [
+      "nociception",
+      "pain signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "pain"
+  },
+  {
+    "target": "TRPV1",
+    "pathways": [
+      "nociception",
+      "pain signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "pain"
+  },
+  {
+    "target": "TS",
+    "pathways": [
+      "folate metabolism",
+      "DNA synthesis"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "TXA2",
+    "pathways": [
+      "prostaglandin synthesis",
+      "platelet aggregation"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "TYK2",
+    "pathways": [
+      "interferon signaling",
+      "JAK-STAT"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "inflammatory"
+  },
+  {
+    "target": "TrkA",
+    "pathways": [
+      "pain",
+      "neurotrophin signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "pain"
+  },
+  {
+    "target": "VDR",
+    "pathways": [
+      "bone metabolism",
+      "immune",
+      "vitamin D signaling"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "bone"
+  },
+  {
+    "target": "VEGF",
+    "pathways": [
+      "angiogenesis"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "VKORC1",
+    "pathways": [
+      "coagulation",
+      "vitamin K cycle"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "Wnt",
+    "pathways": [
+      "Wnt signaling",
+      "Wnt/\u03b2-catenin"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "anabolic"
+  },
+  {
+    "target": "aldosterone",
+    "pathways": [
+      "aldosterone signaling"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "alkylating",
+    "pathways": [
+      "DNA damage",
+      "apoptosis"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "aromatase",
+    "pathways": [
+      "steroidogenesis",
+      "estrogen synthesis"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "calcineurin",
+    "pathways": [
+      "immunosuppressive",
+      "T cell activation"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "integrin",
+    "pathways": [
+      "ECM",
+      "cell adhesion"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "catabolic"
+  },
+  {
+    "target": "mTOR",
+    "pathways": [
+      "autophagy",
+      "cell growth",
+      "mTOR signaling"
+    ],
+    "n_pathways": 3,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "autophagy"
+  },
+  {
+    "target": "mTORC1",
+    "pathways": [
+      "cell growth",
+      "mTOR signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "autophagy"
+  },
+  {
+    "target": "microtubule",
+    "pathways": [
+      "cytoskeleton",
+      "mitosis"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "osteoclast",
+    "pathways": [
+      "osteoclast differentiation",
+      "bone resorption"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "bone"
+  },
+  {
+    "target": "receptor",
+    "pathways": [
+      "general signaling"
+    ],
+    "n_pathways": 1,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "topoisomerase II",
+    "pathways": [
+      "DNA topology",
+      "cell cycle"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "tubulin",
+    "pathways": [
+      "mitosis",
+      "microtubule"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "\u03b12-AR",
+    "pathways": [
+      "sympathetic",
+      "noradrenergic signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "\u03b12\u03b4-1",
+    "pathways": [
+      "analgesic",
+      "calcium channel auxiliary"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "\u03b2-catenin",
+    "pathways": [
+      "Wnt signaling",
+      "Wnt/\u03b2-catenin"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "anabolic"
+  },
+  {
+    "target": "\u03b21-AR",
+    "pathways": [
+      "cardiac",
+      "noradrenergic signaling"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  },
+  {
+    "target": "\u03b22-AR",
+    "pathways": [
+      "noradrenergic signaling",
+      "bronchodilation"
+    ],
+    "n_pathways": 2,
+    "source": "KEGG R112 / Reactome v89 / domain knowledge",
+    "category": "other"
+  }
+]

@@ -1,0 +1,1710 @@
+ 
+Page 1 of 45 
+Tissue Engineering 
+© Mary Ann Liebert, Inc. 
+DOI: 10.1089/ten.TEB.2022.0065 
+1 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+Recent Advances in Animal Models, Diagnosis, and Treatment of 
+Temporomandibular Joint Osteoarthritis 
+Dongyun Wang 1, #, Yajie Qi 1, 2, #, Zhubing Wang3, Anyun Guo4, Yingxin Xu1,*, Yang Zhang3,* 
+Affiliation 
+1 Stomatological Center of Peking University Shenzhen Hospital, Guangdong Provincial 
+High-level Clinical Key Specialty, Guangdong Province Engineering Research Center of Oral 
+Disease Diagnosis and Treatment, Shenzhen 518036, China  
+2 Peking University Shenzhen Hospital, Clinical College of Anhui Medical University, 
+Shenzhen 518036, China 
+3 School of Dentistry, Health Science Center, Shenzhen University, Shenzhen 518060, China 
+4 Department of Joint Surgery, Southern University of Science and Technology Hospital, 
+Shenzhen 518000, China 
+ 
+# Dongyun Wang and Yajie Qi contribute equally to this work. 
+*corresponding author  
+doctorxuyingxin@sina.com & yang.zhang@szu.edu.cn  
+Contact Information 
+Dongyun Wang  
+Email: dongyunwang@foxmail.com 
+Phone: +86 18819001869  
+Mailing address: No.1120 Lianhua Road, Futian District, Shenzhen, Guangdong 518036, 
+China 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 2 of 45 
+   
+2 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+Yajie Qi  
+Email: qiyajie915366298@qq.com  
+Phone: +86 17549685301  
+Mailing address: No.1120 Lianhua Road, Futian District, Shenzhen, Guangdong 518036, 
+China 
+ 
+Zhubing Wang 
+Email: zhubingwang21@126.com  
+Phone: +86 13637086939 
+Mailing address: No.1066 Xueyuan Road, Nanshan District, Shenzhen, Guangdong 518000, 
+China 
+ 
+Anyun Guo 
+Email: anyunguo2011@hotmail.com 
+Phone: +86 13713953343 
+Mailing address: No.6019 Liuxian Road, Nanshan District, Shenzhen, Guangdong 518000, 
+China 
+ 
+Yingxin Xu,  
+Email: doctorxuyingxin@sina.com 
+Phone: +86 13560719708 
+Mailing address: No.1120 Lianhua Road, Futian District, Shenzhen, Guangdong 518036, 
+China 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 3 of 45 
+   
+3 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+Yang Zhang 
+Email: yang.zhang@szu.edu.cn 
+Phone: +86 13922810622  
+Mailing address: No.1066 Xueyuan Road, Nanshan District, Shenzhen, Guangdong 518000, 
+China 
+ 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 4 of 45 
+   
+4 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+Abstract 
+Temporomandibular joint osteoarthritis (TMJOA) is a gradual degenerative jaw joint 
+condition. Until recent years, TMJOA is still relatively unrecognized and ineffective to be 
+treated. Appropriate animal models with reliable detection methods can help researchers 
+understand the pathophysiology of TMJOA and find therapeutic options. Here, we 
+summarized common animal models of TMJOA created by chemical, surgical, mechanical, 
+and gentical appraoches. The relevant pathological symptoms and induction mechanisms 
+were outlined. In addition, different pathological indicators  Furthermore, emerging 
+therapeutic regimens, such as intra-articular drug delivery and tissue engineering-based 
+approaches to treat TMJOA based on these animal models, were summarized and 
+updated. Understanding the physiology and pathogenesis of the TMJOA, together using 
+various ways to diagnose the TMJOA were elaborated, including imaging techniques, 
+molecular techniques for detecting inflammatory cytokines, histochemical staining and 
+histomorphometry measures.with a more reliable diagnosis, will enable the development 
+of new prevention and more effective treatment strategies and thereby improve the life 
+quality of TMJOA patients.  
+Keywords 
+Temporomandibular joint osteoarthritis, Animal model, Diagnose, Treatment, New 
+methods 
+ 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 5 of 45 
+   
+5 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+1. Introduction 
+The temporomandibular joint (TMJ) is involved in mastication, swallowing, breathing, 
+speaking, and other common activities of daily living. TMJ osteoarthritis (OA) is a gradual 
+degenerative condition in the jaw joint, and affects 8 to 16 percent of the population 
+worldwide, with an annual health expense of more than $80 billion.1,2 Orofacial pain, joint 
+noises, and limited jaw movement are typical symptoms.  
+The typical pathological changes of TMJOA are progressive cartilage deterioration, 
+subchondral bone remodeling, and synovitis. The etiology of TMJOA is complex and multi-
+factorial. The root cause of TMJOA is assumed to be mechanical overload on joint 
+components that surpasses physiological resistance, such as excessive loading on healthy 
+articular cartilage or normal loading on the damaged articular cartilage, which disrupts 
+cartilage matrix homeostasis and leads to TMJOA.3,4  
+Although hundreds of researches have looked into the mechanisms that cause TMJOA, it is 
+still poorly understood due to various pathogenic variables and clinical presentations. 
+Different animal models have been developed to study the pathological causes of TMJOA. 
+These models help elucidate the mechanics of TMJOA and evaluate therapeutic efficacy 
+even though they cannot reflect all clinical features.5   
+A reliable diagnosis of TMJOA is recognized as essential to confirm the successful 
+establishment of relevant animal models and follow-up treatment. The radiographic 
+characteristics of the condyle or articular eminences, such as bone erosive degradation, 
+osteophyte formation, and cyst-like alterations, are frequently used to diagnose TMJOA in 
+the clinic.6,7 Pathological diagnosis of TMJOA based on histochemical staining and 
+histomorphometry measurements and molecular techniques for detecting various 
+inflammatory factors were developed recently to assess the success of animal models and 
+the efficacy of novel therapeutic approaches.  
+Several treatments are currently available to alleviate symptoms of TMJOA.8 These 
+therapies efficiently reduce signs and symptoms in most cases, but their therapy effect on 
+the degenerative cartilage and subchondral bone is insufficient. Emerging therapeutic 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 6 of 45 
+   
+6 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+techniques, such as innovative intra-TMJ drug delivery and tissue engineering-based 
+products, are being investigated as an alternative therapeutic approach to treat TMJOA.  
+In this review, we firstly introduce the currently established animal models of TMJOA. The 
+diverse diagnosis approaches to TMJOA and their pathological mechanisms are 
+summarized. The reported treatment strategies for TMJOA based on these animal models 
+are also elaborated. Further, since current animal models, diagnosis, and clinical 
+treatments are still in their infancy, we point out their limits and future strategies to 
+provide an up-to-date review. 
+2. Animal Models of TMJOA 
+Animal models of TMJOA are essential for researching the pathophysiology and testing the 
+efficacy of novel therapy options.9 Various attempts have been carried out to produce 
+TMJOA animal models, including naturally occurring, chemical induction, surgical 
+operation, mechanical stimulation, and genetically modified models. In this section, we 
+summarized the different TMJOA animal models according to the different causes of 
+TMJOA (Table 1& Figure1). 
+2.1 Naturally occurring models of TMJOA 
+As a degenerative disease, the prevalence of TMJOA rises with age. Zheng et al10 found a 
+naturally occurring TMJOA model using aging mice. In their investigation, 60-week-old 
+mice showed degeneration and decreased bone volume in cartilage and more TRAP-
+positive cells in the subchondral bone. Besides, Ukita et al11 also found exposed 
+proliferative layer in the damaged TMJ cartilage of the 20-month-old mice. Using the aging 
+mice with spontaneous TMJOA can help researchers to study the pathological relationship 
+between aging and cartilage and subchondral bone lesions in TMJOA. 
+2.2 Chemical Induction of TMJOA 
+Chemical stimulants including complete Freund's adjuvant (CFA), monosodium iodine 
+acetate (MIA), vascular endothelial growth factor (VEGF), collagenase, and formalin, are 
+commonly used to create TMJ inflammatory models. Most chemical induction methods 
+centered on the inflammatory part of TMJOA. They appear to be straightforward to 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 7 of 45 
+   
+7 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+employ, with predictable damage and repeatability, but these attempts are mainly applied 
+on rats and only replicate a single symptom of TMJOA.5   
+2.2.1 Chemical Induction by CFA and MIA 
+CFA contains heat-killed mycobacterium tuberculosis, which is thought to produce acute 
+inflammation. MIA causes chondrocyte death by decreasing the activity of glyceraldehyde-
+3-phosphate dehydrogenase. Cui et al12 investigated the alterations of condylar cartilage 
+and subchondral bone in CFA-induced inflammation in rats. Reduced cartilage thickness, 
+fewer chondrocytes, and decreased proteoglycan expression were found in the articular 
+cartilage of inflammatory TMJs. The RANKL/OPG ratios in the cartilage and subchondral 
+bone were also found to increase during the CFA injection. Jiang et al injected 50 μl of MIA 
+(4 mg/kg) into the upper compartment of the TMJ of rats. They discovered that the rats' 
+condylar structure degraded over time, decreasing chondrocyte quantity and percentage 
+of proteoglycan area in cartilage.13 Wang et al investigated rats after injecting different 
+doses of MIA for 12 weeks. They discovered that injecting 0.5 mg or more MIA into the 
+TMJ resulted in OA-like lesions in 4 weeks. Condylar breakdown progressed throughout 
+time, beginning with chondrocyte death and progressing through cartilage matrix 
+disorganization, subchondral bone erosion, and osteophyte development.14 By changing its 
+concentration, the MIA-induced model of TMJOA has the benefit of being simple to modify 
+the severity of the joint lesions.  
+2.2.2 Chemical Induction by VEGF and collagenase 
+VEGF is a pro-angiogenic growth factor and implicated in the breakdown of articular 
+cartilage and the progression of TMJOA by activating osteoclasts. Subchondral bone 
+destruction, noticeable cartilage degradation, and subchondral bone resorption with a 
+substantial number of osteoclasts were found in VEGF-injected mice. The results indicate 
+that VEGF can cause TMJOA by causing cartilage and subchondral bone destruction.15 
+TMJOA was also generated by intra-articular injection of reagents to degrade or inactivate 
+collagen. This model was induced by injecting 12.5 μl of collagenase into the upper cavity 
+of mice TMJ. Li et al. discovered that the mice's joints had an uneven surface, and 
+inflammation increased dramatically.16 In a rat model, formalin has also been used to 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 8 of 45 
+   
+8 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+cause the TMJOA. Goulart et al. observed synovial membrane hyperplasia, inflammatory 
+reaction in the condylar neck, and atrophy of the fibrocartilage in the formalin-injected 
+rats.17 
+2.3 Surgical Operation of TMJOA 
+Disc perforation, disc displacement, discectomy and condylectomy are surgical procedures 
+for modeling TMJOA. Rather than rats and mice, larger animals such as rabbits, lambs, and 
+monkeys are used in these animal models.  
+2.3.1 TMJOA by Disc Perforation 
+The rabbit is frequently used as a disc perforation model. Embree et al. produced a 2.5 mm 
+defect in rabbits via a unilateral TMJ disc puncture operation. They discovered condylar 
+cartilage degeneration and heterotopic ossification in experimental condyles after disc 
+perforation. Their findings showed that disc perforation could result in TMJOA and 
+aberrant mandibular development.18  
+2.3.2 TMJOA by Disc Deformation  
+Extra-articular surgery was used by Liu et al to unilaterally move the rabbits’ jaw in a 
+posterosuperior direction, resulting in joint disc deformation. Synovial hyperplasia and 
+adhesion in joints, as well as a significant deformation of the joint disc, were discovered in 
+the early postoperative phase. The authors concluded TMJOA by this method 
+recapitulated typical OA pathological manifestations.19  
+2.3.3 TMJOA by Disc Displacement 
+Anterior disc displacement is widely recognized as one of the causes of TMJOA, and it is 
+used in animal surgeries as a surgical model. Adult rabbits were surgically induced with 
+anterior disc displacement by Xu et al. After exposing the zygomatic arch suture, a hole 
+was created under the anterior of the zygomatic arch. The disc's anterior portion was then 
+sewed to the hole. In this way, increased chondrocyte death resulting in a reduction in cell 
+density was observed after surgical disc displacement.20  
+ 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 9 of 45 
+   
+9 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+2.3.4 TMJOA by Discectomy 
+Furthermore, a partial discectomy was performed on one side of the TMJs to create 
+TMJOA mice. Cohen et al21 found degeneration in articular cartilage after 4 weeks. 
+Reduced proteoglycan at 12 weeks and articular cartilage loss at 16 weeks were observed. 
+These findings revealed that the mice with partial discectomy led to early-onset TMJOA-
+like articular cartilage degeneration.  
+2.3.5TMJOA by Condylectomy 
+Condylectomy is also a surgical procedure to induce TMJOA. Vapniarsky et al22 performed 
+condylectomy in minipigs, they found the operation induced subchondral cysts and large 
+osteophytes formation with the extensive irregular cartilage surface. Besides, Gomez et 
+al23 used the same way to create TMJOA mice. They revealed that condylectomy caused 
+discontinuous cartilage and bone loss, without cartilage regeneration and extracellular 
+matrix formation. 
+2.4 Mechanical Stimulation of TMJOA 
+It has been proven that disrupted occlusion can cause a masticatory system imbalance, 
+which can be an approach to creat TMJOA. Bite raising and malocclusion are two common 
+ways in which altered loading can be generated in animal models. These methods are 
+affordable, efficient, and repeatable to induce TMJOA mice models (Table 2).  
+2.4.1 Stimulation of TMJOA by Malocclusion 
+Another prevalent method to create TMJOA is unbalanced malocclusion. Zhang et al24 and 
+Sun et al25 bonded a metal tube to the rat’s left maxillary incisor and another metal tube to 
+the left mandibular incisor to create an aberrant dental occlusion. Meanwhile, Jiao et al26 
+mesially relocated the first and third molars of the left maxilla and distally relocated the 
+first and third molars of the right mandible. These two models led to the subchondral bone 
+and cartilage deterioration in the mandibular condyle and increased chondrocyte death. 
+These two models can also cause chondrocyte mortality and OA-like lesions in rat TMJ 
+cartilage.  
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 10 of 45 
+   
+10 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+2.4.2 Stimulation of TMJOA by Bite Raising 
+Given that the bite raising can lead to TMJOA, Matias et al and Jung et al have developed 
+two different models. By placing a U-shaped stainless steel wire on the molar teeth, Matias 
+et al27 established a bite-raising animal model. Meanwhile, Jung et al28 developed an 
+animal model by building up resin on the left maxillary molars of rats. Both of them 
+observed the development of TMJOA with a decreased thickness of the condylar cartilage 
+and increased apoptosis in the cartilage and subchondral bone.  
+2.5 Gene Modification of TMJOA 
+One major step forward in creating TMJOA animal models was the development of gene 
+editing techniques, which allowed for targeted modification of the animal's genome. These 
+animals are useful for investigating the function of a speciﬁc gene and its interaction with 
+other components in the temporomandibular joint. According to a recent study, the short 
+stature homeobox 2 (Shox2) gene plays a crucial role in TMJ development. TMJ defects 
+and premature articular disc erosion, symptoms known as TMJOA, are shown in Shox2-
+depleted mice[29]. Besides, Proteoglycan 4 (Prg4)-null mice model30 showed abnormal 
+cartilage, osteophytes formation in the glenoid fossa. Discoidin domain receptor (DDR)-1 
+knockout mice31 had bone surface fissures, proteoglycan degradation, chondrocyte cluster 
+development, and other classic TMJOA histology findings.  
+3. Diagnosis of TMJOA 
+It is critical to use various pathological indexes to diagnose TMJOA for assessing the 
+efficacy of TMJOA models and evaluating the efficacy of innovative treatments. Imaging 
+techniques including micro-CT and MRI, molecular techniques to detect inflammatory 
+cytokines, histochemical staining, and histomorphometry measures are the most used 
+diagnosis approaches in animal studies.  
+3.1 Diagnosis of TMJOA by Imaging Techniques 
+Unmineralized new bones with the abnormal trabecular bone structure, unusual condylar 
+form, and bone mineral density (BMD) were generally found in the TMJOA condylar 
+cartilage. Computed tomography (Micro-CT) is the most appropriate diagnostic method for 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 11 of 45 
+   
+11 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+bone structure because it can provide anatomical detail.32 Micro-CT can measure the bone 
+changes in the TMJOA models12,14 (Figure 2A). The trabecular microstructure can be 
+assessed using metrics such as bone volume fraction (BV/TV), BMD, trabecular thickness 
+(Tb. Th), trabecular number (Tb. N), and trabecular separation (Tb. Sp). In an investigation 
+by Xu et al33, more extensive marrow cavities were detected in the subchondral bone two 
+weeks later in the TMJOA animals. BV/TV, BMD, Tb. N, Tb. Th all reduced while Tb. Sp rose 
+in TMJOA groups compared to controls according to micro-CT analysis. Besides, joint 
+internal structure derangement, disc displacement, and joint inflammatory fluid frequently 
+occurred in the TMJOA.34 Magnetic resonance imaging (MRI) is considered to be accurate 
+for diagnosing the morphology and position of TMJ discs and soft tissues.35 Badylak et al 
+found joint internal structure derangement and decreased joint space diagnosed by MRI in 
+the pig TMJOA model induced by discectomy.36 With the aid of MRI, Chan et al. found 
+bone degeneration and joint inflammatory fluid in rabbits injured TMJs induced by 
+discectomy37, and Sun et al, found disc displacement in the pig TMJOA models induced by 
+condylar fracture38 (Figure 2B). Compared to Micro-CT, MRI can detect early disc 
+pathological changes39, and display discs, cartilages, and other soft tissues much more 
+clearly in the diagnosis of TMJOA, for its superior resolution and great tissue contrast.40,41 
+However, given its high acquisition cost and a long examination time42, MRI is more 
+frequently used in clinically diagnosing TMJOA rather than in animal studies. 
+3.2 Diagnosis of TMJOA by Molecular Techniques to Detect Inflammatory Cytokines 
+Inflammation plays a vital role in the development of TMJOA, particularly the tumor 
+necrosis factor α (TNF-α) and pro-inflammatory factors Interleukin-1β (IL-1β) and regulate 
+articular cartilage matrix degeneration. Several other cytokines such as IL-6, IL-15, and IL-
+21 have also been shown to be implicated in TMJOA and can be quantified by ELISA. In 
+some studies43-45, cytokines levels and gene expression of matrix degrading proteases in 
+the TMJOA animal models were assessed using real-time PCR and western Blot (Figure 2C-
+D). Total RNA was extracted from condylar cartilage and subchondral bone. The 
+concomitant pro-inflammatory cytokines such as TNF-α, IL-1β, and several other cytokines 
+were found to be up-regulated in TMJOA. Inflammation causes an increase in these 
+cytokines and leads to degenerative effects.46-49 By the same method, increased 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 12 of 45 
+   
+12 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+concentration of monocyte chemoattractant protein (MCP)-1 and carboxy-terminal 
+telopeptides (CTX)-1were also observed in the synovial tissues and fluids of models with 
+TMJOA[50, 51]. Besides, several studies have discovered the receptor activator of NF-κB 
+ligand (RANKL) and osteoprotegerin (OPG) play critical roles in the onset and progression 
+of TMJOA. Reduced OPG/RANKL ratios in synovial tissues were found in the TMJOA rats.52  
+3.3 Diagnosis of TMJOA by Histochemical Staining and Histomorphometry Measures 
+According to numerous research, synovitis, lower cartilage thickness, fewer chondrocytes, 
+and down-regulated proteoglycan expression have all been reported in the condylar 
+cartilage in TMJOA models. Increased osteoclast activity and larger bone marrow cavity 
+were found in the inflammatory TMJ, with immature new bones, uneven trabecular bone 
+structure, and unusual condylar shape. These histomorphological changes can be 
+measured by histological stainings.  
+Hematoxylin & Eosin (HE) staining revealed that in TMJOA models, synovial cells had 
+evident hyperplasia, and the inflammatory synovium contained numerous mononuclear 
+cells and lipid droplets. In addition, the number of chondrocytes and the thickness of the 
+condylar cartilage were decreased.33 Proteoglycan alterations in the cartilage matrix can 
+be determined by T.B. and S.O staining, and proteoglycan amounts were all significantly 
+reduced in the TMJOA models18,14 (Figure 2E). The change in trabecula bone shape and the 
+degree of bone mineralization were observed using Masson trichrome staining[53]. Through 
+it, irregular and disordered trabecular bone structures and large marrow cavities can be 
+observed in the TMJOA models.14 The osteoclast activity was estimated by tartrate-
+resistant acid phosphatase (TRAP) staining33,54, and the chondrocytes apoptosis can also be 
+examined in situ using a TUNEL assay.55 Wang et al56 reported that following TMJOA 
+induction, TUNEL-positive chondrocytes were identified diffusely in the corresponding 
+region. In addition, the upregulation of cartilage degradation markers involved in the 
+pathology of TMJOA such as VEGF, matrix metalloproteinase (MMP)-3, MMP-9, and bone 
+morphogenetic protein (BMP)-7, can be measured by histochemical stainings in the 
+cartilage matrix of TMJOA57-61 (Figure 2F).   
+ 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 13 of 45 
+   
+13 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+4. Conservative Treatment of TMJOA 
+TMJOA treatment aims to inhibit cartilage and subchondral bone deterioration, stimulate 
+condyle remodeling, reduce joint discomfort, and restore TMJ functions.62 Manual 
+movement of the TMJ63 and splints have been frequently applied to relieve muscular 
+strain, rectify mandibular malalignment, and reduce pain.64,65 Pharmacological treatments 
+such as NSAIDs, muscle relaxants, corticosteroids, and antidepressants are also used to 
+treat TMJOA pain. However, they are commonly connected to side effects such as nausea 
+and dizziness.66 If conservative therapy fails, simple non-surgical therapies such as 
+arthrocentesis, arthroscopy, and hyaluronic acid (HA) injections might be used to alleviate 
+TMJOA symptoms.67-69 HA can restore the viscoelasticity of the synovial fluid in an 
+inflamed joint and has lubrication, shock absorption, and joint protection effects.70 
+However, the half-life of HA is short, leading difficulty in sustaining a long-term therapeutic 
+efficacy. 
+5. Advanced Treatment of TMJOA 
+Although the conserved treatments listed above can slow disease progression to some 
+extent, they are unable to completely heal the degraded cartilage or subchondral bone 
+defects, as well as degenerative disc disease. These lesions frequently cause severe 
+symptoms, including pain, edema, and dysfunction. Aiming this, novel drug delivery 
+systems and tissue engineering therapies to retore the TMJ tissues gained increasing 
+attention.  
+5.1 Treatment of TMJOA By Novel Delivery Systems of Therapeutic Agents 
+The half-life of most intra-TMJ injectable medications in the tissue is short, causing rapid 
+clearance from the site of injection and multiple injections to boost the therapeutic 
+effects. Controlled-release drug delivery systems can address these difficulties by 
+providing medications in a regulated spatiotemporal manner which have been designed 
+for the TMJOA treatments.  
+Due to the similarity to human tissue structure, biodegradability, and injectability, 
+hydrogels have become the mainly applied materials for the local delivery of drugs to treat 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 14 of 45 
+   
+14 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+TMJOA. Talaat et al. created chitosan hydrogels with varying β-glycerophosphate (β-GP) 
+concentrations to deliver hyaluronic acid (HA). The hydrogel continuously released HA in 
+rabbit TMJ for 7 days.71  Moreover, encapsulation of drugs into lipid nanoparticles is able 
+to prolong the delivery and improve the stability of liposoluble drugs. Guilherme et al 
+created a lipid carrier with Pluronic F68 and a blend of cetyl palmitate (CP) and 
+capric/caprylic triglycerides (CCT). This delivery system realized the release of naproxen in 
+the rat TMJ for more than 7 days, which significantly reduced the secretion of 
+inflammatory cytokines IL-1β and TNF-α.72 Nanoparticles with good biocompatibility, 
+biodegradability, and high loading capacity can be elaborated to deliver different proteins, 
+nucleic acids, and chemical drugs. For example, Li et al recently produced mesoporous 
+silica nanoparticles and used them to deliver hyaluronan synthase type 2 enzyme (HAS2) 
+into rat TMJ synoviocytes.73 As a result, endogenous HA synthesis was increased and 
+synovial inflammation was inhibited for more than three weeks with one-shot 
+administration. A similar nanocarrier system was developed in a polymeric micelle 
+manner. Hanafy et al created a micellar system containing PL407, HA, and the anti-
+inflammatory drug diclofenac potassium (DK).74 This formulation showed a controlled DK 
+release for 4 days and regenerated cartilage in OA rats.   
+5.2 Treatment of TMJOA By Tissue Engineering Strategies  
+Due to the low regenerative capacity of the condyle, current treatments for TMJOA are 
+mostly symptomatic relief targeted and lack long-term efficacy. Lately, there has been a 
+surging interest in cellular therapy for severe kinds of TMJOA, such as disc thinning, disc 
+perforation, and condyle osteochondral destruction. Bioactive components, including cells 
+and growth factors, are commonly used in such regeneration therapy systems.75-77  
+5.2.1 Cells in Tissue Engineering Strategies for TMJOA  
+In TMJ tissue engineering strategies, mesenchymal stem cells (MSCs) are the mostly 
+employed cell type.78, 79 Bone marrow is currently the most common MSCs source and 
+bone marrow MSCs (BMMSCs) have been extensively researched. Injection of BMSCs was 
+found to induce repair and regeneration of TMJOA. Gomez et al revealed that the new 
+cartilage and bone covered the top of the condyle defect with extracellular matrix 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 15 of 45 
+   
+15 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+deposition in the mandibular condyle cartilage defected mice after 6-week of BMMSCs 
+injection.23 Aside from bone marrow, adipose tissue is a more accessible source of stem 
+cells. Adipose-derived stem cells (ADMSCs) are more readily available than BMMSCs 
+because of the abundance, high proliferation capacity and differentiation potential.80, 81 
+Ahtiainen et al. implanted polylactide discs, embedded with ADMSCs to the rabbits’ 
+defective TMJ discs.82 They found ADMSCs promoted cartilaginous tissue formation and 
+bone regeneration in the TMJ. Moreover, a recently published study in 2020 reported that 
+stromal vascular fraction (SVF), a component of lipoaspirate that contained 32% ADMSCs, 
+is more feasible in cellular therapy for TMJOA.83 The SVF reduced inflammatory cytokines, 
+released by the synoviocytes from TMJOA tissue. Given the minimal manipulation and low 
+cost84, SVF is worth being more investigated as a new cell source to treat TMJOA in the 
+future. Besides, mesenchymal stem cells from oral tissues, including dental pulp stem cells 
+(DPSCs), periodontal ligament stem cells (PDLSCs), and deciduous teeth stem cells (DTSCs), 
+have been proposed as promising cells in the regeneration systems.12,55,85 In an 
+investigation by Cui et al, they injected the DPSCs into the articular cavity of the rat to 
+treat the TMJOA induced by CFA injection. They found that local injection of DPSCs can 
+relieve inflammatory pain, decrease cartilage degradation, induce bone regeneration and 
+downregulate the expression levels of TNF-α, MMP3, and MMP1.12 Induced pluripotent 
+stem cells (iPSCs) are additional possible stem cell sources. iPSCs have potential in 
+regenerative medicine because of their ability to be induced into various cell lineages 
+including chondrocytes and they are non-invasively harvested and can be transplanted 
+autologously without immune rejection.86 Although the use of iPSCs in TMJ disc tissue 
+engineering has not been established, Rim et al. proved the therapeutic effect of iPSC-
+derived chondrocytes in the osteochondral defect rat models. After 8 weeks of injection of 
+iPSC-derived chondrocytes, chondrocytes were found on the top of the surface of the 
+osteochondral defects with high expression of type I collagen.87 Some somatic cells, like 
+costal cartilages, have recently emerged as promising cells for TMJ tissue engineering due 
+to their abundance of sources and superior ability in collagen synthesis compared with 
+other cell types.88 Vapniarsky et al utilized an aggregate redifferentiation method to 
+produce costal chondrocytes to generate a cartilage sheet for TMJ disc repair in a minipig 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 16 of 45 
+   
+16 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+model.22 The results showed that the tissue-engineered implants prevented the condylar 
+head degeneration and successfully repaired the disc defects (Figure 3A).  
+5.2.2 Scaffolds in Tissue Engineering Strategies for TMJOA 
+Cell injection alone showed a low retention rate of transplanted cells in the joint due to 
+severe anoikis and hypoxia.89-91 Besides, the TMJ disc is under high mechanical stress and 
+in motion. Therefore, scaffolds with adequate mechanical strength and long-term stability 
+to ensure the high retention of transplanted cells are desired for cell-based tissue-
+engineered TMJ constructs.   
+Chitosan, alginate, collagen, and fibrin are the natural materials used in TMJ disc scaffolds. 
+Chitosan shares structural similarities with numerous naturally occurring 
+glycosaminoglycans found in cartilage.92 Alginate hydrogel characteristics can be designed 
+to control stem cell fate and activity.93 Bousnaki et al developed a kind of chitosan/alginate 
+(Ch/Alg) scaffold embedded with DPSCs. They found the scaffold promoted DPSCs 
+adhesion, viability, and proliferation, ultimately resulting in a storage modulus comparable 
+to the human TMJ discs.94 Collagen is a major component of native discs. In an 
+investigation by Wang et al95, the discs of rabbits regenerated and the joint's normal 
+function was restored when the natural disc was removed by discectomy and 
+subsequently replaced with reconstituted collagen templates embedded with ADMSCs. 
+Moreover, Chen et al96 used decellularized bovine distal femurs as scaffolds seeded with 
+ADMSCs to regenerate the full-thickness cartilage in minipig joints after ramus-condyle 
+unit ectomy (Figure 3B). 
+Polyglycolic acid (PGA)97, polylactic acid (PLA)82, and polycaprolactone (PCL)98 Poly-L-lactic-
+co-glycolic acid (PLGA)99 are the common synthetic materials used in TMJ disc scaffolds 
+due to their superior mechanical properties and controllability.100 PGA is cytocompatible 
+with TMJ disc-derived cells but it degrades fast.101 PLA has a longer degradation time. 
+Aiming this, Ahtiainen et al implanted PLA-based scaffolds with ADMSCs to the rabbits’ 
+defective TMJ discs.82 They found PLA was sustained for 6 months without inflammatory 
+symptoms and promoted cartilaginous tissue formation and bone regeneration in the TMJ. 
+PCL possesses excellent mechanical strength but lacks bioactivity, which needs to be 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 17 of 45 
+   
+17 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+modified to improve its biocompatibility102 for the reparation of cartilage defects.103 PLGA 
+has been licensed by the FDA for therapeutic use for cartilage regeneration. Uematsu et 
+al. found that PLGA scaffolds can promote the colonization and proliferation of MSCs.99 
+Tarafder et al designed a PCL scaffold embedded with PLGA microspheres and BMSCs, and 
+noticed increased collagen synthesis and mechanical characteristics compared to the 
+scaffold alone and enhanced healing of the perforated rabbits’ TMJ discs after 4 weeks.98  
+5.2.3 Growth Factors in Tissue Engineering Strategies for TMJOA  
+Soluble chemicals or growth factors are frequently elaborated to improve the biological 
+characteristics of cells. For example, NEL-like molecule-1 (NELL-1) was employed to 
+promote the chondrogenic differentiation of BMMSCs during pre-treatment.104 Zhu et al 
+observed that the NELL-1-modified BMMSCs showed more vigorous and well-organized 
+fibrocartilage regeneration than those without NELL-1.104 The transforming growth factors 
+(TGF)-family82,98,105 and connective tissue growth factor (CTGF) can control the growth and 
+function of the imported cells and newly formed tissues.106 In a study by Tarafder et al98, 
+CTGF and TGF-β3 were delivered with MSCs and PCL scaffolds. Compared to the control 
+group, the experiment group significantly prevented arthritic changes of TMJ condyles, 
+increased fibrocartilaginous recovery, and promoted multiphase fibrocartilaginous 
+tissue formation in a disc perforation model. Moreover, platelet derivative growth factor 
+(PDGF), basic fibroblast growth factor (bFGF), and insulin-like growth factor 1 (IGF-1)107 
+were reported having the capacity to boost the proliferation rate of TMJ-disc derived cells, 
+glycosaminoglycans formation, and collagen and hyaluronic acid synthesis108 (Table 3) . 
+6. Limitations and Future Perspectives 
+TMJOA is difficult to be treated in the clinic due to the unique anatomy of TMJ and the 
+complex etiology of this disease. Despite that different TMJOA models have been 
+developed and specific mechanisms were revealed, each model has its advantages and 
+shortcomings, and the majority of current models are single-factor models that do not 
+adequately depict the etiology and progression of TMJOA. Therefore, it is feasible to 
+create different multi-factor animal models for various situations, depending on the 
+research purpose for investigating the neurobiological and molecular causes of TMJOA.5  
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 18 of 45 
+   
+18 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+Conventional detection methods, including imaging techniques, molecular techniques for 
+detecting inflammatory cytokines, histochemical stainings and histomorphometry 
+measures, are mostly used to diagnose TMJOA. These methods, however, are not specific 
+and efficient in detecting TMJOA. For instance, inflammation also happens due to the 
+infection in the temporal space, which is adjacent to the TMJ. Besides, the histological 
+staining protocols vary in different labs, and the staining results are not objective, which 
+may influence the diagnostic accuracy. Also, the conventional methods to diagnose TMJOA 
+cannot be conducted in a high-throughput manner. In recent years, novel methods have 
+been developed to detect diseases with high accuracy and specificity. For example, 
+fluorine 18 fluorodeoxyglucose (FDG) is easily taken up by metabolically active 
+inflammatory cells.116 Positron emission tomography (PET) identified increased uptake of 
+FDG in periarticular lesions of patients with active symptoms, demonstrating it to be a 
+more sensitive alternative to Micro-CT in detecting arthritic changes in the condyle. On the 
+other hand, single-cell sequencing (SCS) can be used to obtain the information on 
+genomes, transcriptomes, and epigenomes of individual cells, allowing researchers to 
+identify new or rare cell types and compare healthy and disease-related tissues at single-
+cell resolution. Therefore, new diagnostic techniques such as SCS can be well-developed to 
+diagnose TMJOA more specifically and efficiently. 
+According to this literature review, significant progress has been made in cell-based 
+therapy of the TMJOA. However, several challenging issues have yet to be resolved. One of 
+the most significant challenges in cell-based therapy is the insufficient understanding of 
+therapeutic mechanisms and the difficulty in maintaining the precise and prolonged 
+persistence of implanted cells in the TMJ. More recent studies have noted that secretomes 
+by implanted cells89, particularly exosomes, play a significant role in cell-based 
+regenerative constructs. Several reports suggest that exosomes produced from stem cells 
+trigger the migration of progenitor cells, promote cartilage and bone regeneration, and 
+pain reduction in TMJOA animal models.55 Therefore, exosomes with advanced delivery 
+systems can be a more potential and novel strategy for treating TMJOA.  
+The other concern of tissue-engineering-based therapy is the low efficiency of 
+fibrocartilage restoration on the articulating surfaces and implant displacement due to the 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 19 of 45 
+   
+19 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+complex structure of TMJ. Aiming this, three-dimensional (3D) bioprinting is a potential 
+and unique fabrication approach for accurately positioning biologics, such as living cells 
+and extracellular matrix ECM components, in a specified 3D hierarchal order to build 
+artificial multicellular TMJs with high efficiency. 3D bioprinting used in TMJOA treatment is 
+still rarely reported, which is worth to be attempted in the future.  
+7. Conclusion 
+Appropriate animal models can help researchers better understand the pathophysiology of 
+TMJOA and find therapeutic options. The currently developed models and diagnostic 
+methods have their benefits and limitations. In the future, it is necessary to induce 
+different multi-factor animal models and clinical symptoms relevant models with advanced 
+diagnostic techniques of higher accuracy and specificity to depict the neurobiological and 
+molecular causes of TMJOA. The limitations of current TMJOA treatments inspire us to 
+develop new drug delivery systems and tissue engineering strategies to treat TMJOA. 
+However, several challenging issues have yet to be resolved. Increasing the effectiveness 
+of cell-based therapy and tissue engineering products and understanding more about the 
+therapeutic mechanisms will be the focus of future investigations on the treatment of 
+TMJOA. 
+Funding Information 
+This study was supported by the Shenzhen Science and Technology Innovation Committee 
+(JCYJ20190808152211686, JCYJ20190808120217133, JCYJ202103241-05408022), Sanming 
+Project of Medicine in Shenzhen (SZSM202111012), and Educational Reform and Research 
+Fund from Shenzhen University (JG2021169). 
+ 
+Disclosure Statement 
+The authors declare that no conflict of interests exist. 
+ 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 20 of 45 
+   
+20 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+Authors' Contributions 
+Dongyun Wang: conceptualization, article writing, and funding support. Yajie Qi: literature 
+collection, image processing, and article writing. Zhubing Wang and Anyun Guo: literature 
+collection and image processing. Yingxin Xu and Yang Zhang: conceptualization, literature 
+collection, article writing, and funding support.  
+ 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 21 of 45 
+   
+21 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+References: 
+  [1] 
+Bansal M. Prevalence and diagnostic features of osteoarthrosis of the 
+temporomandibular joint: a review. International Journal of Research in 
+Orthopaedics 2016;2(1):1-4; doi: 10.18203/issn.2455-
+4510.IntJResOrthop20160708. 
+  [2] 
+Research NIOD. Prevalence of TMJD and its signs and symptoms. 2018. Available 
+from: https://www.nidcr.nih.gov/research/data-statistics/facial-pain/prevalence 
+[Last accessed: 3/20/2022]. 
+  [3] 
+Krisjane Z, Urtane I, Krumina G, et al. The prevalence of TMJ osteoarthritis in 
+asymptomatic patients with dentofacial deformities: a cone-beam CT study. Int J 
+Oral Maxillofac Surg 2012;41(6):690-695; doi: 10.1016/j.ijom.2012.03.006. 
+  [4] 
+Matsumoto R, Ioi H, Goto TK, et al. Relationship between the unilateral TMJ 
+osteoarthritis/osteoarthrosis, mandibular asymmetry and the EMG activity of the 
+masticatory muscles: a retrospective study. J Oral Rehabil 2010;37(2):85-92; doi: 
+10.1111/j.1365-2842.2009.02026.x. 
+  [5] 
+Xiang T, Tao ZY, Liao LF, et al. Animal Models of Temporomandibular Disorder. J 
+Pain Res 2021;14:1415-1430; doi: 10.2147/JPR.S303536. 
+  [6] 
+Zhao YP, Zhang ZY, Wu YT, et al. Investigation of the clinical and radiographic 
+features of osteoarthrosis of the  temporomandibular joints in adolescents and 
+young adults. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 2011;111(2):e27-
+e34; doi: 10.1016/j.tripleo.2010.09.076. 
+  [7] 
+Kalladka M, Quek S, Heir G, et al. Temporomandibular joint osteoarthritis: 
+diagnosis and long-term conservative management: a topic review. J Indian 
+Prosthodont Soc 2014;14(1):6-15; doi: 10.1007/s13191-013-0321-3. 
+  [8] 
+Durham J, Steele JG, Wassell RW, et al. Living with uncertainty: 
+temporomandibular disorders. J Dent Res 2010;89(8):827-830; doi: 
+10.1177/0022034510368648. 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 22 of 45 
+   
+22 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+  [9] 
+Almarza AJ, Brown BN, Arzi B, et al. Preclinical Animal Models for 
+Temporomandibular Joint Tissue Engineering. Tissue Eng Part B Rev 
+2018;24(3):171-178; doi: 10.1089/ten.TEB.2017.0341. 
+ [10] 
+Zheng L, Pi C, Zhang J, et al. Aberrant activation of latent transforming growth 
+factor-beta initiates the onset of temporomandibular joint osteoarthritis. Bone 
+Res 2018;6:26; doi: 10.1038/s41413-018-0027-6. 
+ [11] 
+Ukita M, Matsushita K, Tamura M, et al. Histone H3K9 methylation is involved in 
+temporomandibular joint osteoarthritis. Int J Mol Med 2020;45(2):607-614; doi: 
+10.3892/ijmm.2019.4446. 
+ [12] 
+Cui SJ, Zhang T, Fu Y, et al. DPSCs Attenuate Experimental Progressive TMJ 
+Arthritis by Inhibiting the STAT1 Pathway. J Dent Res 2020;99(4):446-455; doi: 
+10.1177/0022034520901710. 
+ [13] 
+Jiang H, Xu L, Liu W, et al. Chronic Pain Causes Peripheral and Central Responses in 
+MIA-Induced TMJOA Rats. Cell Mol Neurobiol 2021; doi: 10.1007/s10571-020-
+01033-8. 
+ [14] 
+Wang XD, Kou XX, He DQ, et al. Progression of cartilage degradation, bone 
+resorption and pain in rat temporomandibular joint osteoarthritis induced by 
+injection of iodoacetate. PLoS One 2012;7(9):e45036; doi: 
+10.1371/journal.pone.0045036. 
+ [15] 
+Shen P, Jiao Z, Zheng JS, et al. Injecting vascular endothelial growth factor into the 
+temporomandibular joint induces osteoarthritis in mice. Sci Rep 2015;5:16244; 
+doi: 10.1038/srep16244. 
+ [16] 
+Li W, Hu S, Chen X, et al. The Antioxidant Resveratrol Protects against 
+Chondrocyte Apoptosis by Regulating  the COX-2/NF-kappaB Pathway in Created 
+Temporomandibular Osteoarthritis. Biomed Res Int 2021;2021:9978651; doi: 
+10.1155/2021/9978651. 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 23 of 45 
+   
+23 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+ [17] 
+Goulart AC, Correia FA, Sousa SC, et al. Study of the inflammatory process induced 
+by injection of carrageenan or formalin in the rat temporomandibular joint. Braz 
+Oral Res 2005;19(2):99-105; doi: 10.1590/s1806-83242005000200005. 
+ [18] 
+Embree MC, Iwaoka GM, Kong D, et al. Soft tissue ossification and condylar 
+cartilage degeneration following TMJ disc perforation in a rabbit pilot study. 
+Osteoarthritis Cartilage 2015;23(4):629-639; doi: 10.1016/j.joca.2014.12.015. 
+ [19] 
+Liu LK, Hong YJ, Tao DT, et al. [Evaluation of a model of temporomandibular 
+disorders established by transzygomatic arch traction of the mandibular ramus in 
+rabbits]. Zhonghua Kou Qiang Yi Xue Za Zhi 2006;41(12):755-756; PMID: 17349200 
+ [20] 
+Xu T, Gu Z, Wu H, et al. Expression of endoplasmic reticulum stress protein in 
+rabbit condyle cartilage following anterior disk displacement. J Oral Pathol Med 
+2018;47(6):606-612; doi: 10.1111/jop.12715. 
+ [21] 
+Cohen WA, Servais JM, Polur I, et al. Articular cartilage degeneration in the 
+contralateral non-surgical temporomandibular joint in mice with a unilateral 
+partial discectomy. J Oral Pathol Med 2014;43(2):162-165; doi: 
+10.1111/jop.12113. 
+ [22] 
+Vapniarsky N, Huwe LW, Arzi B, et al. Tissue engineering toward 
+temporomandibular joint disc regeneration. Sci Transl Med 2018;10(446); doi: 
+10.1126/scitranslmed.aaq1802. 
+ [23] 
+Gomez M, Wittig O, Diaz-Solano D, et al. Mesenchymal Stromal Cell 
+Transplantation Induces Regeneration of Large and Full-Thickness Cartilage Defect 
+of the Temporomandibular Joint. Cartilage 2021;13(1_suppl):1814S-1821S; doi: 
+10.1177/1947603520926711. 
+ [24] 
+Zhang M, Wang H, Zhang J, et al. Unilateral anterior crossbite induces aberrant 
+mineral deposition in degenerative temporomandibular cartilage in rats. 
+Osteoarthritis Cartilage 2016;24(5):921-931; doi: 10.1016/j.joca.2015.12.009. 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 24 of 45 
+   
+24 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+ [25] 
+Sun JL, Yan JF, Yu SB, et al. MicroRNA-29b Promotes Subchondral Bone Loss in 
+TMJ Osteoarthritis. J Dent Res 2020;99(13):1469-1477; doi: 
+10.1177/0022034520937617. 
+ [26] 
+Jiao K, Niu LN, Wang MQ, et al. Subchondral bone loss following orthodontically 
+induced cartilage degradation in  the mandibular condyles of rats. Bone 
+2011;48(2):362-371; doi: 10.1016/j.bone.2010.09.010. 
+ [27] 
+Matias EM, Mecham DK, Black CS, et al. Malocclusion model of 
+temporomandibular joint osteoarthritis in mice with and without receptor for 
+advanced glycation end products. Arch Oral Biol 2016;69:47-62; doi: 
+10.1016/j.archoralbio.2016.05.007. 
+ [28] 
+Jung JK, Sohn WJ, Lee Y, et al. Morphological and cellular examinations of 
+experimentally induced malocclusion in mice mandibular condyle. Cell Tissue Res 
+2014;355(2):355-363; doi: 10.1007/s00441-013-1754-z. 
+ [29] 
+Liang W, Li X, Chen H, et al. Expressing human SHOX in Shox2SHOX KI/KI mice 
+leads to congenital osteoarthritislike disease of the temporomandibular joint in 
+postnatal mice. Mol Med Rep 2016;14(4):3676-3682; doi: 
+10.3892/mmr.2016.5715. 
+ [30] 
+Bechtold TE, Saunders C, Decker RS, et al. Osteophyte formation and matrix 
+mineralization in a TMJ osteoarthritis mouse model are associated with ectopic 
+hedgehog signaling. Matrix Biol 2016;52-54:339-354; doi: 
+10.1016/j.matbio.2016.03.001. 
+ [31] 
+Schminke B, Muhammad H, Bode C, et al. A discoidin domain receptor 1 knock-
+out mouse as a novel model for osteoarthritis of the temporomandibular joint. 
+Cell Mol Life Sci 2014;71(6):1081-1096; doi: 10.1007/s00018-013-1436-8. 
+ [32] 
+Ahmad M, Hollender L, Anderson Q, et al. Research diagnostic criteria for 
+temporomandibular disorders (RDC/TMD): development of image analysis criteria 
+and examiner reliability for image analysis. Oral Surg Oral Med Oral Pathol Oral 
+Radiol Endod 2009;107(6):844-860; doi: 10.1016/j.tripleo.2009.02.023. 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 25 of 45 
+   
+25 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+ [33] 
+Xu L, Guo H, Li C, et al. A time-dependent degeneration manner of condyle in rat 
+CFA-induced inflamed TMJ. Am J Transl Res 2016;8(2):556-567; doi. 
+ [34] 
+Derwich M, Mitus-Kenig M, Pawlowska E. Interdisciplinary Approach to the 
+Temporomandibular Joint Osteoarthritis-Review of the Literature. Medicina 
+(Kaunas) 2020;56(5); doi: 10.3390/medicina56050225. 
+ [35] 
+Tamimi D, Kocasarac HD, Mardini S. Imaging of the Temporomandibular Joint. 
+Semin Roentgenol 2019;54(3):282-301; doi: 10.1053/j.ro.2019.03.007. 
+ [36] 
+Badylak SF, Brown B, Chung WL, et al. Inductive Remodeling of Extracellular 
+Matrix Scaffolds in the Temporomandibular Joint of Pigs. Tissue Eng Part A 2021; 
+doi: 10.1089/ten.TEA.2021.0123. 
+ [37] 
+Chan WP, Lin MF, Fang CL, et al. MRI and histology of collagen template disc 
+implantation and regeneration in rabbit temporomandibular joint: preliminary 
+report. Transplant Proc 2004;36(5):1610-1612; doi: 
+10.1016/j.transproceed.2004.05.049. 
+ [38] 
+Sun N, Zhou L, He D, et al. Influence of Temporalmandibular Joint after 
+Intracapsular Condylar Fracture: an Experimental Study in Growing Miniature Pigs. 
+JOURNAL OF HARD TISSUE BIOLOGY 2019;28(2):109-120; doi: 
+10.2485/jhtb.28.109. 
+ [39] 
+Kuchler-Bopp S, Mariotte A, Strub M, et al. Temporomandibular joint damage in 
+K/BxN arthritic mice. Int J Oral Sci 2020;12(1):5; doi: 10.1038/s41368-019-0072-z. 
+ [40] 
+Bag AK, Gaddikeri S, Singhal A, et al. Imaging of the temporomandibular joint: An 
+update. World J Radiol 2014;6(8):567-582; doi: 10.4329/wjr.v6.i8.567. 
+ [41] 
+Li L, Shi H, Xie H, et al. MRI assessment and histopathologic evaluation of 
+subchondral bone remodeling in temporomandibular joint osteoarthritis: a 
+retrospective study. Oral Surg Oral Med Oral Pathol Oral Radiol 2018;126(4):355-
+362; doi: 10.1016/j.oooo.2018.05.047. 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 26 of 45 
+   
+26 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+ [42] 
+Spiro JE, Rinneburger M, Hedderich DM, et al. Monitoring treatment effects in 
+lung cancer-bearing mice: clinical CT and clinical MRI compared to micro-CT. Eur 
+Radiol Exp 2020;4(1):31; doi: 10.1186/s41747-020-00160-7. 
+ [43] 
+Kellesarian SV, Al-Kheraif AA, Vohra F, et al. Cytokine profile in the synovial fluid of 
+patients with temporomandibular joint disorders: A systematic review. Cytokine 
+2016;77:98-106; doi: 10.1016/j.cyto.2015.11.005. 
+ [44] 
+Embree MC, Iwaoka GM, Kong D, et al. Soft tissue ossification and condylar 
+cartilage degeneration following TMJ disc perforation in a rabbit pilot study. 
+Osteoarthritis Cartilage 2015;23(4):629-639; doi: 10.1016/j.joca.2014.12.015. 
+ [45] 
+Vernal R, Velasquez E, Gamonal J, et al. Expression of proinflammatory cytokines 
+in osteoarthritis of the temporomandibular joint. Arch Oral Biol 2008;53(10):910-
+915; doi: 10.1016/j.archoralbio.2008.04.004. 
+ [46] 
+Romas E, Gillespie MT, Martin TJ. Involvement of receptor activator of NFkappaB 
+ligand and tumor necrosis factor-alpha in bone destruction in rheumatoid 
+arthritis. Bone 2002;30(2):340-346; doi: 10.1016/s8756-3282(01)00682-2. 
+ [47] 
+Kapoor M, Martel-Pelletier J, Lajeunesse D, et al. Role of proinflammatory 
+cytokines in the pathophysiology of osteoarthritis. Nat Rev Rheumatol 
+2011;7(1):33-42; doi: 10.1038/nrrheum.2010.196. 
+ [48] 
+Siebuhr AS, Bay-Jensen AC, Jordan JM, et al. Inflammation (or synovitis)-driven 
+osteoarthritis: an opportunity for personalizing prognosis and treatment? Scand J 
+Rheumatol 2016;45(2):87-98; doi: 10.3109/03009742.2015.1060259. 
+ [49] 
+Sellam J, Berenbaum F. The role of synovitis in pathophysiology and clinical 
+symptoms of osteoarthritis. Nat Rev Rheumatol 2010;6(11):625-635; doi: 
+10.1038/nrrheum.2010.159. 
+ [50] 
+Ogura N, Satoh K, Akutsu M, et al. MCP-1 production in temporomandibular joint 
+inflammation. J Dent Res 2010;89(10):1117-1122; doi: 
+10.1177/0022034510376041. 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 27 of 45 
+   
+27 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+ [51] 
+Vos LM, Kuijer R, Huddleston SJ, et al. Inflammation is more distinct in 
+temporomandibular joint osteoarthritis compared  to the knee joint. J Oral 
+Maxillofac Surg 2014;72(1):35-40; doi: 10.1016/j.joms.2013.08.022. 
+ [52] 
+Xu L, Guo H, Li C, et al. A time-dependent degeneration manner of condyle in rat 
+CFA-induced inflamed TMJ. Am J Transl Res 2016;8(2):556-567; PMID: 27158347 
+ [53] 
+Zhang C, Xu Y, Cheng Y, et al. Effect of asymmetric force on the condylar cartilage, 
+subchondral bone and collagens in the temporomandibular joints. Arch Oral Biol 
+2015;60(4):650-663; doi: 10.1016/j.archoralbio.2015.01.008. 
+ [54] 
+Hua B, Qiu J, Ye X, et al. Intra-articular injection of a novel Wnt pathway inhibitor, 
+SM04690, upregulates  Wnt16 expression and reduces disease progression in 
+temporomandibular joint osteoarthritis. Bone 2022;158:116372; doi: 
+10.1016/j.bone.2022.116372. 
+ [55] 
+Ogasawara N, Kano F, Hashimoto N, et al. Factors secreted from dental pulp stem 
+cells show multifaceted benefits for treating experimental temporomandibular 
+joint osteoarthritis. Osteoarthritis Cartilage 2020;28(6):831-841; doi: 
+10.1016/j.joca.2020.03.010. 
+ [56] 
+Wang XD, Kou XX, He DQ, et al. Progression of cartilage degradation, bone 
+resorption and pain in rat temporomandibular joint osteoarthritis induced by 
+injection of iodoacetate. PLoS One 2012;7(9):e45036; doi: 
+10.1371/journal.pone.0045036. 
+ [57] 
+Kuang B, Dai J, Wang QY, et al. Combined degenerative and regenerative 
+remodeling responses of the mandibular condyle to experimentally induced 
+disordered occlusion. Am J Orthod Dentofacial Orthop 2013;143(1):69-76; doi: 
+10.1016/j.ajodo.2012.08.024. 
+ [58] 
+Leonardi R, Crimi S, Almeida LE, et al. ADAMTS-4 and ADAMTS-5 expression in 
+human temporomandibular joint discs with internal derangement, correlates with 
+degeneration. J Oral Pathol Med 2015;44(10):870-875; doi: 10.1111/jop.12295. 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 28 of 45 
+   
+28 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+ [59] 
+Li W, Wu M, Jiang S, et al. Expression of ADAMTs-5 and TIMP-3 in the condylar 
+cartilage of rats induced by experimentally created osteoarthritis. Arch Oral Biol 
+2014;59(5):524-529; doi: 10.1016/j.archoralbio.2014.02.016. 
+ [60] 
+Loeser RF, Goldring SR, Scanzello CR, et al. Osteoarthritis: a disease of the joint as 
+an organ. Arthritis Rheum 2012;64(6):1697-1707; doi: 10.1002/art.34453. 
+ [61] 
+Kim YH, Bang JI, Son HJ, et al. Protective effects of extracorporeal shockwave on 
+rat chondrocytes and temporomandibular joint osteoarthritis; preclinical 
+evaluation with in vivo(99m)Tc-HDP SPECT and ex vivo micro-CT. Osteoarthritis 
+Cartilage 2019;27(11):1692-1701; doi: 10.1016/j.joca.2019.07.008. 
+ [62] 
+Wang XD, Zhang JN, Gan YH, et al. Current understanding of pathogenesis and 
+treatment of TMJ osteoarthritis. J Dent Res 2015;94(5):666-673; doi: 
+10.1177/0022034515574770. 
+ [63] 
+Chisnoiu AM, Picos AM, Popa S, et al. Factors involved in the etiology of 
+temporomandibular disorders - a literature review. Clujul Med 2015;88(4):473-
+478; doi: 10.15386/cjmed-485. 
+ [64] 
+Amin A, Meshramkar R, Lekha K. Comparative evaluation of clinical performance 
+of different kind of occlusal splint in management of myofascial pain. J Indian 
+Prosthodont Soc 2016;16(2):176-181; doi: 10.4103/0972-4052.176521. 
+ [65] 
+Conti PC, Miranda JE, Conti AC, et al. Partial time use of anterior repositioning 
+splints in the management of TMJ pain  and dysfunction: a one-year controlled 
+study. J Appl Oral Sci 2005;13(4):345-350; doi: 10.1590/s1678-
+77572005000400006. 
+ [66] 
+Ouanounou A, Goldberg M, Haas DA. Pharmacotherapy in Temporomandibular 
+Disorders: A Review. J Can Dent Assoc 2017;83:h7; PMID: 29513209 
+ 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 29 of 45 
+   
+29 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+ [67] 
+Ahmed N, Sidebottom A, O Connor M, et al. Prospective outcome assessment of 
+the therapeutic benefits of arthroscopy and arthrocentesis of the 
+temporomandibular joint. British Journal of Oral and Maxillofacial Surgery 
+2012;50(8):745-748; doi: 10.1016/j.bjoms.2012.01.004. 
+ [68] 
+Sidebottom AJ. Current thinking in temporomandibular joint management. Br J 
+Oral Maxillofac Surg 2009;47(2):91-94; doi: 10.1016/j.bjoms.2008.08.012. 
+ [69] 
+Korkmaz YT, Altıntas NY, Korkmaz FM, et al. Is Hyaluronic Acid Injection Effective 
+for the Treatment of Temporomandibular Joint Disc Displacement With 
+Reduction? Journal of Oral and Maxillofacial Surgery 2016;74(9):1728-1740; doi: 
+10.1016/j.joms.2016.03.005. 
+ [70] 
+Evans CH, Kraus VB, Setton LA. Progress in intra-articular therapy. Nat Rev 
+Rheumatol 2014;10(1):11-22; doi: 10.1038/nrrheum.2013.159. 
+ [71] 
+Talaat WM, Haider M, Kawas SA, et al. Chitosan-Based Thermosensitive Hydrogel 
+for Controlled Drug Delivery to the Temporomandibular Joint. J Craniofac Surg 
+2016;27(3):735-740; doi: 10.1097/SCS.0000000000002588. 
+ [72] 
+Guilherme VA, Ribeiro L, Alcantara A, et al. Improved efficacy of naproxen-loaded 
+NLC for temporomandibular joint administration. Sci Rep 2019;9(1):11160; doi: 
+10.1038/s41598-019-47486-w. 
+ [73] 
+Li H, Guo H, Lei C, et al. Nanotherapy in Joints: Increasing Endogenous Hyaluronan 
+Production by Delivering  Hyaluronan Synthase 2. Adv Mater 
+2019;31(46):e1904535; doi: 10.1002/adma.201904535. 
+ [74] 
+Hanafy AS, El-Ganainy SO. Thermoresponsive Hyalomer intra-articular hydrogels 
+improve monoiodoacetate-induced osteoarthritis in rats. Int J Pharm 
+2020;573:118859; doi: 10.1016/j.ijpharm.2019.118859. 
+ [75] 
+Donahue RP, Hu JC, Athanasiou KA. Remaining Hurdles for Tissue-Engineering the 
+Temporomandibular Joint Disc. Trends Mol Med 2019;25(3):241-256; doi: 
+10.1016/j.molmed.2018.12.007. 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 30 of 45 
+   
+30 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+ [76] 
+Aryaei A, Vapniarsky N, Hu JC, et al. Recent Tissue Engineering Advances for the 
+Treatment of Temporomandibular Joint Disorders. Curr Osteoporos Rep 
+2016;14(6):269-279; doi: 10.1007/s11914-016-0327-y. 
+ [77] 
+Acri TM, Shin K, Seol D, et al. Tissue Engineering for the Temporomandibular Joint. 
+Adv Healthc Mater 2019;8(2):e1801236; doi: 10.1002/adhm.201801236. 
+ [78] 
+Ng F, Boucher S, Koh S, et al. PDGF, TGF-beta, and FGF signaling is important for 
+differentiation and growth of  mesenchymal stem cells (MSCs): transcriptional 
+profiling can identify markers and signaling pathways important in differentiation 
+of MSCs into adipogenic, chondrogenic, and osteogenic lineages. Blood 
+2008;112(2):295-307; doi: 10.1182/blood-2007-07-103697. 
+ [79] 
+Takahashi K, Tanabe K, Ohnuki M, et al. Induction of pluripotent stem cells from 
+adult human fibroblasts by defined factors. Cell 2007;131(5):861-872; doi: 
+10.1016/j.cell.2007.11.019. 
+ [80] 
+Damia E, Chicharro D, Lopez S, et al. Adipose-Derived Mesenchymal Stem Cells: 
+Are They a Good Therapeutic Strategy for  Osteoarthritis? Int J Mol Sci 2018;19(7); 
+doi: 10.3390/ijms19071926. 
+ [81] 
+Mazini L, Rochette L, Amine M, et al. Regenerative Capacity of Adipose Derived 
+Stem Cells (ADSCs), Comparison with Mesenchymal Stem Cells (MSCs). Int J Mol 
+Sci 2019;20(10); doi: 10.3390/ijms20102523. 
+ [82] 
+Ahtiainen K, Mauno J, Ella V, et al. Autologous adipose stem cells and polylactide 
+discs in the replacement of the rabbit temporomandibular joint disc. J R Soc 
+Interface 2013;10(85):20130287; doi: 10.1098/rsif.2013.0287. 
+ [83] 
+Kim H, Lee BK. Anti-Inflammatory Effect of Adipose-Derived Stromal Vascular 
+Fraction on Osteoarthritic Temporomandibular Joint Synoviocytes. Tissue Eng 
+Regen Med 2020;17(3):351-362; doi: 10.1007/s13770-020-00268-2. 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 31 of 45 
+   
+31 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+ [84] 
+Zhang Y, Grosfeld EC, Camargo WA, et al. Efficacy of intraoperatively prepared 
+cell-based constructs for bone regeneration. Stem Cell Research & Therapy 
+2018;9(1):283; doi: 10.1186/s13287-018-1026-7. 
+ [85] 
+Saito MT, Silverio KG, Casati MZ, et al. Tooth-derived stem cells: Update and 
+perspectives. World J Stem Cells 2015;7(2):399-407; doi: 10.4252/wjsc.v7.i2.399. 
+ [86] 
+Zur NN, Kempka G, Rancourt DE, et al. Induction of chondro-, osteo- and 
+adipogenesis in embryonic stem cells by bone morphogenetic protein-2: effect of 
+cofactors on differentiating lineages. BMC Dev Biol 2005;5:1; doi: 10.1186/1471-
+213X-5-1. 
+ [87] 
+Rim YA, Nam Y, Park N, et al. Repair potential of nonsurgically delivered induced 
+pluripotent stem cell-derived chondrocytes in a rat osteochondral defect model. J 
+Tissue Eng Regen Med 2018;12(8):1843-1855; doi: 10.1002/term.2705. 
+ [88] 
+Anderson DE, Athanasiou KA. Passaged goat costal chondrocytes provide a 
+feasible cell source for temporomandibular joint tissue engineering. Ann Biomed 
+Eng 2008;36(12):1992-2001; doi: 10.1007/s10439-008-9572-2. 
+ [89] 
+Barry F. MSC Therapy for Osteoarthritis: An Unfinished Story. J Orthop Res 
+2019;37(6):1229-1235; doi: 10.1002/jor.24343. 
+ [90] 
+Maenpaa K, Ella V, Mauno J, et al. Use of adipose stem cells and polylactide discs 
+for tissue engineering of the temporomandibular joint disc. J R Soc Interface 
+2010;7(42):177-188; doi: 10.1098/rsif.2009.0117. 
+ [91] 
+Pittenger MF, Discher DE, Peault BM, et al. Mesenchymal stem cell perspective: 
+cell biology to clinical progress. NPJ Regen Med 2019;4:22; doi: 10.1038/s41536-
+019-0083-6. 
+ [92] 
+Tian B, Hua S, Tian Y, et al. Chemical and physical chitosan hydrogels as 
+prospective carriers for drug delivery: a review. J Mater Chem B 
+2020;8(44):10050-10064; doi: 10.1039/d0tb01869d. 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 32 of 45 
+   
+32 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+ [93] 
+Chaudhuri O, Gu L, Klumpers D, et al. Hydrogels with tunable stress relaxation 
+regulate stem cell fate and activity. Nat Mater 2016;15(3):326-334; doi: 
+10.1038/nmat4489. 
+ [94] 
+Bousnaki M, Bakopoulou A, Papadogianni D, et al. Fibro/chondrogenic 
+differentiation of dental stem cells into chitosan/alginate scaffolds towards 
+temporomandibular joint disc regeneration. J Mater Sci Mater Med 
+2018;29(7):97; doi: 10.1007/s10856-018-6109-6. 
+ [95] 
+Wang KH, Chan WP, Chiu LH, et al. Histological and Immunohistochemical 
+Analyses of Repair of the Disc in the Rabbit Temporomandibular Joint Using a 
+Collagen Template. Materials (Basel) 2017;10(8); doi: 10.3390/ma10080924. 
+ [96] 
+Chen D, Wu JY, Kennedy KM, et al. Tissue engineered autologous cartilage-bone 
+grafts for temporomandibular joint regeneration. Sci Transl Med 2020;12(565); 
+doi: 10.1126/scitranslmed.abb6683. 
+ [97] 
+Xu H, Han D, Dong JS, et al. Rapid prototyped PGA/PLA scaffolds in the 
+reconstruction of mandibular condyle bone defects. Int J Med Robot 2010;6(1):66-
+72; doi: 10.1002/rcs.290. 
+ [98] 
+Tarafder S, Koch A, Jun Y, et al. Micro-precise spatiotemporal delivery system 
+embedded in 3D printing for complex  tissue regeneration. Biofabrication 
+2016;8(2):25003; doi: 10.1088/1758-5090/8/2/025003. 
+ [99] 
+Uematsu K, Hattori K, Ishimoto Y, et al. Cartilage regeneration using mesenchymal 
+stem cells and a three-dimensional poly-lactic-glycolic acid (PLGA) scaffold. 
+Biomaterials 2005;26(20):4273-4279; doi: 10.1016/j.biomaterials.2004.10.037. 
+[100] 
+Pina S, Ribeiro VP, Marques CF, et al. Scaffolding Strategies for Tissue Engineering 
+and Regenerative Medicine Applications. Materials (Basel) 2019;12(11); doi: 
+10.3390/ma12111824. 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 33 of 45 
+   
+33 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+[101] 
+Almarza AJ, Athanasiou KA. Seeding techniques and scaffolding choice for tissue 
+engineering of the temporomandibular joint disk. Tissue Eng 2004;10(11-
+12):1787-1795; doi: 10.1089/ten.2004.10.1787. 
+[102] 
+Wu DT, Munguia-Lopez JG, Cho YW, et al. Polymeric Scaffolds for Dental, Oral, and 
+Craniofacial Regenerative Medicine. Molecules 2021;26(22); doi: 
+10.3390/molecules26227043. 
+[103] 
+Liu J, Nie H, Xu Z, et al. The effect of 3D nanofibrous scaffolds on the 
+chondrogenesis of induced pluripotent stem cells and their application in 
+restoration of cartilage defects. PLoS One 2014;9(11):e111566; doi: 
+10.1371/journal.pone.0111566. 
+[104] 
+Zhu S, Zhang B, Man C, et al. NEL-like molecule-1-modified bone marrow 
+mesenchymal stem cells/poly lactic-co-glycolic acid composite improves repair of 
+large osteochondral defects  in mandibular condyle. Osteoarthritis Cartilage 
+2011;19(6):743-750; doi: 10.1016/j.joca.2011.02.015. 
+[105] 
+Dormer NH, Busaidy K, Berkland CJ, et al. Osteochondral interface regeneration of 
+rabbit mandibular condyle with bioactive  signal gradients. J Oral Maxillofac Surg 
+2011;69(6):e50-e57; doi: 10.1016/j.joms.2010.12.049. 
+[106] 
+Legemate K, Tarafder S, Jun Y, et al. Engineering Human TMJ Discs with Protein-
+Releasing 3D-Printed Scaffolds. J Dent Res 2016;95(7):800-807; doi: 
+10.1177/0022034516642404. 
+[107] 
+Van Bellinghen X, Idoux-Gillet Y, Pugliano M, et al. Temporomandibular Joint 
+Regenerative Medicine. Int J Mol Sci 2018;19(2); doi: 10.3390/ijms19020446. 
+[108] 
+Hanaoka K, Tanaka E, Takata T, et al. Platelet-derived growth factor enhances 
+proliferation and matrix synthesis of temporomandibular joint disc-derived cells. 
+Angle Orthod 2006;76(3):486-492; doi: 10.1043/0003-
+3219(2006)076[0486:PGFEPA]2.0.CO;2. 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 34 of 45 
+   
+34 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+[109] 
+Mou D, Yu Q, Zhang J, et al. Intra-articular Injection of Chitosan-Based 
+Supramolecular Hydrogel for Osteoarthritis Treatment. Tissue Eng Regen Med 
+2021;18(1):113-125; doi: 10.1007/s13770-020-00322-z. 
+[110] 
+Zhu D, Bai H, Xu W, et al. Hyaluronic Acid/Parecoxib-Loaded PLGA Microspheres 
+for Therapy of Temporomandibular Disorders. Curr Drug Deliv 2021;18(2):234-
+245; doi: 10.2174/1567201817999200817151048. 
+[111] 
+Clemente-Napimoga JT, Moreira JA, Grillo R, et al. 15d-PGJ2-loaded in 
+nanocapsules enhance the antinociceptive properties into rat temporomandibular 
+hypernociception. Life Sci 2012;90(23-24):944-949; doi: 10.1016/j.lfs.2012.04.035. 
+[112] 
+Abdalla HB, Napimoga MH, Macedo CG, et al. Poloxamer micellar system for intra-
+articular injection of 15-deoxy-(Delta12,14)-prostaglandin J2 with improved 
+bioavailability and anti-inflammatory properties in the temporomandibular joint 
+of rats. Int J Pharm 2020;583:119383; doi: 10.1016/j.ijpharm.2020.119383. 
+[113] 
+Yu H, Yang X, Cheng J, et al. Distraction osteogenesis combined with tissue-
+engineered cartilage in the reconstruction of condylar osteochondral defect. J 
+Oral Maxillofac Surg 2011;69(12):e558-e564; doi: 10.1016/j.joms.2011.07.004. 
+[114] 
+Sun H, Huang Y, Zhang L, et al. Co-culture of bone marrow stromal cells and 
+chondrocytes in vivo for the repair of the goat condylar cartilage defects. Exp Ther 
+Med 2018;16(4):2969-2977; doi: 10.3892/etm.2018.6551. 
+[115] 
+Zhang S, Teo K, Chuah SJ, et al. MSC exosomes alleviate temporomandibular joint 
+osteoarthritis by attenuating inflammation and restoring matrix homeostasis. 
+Biomaterials 2019;200:35-47; doi: 10.1016/j.biomaterials.2019.02.006. 
+[116] 
+Basu S, Chryssikos T, Moghadam-Kia S, et al. Positron emission tomography as a 
+diagnostic tool in infection: present role and  future possibilities. Semin Nucl Med 
+2009;39(1):36-51; doi: 10.1053/j.semnuclmed.2008.08.004. 
+ 
+ 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 35 of 45 
+   
+35 
+Tissue Engineering 
+s in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+d and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+Table 1. Reported animal models of TMJOA 
+Types 
+Methods 
+Species 
+Pathological manifestations 
+Reference 
+Naturally 
+Occurring 
+Models 
+Using aging mice 
+C57BL/6N 
+Mice 
+Cartilage destruction, proliferative layer exposed 
+Zheng et al.[10] & 
+Ukita et al.[11] 
+Chemical 
+Induction 
+Injection of CFA 
+Sprague–
+Dawley Rats 
+Reduced thickness of cartilage, induced chondrocytes death, 
+and decreased proteoglycan in the articular cartilage  
+Cui et al. [12] 
+Injection of MIA 
+Sprague–
+Dawley Rats 
+Decreased the number of chondrocytes and percentage areas of 
+proteoglycan, subchondral bone remodeling, enhanced 
+osteophyte, increased number of gliosis  
+Jiang et al. [13] 
+&Wang et al. [14] 
+Injection of VEGF 
+Sprague-
+Dawley Rats 
+Cartilage and subchondral bone destruction, increased the 
+number of osteoclasts in the subchondral bone  
+Shen et al. [15] 
+Injection of collagenase 
+C57BL/6J 
+Mice 
+Induced irregular condylar surface and increased expression of 
+COX-2, MMP1, and MMP13 
+Li et al. [16] 
+Injection of formalin 
+Wistar Rats 
+Induced synovial membrane hyperplasia, inflammatory reaction 
+in the condylar neck, and atrophy of the fibrocartilage  
+Goulart et al. [17] 
+Surgical 
+Operation 
+Disc perforation 
+New Zealand 
+Rabbits 
+Cartilage degeneration and heterotopic ossification within TMJ 
+discs 
+Embree et al. [18] 
+Joint disc deformation 
+New Zealand 
+Synovial hyperplasia, joint disc deformation 
+Liu et al. [19] 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 36 of 45 
+   
+36 
+Tissue Engineering 
+s in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+d and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+Rabbits 
+Anterior disc 
+displacement 
+Japanese 
+Rabbits 
+Enhanced chondrocyte apoptosis, decreased cell density in 
+cartilage 
+Xu et al. [20] 
+Partial discectomy 
+C57BL Mice 
+Reduced proteoglycan in articular cartilage and bone loss 
+Cohen et al. [21] 
+Condylectomy 
+Minipig 
+Induced subchondral cysts and large osteophytes formation 
+with the extensive irregular cartilage surface  
+Vapniarsky et al. 
+[22] 
+Condylectomy 
+C57BL/6 
+Mice 
+Discontinued cartilage and bone loss, without cartilage 
+regeneration and extracellular matrix formation 
+Gomez et al. [23] 
+Mechanical 
+Stimulation 
+Unilateral anterior 
+cross 
+Sprague–
+Dawley Rats 
+Induced chondrocyte death, aberrant mineral deposition in 
+cartilage 
+Zhang et al. [24] 
+Unilateral anterior 
+cross 
+C57BL/6 
+Mice 
+Decreased the density of chondrocyte, thickness of cartilage, 
+and percentage of the proteoglycan areas  
+Sun et al. [25] 
+Abnormal occlusion 
+Sprague–
+Dawley Rats 
+Condylar cartilage degradation, increased chondrocyte death in 
+mandibular condyle cartilage 
+Jiao et al. [26] 
+Bonding a stainless 
+wire on the molars 
+C57BL/6 
+Mice 
+Condylar cartilage surface resorption, decreased proteoglycan 
+levels, increased expression of MMP13   
+Matias et al. [27] 
+Build-up of resin on the 
+molars 
+C57BL/6 
+Mice 
+Decreased thickness of condylar cartilage, increased 
+osteoclastic activity, and inflammatory responses 
+Jung et al. [28] 
+Gene 
+Shox2-depleted 
+C57BL/6J 
+TMJ defects, premature articular disc erosion 
+Liang et al. [29] 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 37 of 45 
+   
+37 
+Tissue Engineering 
+s in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+d and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+Modification 
+Mice 
+Prg4-null  
+C57BL/6J 
+Mice 
+Abnormal cartilage, osteophytes formation in glenoid fossa 
+Bechtold et al. [30] 
+DDR-1 knockout  
+C57BL/6 
+Mice 
+Cartilage surface fissures, proteoglycan degradation, 
+chondrocyte cluster development 
+Schminke et al. [31] 
+ 
+Abbreviations: CFA, complete Freund's adjuvant; MIA, monosodium iodine acetate; BSA, bovine serum albumin; VEGF, vascular endothelial 
+growth factor; IL-1, interleukin-1; IL-6, interleukin-6; TNF, tumor necrosis factor; COX, cyclooxygenase; MMP, matrix metalloproteinase; OPN, 
+osteopontin; RANKL, receptor activator of NF-κB ligand; Shox2, short stature homeobox 2; Prg4, Proteoglycan4; DDR, discoidin domain 
+receptor. 
+ 
+ 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 38 of 45 
+   
+38 
+Tissue Engineering 
+s in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+d and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+Table 2. Comparison of established TMJOA animal models by different methods  
+Methods 
+Pathogenesis of the TMJOA 
+Advantages 
+Disadvantages 
+Naturally Occurring 
+Aging 
+Simple, highly reproducible 
+Time-consuming 
+Chemical Induction 
+Inflammatory stimulation 
+Simple operation, controllable 
+damage, 
+reproducible symptoms 
+Short maintaining time, cannot closely 
+resemble the degeneration process  
+Surgical Operation 
+Trauma 
+Allowing for a comprehensive 
+evaluation of the joint 
+Restricted in large animal models 
+Mechanical 
+Stimulation 
+Excessive mechanical stress on TMJ 
+Efficient, cost-efficient, highly 
+reproducible, minor damage to 
+animals 
+Occurrence of adverse trauma or joint 
+dislocation 
+Gene Modification 
+Genetic factors 
+Reflecting the course of the disease, 
+investigating specific factors 
+High cost, limited to small animals 
+ 
+ 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 39 of 45 
+   
+39 
+Tissue Engineering 
+s in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+d and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+Table 3. Tissue Engineering Therapy for the treatment of TMJOA 
+Delivery system 
+Cells 
+Drugs 
+Animals  Results 
+ Reference 
+Chitosan 
+hydrogels, 
+ADH, 
+HA-ALD 
+- 
+HA 
+Rat 
+Protected 
+cartilage 
+degeneration, 
+alleviated 
+pain, 
+inhibited the expression of inflammatory cytokines after 
+12 weeks injection 
+Mou et al. [109] 
+PLGA 
+- 
+HA, 
+parecoxib 
+Rat 
+Declined the TNF-α, IL-1β, and COX-2 expression in 
+articular synovial cells, relieved of inflammation and 
+nociceptive reactions 
+Zhu et al. [110] 
+PLGA 
+- 
+PGJ2 
+Rat 
+Decreased the release of IL-1β and hyperalgesic  
+response in TMJOA models 
+Clemente-
+Napimoga et al. [111] 
+CP, CCT, Pluronic 
+F68 
+- 
+Naproxen 
+Rat 
+Reduced the migration of leukocytes and levels of  IL-1β 
+and TNF-α  
+Guilherme et al. [72] 
+MSN-CC-PEI 
+- 
+HAS2 
+Rat 
+Promoted endogenous HA production, reduced synovial 
+inflammation for 3 weeks, and enhanced bone repair in a 
+rat OA bone defect model 
+Li et al. [73] 
+PL407 
+- 
+DK, HA 
+Rat 
+Regenerated cartilage, controlled D.K. release for 4 days 
+Hanafy 
+and 
+El-
+GanainyAbdalla et 
+al. [74] 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 40 of 45 
+   
+40 
+Tissue Engineering 
+s in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+d and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+PL407 
+- 
+15d-PGJ2 
+Rat 
+Relieved pain at lower concentrations in a sustained 
+manner, reduced levels of pro-inflammatory cytokines 
+Abdalla et al. [112] 
+Pluronic F-127 
+Chondrocytes 
+- 
+Goat  
+Neocondylar surface covered with fibrocartilaginous 
+tissue, the condylar bone and cartilage rehabilitation and 
+regeneration in the TMJOA induced by condylar 
+defection 
+Yu et al. [113] 
+- 
+Chondrocytes, 
+BMSCs 
+- 
+Goat  
+Formed the cartilage-like tissues, increased the type II 
+collagen in the condylar cartilage defects 
+Sun et al. [114] 
+- 
+DPSCs 
+- 
+Rat 
+Relieved 
+inflammatory 
+pain, 
+decreased 
+cartilage 
+degradation, 
+induced 
+bone 
+regeneration, 
+and 
+downregulated the expression levels of MMP3 and TNF-α  
+Cui et al. [12] 
+SHED-CM 
+- 
+- 
+Mice 
+Inhibited temporal muscle inflammation and cartilage 
+devastation, induced condylar cartilage, and subchondral 
+bone regeneration 
+Ogasawara et al. [55] 
+PRP 
+BMMSCs 
+- 
+Mice 
+Newly cartilage and bone covered at the top of the 
+condyle defect with extracellular matrix deposition 
+Gomez et al. [23] 
+PLGA 
+BMMSCs 
+NELL-1 
+Goat 
+Promoted the chondrogenic differentiation of BMMSCs, 
+better-organized repair of fibrocartilage regeneration 
+Zhu et al. [104] 
+ 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 41 of 45 
+   
+41 
+Tissue Engineering 
+s in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+d and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+PLGA, PCL 
+BMMSCs 
+CTGF, TGF-
+β3 
+Rabbit 
+Prevented 
+arthritic 
+symptoms 
+on 
+TMJ 
+condyles, 
+promoted fibrocartilaginous recovery and multiphase 
+fibrocartilaginous tissues formation  
+Tarafder et al. [98] 
+Decellularized 
+bovine distal 
+femurs  
+ADMSCs 
+TGF-β 
+Minipig 
+The tissue-engineered ramus-condyle unit kept its 
+intended anatomical structure, regenerated the full-
+thickness cartilage over the underlying bone 
+Chen et al. [96] 
+- 
+Costal 
+chondrocytes  
+TGF-β1 
+Minipig 
+Repaired the disc defects and restored the disc integrity 
+Vapniarsky et al. [22] 
+PCL, gelatin 
+IPSCs 
+- 
+Rabbit 
+Increased cartilage-specific gene expression and protein 
+levels, subchondral bone regeneration 
+Liu et al. [103] 
+- 
+- 
+Exosomes 
+Rat 
+Triggered migration of progenitor cells, significant 
+cartilage and bone regeneration, and pain reduction  
+Zhang et al. [115] 
+Abbreviations: ADH, adipic acid dihydrazide; HA-ALD, hyaluronic acid–aldehyde; PLGA, poly (lactic-co-glycolic acid); PEI, poly (ethylenimine); 
+I.L., interleukin; 15d-PGJ2, 15-deoxy-Δ12,14-prostaglandin J2; PCL, polycaprolactone; PLA, polylactic acid; CP, cetyl palmitate; CCT, 
+capric/caprylic triglycerides; MSN-CC, mesoporous silica nanoparticles with a core-cone structure; HAS2, hyaluronan synthase 2; PL, 
+poloxamer; DK, diclofenac potassium; 15d-PGJ2, 15-deoxy-Δ12,14-prostaglandin J2;  3D, three dimensional 3D; PCL, polycaprolactone; BMMSCs, 
+bone marrow-derived stem cells; DPSCs, dental pulp stem cells; SHED-CM, conditioned media from human exfoliated deciduous teeth stem 
+cells; PRP, platelet-rich plasma; NELL-1, NEL-like molecule-1; TGF, transforming growth factors; CTGF, connective tissue growth factor; 
+ADMSCs, Adipose-derived stem cells ; BMP-2, bone morphogenetic protein 2; ECM, decellularized extracellular matrix. 
+ 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 42 of 45 
+   
+42 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+Figure legend: 
+ 
+Figure 1: Different methods to establish TMJOA animal models.  
+(A) Naturally occurring models of TMJOA. (B) Chemical induction of TMJOA. (C) Surgical 
+operation of TMJOA. (D) Mechanical stimulation of TMJOA. (E) Gene modification of 
+TMJOA. 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 43 of 45 
+   
+43 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+ 
+Figure 2: Different approaches to diagnose TMJOA in animal studies. (A) Representative 
+images of condyle erosions of TMJOA rat by Micro-CT scanning[14]. (B) Representative 
+images of the displaced disc in condylar fracture induction TMJOA minipig by MRI[38]. (C) 
+Gene expression and (D) protein content of matrix degrading proteases were significantly 
+upregulated in TMJOA rat evaluated by RT-PCR[14] and western Blot[12], respectively. (E) 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 44 of 45 
+   
+44 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+Histological sections of condyles in disc perforation of TMJOA rabbit by H&E and safranin 
+O staining[18]. (F) Apoptosis-related cytokines of condyles was detected in TMJOA rat by 
+histochemical stainings[61]. Adapted with permission. 
+ 
+ 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 
+Page 45 of 45 
+   
+45 
+Tissue Engineering 
+Recent Advances in Animal Models, Diagnosis, and Treatment of Temporomandibular Joint Osteoarthritis (DOI: 10.1089/ten.TEB.2022.0065) 
+This paper has been peer-reviewed and accepted for publication, but has yet to undergo copyediting and proof correction. The final published version may differ from this proof. 
+ 
+Figure 3: Tissue Engineering Strategies for TMJOA. (A) Tissue-engineered TMJ discs were 
+engineered with allogeneic costal chondrocytes and applied in the orthotopic TMJ of 
+minipigs. These implants restored disc integrity by inducing complete defect closure, 
+formed repair tissue, and promoted intralaminar fusion compared to empty controls[22]. 
+(B) Decellularized bovine distal femurs and ADMSCs were utilized to construct tissue-
+engineered TMJ discs to replace the original mandibular ramus-condyle unit of minipigs. 
+These implants restored cartilage integrity by regenerating the full-thickness, stratified and 
+robust cartilage over the underlying bone compared to empty controls[96]. Adapted with 
+permission. 
+ 
+ 
+Downloaded by Columbia University Library from www.liebertpub.com at 09/08/22. For personal use only. 

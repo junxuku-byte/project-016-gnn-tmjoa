@@ -1,0 +1,970 @@
+Vol.:(0123456789)
+Inflammopharmacology 
+https://doi.org/10.1007/s10787-025-01864-1
+ORIGINAL ARTICLE
+The use of statins can reduce the risk of osteoarthritis 
+and osteoporosis
+Xin Zeng1   · Fei Luo2 · Xiao‑dong Wang1 · Wan‑jun Cao1 · Yong‑jie Chen1 · Qiang Su1
+Received: 2 October 2024 / Accepted: 24 November 2024 
+© The Author(s), under exclusive licence to Springer Nature Switzerland AG 2025
+Abstract
+Background  Observational studies suggest that statins may be protective against osteoporosis and osteoarthritis. However, 
+the association between statins and the risk of osteoporosis and osteoarthritis has not been fully clarified.
+Objective  The association between statins and the risk of osteoporosis and osteoarthritis was explored by Mendelian rand-
+omization analyses using pooled data from a large population-based genome-wide association study (GWAS).
+Methods  Data on statin-associated single-nucleotide polymorphisms were obtained from version 10 of the FinnGen database, 
+while information regarding osteoporosis and osteoarthritis was sourced from IEU Open GWAS and UK Biobank, database. 
+The primary analytical method employed was inverse variance weighting to assess causal effects. Additional methods includ-
+ing weighted median, simple median, weighted mode, and MR-Egger regression were utilized for further clarification. Odds 
+ratios along with 95% confidence intervals were calculated to evaluate the causal relationship between statins and the risks 
+associated with osteoarthritis and osteoporosis. Subsequently, sensitivity analyses were conducted to verify result reliability 
+by employing Cochran’s Q test for heterogeneity assessment, MR-Egger intercept for detecting horizontal pleiotropy pres-
+ence, as well as leave-one-out analysis to identify potentially influential single nucleotide polymorphisms.
+Results  (1) The results of the inverse variance weighting method showed a negative causal relationship between geneti-
+cally predicted statins and osteoporosis (OR = 0.998, 95% CI 0.996–0.999, P = 0.01) risk; and a negative causal relationship 
+between statins and osteoarthritis (OR = 0.974, 95% CI 0.951–0.998, P = 0.037) risk; (2) MR-Egger-intercept analysis did 
+not detect potential horizontal pleiotropy (osteoporosis: P = 0.848; osteoarthritis: P = 0.483); and (3) the findings provide 
+favorable evidence that statins reduce the risk of osteoporosis and osteoarthritis as described in the observational study, but 
+further research is needed on the specific mechanisms of statins for osteoporosis and osteoarthritis.
+Conclusion  Statins reduce the risk of osteoporosis and osteoarthritis, which is consistent with the results of observational 
+studies. Further studies are essential to validate these results and explore the underlying mechanisms in detail.
+Keywords  Statin · Osteoporosis · Osteoarthritis · Mendelian randomization · Causality
+Introduction
+Osteoporosis (OP) is a common systemic skeletal disease in 
+the population, associated with aging, and is characterized 
+by a decrease in bone mineral density (BMD), leading to 
+increased bone fragility, characterized by increased fracture 
+risk in older adults (Sözen et al. 2017). It causes significant 
+emotional, physical, and financial stress to patients and often 
+leads to disability and reduced quality of life (Lane 2006)
+Osteoarthritis (OA) is the most common joint disease, 
+where degenerative changes in articular cartilage lead to 
+aseptic inflammation and involvement of the entire joint tis-
+sue (Glyn-Jones et al. 2015), and is a major cause of reduced 
+quality of life in older adults. As the population ages, it is 
+Inﬂammopharmacology
+Xin Zeng and Fei Luo are contributed equally to this work.
+ *	 Qiang Su 
+	
+werty777788@qq.com
+1	
+Nanchong Key Laboratory of Individualized Drug Therapy, 
+Beijing Anzhen Hospital Affiliated to Capital Medical 
+University Nanchong Hospita, Nanchong Central Hospital, 
+Nanchong, China
+2	
+Department of Nuclear Medicine, The Affiliated 
+Hospital of North Sichuan Medical College, Nanchong, 
+People’s Republic of China
+	
+X. Zeng et al.
+expected that an increasing number of middle-aged and 
+older adults will be affected by large joint arthritis (Jiang 
+2022). OA primarily causes morning stiffness, joint pain 
+and pressure, and swelling or deformity of the joints, which 
+reduces the patient’s quality of life (Mandl 2019). Risk fac-
+tors that have been identified as contributing to OA include 
+age, gender, mechanical factors, genetic predisposition and 
+obesity (Lane 2006). However, the exact etiology and patho-
+logical changes of OA remain unclear, leading to a lack of 
+curable treatments.
+Hydroxy-3-methylglutaryl coenzyme A reductase inhibi-
+tors (statins) have become the mainstay of medications for 
+the prevention and treatment of cardiovascular disease 
+(CVD), and statins appear to be potentially promising agents 
+for the treatment of osteoporosis (). This is because key 
+enzymes and molecules involved in cholesterol homeosta-
+sis are closely linked to bone formation. Excess cholesterol 
+may lead to osteoporosis, and cholesterol and its metabolites 
+affect bone homeostasis by regulating the proliferation and 
+stimulation of osteoblasts and osteoclasts (Bao et al., 2023).
+Many researchers have investigated the effective mecha-
+nisms of statin action on bone (Chamani et al. 2021). The 
+current literature suggests that the effects of statins on bone 
+may involve multiple mechanisms, including proliferation, 
+differentiation, protection of osteoblasts, and reduction of 
+osteoclastogenesis (Oryan et al. 2015). Therefore, statins 
+may play an important role in the clinical management of 
+osteoporosis.
+Several studies have shown that disorders of lipid metabo-
+lism may be one of the pathogenic mechanisms of osteoar-
+thritis (Haj-Mirzaian et al. 2019; Kadam et al. 2013). For 
+example, high lipid content in synovial fluid is associated 
+with arthritic changes. In addition, elevated leptin levels 
+in obese individuals are associated with articular carti-
+lage destruction (Abramoff and Caldera 2020). Therefore, 
+lipid-lowering drugs may play a role in altering the pro-
+gression and symptoms of osteoarthritis. Existing studies 
+suggest that statins are effective in reducing inflammation 
+in patients with OA (Dancevic and McCulloch 2014; Siddiq 
+et al. 2023). However, there are no randomized controlled 
+trials (RCTs) validating the clinical efficacy of osteoporo-
+sis and osteoarthritis with statin therapy. Implementing a 
+traditional RCT is challenging due to practical, cost, and 
+ethical constraints. Although observational studies are more 
+feasible, their confidence in inferring causality from clinical 
+phenotypes is reduced by confounding factors. In addition, 
+cross-sectional data do not address the issue of temporal 
+order between exposure and outcome, which can lead to 
+reverse causality (Gala and Tomlinson 2020).
+Mendelian randomization (MR) is a technique that uses 
+genetic variation as the object of study, with instrumental 
+variables (IVs) being genetic variants that are strongly cor-
+related with an exposure factor (e.g., environmental factor, 
+lifestyle, or medication, etc.) but are not associated with 
+any confounders of the exposure–outcome association, and 
+there is no pathway through which the instrumental vari-
+able can influence other outcomes typically refers to single-
+nucleotide polymorphisms (SNPs), which serve to assess 
+whether the observed relationship between exposure factors 
+and outcomes is consistent with a causal effect (Evans and 
+Davey Smith 2015). MR investigations differ from standard 
+observational clinical research. MR employs single nucleo-
+tide polymorphisms SNPs related with exposure events as 
+instrumental variables. This technique adheres to Mendel’s 
+law of random assignment, which simulates a "natural" RCT 
+by effectively eliminating external environmental and cul-
+tural impacts on behavior or other factors, as well as sta-
+bilizing exposure over time. That is, random assignment 
+performed before birth aligns with the causality timeline 
+(Gupta et al. 2017). MR methods effectively address poten-
+tial confounders and reverse causality (Li et al. 2024). MR 
+analyses can accurately predict the outcome of RCTs in drug 
+studies, facilitating early and systematic drug target screen-
+ing (Khasawneh et al. 2022). Currently, two-thirds of FDA-
+approved drugs are supported by genetic evidence (Ochoa 
+et al. 2022).
+Methods and materials
+Ethics/consent statement
+No ethical approval or informed consent was needed as this 
+study was based on previously published articles and public 
+databases.
+Research design
+This study examined the causal effect of statins on suscepti-
+bility to osteoporosis and osteoarthritis by two-sample MR 
+analysis. Statins were the exposure factor, whereas osteo-
+porosis and osteoarthritis were the outcome variables. To 
+conduct an MR study, three key assumptions must be met: 
+first, the selected SNPs must be significantly correlated with 
+statin exposure; second, the SNPs should be independent of 
+potential confounders; and third, the SNPs must be associ-
+ated with the risk of developing osteoporosis or osteoarthri-
+tis only through the mechanism of statin use (Burgess and 
+Thompson 2017).
+Data sources
+The FinnGen study, version 10, provides summary statistics 
+from the Genome-Wide Association Study (GWAS) focus-
+ing on statins. The study had a large cohort of 342,499 par-
+ticipants, including 233,181 cases of European origin and 
+The use of statins can reduce the risk of osteoarthritis and osteoporosis﻿	
+109,318 controls of European origin (https://​www.​finng​en.​
+fi/​en/​access_​resul​ts). In addition, summary statistics for OP 
+were obtained from the MRC-IEU database, with a sam-
+ple size of 463,010 people of European ancestry, including 
+1976 cases of European ancestry and 461,034 controls of 
+European ancestry, and for OA from the United Kingdom 
+BioBank (UKB), with a total sample size of 407,746 people 
+of European ancestry (https://​gwas.​mrcieu.​ac.​uk/).
+Screening of ivs
+Single-nucleotide polymorphisms (SNPs) were used as IVs 
+and thresholded at a P value of < 5.0 × 10–8. To avoid link-
+age disequilibrium (LD) bias, the LD of significant SNPs 
+associated with exposure factors had to fulfill the following 
+conditional conditions: r2 < 0.001 and a genetic distance of 
+10,000 kb. In this study, SNPs significantly associated with 
+exposure factors were extracted from the GWAS dataset of 
+the outcome variables and the resulting IVs were examined 
+to extract the following information Influence Allele, Allele 
+Influence Magnitude (beta), Standard Error and p-value. 
+The F statistics is used to test the strength of each IV and is 
+calculated as follows F = R2 (N− 2)/(1− R2), where R2 is the 
+proportion of the variance in the exposure factor explained 
+by each IV and N is the sample size of the exposure dataset 
+(Chen et al. 2022). When F > 10, there is no weak IV bias 
+(Burgess and Thompson 2011).
+Statistical analysis
+The summary statistics of the exposure and outcome datasets 
+were aligned so that the effect of SNP on exposure and the 
+effect of SNP on outcome corresponded to the same allele. 
+MR analyses were performed using inverse variance weight-
+ing (IVW), weighted median, MR-Egger regression, sim-
+ple mode, and weighted mode methods to infer causality. 
+Among other things, the inverse variance weighting method 
+is a standard approach in MR analyses for estimating the 
+relationship between a single genetic instrumental variable 
+and a phenotype. The contribution of each instrumental vari-
+able (e.g., genetic variance) is weighted during the estima-
+tion process, and the weighting is based on the inverse of the 
+estimated variance of the effect of each instrumental variable 
+on the exposure variable. Briefly, the effect of each instru-
+mental variable was assigned a weight that was the inverse 
+of its variance. This is done to enhance the precision of the 
+estimates, especially when the precision of the estimates of 
+the effects of different instrumental variables on the expo-
+sure variable is inconsistent. The IVW method is a good 
+choice when all instrumental variables are considered valid, 
+i.e., they affect the outcome variable only by influencing the 
+exposure variable and do not affect the outcome through 
+any other means (Burgess et al. 2015; Hartwig et al. 2016). 
+MR-Egger regression, on the other hand, is a method that 
+incorporates Wald ratios into a meta-regression for estimat-
+ing causal effects adjusted for any directional multinomial 
+effects. MR-Egger regression is capable of detecting and 
+correcting for cross-sectional confounders, and its intercepts 
+can provide evidence of direct confounding. It allows for the 
+presence of directional genetic pleiotropy in the included 
+instrumental variables and indicates the presence of genetic 
+pleiotropy when the regression intercept is non-zero and 
+the p value is less than 0.05. MR-Egger regression is a 
+good choice when there is a need to assess the Pleiotropy 
+of instrumental variables or when there are doubts about 
+the invalidity of instrumental variables(Bowden et al. 2015; 
+Bowden et al. 2016). We used IVW as the primary method 
+for MR (Zhang et al. 2022), and when each genetic variant 
+satisfied the IVW assumption, the Wald estimates for each 
+single nucleotide polymorphism were combined by means 
+of meta-analysis to obtain an overall estimate (Zheng et al. 
+2017). The IVW method gives the most reliable results when 
+there is no horizontal polymorphism in IVW. Compared with 
+the IVW method, the weighted median method improved the 
+accuracy of the results, and complementary analyses using 
+simple and weighted models further improved the accuracy 
+of the results (Xiang et al. 2021).
+Sensitivity analysis
+Horizontal pleiotropy is a violation of the third IV hypoth-
+esis when IVs affect outcomes through pathways that do not 
+involve exposure. Violation of this criterion can severely 
+compromise the accuracy of MR, leading to incorrect quan-
+tification of causality, reduced statistical efficacy, and type 
+I errors (Verbanck et al. 2018). We used the MR-Egger test 
+to detect potential pleiotropy, provided that any pleiotropic 
+effect of IVs on the results was independent of exposure. 
+MR-Egger intercept  p value > 0.05 indicates that horizontal 
+pleiotropy may not exist (Burgess and Thompson 2017). To 
+assess the robustness of the results, we performed leave-
+one-out sensitivity analyses, with each iteration involving 
+the systematic exclusion of individual SNPs. We generated 
+forest plots to visually explore potential pleiotropy.
+Heterogeneity analysis
+Heterogeneity refers to the variability between different IVs 
+observed in MR studies. This variability suggests that each 
+IV may contribute to the phenotype under study to a different 
+extent, or it may only have a causal effect on the feature when 
+interacting with other relevant SNPs. Therefore, the p value of 
+the Cochran Q test was used to assess the heterogeneity among 
+MR values. A p value of less than 0.05 indicates the presence 
+of gender heterogeneity. The Mendelian randomized polyto-
+mous residuals and outliers (MR-PRESSO) test was used to 
+	
+X. Zeng et al.
+detect and correct for horizontal polytomousness by remov-
+ing outliers (Lin et al. 2022). MR-PRESSO is a method for 
+assessing horizontal polymorphism in multi-instrument Men-
+delian randomization using genome-wide summary associa-
+tion statistics. It centers on improving the accuracy of causal 
+inferences by detecting and processing horizontal pleiotropy 
+(i.e., the phenomenon of genetic variation affecting multiple 
+phenotypes), and identifying and correcting outliers (outliers). 
+In statistical analyses, residuals refer to the difference between 
+observed and predicted values. Multi-category residuals may 
+refer to residuals that have many different distributions or char-
+acteristics. Outliers, on the other hand, are those values that are 
+significantly different from the majority of observed values, 
+possibly due to measurement error, data entry error, or other 
+unknown factors. The MR-PRESSO method consists of three 
+main components: (1) Detection of Horizontal Multiplicity 
+(MR-PRESSO Integral Test): this test is designed to detect 
+the presence of horizontal multiplicity in the data. The signifi-
+cance of horizontal pleiotropy is assessed by calculating the 
+sum of the squared residuals of the effect of each genetic vari-
+ant (e.g., SNP) with respect to the inverse variance weighted 
+(IVW) result. The larger the sum of squared residuals, the 
+more significant the horizontal pleiotropy. (2) Correction of 
+horizontal pleiotropy by outlier correction (MR-PRESSO out-
+lier test): After identifying genetic variants that may be subject 
+to horizontal pleiotropy, the MR-PRESSO outlier test further 
+analyses whether these variants are outliers. By comparing the 
+distances (i.e., residuals) of individual genetic variants to the 
+line of fit, variants with larger distances are more likely to be 
+outliers. Once outliers are identified, they can be removed from 
+the analysis to correct for the effects of horizontal pleiotropy. 
+(3) Test for significant distortion in causal estimates before and 
+after outlier removal (MR-PRESSO distortion test): this test is 
+designed to examine whether there is a significant difference in 
+the results of the causal estimates before and after the removal 
+of outliers. By comparing the results before and after correc-
+tion, it is possible to assess the extent to which outliers affect 
+causal inference and to verify the validity of the correction 
+method. Thus, the MR-PRESSO method provides researchers 
+with a more accurate and reliable analytical tool by detecting 
+and addressing these issues (Verbanck et al. 2018). Statistical 
+analyses were performed in this study using  R (version 4.3.3) 
+and the R package (TwoSampleMR and MR-PRESSO). The 
+test level α was 0.05 (p < 0.05) and the difference was statisti-
+cally significant.
+Results
+Screening results of SNPs
+After strictly adhering to the IVs selection criteria, we per-
+formed a complex instrumental variable selection process. 
+First, we selected SNPs significantly associated with statins 
+therapy (P < 5 × ­10–8) in the GWAS dataset. Second, we 
+established the chain disequilibrium parameter (r2 = 0.001, 
+kb = 10,000), which ultimately resulted in the selection of 
+71 different SNPs. Third, we extracted data for the above 
+selected SNPs from the summary statistics of the outcome 
+traits osteoporosis and osteoarthritis, respectively, and also 
+performed allelic matching, a harmonization process where 
+SNPs with incongruent alleles and those that were uncor-
+rectable for the ambiguous palindromic SNPs were removed. 
+And MR-PRESSO was used to identify and remove outli-
+ers, finally, we screened 30 SNPs about statins associated 
+with OP as IVs; and also 56 SNPs about statins associated 
+with OA as IVs. And, we calculated the F statistics for each 
+SNP, and they all exceeded the noteworthy threshold of 10. 
+This observation demonstrates the substantial instrumental 
+strength of these SNPs, thus ensuring the robustness of our 
+subsequent MR analyses.
+Causal relationship between statins 
+and osteoporosis
+Table 1 presents the results of the five research methods for 
+the association between statins and OP. Using the random 
+effects model in the IVW approach, the findings suggest a 
+negative association between statins and OP (OR = 0.974, 
+95% CI 0.951–0.998, p = 0.037). The results were dominated 
+by the IVW method, although still other methods, includ-
+ing MR-Egger, weighted median, weighted mode and sim-
+ple mode methods, did not support this finding. Figure 1 
+shows a forest plot visualizing the above five methods for 
+the association of statins with OP risk. Figure 2b Scatter-
+plot, negative correlation between statins and reduced risk 
+of OP development, as shown by the MR regression slope. 
+Figure 2a Forest plot, SNPs have a broadly consistent effect 
+on the results, indicating a stability plot of the results. 2c 
+Leave-one-out plot, with exclusion analysis showing that 
+none of the SNPs had a significant bias on the overall effect 
+Table 1   Mendelian randomization analysis of the causal relationship 
+between statins and osteoporosis risk.Methods
+SNPs Beta
+SE
+OR (95% CI)
+P
+MR-Egger
+30
+− 0.001
+0.0007 0.998 
+(0.997,1.000)
+0.178
+Weighted 
+median
+30
+− 0.0008 0.0004 0.999 
+(0.998,1.000)
+0.062
+IVW
+30
+− 0.001
+0.0003 0.998 
+(0.998,0.999)
+0.0002
+Simple mode
+30
+− 0.0006 0.0008 0.999 
+(0.997,1.001)
+0.478
+Weighted mode
+30
+− 0.0008 0.0005 0.999 
+(0.998,1.000)
+0.120
+The use of statins can reduce the risk of osteoarthritis and osteoporosis﻿	
+of statins on OP. Figure 2d Funnel plot showing symmetry, 
+excluding multiple effects.
+Heterogeneity test and sensitivity analysis
+Sensitivity analyses were subsequently conducted to assess 
+the robustness of the main results, and there was no hetero-
+geneity in the Heterogeneity test (IVW) analyses (Cochran’s 
+Q = 31.29, P = 0.351) and MR-Egger analyses (Cochran’s 
+Q = 31.26, P = 0.308). In addition, the MR-Egger intercept 
+test (P = − 1.266E-05) showed that our analyses did not find 
+significant evidence of horizontal pleiotropy, with all P val-
+ues exceeding the 0.05 threshold (Table 3).
+Causal relationship between statins 
+and osteoarthritis
+Table 2 presents the results of the five research methods 
+for the association between statins and OA. Using the ran-
+dom effects model in the IVW approach, a negative asso-
+ciation between statins and OA was observed (OR = 0.998, 
+95% CI 0.998–0.999, P = 0.0002); and the weighted median 
+(OR = 0.963, 95% CI 0.931–0.996, P = 0.028) and weighted 
+modal approaches (OR = 0.967, 95% CI 0.937–0.998, 
+P = 0.039), consistently supported this finding. Figure 1 
+shows a forest plot visualizing the above five methods for 
+the association of statins with OA risk. In addition, the forest 
+plot, leave-one-out analysis plot, and funnel plot showed that 
+the effect of each SNP on the results was generally consist-
+ent, indicating the stability of our results (Fig. 3).
+Heterogeneity test and sensitivity analysis
+A combined analysis of heterogeneity, including the 
+Cochran’s Q test for heterogeneity and the MR-Egger regres-
+sion for multi-directionality (Table 3) showed that there was 
+no heterogeneity in the IVW analyses (Cochran’s Q = 72.07, 
+P = 0.051) and MR-Egger analyses (Cochran’s Q = 72.73, 
+P = 0.055) (Table 3). In addition, the horizontal pleiotropy 
+test (MR-Egger) intercept test (Intercept = 0.1117) showed 
+that no significant evidence of horizontal pleiotropy was 
+found, with P values exceeding the 0.05 threshold (Table 3). 
+The results of all these tests indicate the robustness of the 
+MR findings.
+Discussion
+Exploring the causal relationship between exposure factors 
+and osteoporosis and osteoarthritis disease is essential for 
+disease prevention and the development of improved treat-
+ment strategies. In this two-sample Mendelian randomiza-
+tion study, we revealed that statins reduce the risk of osteo-
+porosis and osteoarthritis in a European population, with a 
+negative correlation between the two from a genetic predic-
+tion perspective.
+Previous studies have highlighted the positive shadow 
+of statins on cartilage synthesis and metabolism (Bao et al. 
+2023; Chamani et al. 2021; Ren and Zhou 2024). Our study 
+further demonstrates the positive effects of statins in pre-
+venting OA and OP. Several previous observational studies 
+have explored the relationship between statins and osteopo-
+rosis and osteoarthritis. In an experimental animal study on 
+Fig. 1   Forest plots of five outcomes from Mendelian randomization 
+analyses of statins for osteoporosis and osteoarthritis in inverse vari-
+ance weighted, weighted median, MR-Egger regression, simple mode 
+and weighted mode methods. Effect sizes are shown by black squares, 
+95% confidence intervals are black horizontal solid lines, and the 
+vertical dashed line in the middle is the null line, i.e., OR = 1; when 
+the black horizontal solid line intersects the null line it indicates that 
+there is no causal relationship between the study exposure factors and 
+the outcome association. When the horizontal line is to the right of 
+the null line, it indicates a positive relationship between the study 
+factor and the occurrence of the outcome event; when the horizontal 
+line is to the left of the null line, it indicates a negative relationship 
+between the study factor and the occurrence of the outcome event. 
+p < 0.05 indicates statistical significance. CI confidence interval, 
+nSNP number of single nucleotide polymorphism, OR odds ratio
+	
+X. Zeng et al.
+osteoarthritis, it was found that intra-articular injection of 
+statins reduced arthritis in a rabbit model of osteoarthritis 
+(Goto et al. 2017). In addition, statins prevented cartilage 
+degeneration after IL-1β stimulation and induced anti-
+inflammatory effects by stimulating the STAT1-caspase-3 
+signaling pathway (Saberianpour et al. 2022). In addition, 
+statins also attenuate the inflammatory response induced by 
+sodium iodoacetate in a rat joint model (Pathak et al. 2015). 
+In terms of clinical management of osteoporosis and osteo-
+arthritis, previous studies have found that long-term use of 
+statins reduces the incidence of osteoarthritis and slows its 
+progression (Mohajer et al. 2024). Furthermore, an obser-
+vational study conducted by Dutch scholars found that long-
+term use of statins reduced the incidence of osteoarthritis 
+and slowed its progression (Clockaerts et al. 2012). It has 
+also been demonstrated that statins do not reduce the risk of 
+hospitalization for osteoarthritis in the hip and knee. In addi-
+tion, a Korean study demonstrated that statin use was associ-
+ated with a significantly lower risk of osteoporotic fracture 
+in an elderly population (Seo et al. 2023). In a population-
+based cohort study in Taiwan, researchers found that statin 
+use was associated with a reduced risk of osteoporosis in 
+The use of statins can reduce the risk of osteoarthritis and osteoporosis﻿	
+both men and women (Lin et al. 2018a, b). Whether statins 
+can treat osteoporotic osteoarthritis remains controversial 
+in the existing phase of research (Lin et al. 2018a, b; Wang 
+et al. 2021). However, the present MR study provides a 
+theoretical basis for previous observational studies, and the 
+detection of specific related genes can predict their treat-
+ment effects. It also provides important new evidence for 
+the rational use of statins in patients with osteoporosis and 
+osteoarthritis, which is important for disease prevention and 
+the development of improved treatment strategies. However, 
+some adverse effects of statins, such as gastrointestinal reac-
+tions, cognitive dysfunction, hepatic dysfunction, muscle 
+weakness and pain, and in severe cases, rhabdomyolysis; 
+although the incidence of the above symptoms is still low, 
+these adverse effects may limit its use in some special pop-
+ulations (Attardo et al. 2022; Bellosta and Corsini 2018). 
+Randomized controlled trials (RCTs) are needed to validate 
+the efficacy of statins in the treatment of clinical OA and to 
+avoid the serious adverse effects associated with oral statins.
+For the application of statins to reduce the risk of osteo-
+porosis and osteoarthritis, we can explain this causal rela-
+tionship on the basis of existing biological mechanisms. 
+The main pathogenesis of osteoporosis is a disorder of bone 
+metabolism characterized by an imbalance between bone 
+formation and resorption, which ultimately leads to a sig-
+nificant decrease in bone mass and density (Zou et al. 2020). 
+Osteoarthritis is characterized by an imbalance between 
+altered homeostasis (anabolic) and catabolic (degenerative) 
+metabolism within the articular cartilage mediated by the 
+innate immune system, leading to synovial membrane hyper-
+plasia, degeneration of the articular cartilage, disruption 
+of the structural and functional integrity of the cartilage’s 
+extracellular matrix, subchondral sclerosis, and formation 
+of osteoclasts (Mukherjee and Das 2024). The mechanisms 
+by which statins modulate osteoporosis and osteoarthritis 
+have not been fully elucidated. However, several possible 
+mechanisms have been proposed to elucidate the pathways 
+by which statins affect bone metabolism and inflammation. 
+First, statins increase bone morphogenetic protein-2 (BMP-
+2) through the Ras-PI3K-Akt/MAPK signaling pathway 
+(Ruan et al. 2012), and BMP-2 induces osteoblast differen-
+tiation through Runt-related transcription factor 2 (Runx2) 
+(Jensen et al. 2010; Nguyen et al. 2022). Second, statins 
+inhibit the mevalonate pathway, preventing the synthesis of 
+downstream products. As a result, FPP and GGPP synthe-
+sis is blocked (Goldstein and Brown 1990), which nega-
+tively regulates osteoblast differentiation (Lee et al. 2022; 
+Weivoda and Hohl 2011). Third, statins inhibit osteoblast 
+apoptosis via the TGFβ/Smad3 pathway (Heldin, Miyazono, 
+and ten Dijke 1997). Fourth, statins inhibit osteoclastogen-
+esis via the OPG/RANKL/RANK pathway (Tsubaki et al. 
+2012). Based on the above mechanisms of action, statins are 
+thought to be associated with bone anabolism. We also con-
+firmed a causal relationship between statins use and reduced 
+risk of osteoporosis and osteoarthritis in terms of genetic 
+correlation and Mendelian randomization analysis. These 
+results enhance our understanding of the role of statins in 
+osteoporosis and osteoarthritis prevention and suggest that 
+statins may be an effective prevention strategy for individu-
+als at risk of osteoporosis and osteoarthritis.
+Our analyses have several advantages. First, the MR 
+analysis relies on the random assignment of genetic varia-
+tion during conception and is therefore less susceptible to 
+individual selection bias or behavioral interference. This 
+simulation condition, similar to that of a randomized clinical 
+Fig. 2   a Forest plot, Each of its horizontal solid lines responds to a 
+single SNP, the results estimated using the Wald ratio method, the 
+solid line is entirely to the left of 0, indicating that the result esti-
+mated from this SNP, is that statins reduce the risk of developing OP, 
+the solid line is entirely to the right of 0, indicating that the result 
+estimated from this SNP, is that statins increase the risk of develop-
+ing OP, and those results that cross over 0 indicate that it is not sig-
+nificant, but the results for a single SNP are not robust because statins 
+here are influenced by multiple SNPs, so the results need to be taken 
+together, which is the red line at the bottom, and the red line below 
+that shows that taking statins reduces the risk of developing OP. b 
+Scatter plot, representing the results of MR analysis between expo-
+sure factors and outcome factors, with the x-axis representing the 
+effect of SNP on statins and the y-axis representing the effect of SNP 
+on OP. The slope is less than 0, which means that the exposure factor 
+is a favorable factor for the outcome, and the different colored lines 
+represent the different algorithms, and the results show that the lines 
+for the different algorithms are overall slanted downwards, which 
+means that statins can reduce the risk of developing OP. c Sensitivity 
+analysis, Each entry represents the result of MR analysis excluding a 
+subset of SNPs for that SNP, and the corresponding horizontal coor-
+dinate is its effect size estimate (i.e., the effect size estimate after the 
+leave-one-out method). As shown in Fig. 2c above, the overall error 
+line did not change much after excluding each SNP, suggesting that 
+the results of statins to reduce the incidence of OP are reliable. d Fun-
+nel plot, where each point represents the effect size of an SNP, the 
+horizontal coordinate usually indicates the effect size, and the verti-
+cal coordinate indicates the precision (standard error), the observation 
+that the points on the left and right sides of the IVW line are roughly 
+symmetrical suggests that there is no heterogeneity of SNPs, and that 
+the results of statins to reduce the risk of OP morbidity are reliable
+◂
+Table 2   A Mendelian randomization analysis of the causal relation-
+ship between statins and risk of osteoarthritis
+Methods
+SNPs Beta
+SE
+OR (95% CI)
+P
+MR-Egger
+56
+− 0.035 0.018 0.965 
+(0.932,1.000)
+0.058
+Weighted median 56
+− 0.038 0.017 0.963 
+(0.931,0.996)
+0.028
+IVW
+56
+− 0.026 0.012 0.974 
+(0.951,0.998)
+0.037
+Simple mode
+56
+− 0.031 0.029 0.969 
+(0.915,1.027)
+0.291
+Weighted mode
+56
+− 0.035 0.015 0.967 
+(0.937,0.998)
+0.039
+	
+X. Zeng et al.
+trial, ensures more reliable results for causal inference. Sec-
+ond, the use of exposure and outcome datasets from different 
+sources minimizes the bias inherent in weak instrumental 
+variable methods, thereby increasing the validity of two-
+sample MR analyses. Third, strict criteria for the selection of 
+instrumental variables were developed, allowing only SNPs 
+significantly associated with statins therapy and meeting 
+the three core assumptions of MR analysis to be used as 
+instruments. In addition, genetic variants were dispersed 
+across different chromosomes, thus mitigating the poten-
+tial impact of gene–gene interactions on effect estimates. 
+Fourth, to assess the validity of the instrumental variable 
+hypotheses, we used a range of different analytical methods, 
+including heterogeneity tests, cross-sectional multivariate 
+The use of statins can reduce the risk of osteoarthritis and osteoporosis﻿	
+assessment and skimming analyses. Finally, in addition to 
+Mendelian randomization analyses, we fully elaborate on 
+possible underlying mechanisms. This further enhances the 
+validity of the results of our Mendelian randomization analy-
+ses compared to previous similar studies (Yu et al. 2024).
+There are several limitations to this study. First, our focus 
+on excluding SNPs associated with known confounders may 
+have overlooked other unidentified confounders that may 
+influence the relationship between statins and OA. This limi-
+tation highlights the need for further research to identify 
+these potential confounders. Second, although statins have 
+shown potential benefit in the prevention of osteoarthritis, 
+specific treatment regimens and dosages need to be deter-
+mined by further research and clinical practice. Third, our 
+study population was of exclusively European origin. This 
+factor limits the generalizability of our findings to other pop-
+ulations due to different disease patterns in different ances-
+tral backgrounds. Fourth, there are several statins, each with 
+different pharmacokinetic and pharmacodynamic properties. 
+These differences, such as variations in absorption rates and 
+tissue binding affinities, may affect the therapeutic efficacy 
+of statins. Therefore, our future research program includes 
+a focus on individual statins or different statins classes to 
+understand their effects in more detail.
+Conclusions
+This study, at the genetic level, demonstrates that statins 
+can reduce the risk of osteoporosis and osteoarthritis in the 
+population in a causal manner. Therefore, this study pro-
+vides potential evidence for the future use of statins in anti-
+osteoporosis and osteoarthritis treatment. However, further 
+research is essential to confirm our findings. This includes 
+the conduct of large-scale RCTs focused on explicitly assess-
+ing the beneficial effects and clear mechanisms of action of 
+statins in the treatment of osteoporosis and osteoarthritis.
+Fig. 3   a Forest plot, Each horizontal solid line corresponds to an 
+SNP. The results estimated using the Wald ratio method have a solid 
+line exactly to the left of 0 indicating that statins reduce the risk of 
+OA according to that SNP, a solid line exactly to the right of 0 indi-
+cating that statins increase the risk of OA according to that SNP, a 
+solid line exactly to the right of 0 indicating that statins increase the 
+risk of OP, and those results crossing 0 indicating that they are not 
+significant. increases the risk of developing OA, and those crossing 
+0 indicate that it is not significant, but the results for a single SNP 
+are not reliable because statins are affected by more than one SNP, 
+so these results need to be considered together, which is the red line 
+at the bottom, and the red line below indicates that taking a statin 
+reduces the risk of developing OA. b Scatter plot, Represents the 
+results of MR analysis between exposure factors and outcome fac-
+tors, the x-axis represents the effect of SNP on statins and the y-axis 
+represents the effect of SNP on OA. The slope is less than 0, which 
+means that the exposure factor is a favorable factor for the outcome, 
+and the different colored lines represent the different algorithms, and 
+the results show that the lines for the different algorithms are over-
+all slanted downwards, which means that statins can reduce the risk 
+of OA. c Sensitivity analysis, Each entry represents the result of MR 
+analysis excluding a subset of SNPs for that SNP, and the correspond-
+ing horizontal coordinate is its effect size estimate (i.e., the effect size 
+estimate after the leave-one-out method). As shown in (c) above, the 
+overall error line did not change much after excluding each SNP, sug-
+gesting that the results of statins to reduce the incidence of OA are 
+reliable. d Funnel plot, where each point represents the effect size of 
+an SNP, the horizontal coordinate usually indicates the effect size, 
+and the vertical coordinate indicates the precision (standard error), 
+the observation that the points on the left and right sides of the IVW 
+line are roughly symmetrical suggests that there is no heterogeneity 
+of SNPs, and that the results of statins to reduce the risk of OA mor-
+bidity are reliable
+◂
+Table 3   Heterogeneity test and 
+horizontal pleiotropy test
+Exposure
+Outcome
+Heterogeneity test (MR-
+Egger)
+Heterogeneity test (IVW)
+Horizontal pleiotropy 
+test (MR‒Egger)
+Cochran’s Q
+Q_df
+P
+Cochran’s Q
+Q_df
+P
+Intercept
+P
+Statins
+OP
+31.26
+28
+0.308
+31.29
+29
+0.351
+− 1.266E− 05 0.848
+Statins
+OA
+72.07
+54
+0.051
+72.73
+55
+0.055
+0.1117
+0.483
+	
+X. Zeng et al.
+Author contributions  Xin Zeng AND Fei Luo: conceptualization, 
+investigation, data curation, writing—original draft. Xiaodong Wang 
+AND Wanjun Cao: conceptualization, investigation, writing—original 
+draft. Xin Zeng AND Yongjie Chen investigation, writing—review, and 
+editing. Qiang Su: conceptualization, writing—review, and editing. All 
+authors contributed to the article and approved the submitted version.
+Funding  Not applicable.
+Data availability  Original contributions to the study are included in the 
+article/supplementary material. For further enquiries, please contact 
+the corresponding author.
+Code availability  The original contributions presented in the study are 
+included in the article/ Supplementary Material. Further inquiries can 
+be directed to the corresponding author.
+Declarations 
+Conflict of interest  The authors declare that they have no competing 
+interests.
+Ethical approval  No ethical approval or informed consent was needed, 
+as this study was based on previously published articles and public 
+databases.
+Consent to participation  Not applicable to this article.
+Consent for publication  Not applicable to this article.
+References
+Abramoff B, Caldera FE (2020) Osteoarthritis: pathology, diagnosis, 
+and treatment options. Med Clin North Am 104(2):293–311
+Attardo S, Musumeci O, Velardo D, Toscano A (2022) Statins neuro-
+muscular adverse effects. Int J Mol Sci. https://​doi.​org/​10.​3390/​
+ijms2​31583​64
+Bao C, Wu T, Zhu S, Wang X, Zhang Y, Wang X, Yang L, He C (2023) 
+Regulation of cholesterol homeostasis in osteoporosis mechanisms 
+and therapeutics. Clin Sci (Lond) 137(15):1131–1143. https://​doi.​
+org/​10.​1042/​cs202​20752
+Bellosta S, Corsini A (2018) Statin drug interactions and related 
+adverse reactions: an update. Expert Opin Drug Saf 17(1):25–37. 
+https://​doi.​org/​10.​1080/​14740​338.​2018.​13944​55
+Bowden J, Del Greco MF, Minelli C, DaveySmith G, Sheehan NA, 
+Thompson JR (2016) Assessing the suitability of summary data 
+for two-sample mendelian randomization analyses using Mr-egger 
+regression: the role of the i2 statistic. Int J Epidemiol 45(6):1961–
+1974. https://​doi.​org/​10.​1093/​ije/​dyw220
+Bowden J, Smith GD, Burgess S (Apr2015) Mendelian randomiza-
+tion with invalid instruments: effect estimation and bias detection 
+through Egger regression. Int J Epidemiol 44(2):512–525. https://​
+doi.​org/​10.​1093/​ije/​dyv080
+Burgess S, Thompson SG (2017) Interpreting findings from Mende-
+lian Randomization using the Mr-Egger method. Eur J Epidemiol 
+32(5):377–389. https://​doi.​org/​10.​1007/​s10654-​017-​0255-x
+Burgess S, Thompson SG (Jun2011) Avoiding bias from weak instru-
+ments in Mendelian randomization studies. Int J Epidemiol 
+40(3):755–764. https://​doi.​org/​10.​1093/​ije/​dyr036
+Burgess S, Scott RA, Timpson NJ, Smith GD, Thompson SG (Jul2015) 
+Using published data in Mendelian randomization: a blueprint 
+for efficient identification of causal risk factors. Eur J Epidemiol 
+30(7):543–552. https://​doi.​org/​10.​1007/​s10654-​015-​0011-z
+Chamani S, Liberale L, Mobasheri L, Montecucco F, Al-Rasadi K, 
+Jamialahmadi T, Sahebkar A (Jul2021) The role of statins in 
+the differentiation and function of bone cells. Eur J Clin Invest 
+51(7):e13534. https://​doi.​org/​10.​1111/​eci.​13534
+Chen H, Ye R, Guo X (2022) Lack of causal association between 
+heart failure and osteoporosis: a Mendelian randomization 
+study. BMC Med Genomics 15(1):232. https://​doi.​org/​10.​1186/​
+s12920-​022-​01385-8
+Clockaerts S, Van Osch GJ, Bastiaansen-Jenniskens YM, Verhaar 
+JA, Van Glabbeek F, Van Meurs JB, Kerkhof HJ, Hofman A, 
+Stricker BH, Bierma-Zeinstra SM (2012) Statin use is associ-
+ated with reduced incidence and progression of knee osteoar-
+thritis in the rotterdam study. Ann Rheum Dis 71(5):642–647. 
+https://​doi.​org/​10.​1136/​annrh​eumdis-​2011-​200092
+Dancevic CM, McCulloch DR (2014) Current and emerging thera-
+peutic strategies for preventing inflammation and aggrecanase-
+mediated cartilage destruction in arthritis. Arthritis Res Ther 
+16(5):429. https://​doi.​org/​10.​1186/​s13075-​014-​0429-9
+Evans DM, Davey Smith G (2015) Mendelian randomization: new 
+applications in the coming age of hypothesis-free causality. 
+Annu Rev Genomics Hum Genet 16:327–350. https://​doi.​org/​
+10.​1146/​annur​ev-​genom-​090314-​050016
+Gala H, Tomlinson I (Apr2020) The use of Mendelian Randomisa-
+tion to identify causal cancer risk factors: promise and limita-
+tions. J Pathol 250(5):541–554. https://​doi.​org/​10.​1002/​path.​
+5421
+Glyn-Jones S, Palmer AJ, Agricola R, Price AJ, Vincent TL, Weinans 
+H, Carr AJ (2015) Osteoarthritis. Lancet 386(9991):376–387. 
+https://​doi.​org/​10.​1016/​s0140-​6736(14)​60802-3
+Goldstein JL, Brown MS (1990) Regulation of the mevalonate pathway. 
+Nature 343(6257):425–430. https://​doi.​org/​10.​1038/​34342​5a0
+Goto N, Okazaki K, Akasaki Y, Ishihara K, Murakami K, Koyano 
+K, Ayukawa Y, Yasunami N, Masuzaki T, Nakashima Y (2017) 
+Single intra-articular injection of Fluvastatin-Plga microspheres 
+reduces cartilage degradation in rabbits with experimental osteo-
+arthritis. J Orthop Res 35(11):2465–2475. https://​doi.​org/​10.​1002/​
+jor.​23562
+Gupta V, Walia GK, Sachdeva MP (2017) ‘Mendelian Randomization’: 
+An Approach for Exploring Causal Relations in Epidemiology. 
+Public Health 145:113–119. https://​doi.​org/​10.​1016/j.​puhe.​2016.​
+12.​033
+Haj-Mirzaian A, Mohajer B, Guermazi A, Conaghan PG, Lima 
+JAC, Blaha MJ, Bingham CO, Roemer FW, Cao X, Demehri S 
+(Nov2019) Statin use and knee osteoarthritis outcome measures 
+according to the presence of Heberden nodes: results from the 
+Osteoarthritis Initiative. Radiology 293(2):396–404. https://​doi.​
+org/​10.​1148/​radiol.​20191​90557
+Hartwig FP, Davies NM, Hemani G, DaveySmith G (2016) Two-
+sample mendelian randomization: avoiding the downsides of a 
+powerful, widely applicable but potentially fallible technique. Int 
+J Epidemiol 45(6):1717–1726. https://​doi.​org/​10.​1093/​ije/​dyx028
+Heldin CH, Miyazono K, ten Dijke P (1997) Tgf-beta signalling 
+from cell membrane to nucleus through smad proteins. Nature 
+390(6659):465–471. https://​doi.​org/​10.​1038/​37284
+Jensen ED, Gopalakrishnan R, Westendorf JJ (2010) Regulation of 
+gene expression in osteoblasts. BioFactors 36(1):25–32. https://​
+doi.​org/​10.​1002/​biof.​72
+Jiang Y (2022) Osteoarthritis year in review 2021: biology. Osteo-
+arthritis Cartilage 30(2):207–215. https://​doi.​org/​10.​1016/j.​joca.​
+2021.​11.​009
+Kadam UT, Blagojevic M, Belcher J (2013) Statin use and clinical 
+osteoarthritis in the general population: a longitudinal study. 
+J Gen Intern Med 28(7):943–949. https://​doi.​org/​10.​1007/​
+s11606-​013-​2382-8
+The use of statins can reduce the risk of osteoarthritis and osteoporosis﻿	
+Khasawneh LQ, Al-Mahayri ZN, Ali BR (2022) Mendelian Randomiza-
+tion in Pharmacogenomics: The Unforeseen Potentials. Biomed Phar-
+macother 150:112952. https://​doi.​org/​10.​1016/j.​biopha.​2022.​112952
+Lane NE (2006) Epidemiology, etiology, and diagnosis of osteoporo-
+sis. Am J Obstet Gynecol 194(2 Suppl):S3-11. https://​doi.​org/​10.​
+1016/j.​ajog.​2005.​08.​047
+Lee TC, Chen HT, Tai IC, Kao LT, Hung MH, Chen CH, Fu YC, 
+Wang YH, Kao CM, Chang JK, Ho ML (2022) Anabolic effects 
+of a novel simvastatin derivative on treating rat bone defects. Bio-
+medicines 10:8. https://​doi.​org/​10.​3390/​biome​dicin​es100​81915
+Li GS, Yang YZ, Ma GR, Li PF, Cheng QH, Zhang AR, Zhang 
+ZZ, Zhang FK, Yang X, Fan H, Guo HZ (Feb2024) Rheuma-
+toid arthritis is a protective factor against Alzheimer’s disease: 
+a bidirectional two-sample Mendelian randomization study. 
+Inflammopharmacology 32(1):863–871. https://​doi.​org/​10.​1007/​
+s10787-​023-​01397-5
+Lin TK, Chou P, Lin CH, Hung YJ, Jong GP (2018a) Long-term effect 
+of statins on the risk of new-onset osteoporosis: a nationwide pop-
+ulation-based cohort study. PLoS ONE 13(5):e0196713. https://​
+doi.​org/​10.​1371/​journ​al.​pone.​01967​13
+Lin TK, Liou YS, Lin CH, Chou P, Jong GP (2018b) High-potency 
+statins but not all statins decrease the risk of new-onset osteoporotic 
+fractures: a nationwide population-based longitudinal cohort study. 
+Clin Epidemiol 10:159–165. https://​doi.​org/​10.​2147/​clep.​S1453​11
+Lin L, Luo P, Yang M, Wang J, Hou W, Xu P (2022) Causal rela-
+tionship between osteoporosis and osteoarthritis: a two-sample 
+Mendelian randomized study. Front Endocrinol (Lausanne) 
+13:1011246. https://​doi.​org/​10.​3389/​fendo.​2022.​10112​46
+Mandl LA (Mar2019) Osteoarthritis year in review 2018: clinical. 
+Osteoarthritis Cartilage 27(3):359–364. https://​doi.​org/​10.​1016/j.​
+joca.​2018.​11.​001
+Mohajer B, Moradi K, Guermazi A, Dolatshahi M, Roemer FW, Ibad 
+HA, Parastooei G, Conaghan PG, Zikria BA, Wan M, Cao X, 
+Lima JAC, Demehri S (2024) Statin use and longitudinal changes 
+in quantitative MRI-based biomarkers of thigh muscle quality: 
+data from osteoarthritis initiative. Skeletal Radiol 53(4):683–695. 
+https://​doi.​org/​10.​1007/​s00256-​023-​04473-7
+Mukherjee A, Das B (2024) The role of inflammatory mediators and 
+matrix metalloproteinases (Mmps) in the progression of osteo-
+arthritis. Biomater Biosyst 13:100090. https://​doi.​org/​10.​1016/j.​
+bbiosy.​2024.​100090
+Nguyen AP, Yamagata K, Iwata S, Trimova G, Zhang T, Shan Y, 
+Nguyen MP, Sonomoto K, Nakayama S, Kato S, Tanaka Y (2022) 
+Enhancer rna commits osteogenesis via microrna-3129 expression 
+in human bone marrow-derived mesenchymal stem cells. Inflamm 
+Regen 42(1):43. https://​doi.​org/​10.​1186/​s41232-​022-​00228-4
+Ochoa D, Karim M, Ghoussaini M, Hulcoop DG, McDonagh EM, 
+Dunham I (2022) Human Genetics Evidence Supports Two-
+Thirds of the 2021 FDA-Approved Drugs. Nat Rev Drug Discov 
+21(8):551. https://​doi.​org/​10.​1038/​d41573-​022-​00120-3
+Oryan A, Kamali A, Moshiri A (2015) Potential mechanisms and appli-
+cations of statins on osteogenesis: current modalities, conflicts and 
+future directions. J Control Release 215:12–24. https://​doi.​org/​10.​
+1016/j.​jconr​el.​2015.​07.​022
+Pathak NN, Balaganur V, Lingaraju MC, Kant V, Kumar D, Kumar D, 
+Sharma AK, Tandan SK (Jun2015) Effect of atorvastatin, a HMG-
+CoA reductase inhibitor in monosodium iodoacetate-induced oste-
+oarthritic pain: implication for osteoarthritis therapy. Pharmacol 
+Rep 67(3):513–519. https://​doi.​org/​10.​1016/j.​pharep.​2014.​12.​005
+Ren Z, Zhou L (2024) Association of statin use with osteoporosis 
+risk: a drug-targeted mendelian randomization study. Inflam-
+mopharmacology 32(2):1253–1261. https://​doi.​org/​10.​1007/​
+s10787-​024-​01441-y
+Ruan F, Zheng Q, Wang J (2012) Mechanisms of bone anabolism 
+regulated by statins. Biosci Rep 32(6):511–519. https://​doi.​org/​
+10.​1042/​bsr20​110118
+Saberianpour S, Abolbashari S, Modaghegh MHS, Karimian MS, Eid 
+AH, Sathyapalan T, Sahebkar A (Aug2022) Therapeutic effects of 
+statins on osteoarthritis: a review. J Cell Biochem 123(8):1285–
+1297. https://​doi.​org/​10.​1002/​jcb.​30309
+Seo DH, Jeong Y, Cho Y, Kim SH, Hong S, Suh YJ, Ahn SH (Nov2023) 
+Age- and dose-dependent effect of statin use on the risk of osteo-
+porotic fracture in older adults. Osteoporos Int 34(11):1927–1936. 
+https://​doi.​org/​10.​1007/​s00198-​023-​06879-4
+Siddiq MAB, Jahan I, Rasker JJ (2023) Statin in clinical and preclinical 
+knee osteoarthritis-what e evidence exists for future clinical use?-
+a literature review. Curr Rheumatol Rev 19(3):270–280. https://​
+doi.​org/​10.​2174/​15733​97118​66622​09301​41740
+Sözen T, Özışık L, Başaran NÇ (2017) An overview and management 
+of osteoporosis. Eur J Rheumatol 4(1):46–56. https://​doi.​org/​10.​
+5152/​eurjr​heum.​2016.​048
+Tsubaki M, Satou T, Itoh T, Imano M, Yanae M, Kato C, Takahashi R, 
+Komai M, Nishida S (2012) Bisphosphonate- and Statin-Induced 
+Enhancement of Opg Expression and Inhibition of Cd9, M-Csf, 
+and Rankl Expressions Via Inhibition of the Ras/Mek/Erk Path-
+way and Activation of P38mapk in Mouse Bone Marrow Stromal 
+Cell Line St2. Mol Cell Endocrinol 361(1–2):219–231. https://​
+doi.​org/​10.​1016/j.​mce.​2012.​05.​002
+Verbanck M, Chen CY, Neale B, Do R (2018) Detection of widespread 
+horizontal pleiotropy in causal relationships inferred from Men-
+delian randomization between complex traits and diseases. Nat 
+Genet 50(5):693–698. https://​doi.​org/​10.​1038/​s41588-​018-​0099-7
+Wang Y, Jones G, Hill C, Wluka AE, Forbes AB, Tonkin A, Hussain 
+SM, Ding C, Cicuttini FM (2021) Effect of atorvastatin on knee 
+cartilage volume in patients with symptomatic knee osteoarthri-
+tis: results from a randomized placebo-controlled trial. Arthritis 
+Rheumatol 73(11):2035–2043. https://​doi.​org/​10.​1002/​art.​41760
+Weivoda MM, Hohl RJ (Aug2011) Effects of farnesyl pyrophosphate 
+accumulation on calvarial osteoblast differentiation. Endocrinol-
+ogy 152(8):3113–3122. https://​doi.​org/​10.​1210/​en.​2011-​0016
+Xiang K, Wang P, Xu Z, Hu YQ, He YS, Chen Y, Feng YT, Yin KJ, 
+Huang JX, Wang J, Wu ZD, Yang XK, Wang DG, Ye DQ, Pan HF 
+(2021) Causal effects of gut microbiome on systemic lupus ery-
+thematosus: a two-sample Mendelian randomization study. Front 
+Immunol 12:667097. https://​doi.​org/​10.​3389/​fimmu.​2021.​667097
+Yu K, Li Z, Shi W, Zhao Z, Yang L (Oct2024) Causal impact of statins 
+on susceptibility to osteoarthritis: insights from a two-sample 
+Mendelian randomization analysis. Int J Clin Pharm 46(5):1208–
+1214. https://​doi.​org/​10.​1007/​s11096-​024-​01754-6
+Zhang Y, Li D, Zhu Z, Chen S, Lu M, Cao P, Chen T, Li S, Xue S, 
+Zhang Y, Zhu J, Ruan G, Ding C (2022) Evaluating the impact 
+of Metformin targets on the risk of osteoarthritis: a Mendelian 
+randomization study. Osteoarthritis Cartilage 30(11):1506–1514. 
+https://​doi.​org/​10.​1016/j.​joca.​2022.​06.​010
+Zheng J, Baird D, Borges MC, Bowden J, Hemani G, Haycock P, Evans 
+DM, Smith GD (2017) Recent developments in Mendelian rand-
+omization studies. Curr Epidemiol Rep 4(4):330–345. https://​doi.​
+org/​10.​1007/​s40471-​017-​0128-6
+Zou Z, Liu W, Cao L, Liu Y, He T, Peng S, Shuai C (2020) Advances 
+in the occurrence and biotherapy of osteoporosis. Biochem Soc 
+Trans 48(4):1623–1636. https://​doi.​org/​10.​1042/​bst20​200005
+Publisher's Note  Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds 
+exclusive rights to this article under a publishing agreement with the 
+author(s) or other rightsholder(s); author self-archiving of the accepted 
+manuscript version of this article is solely governed by the terms of 
+such publishing agreement and applicable law.

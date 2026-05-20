@@ -1,0 +1,1153 @@
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates Injury-
+Induced 
+Temporomandibular 
+Joint
+OsteoarthritisRunning headline: Osteocytic MMP13
+is required for TMJOA
+Cristal S. Yee, Marianne Demirdji, Karsyn N.
+Bailey, Alena Larios, Christoforos Meliadis,
+Clarissa Aguirre Luna, Harrison B. Taylor, Peggi
+M Angel, Sunil Kapila, Tamara Alliston
+PII:
+S1063-4584(25)01282-8
+DOI:
+https://doi.org/10.1016/j.joca.2025.12.019
+Reference:
+YJOCA5737
+To appear in:
+Osteoarthritis and Cartilage
+Received date: 4 April 2025
+Accepted date: 18 December 2025
+Please cite this article as: Cristal S. Yee, Marianne Demirdji, Karsyn N. Bailey,
+Alena Larios, Christoforos Meliadis, Clarissa Aguirre Luna, Harrison B. Taylor,
+Peggi M Angel, Sunil Kapila and Tamara Alliston, Osteocyte-Intrinsic MMP13
+Exacerbates Injury-Induced Temporomandibular Joint OsteoarthritisRunning
+headline: Osteocytic MMP13 is required for TMJOA, Osteoarthritis and
+Cartilage, (2025) doi:https://doi.org/10.1016/j.joca.2025.12.019
+This is a PDF of an article that has undergone enhancements after acceptance,
+such as the addition of a cover page and metadata, and formatting for readability.
+This version will undergo additional copyediting, typesetting and review before it
+is published in its final form. As such, this version is no longer the Accepted
+Manuscript, but it is not yet the definitive Version of Record; we are providing
+this early version to give early visibility of the article. Please note that Elsevier’s
+sharing policy for the Published Journal Article applies to this version, see:
+https://www.elsevier.com/about/policies-and-standards/sharing#4-published-
+journal-article. Please also note that, during the production process, errors may be
+discovered which could affect the content, and all legal disclaimers that apply to
+the journal pertain.
+© 2025 Published by Elsevier.
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+1
+Osteocyte-Intrinsic MMP13 Exacerbates Injury-Induced 
+Temporomandibular Joint Osteoarthritis 
+ 
+Cristal S. Yee1,7, Marianne Demirdji1,8, Karsyn N. Bailey3,9, Alena Larios1,10, Christoforos 
+Meliadis1,11, Clarissa Aguirre Luna1,12, Harrison B. Taylor5,13, Peggi M Angel6,14, Sunil 
+Kapila2,15*, Tamara Alliston1,4,16* 
+ 
+1Department of Orthopaedic Surgery, University of California, San Francisco, CA  
+2Section of Orthodontics, School of Dentistry, University of California, Los Angeles, CA 
+3Department of Orthopaedic Surgery, Washington University in St. Louis, St. Louis, MO 
+4National Institute of Arthritis and Musculoskeletal and Skin Diseases, NIH, Bethesda MD 
+5Department of Pharmacology & Immunology, Proteomics Center, Medical University of 
+South Caroline, Charleston, SC 
+6Department of Cell and Molecular Pharmacology and Experimental Therapeutics, Medical 
+University of South Carolina, Charleston, SC 
+7ORCID ID: 0000-0003-2245-4612; cristal.yee@ucsf.edu   
+8mdemirdji@gmail.com  
+9ORCID ID: 0000-0002-0581-2839; karsyn.bailey@wustl.edu  
+10ORCID ID: 0000-0002-5502-1736; allie.larios@gmail.com  
+11ORCID ID: 0000-0002-7612-1816; christoforos.meliadis@ucsf.edu  
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+2
+12ORCID ID: 0009-0003-9140-3509; clarissa.aguirreluna@ucsf.edu  
+13ORCID ID: 0000-0002-0369-789X; taylorha@musc.edu  
+14ORCID ID: 0000-0002-4436-555X; angelp@musc.edu  
+15ORCID ID: 0000-0003-0271-9548; skapila@dentistry.ucla.edu 
+16ORCID ID: 0000-0001-9992-2897; tamara.alliston@nih.gov 
+*Co-Corresponding Authors: 
+ 
+Tamara Alliston, PhD 
+National Institute of Arthritis and Musculoskeletal and Skin Diseases 
+9000 Rockville Pike, MD 20892 
+Bethesda, MD   
+tamara.alliston@nih.gov  
+415-350-2729 
+ORCID ID: 0000-0001-9992-2897 
+Sunil Kapila, BSD, MS, PhD 
+UCLA School of Dentistry 
+10833 Le Conte Ave., Box 951668 
+Los Angeles, CA 90095 
+skapila@dentistry.ucla.edu 
+310-825-4705 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+3
+ORCID ID: 0000-0003-0271-9548  
+ 
+ABSTRACT  
+Objective: Cartilage in the knee and temporomandibular joint (TMJ) rely on subchondral bone 
+for joint homeostasis, whereby osteoarthritis (OA) causes degeneration. In the knee, 
+suppression of osteocytic perilacunocanalicular remodeling drives cartilage degeneration in a 
+destabilization of the medial meniscus model of OA. Given the structural and functional 
+differences between knee and TMJ osteochondral tissues, whether osteocytes also play a causal 
+role in TMJOA remains to be determined. We hypothesize that subchondral bone osteocytes 
+are required for TMJ homeostasis.   
+Method: We evaluated the role of osteocytic MMP13 in the TMJ using 16-week-old mixed 
+FVB and C57BL/6 male mice with osteocyte-intrinsic loss of MMP13 (DMP1-cre+/-
+;MMP13fl/fl). DMP1-cre+/-;MMP13fl/fl or Cre-negative (Control) mice received intraarticular 
+saline or monosodium iodoacetate (MIA) to induce injury. Effects of MMP13-dependent 
+osteocyte dysfunction on TMJ or knee OA were determined by histology and microCT.  
+Results: Unlike baseline differences in knees of DMP1-cre+/-;MMP13fl/fl and Controls, 
+osteocytic MMP13-deficiency had no discernible effects on TMJ cartilage and subchondral 
+bone in the absence of injury. Relative to saline Control, MIA Control mice had cartilage 
+degeneration, with higher modified TMJ Mankin scores (p<0.001; 95%CI [-7.7 to -1.9]). MIA-
+injured Controls also had increased osteocyte lacunar number (p=0.03; 95% CI [-394.2 to -
+14.8]) and a genotype and treatment interaction effect on TRAP stain (p=0.0213;36.04% of 
+total variation).  Contrary to our hypothesis, TMJs of MIA-injured DMP1-cre+/-;MMP13fl/fl 
+mice were protected from cartilage degeneration or subchondral bone changes. Relative to Cre-
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+4
+negative Controls, DMP1-cre+/-;MMP13fl/fl knees showed resistance to injury-induced increase 
+in subchondral bone plate thickness.   
+Conclusion: Despite different roles for osteocytic MMP13 in TMJ and knee, osteocytic 
+MMP13 deficiency protects both joints from injury-dependent effects on subchondral bone.   
+Keywords: Osteocyte, osteoarthritis, temporomandibular joint, perilacuno canalicular 
+remodeling, monosodium iodoacetate, pathogenesis 
+Running headline: Osteocytic MMP13 is required for TMJOA 
+INTRODUCTION 
+Temporomandibular joint osteoarthritis (TMJOA) is a painful condition associated with 
+degeneration of cartilage and other TMJ tissues and often are part of a spectrum of 
+temporomandibular disorders (TMDs) that are strongly linked to comorbidities such as chronic 
+pain, fibromyalgia, depression, anxiety, and suicidal tendencies1, 2. The lack of effective 
+treatments arises from a limited understanding of TMJOA mechanisms and etiopathogenesis. 
+Given our work and that of others3-7 demonstrating the key role of subchondral bone and its 
+component cells, particularly osteocytes in the contributing to OA in appendicular joints via 
+osteochondral interactions, here we investigate the role of subchondral bone in TMJ 
+degeneration, with a focus on osteocytes.    
+Osteocytes are terminally differentiated cells derived from osteoblasts. Embedded within the 
+mineralized bone extracellular matrix (ECM), osteocytes extend dendrites through a prolific 
+lacunocanalicular network (LCN) to retain connectivity with one another, other cell types, and 
+the vasculature8. Since osteocytes comprise >90% of bone cells9, the surrounding LCN 
+represents an enormous surface area that osteocytes actively maintain through the process of 
+perilacunocanalicular remodeling (PLR)10. During PLR, osteocytes secrete proteases, such as 
+MMP2, 13, and 14 and cathepsin K, and acidify their microenvironment to drive resorption of 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+5
+the local bone ECM, which can later be replaced11-15. Through mechanisms that remain 
+incompletely understood, suppression of PLR by aging16, glucocorticoid treatment1, 17, or other 
+pharmacologic or genetic interventions18-20, can compromise osteocyte dendricity, LCN and 
+collagen organization, mineralization and material quality of bone ECM. PLR suppression is 
+sufficient to cause appendicular and craniofacial bone fragility, independently of bone mass. 
+Therefore, control of bone quality through osteocytic PLR complements the control of bone 
+quantity by osteoblasts and osteoclasts to support the mechanical integrity of the skeleton.    
+In addition to a crucial role in bone, osteocytic PLR also supports joint homeostasis. 
+Subchondral bone of osteoarthritic human tibial plateaus possesses several hallmarks of PLR 
+suppression that are not observed in non-arthritic knees3.  Furthermore, osteocyte-intrinsic 
+deletion of MMP13, a critical enzyme required for PLR12, suppresses PLR in subchondral bone 
+and drives degeneration of articular cartilage of the knee3. This study implicates osteocytes in 
+bone-cartilage crosstalk and suggests that changes in subchondral bone may precede articular 
+cartilage degradation3, 12. However, whether subchondral bone osteocytes also support 
+homeostasis and contribute to progression of disease in the TMJ that has distinct differences in 
+tissue composition, organization and function than the knee joint remains to be determined.    
+Here we hypothesis that osteocytic PLR in subchondral bone is required for TMJ homeostasis 
+as it is in the knee joint. To test this hypothesis, we evaluated the TMJ radiographically and 
+histologically in mice with an osteocyte-intrinsic deficit in MMP13, under the DMP1-cre 
+promoter, DMP1-cre+/-;MMP13fl/fl or in their Cre-negative littermate controls. The role of 
+subchondral osteocyte function in response to sham or OA-inducing conditions was compared 
+between the TMJ and the knee. This study expands upon the understanding of osteocytic 
+mechanisms that are shared and those that distinguish OA progression in the TMJ and the knee, 
+highlighting the need to consider joint-specific factors in the development of effective OA  
+therapies.   
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+6
+METHODS 
+Mouse Studies 
+We generated and characterized mice with MMP13-deficient osteocytes as previously 
+described3. Briefly, homozygous MMP13fl/fl mice (JAX stock #005710), on an FVB 
+background, containing loxP sites flanking MMP13 exons 3-5, were mated with hemizygous 
+9.6kb DMP1-cre+/- mice (JAX stock#023047), on a C57BL/6 background, which express Cre 
+recombinase primarily in osteocytes and odontoblasts21, 22. Mice backcrossed at least 7 
+generations were used to generate DMP-Cre-/-;MMP13fl/fl (Control) and DMP1-cre+/-
+;MMP13fl/fl mice, genotypes that were confirmed with PCR of tail biopsy DNA. Mice were 
+housed in groups in a pathogen-free environment with temperature range between 67F-74F, 
+humidity between 30-70%, 12-hr light/dark cycle, free access to water and irradiated standard 
+chow (LabDiet 5058-PicoLab Rodent Diet 20) ad libitum. Animal experiments were approved 
+by the Institutional Animal Care and Use Committee (IACUC) at the University of California, 
+San Francisco.  
+To chemically induce TMJOA, we used an established model of administering monosodium 
+iodoacetate (MIA) known to induce TMJOA within 4-weeks post-MIA treatment on rats23. 
+Briefly, 12-week-old DMP1-cre+/-;MMP13fl/fl and littermate controls (n=6-9 mice/group) male 
+mice were stratified by genotype and blindly assigned randomly for administration of a 10μL 
+intra-articular TMJ injection of either saline or 0.10mg (4mg/kg) of MIA (Sigma I2512) 
+dissolved in saline, as described23. Briefly, a 25-guage 0.625-inch needle was placed parallel 
+to the mouse head in a coronal plane and inserted parallel to and directly inferior to the 
+zygomatic arch and lateral to the mouse molars.  At 4 weeks post-injection, mice were 
+euthanized at skeletally mature 16-weeks of age for collection and analysis of cranial tissues 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+7
+including the mandible.  Post-surgical care, including soft diet, approved by IACUC was 
+followed.   
+OA of the knee was induced using the established meniscal-ligamentous injury (MLI) model24, 
+which results in OA by 8-weeks post-injury. Briefly, 8-week-old male DMP1-cre+/-;MMP13fl/fl 
+mice and littermate controls were randomly assigned into either sham or MLI group (n=6-11 
+mice/group). Bilateral MLI surgery was performed on anesthetized mice as described3, 4. 
+Briefly, under sterile conditions, once an incision of the skin and joint capsule medial to the 
+patella was made, the medial collateral ligament was transected, and the medial meniscus was 
+removed. Sham mice received bilateral incision of the skin without joint capsule disruption, 
+medial collateral ligament transection, or meniscus removal. All incisions were closed with 
+suture and post-surgical care approved by IACUC was followed. Mice were euthanized 8-
+weeks post-injury at skeletally mature 16-weeks of age for collection and analysis of hindlimbs.  
+The sample size of 7 specimens per group was determined by power calculation with 
+alpha=0.05 (2-sided), beta=0.20 an 80% chance of detecting a significant difference (p<0.05); 
+E=0.22-.10=0.12; S=0.08, q1=0.5, q0=0.5, and previous studies3, 23.  Sample size for each assay 
+described below was determined based on previous studies3, 4. The subset of samples allocated 
+to each assay was chosen randomly.  
+Histology  
+The right half of the cranium with right hemi-mandible and TMJ, and the right hindlegs with 
+intact knee joints, were dissected and fixed in 10% neutral buffered formalin (NBF), decalcified 
+in 10% EDTA, and subjected to serial ethanol dehydration and paraffin embedding. The right 
+knee joints were positioned at a 90-degree of flexion in paraffin as previously described3, 4. For 
+the TMJ, the right half of the skull was trimmed parallel to the nasal frontal bone axis along 
+the orbital bone embedded with the joint flush with the cutting surface. Coronal sections of the 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+8
+trimmed right half of the skull and knee joints were generated using a microtome (Leica 
+Microsystems, Buffalo Grove, IL) at 6-7μm thick, followed by standard dewaxing and 
+hydration protocols prior to histological analyses described below. All brightfield images were 
+obtained on a Nikon Eclipse E800 microscope.  
+Safranin-O/Fast Green Stain and OA Scoring  
+For histological assessment of OA, paraffin sections were stained with Safranin-O/Fast Green 
+as previously described3, 4 using a protocol adapted from the University of Rochester25 that 
+incorporates the following modifications: Weigert’s Iron Hematoxylin for 5 minutes, brief 
+rinse in water, differentiation in 1% acid-alcohol solution (1% hydrochloric acid in 70% 
+ethanol), incubation in 0.02% Fast Green for 15 minutes, and staining with 1.0% Safranin-O 
+for 20 minutes.  Stained slides were subsequently dehydrated, cleared, and mounted.  
+For TMJOA scoring, Safranin O/Fast Green-stained sections (n=5-6/group, based on previous 
+studies12, 26) were evaluated using an adaptation to the Modified Mankin Score by three blinded 
+graders. The Modified TMJ Mankin Score was adapted to include additional metrics of 
+subchondral bone, as described in Table 1 and Supplementary Figure 127. The mean score 
+across all graders was calculated for each sample and then averaged within each experimental 
+group. 
+Ploton Silver Nitrate Stain  
+The LCN of the TMJ condyle subchondral bone and the tibial plateau subchondral bone was 
+visualized in paraffin sections (n=5-6/group) stained with Ploton Silver Nitrate stain as 
+previously described3, 28, 29. Briefly, sections were stained in two parts 50% silver nitrate and 
+one part 1% formic acid in 2% gelatin solution for 55 minutes in the dark. Quantitative analysis 
+of the subchondral bone was performed using three high-resolution images (100X) of each 
+TMJ (n=5-6/group, based on previous studies4, 12, 26), and three high-resolution images (100X) 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+9
+on each the medial and the lateral side of the tibial plateau (n=5/group). A blinded grader 
+manually counted lacunae using ImageJ cell counter within a manually contoured bone area to 
+calculate the number of lacunae per total bone area. The mean number of lacunae over total 
+bone area was averaged for each animal and then averaged within each experimental group.  
+Analysis of Collagen Fiber Orientation by Picrosirius Red Stain  
+Polarized light microscopy was conducted on paraffin-embedded sections of the TMJ, stained 
+with a saturated aqueous solution containing picric acid (Cat# P6744, Sigma-Aldrich, St. Louis, 
+MO) and 0.1% Sirius red (Cat# 365548, Sigma-Aldrich, St. Louis, MO) as previously 
+described30. During microscopy, polarized filters were adjusted to maximize birefringence 
+before capturing images. In a uniform region of interest in the middle of the subchondral TMJ 
+(n=5/group, based on previous studies12), birefringence was quantified using OrientationJ, an 
+ImageJ plug-in, by blinded graders, as described31. For each sample, collagen orientation 
+angles were graphed with the mean maximum peak value set to 0 degrees, and the full width 
+at half maximum (FWHM) was calculated. 
+Tartrate-resistant acid phosphatase stain 
+The tartrate-resistant acid phosphatase (TRAP) Leukocyte Acid Phosphatase staining kit 
+(Sigma cat#387) was used to evaluate bone resorption activity in the TMJ with the following 
+slight modifications to the manufacturer’s instructions as previously described26. Briefly, 
+deparaffinized and rehydrated sections were post-fixed for 30 seconds in Fixative Solution, 
+rinsed in water, and incubated with a mixture of Fast Red Violet (Sigma cat#F3381) and Fast 
+Garnet GBC Base Solution for 1 hour and 15 minutes at 37ºC in the dark. Stained slides were 
+rinsed in water and counterstained with 0.02% Fast Green (Sigma cat# F3381) and mounted. 
+Bright field 20X images (n=1-3 images/TMJ; n=4 TMJs/group, based on previous studies12, 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+10 
+26), were analyzed by a blinded grader using TrapHisto Software analysis to assess percent 
+Osteoclast Surface over Bone Surface (Oc.S/BS)32. 
+Immunohistochemistry (IHC)/Immunofluorescence (IF) analysis of PLR enzyme 
+expression  
+Immunohistochemistry (IHC) was performed on paraffin sections using Innovex Universal 
+Animal Immunohistochemistry Kit (329ANK) to spatially examine Cathepsin K (CTSK) 
+expression and MMP13 expression was evaluated using immunofluorescence (IF). For IHC, 
+after slides were deparaffinized and rehydrated, blocking with Fc-Block and Background 
+Buster for 45 minutes each at room temperature was completed prior to incubation with 
+primary antibody in PBS (anti-CTSK, 1:75, Abcam ab19027) at 4°C overnight. Secondary 
+linking antibody and HRP-enzyme incubations were performed for 10 minutes each at room 
+temperature, followed by incubation with fresh DAB solution for 5 minutes at room 
+temperature.  Slides were mounted with Innovex Advantage aqueous mounting medium.  
+Using 40X images of the subchondral bone (n=2-3 images/sample) and cartilage (n=4-6 
+images/sample) per sample (n=5/group, based on previous studies3, 4, 12, 18, 33), a blinded grader 
+thresholded images in ImageJ to determine the % positive stain relative to tissue area. The 
+average % positive stain relative to tissue area was averaged for each animal and then averaged 
+within each experimental group.  
+For IF, deparaffinized and rehydrated sections were incubated with Unitrieve at 60°C for 30 
+minutes for antigen retrieval, rinsed in water, blocked with Background Buster at room 
+temperature for 1 hour, incubated with PBS/0.1% Tween for 5 minutes, and incubated with 
+primary antibody in PBS/0.1%Tween/5%BSA (anti-MMP13 1.67:100, Proteintech 18165-1-
+AP or Rabbit IgG 0.6:100, Abcam ab172730) overnight. The next day, after washes in PBS, 
+secondary goat anti-rabbit antibody conjugated to Alexa Fluor Plus 594 (1:1000, Invitrogen 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+11 
+A32740) was incubated for 1 hour, rinsed in PBS washes, and mounted with Prolong Gold 
+antifade with DAPI.  
+Immunofluorescence images were obtained on a Leica DM2500B with X-cite 120 LED 
+microscope using standardized exposure and brightness for all 40X images (n=4-6 
+images/TMJ, with n=4-6 TMJs/treatment group, based on previous studies3, 4, 12, 18, 33). Percent 
+MMP13-positive stain was quantified by a blinded grader using ImageJ by thresholding gray-
+scale images derived from red-channel images, after normalizing to average percent MMP13-
+positive stain in Rabbit IgG-stained samples.   
+Micro-computed tomography (CT) analysis of subchondral bone 
+The TMJ skeletal phenotype was analyzed by micro-computed tomography. The left TMJ was 
+fixed in 10% NBF and stored in 70% ethanol for scanning at the University of Michigan School 
+of Dentistry’s μCT Core (funded in part by NIH/NCRR S10RR026475-01). Specimens were 
+placed in a 19mm diameter holder and scanned over the entire width of the mandible using a 
+μCT system (µCT100 Scanco Medical, Bassersdorf, Switzerland). Scan settings were as 
+follows: voxel size 12µm, 70kVp, 114µA, 0.5mm AL filter, and an integration time of 
+500ms.  Analysis was performed by a blinded grader using the manufacturer’s software to 
+isolate the articular surface of the condyle, and a fixed global threshold of 20% (200 on a 
+grayscale of 0–1000) was used to segment bone from non-bone (n=3-4/group, based on a 
+previous study23).  
+The knee skeletal phenotype was analyzed by scanning the left femur at the University of 
+California, San Francisco Core Center for Musculoskeletal Biology and Medicine Skeletal 
+Biology and Biomechanics Core using a Scanco μCT50 specimen scanner. A 4-mm region was 
+scanned with the following settings: voxel size 10um, 55kVp, 109μA, and integration time of 
+500ms. Femoral subchondral bone plate (SBP) thickness was contoured by a blinded reviewer 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+12 
+in sagittal μCT images as described4. Briefly, circles of diameter 750μm were placed on a 
+grayscale 3D thickness map on the center of each knee quadrant (lateral anterior, medial 
+anterior, lateral posterior, medial posterior), and mean pixel intensity was measured and 
+converted to SBP thickness in μm (n=10 mice/group, based on previous studies4, 12, 26). 
+Representative grayscale images were converted to pseudocolor in the figures.  
+Statistical Analysis and Data Management 
+Sample size was determined by power calculation with alpha=0.05 (2-sided), beta=0.20 an 
+80% chance of detecting a significant difference (p<0.05); E=0.22-.10=0.12; S=0.08, q1=0.5, 
+q0=0.5, and previous studies3, 23. Comparisons between two groups were tested with unpaired 
+two-tailed Student’s t-test. Comparisons between MIA-treated/MLI-injury and genotype in 
+mice were tested with two-way ANOVA with post-hoc Tukey using GraphPad Prism 
+(GraphPad Software version 10) and statistical significance required a p<0.05 compared with 
+respective controls. All data are represented as mean + standard deviation (SD). The number 
+of samples per group is denoted as “n”. The full report of the statistical analyses for each assay 
+is in the Supplementary Excel file. 
+RESULTS 
+Establishment of a Monosodium Iodoacetate (MIA) Injury Model to Induce TMJOA in 
+Mice 
+MIA as a model of inducing OA has been previously established in the knee and TMJ of rats 
+and mice34, 35 23, 36 and has been used to study pain and behavior outcomes associated with OA 
+as this model mimics OA pain in humans37. MIA blocks glycolysis by inhibiting 
+glyceraldehyde-3-phosphate dehydrogenase38 and can induce several hallmarks of OA, 
+including chondrocyte death, cartilage degeneration, osteophyte formation, and synovial 
+hyperplasia39. Therefore, we used the MIA model to study the role of osteocytes in mouse 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+13 
+TMJOA. After pilot studies testing MIA dose and duration in mice (data not shown), we found 
+that 4-weeks post-injection of 0.10mg of MIA provides reproducible results and is sufficient 
+to induce cartilage loss that mimics TMJOA as assessed in Safranin-O/Fast Green staining 
+(Fig.1). TMJOA was graded histologically using a Modified TMJ Mankin score27 that 
+incorporates 2 additional metrics, subchondral bone deterioration and demarcation between 
+cartilage and subchondral bone that are specific to the TMJ (Table 1, Supplemental Figure 1). 
+Protective Role of Osteocytic MMP13-Deficiency against MIA-Induced TMJOA 
+Intra-articular administration of MIA induced TMJ degeneration in Cre-negative control mice 
+(Fig.1), which showed significantly higher scores for loss of background staining (p=0.02; 
+95%CI [-2.8 to -0.2]) (Fig.1C), poorly demarcated cartilage (p=0.001; 95%CI [-1.3 to -0.3]) 
+(Fig.1D), enhanced chondrocyte periphery staining (p=0.02; 95%CI [-1.4 to -0.1]) (Fig.1E), 
+and altered chondrocyte spatial arrangement with diffuse hypocellularity (p<0.001; 95%CI [-
+2.9 to -0.8]) (Fig.1F) relative to saline controls. Collectively, these changes contribute to an 
+overall increase in the Modified TMJ Mankin score in the MIA-treated control group compared 
+to saline-treated controls (p<0.001; 95%CI [-7.7 to -1.9]) (Fig.1B), confirming that MIA 
+injection reproducibly and robustly induces TMJOA.  
+The TMJs of saline-injected DMP1-cre+/-;MMP13fl/fl mice did not show any differences in 
+histologic features or any Modified TMJ Mankin score parameters from saline-injected Cre-
+negative controls.  The lack of a baseline TMJOA phenotype in DMP1-cre+/-;MMP13fl/fl mice 
+was unexpected, since DMP1-cre+/-;MMP13fl/fl mice show baseline OA of the knee relative to 
+their Cre-negative controls3. Furthermore, unexpectedly, MIA treatment did not induce OA in 
+the TMJ of DMP1-cre+/-;MMP13fl/fl mice, as it does in controls. Neither the overall Modified 
+TMJ Mankin scores of any of its component subcategories showed significant effects of MIA, 
+relative to saline-injection, on the TMJ of DMP1-cre+/-;MMP13fl/fl mice (Fig.1B-F). This, 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+14 
+together with the OA phenotypic changes modulated by MIA in Cre-negative mice, suggests 
+that reduction of osteocytic MMP13 protects the TMJ from MIA-induced OA.  
+Osteocytic MMP13-Deficiency Prevents Injury-induced Changes in Osteocyte Density 
+but Collagen Organization Remains Unchanged  
+Since changes in subchondral bone can precede changes in the cartilage3, 4, we examined the 
+LCN in the subchondral region of the TMJ histologically using Ploton silver stain (Fig.2A). 
+Relative to saline-injected TMJs, MIA administrations significantly increased the number of 
+lacunae per bone area (p=0.03; 95%CI [-394.2 to -14.8]) (Fig.2B) in Cre-negative controls, 
+suggesting that MIA treatment alters LCN homeostasis. In contrast, MIA-treated DMP1-cre+/-
+;MMP13fl/fl mice did not change osteocyte density (Fig.2B), suggesting that the reduction in 
+osteocyte-intrinsic MMP13 protects LCN homeostasis from the adverse effects of MIA-
+treatment.  
+Since osteocyte dysfunction and PLR suppression can be associated with collagen 
+disorganization, including in DMP1-cre+/-;MMP13fl/fl long bone3, we evaluated the structural 
+orientation of the collagen fibers within the TMJ condyle in picrosirius red stained sections 
+(Fig.2C). Relative to the saline-treated control TMJ, we identified a nonsignificant trend of 
+decreased collagen organization in MIA-treated control groups (Fig.2E). Collagen organization 
+(Fig.2D), maximum distribution of orientation (Fig.2E), and full width half maximum 
+(FWHW) (Fig.2F) were largely unchanged across all groups. These results were surprising 
+since disruptive collagen organization was observed in knees from DMP1-cre+/-;MMP13fl/fl 
+mice3, indicating that while changes in collagen orientation is highly dynamic, osteocytic 
+MMP13’s role in regulating collagen organization is also region dependent. Cumulatively, 
+these findings show that osteocytic MMP13-deficiency protects the TMJ from adverse effects 
+of MIA on cartilage and subchondral bone LCN, but collagen organization remains unaffected.  
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+15 
+Maintenance of Subchondral Bone Remodeling Following Injury in the DMP1-cre+/-
+;MMP13fl/fl TMJ is Independent of Cathepsin K.  
+During PLR, osteocytes secrete enzymes such as MMPs and cathepsin K (CTSK) to execute 
+local resorption of the perilacunar and pericanalicular bone matrix. Given that osteocyte density 
+in the DMP1-cre+/-;MMP13fl/fl TMJ subchondral bone was unaltered by MIA, we examined 
+bone resorption activity via TRAP stain (Fig.3A) in conjunction with the expression of PLR 
+enzyme CTSK using IHC (Fig.3D). A modestly elevated TRAP staining and percent osteoclast 
+surface over bone surface (Oc.S/BS) appeared in the TMJ subchondral regions of MIA-injected 
+controls compared to saline-treated Cre-negative controls (Fig.3A-B). Similarly, relative to 
+saline-treated Cre-negative controls, MIA-treated controls showed a trending increase in 
+percent Oc.S/BS throughout the TMJ, and a nonsignificant increase in CTSK-positive cells in 
+both the TMJ articular cartilage and subchondral bone (Fig. 3D-G). This mildly elevated CTSK 
+and elevated bone resorption upon MIA-treatment may contribute to the TMJOA progression 
+as observed with elevated Modified Mankin Score. 
+Basal DMP1-cre+/-;MMP13fl/fl mice also had a nonsignificant increase in % Oc.S/BS (Fig.3A-
+B) and unaltered CTSK-positive stain (Fig.3D-G); however, % Oc.S/BS was significantly 
+decreased with MIA-treatment (p=0.03; 95%CI [1.9 to 46.9]) (Fig.3A-B) while CTSK-positive 
+stain remained unaltered with MIA-treatment (Fig.3D-G). Further statistical analysis revealed 
+a significant MIA-treatment and genotype interaction effect (p=0.0087; 41.1% of total 
+variation) (Fig.3C). This shows that in DMP1-cre+/-;MMP13fl/fl mice, bone resorption is 
+uncoupled from cartilage degeneration in TMJOA and is unaffected in the presence of MIA-
+treatment, consistent with observations that MIA induces TMJOA in an osteocytic MMP13-
+dependent manner (Fig.3-D).  
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+16 
+Reduced Osteocytic-MMP13 expression in DMP1-cre+/-;MMP13fl/fl is maintained in 
+MIA-induced TMJOA.  
+To confirm the effects of TMJOA from suppressed MMP13 in osteocytes, we conducted IF 
+targeting MMP13, which is visually identified in red in contrast to a Rabbit IgG negative 
+control (Fig.4A). As expected, results reveal a significant reduction in osteocytic MMP13 in 
+saline DMP1-cre+/-;MMP13fl/fl TMJs compared to saline Controls (subchondral bone: p=0.01; 
+95%CI 1.5 to 15.0]) (Fig.4B-E). Surprisingly, MIA-treated Controls also have significantly 
+reduced MMP13 expression in both cartilage (p=0.05; 95%CI 0.03 to 12.1]) and subchondral 
+bone (p=0.04; 95%CI 0.4 to 12.7]), suggesting a more complex role of MMP13 in TMJOA that 
+is inherently different from that of the knee.  
+TMJ Subchondral Bone Mineralization is Unaffected by MIA Treatment 
+We have observed that MIA induces changes to the articular surface and LCN homeostasis in 
+the TMJ, and that osteocytic MMP13-deficiency protects against these changes. To determine 
+the effect of these conditions on subchondral bone quality, TMJs were evaluated using 
+microCT (Fig.5, Supplementary Table 1). MicroCT showed no effects of MIA treatment on 
+the TMJ, regardless of the genotype (Fig.5B-I). For all bone parameters, including bone 
+mineral density (BMD), bone volume fraction (BV/TV), connectivity (Conn) density, 
+trabecular number (Tb.N), tissue mineral density (TMD), trabecular thickness (Tb.Th), 
+trabecular spacing (Tb.Sp), and structural model index (SMI) (Fig.5B-I), no discernible 
+differences were detected across genotype or treatment. 
+Injury Protective Effect of Osteocytic MMP13-Deficiency on Subchondral Bone  
+While TMJ phenotypes of saline-injected Cre-negative control and DMP1-cre+/-;MMP13fl/fl 
+mice were identical, DMP1-cre+/-;MMP13fl/fl knees had more severe OA at baseline than Cre-
+negative controls3. However, it is unclear whether DMP1-cre+/-;MMP13fl/fl knees also differed 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+17 
+from the DMP1-cre+/-;MMP13fl/fl TMJ in their protection from injury-induced OA.  In our prior 
+studies, surgical injury to DMP1-cre+/-;MMP13fl/fl knees exacerbated the loss of subchondral 
+bone osteocyte canalicular length, but had no effect on knee Mankin score or subchondral 
+trabecular bone volume3.  Therefore, we further examined the effect of injury on DMP1-cre+/-
+;MMP13fl/fl knees radiographically and histologically. Consistent with prior reports4, 40, MLI of 
+the knee significantly increases SBP thickness in the femur of Cre-negative control mice 
+(Fig.6A), with the most profound effects on the injured medial side (anterior: p=0.01; 95%CI 
+[-64.8 to -5.8], posterior: p<0.0001; 95%CI [-76.7 to -25.2]) (Fig.6D,E). Notably, SBP 
+thickness was resistant to injury in DMP1-cre+/-;MMP13fl/fl knees (Fig.6A-E). The lateral side 
+of the knee showed no significant differences in any condition (Fig.6A-C). We further 
+examined the effect of knee injury on osteocyte lacunar density and found a mild increase in 
+injured DMP1-cre+/-;MMP13fl/fl knees, but overall no significant differences based on genotype 
+or injury status (Fig.6F-G). Therefore, despite differences in baseline DMP1-cre+/-;MMP13fl/fl 
+knee and TMJOA phenotypes, both joints show some protection from injury-induced OA in 
+the setting of osteocytic MMP13-deficiency.  
+DISCUSSION 
+In this study, we investigated whether osteocytic MMP13 plays a causal role in the progression 
+of joint degeneration of the TMJ, as it does in the knee3. We previously reported that osteocytic 
+deficiency in MMP13, an enzyme required for PLR12, is sufficient to cause cartilage 
+degeneration in the knee. In contrast, we found that the TMJ of DMP1-cre+/-;MMP13fl/fl mice 
+did not differ from Cre-negative controls in baseline saline-injected conditions, suggesting that 
+the homeostatic effects of osteocytic MMP13 are joint-specific.  Although MIA-induced TMJ 
+injury of Cre-negative control mice caused degeneration of TMJ cartilage and some changes 
+in subchondral bone (e.g. increased lacunae density of the LCN), MIA-injected DMP1-cre+/-
+;MMP13fl/fl mice show no significant changes in cartilage, LCN, collagen organization, TRAP 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+18 
+or CTSK expression when compared with their Cre-negative saline or MIA-challenged 
+littermates. Comparing these findings with those of injured knees shows that DMP1-cre+/-
+;MMP13fl/fl SBP is also resistant to injury-induced changes. Although ablation of osteocytic 
+MMP13 prevented the MIA-dependent increase in TMJ lacunar density, no significant 
+differences were observed in knee joint lacunar density. This was unexpected since we 
+previously reported shortened canalicular length and altered collagen organization in DMP1-
+cre+/-;MMP13fl/fl knees3, suggesting that lacunar density and canalicular length are regulated 
+independently in a joint-specific and/or injury-specific manner. Therefore, this study concludes 
+that for both the TMJ and the knee, osteocytic MMP13-deficiency protects against thickening 
+of subchondral bone in response to joint injury.   
+The loss of cellularity in the MIA-treated TMJ articular cartilage prompted unbiased MALDI-
+MSI analysis of the TMJ to track changes in chondrocyte differentiation and ECM remodeling 
+(Supplemental Fig.2). Application of MALDI-MSI to bone and other mineralized tissues is 
+technically challenging. Indeed, poor adhesion of demineralized TMJ tissue to the slides limits 
+our ability to make quantitative conclusions.  Nonetheless, analysis of 1 TMJ for each of the 4 
+conditions in this study identifies the 6 most abundant proteins detected by MALDI-MSI,  
+including collagen alpha-1(I) (COL1A1, 65%) and collagen alpha-1(II) (COL1A2, 24.7%), 
+with lesser amounts of collagen alpha-1(III) (COL3A1), aggrecan (ACAN), elastin (ELN), 
+elastin microfibril interfacer 1 (EMILIN-1) (Supplemental Fig.2A). Structural features in the 
+photomicrograph (Supplemental Fig.2B) aid in visualizing the heuristic proteomic 
+segmentation of the top 6 peptides, revealing qualitative differences between the vehicle and 
+MIA-treated groups (Supplemental Fig.2C). Segmentation of 2 peptides, COL1A1 domain 
+[572-583] (Supplemental Fig.2D) and COL1A2 domain [565-582] (Supplemental Fig.2E), 
+distinguish the TMJ condyle in MIA-treated from vehicle-treated groups and may also 
+correspond to genotype-dependent differences in TMJOA. The ECM proteins that appear to be 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+19 
+enriched in MIA-induced TMJOA have been implicated in other proteomic studies of OA, with 
+increased COL1A1, COL3A1, and ACAN during OA progression in humans41, 42 and horse43. 
+Although conclusions are limited by low sample size, these encouraging results motivate the 
+development of custom TMJ peptide libraries to identify and track protein localization 
+throughout the progression of TMJOA.   
+Our results suggest that the role of osteocytic MMP13 is region-dependent. The TMJ and knee 
+joints differ molecularly, structurally, and functionally. These differences occur during 
+development, as cells derived from cranial neural crest form the TMJ via intramembranous 
+formation, whereas mandibular condyle forms through endochondral ossification44-46. The 
+anatomy of fully developed joints supports unique functional and mechanical demands, such 
+that the meniscus in the knee joint manages compressive loading in locomotion47, 48, and the 
+TMJ articular disc manages shear forces during for eating and speech44, 49, 50. The articular 
+cartilage of the knee joint is composed of hyaline cartilage consisting of collagen type II, in 
+contrast to fibrocartilage consisting of collagen type I covering the TMJ44. Finally, as opposed 
+to the primary function as articular cartilage in the knee joint distinct from the epiphyseal 
+growth plate, the TMJ condylar cartilage served both as a hybrid articular and growth site. 
+Here, we observe no effect of osteocytic MMP13 on collagen organization in TMJ subchondral 
+bone, unlike the knees. At baseline, knees of DMP1-cre+/-;MMP13fl/fl mice show more joint 
+degeneration relative to their Cre-negative littermates, but DMP1-cre+/-;MMP13fl/fl TMJ tissues 
+are intact. These differences in baseline TMJ and knee joint mechanics and cartilage 
+composition may propagate to differences in OA progression at each site.  Despite the apparent 
+reduction in MMP13 in MIA-treated control TMJs, our data suggest that osteocytic MMP13 is 
+not necessary for TMJ homeostasis but is necessary to drive TMJOA. Indeed, we observe that 
+osteocytic MMP13-deficiency protects from MIA-induced OA in the TMJ, but exacerbates 
+knee OA3.  The current studies on the role of osteocytic MMP13 in joint homeostasis adds 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+20 
+cellular and molecular detail to our understanding of mechanisms responsible for differences 
+between the TMJ and the knee. Nonetheless, additional research will be needed to understand 
+the joint-specific effects of osteocytic MMP13. 
+With respect to bone/cartilage crosstalk, alterations in the subchondral bone can contribute to 
+secondary changes in the cartilage and perpetuation of OA52-54, 55. Although ablation of 
+MMP13 in osteocytes was confirmed by IF in our DMP1-cre+/-;MMP13fl/fl model (Fig.4), the 
+significant downregulation of MMP13 expression in the condylar cartilage of DMP1-cre+/-
+;MMP13fl/fl was unexpected, as we previously reported unaltered MMP13 expression in knee 
+articular cartilage of these mice3. Our data indicate no evidence that chondrocyte differentiation 
+is the underlying driver of TMJOA differences observed; however, MIA does induce 
+chondrocyte apoptosis51. The low levels of MMP13 in the condyle cartilage may be a secondary 
+effect of osteocyte-specific ablation of MMP13, or off-target effects of DMP1-cre in the 
+mandibular condyle chondrocytes. Among possible mechanisms, avascular knee cartilage may 
+be more dependent on an intact LCN to provide indirect vascular support across the robust 
+bone/cartilage interface in the knee.  If so, LCN degeneration due to PLR suppression in 
+DMP1-cre+/-;MMP13fl/fl subchondral bone may contribute to cartilage degeneration in the 
+knee3. On the other hand, the more integrated bone/cartilage interface of the TMJ may allow 
+subchondral vasculature to support the avascular TMJ cartilage, independently of osteocytic 
+PLR suppression and LCN integrity. The unique bone/cartilage interfaces of the TMJ and knee 
+may also contribute to joint-specific differences in inflammatory biomarkers, such as cartilage 
+oligomeric matrix protein (COMP) and prostaglandin E2 (PGE2), in human synovial fluid from 
+TMJ or knee OA patients56,57.  Permeability studies are needed to test this hypothesis, using 
+animal models that replicate healthy and diseased joint crosstalk to evaluate transport across 
+the bone/cartilage interface in TMJ and knee joints58.  
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+21 
+To induce OA in the TMJ, in this study we injected monosodium iodoacetate (MIA) into the 
+mouse TMJ. MIA causes OA by inducing chondrocyte death51, in contrast to the surgery-
+induced MLI-injury model of OA in the knee. Despite these differences, DMP1-cre+/-
+;MMP13fl/fl mouse knee and TMJs resisted the injury-induced cartilage degeneration and other 
+changes observed in their Cre-negative littermate controls. The increased osteocyte number, 
+elevated TRAP, and modest CTSK expression in MIA-treated control TMJs may contribute to 
+cartilage degeneration, whereas the lack of change in DMP1-cre+/-;MMP13fl/fl TMJs may 
+preserve joint homeostasis even following MIA. Although MIA-treatment of rats and mice has 
+been shown to induce lesions in TMJ cartilage and bone23, 36, microCT assessment revealed no 
+TMJ subchondral bone changes across any group in this study. Differences in the TMJ bone 
+response to MIA-treatment may be due to species or background strain-specific responses, 
+MIA dosage, or differences in the microCT region of interest, since subchondral bone was 
+evaluated in this study, rather than the entire TMJ condyle.  
+It is well known that mesenchymal progenitor cell-derived MMP13 negatively regulates bone 
+mass, with the absence of MMP13 in limb mesenchymal cells resulting in increased bone 
+mass59 while, chondrocytic MMP13 contributes to cartilage degradation and inhibiting 
+MMP13 reduces osteoarthritis progression60, 61, however, the role of osteocytic MMP13 in 
+TMJOA remains unknown, which the current study aims to address. Although the definitive 
+mechanism of how osteocytic MMP13 exacerbates TMJOA remains unclear, possible 
+mechanisms may involve spatial regulation of MMP13 expression and activity, integrity or 
+porosity of the cartilage/subchondral bone interface, or differences in shear or compression 
+loading between the TMJ and the knee, since MMP13 expression is mechanically responsive47, 
+48. This novel study reveals osteocytic-MMP13 as a potential therapeutic target to mitigate 
+TMJOA; however, further studies are required to uncover the responsible cellular mechanism.  
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+22 
+By investigating osteocytic MMP13 in the TMJ and in the knee, this study further supports a 
+role for subchondral bone osteocytes in joint homeostasis and in the progression of OA in both 
+the knee and TMJ. The role of osteocytic MMP13 in regulating joint homeostasis is distinct in 
+the knee and TMJ in baseline conditions, but in both cases, the loss of osteocytic MMP13 
+mitigates the severity of injury-induced OA in these joints. Specifically in the TMJ, osteocytic 
+MMP13-deficiency may protect against MIA-induced cartilage degeneration, LCN, and 
+elevated osteocytic CTSK and TRAP expression.  
+We recognize some limitations in this study. Although microCT settings were optimized for 
+each joint, the TMJ may require a higher resolution scan, such as synchrotron-generated CT, 
+to increase sensitivity. Though power analysis was based on prior studies3, 4, 12, 18, 23, 26, 33; a 
+larger sample size will further improve the ability to discriminate the effect of each variable on 
+the subchondral bone phenotype and understand its relationship to the LCN in the TMJ and the 
+knee. This study was powered to detect significant osteocyte MMP-13-dependent differences 
+in the effects of MIA-induced injury on TMJ degeneration (Fig.1B) and osteocyte lacunar 
+number (Fig.2B), but additional statistical power is needed to identify peptides with MMP-13 
+and injury-dependent differences in expression levels or localization (Supplemental Fig.2B). 
+While further examination is needed, this study advances a better understanding of TMJ 
+cartilage and subchondral bone interactions in the progression of TMJOA.  
+ACKNOWLEDGEMENTS 
+The authors gratefully acknowledge Michelle Lynch from the MicroCT Core at the University 
+of Michigan School of Dentistry for microtomography assistance, and Reyna Villa for 
+histological staining and imaging. Proteomic analysis was performed at the Mass Spectrometry 
+Facility, a University Shared Research Resource at the Medical University of South Carolina. 
+AUTHOR CONTRIBUTIONS 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+23 
+Cristal S. Yee: analysis and interpretation of the data, drafting of the article, technical support, 
+collection and assembly of data 
+Marianne Demirdji: analysis and interpretation of the data, collection and assembly of data, 
+TMJ MIA model development and characterization 
+Karsyn N. Bailey: analysis and interpretation of the data, collection and assembly of data 
+Alena Larios: analysis and interpretation of the data, collection and assembly of data 
+Christoforos Meliadis: analysis and interpretation of the data, collection and assembly of data 
+Clarissa Aguirre Luna: analysis and interpretation of the data, collection and assembly of data 
+Harrison B. Taylor: analysis and interpretation of the data, collection and assembly of data 
+Peggi M Angel: analysis and interpretation of the data, collection and assembly of data 
+Sunil Kapila: analysis and interpretation of the data, conception and design, critical revision of 
+the article for important intellectual content, final approval of the article, obtaining of funding 
+Tamara Alliston: analysis and interpretation of the data, conception and design, critical revision 
+of the article for important intellectual content, final approval of the article, obtaining of 
+funding 
+ROLE OF THE FUNDING SOURCE 
+This research was supported by the Biomedical Research Award (Burstone-Indiana 
+Biomechanics Award) from the American Association of Orthodontists Foundation (AAOF), 
+the NIH NIAMS P30 AR075055, NIH NIDCR R01 DE01928-11A1, NIH NCRR S10 
+RR026475-01, and NIH NIDCR R34 DE033595. Proteomic analysis was supported through 
+the NIH shared instrumentation grant program (NIH/NIGMS and NIH/OD S10D030212). 
+CONFLICT OF INTEREST 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+24 
+The authors do not have any conflict of interest to disclose.  
+REFERENCES  
+1. 
+Fowler TW, Acevedo C, Mazur CM, Hall-Glenn F, Fields AJ, Bale HA, et al. 
+Glucocorticoid suppression of osteocyte perilacunar remodeling is associated with 
+subchondral bone degeneration in osteonecrosis. Sci Rep 2017; 7: 44618. 
+2. 
+Cheatle MD, Wasser T, Foster C, Olugbodi A, Bryan J. Prevalence of suicidal ideation 
+in patients with chronic non-cancer pain referred to a behaviorally based pain program. 
+Pain Physician 2014; 17: E359-367. 
+3. 
+Mazur CM, Woo JJ, Yee CS, Fields AJ, Acevedo C, Bailey KN, et al. Osteocyte 
+dysfunction promotes osteoarthritis through MMP13-dependent suppression of 
+subchondral bone homeostasis. Bone Res 2019; 7: 34. 
+4. 
+Bailey KN, Nguyen J, Yee CS, Dole NS, Dang A, Alliston T. Mechanosensitive Control 
+of Articular Cartilage and Subchondral Bone Homeostasis in Mice Requires Osteocytic 
+Transforming Growth Factor beta Signaling. Arthritis Rheumatol 2021; 73: 414-425. 
+5. 
+Muratovic D, Findlay DM, Quinn MJ, Quarrington RD, Solomon LB, Atkins GJ. 
+Microstructural and cellular characterisation of the subchondral trabecular bone in 
+human knee and hip osteoarthritis using synchrotron tomography. Osteoarthritis 
+Cartilage 2023; 31: 1224-1233. 
+6. 
+Delsmann J, Eissele J, Simon A, Alimy AR, von Kroge S, Mushumba H, et al. 
+Alterations in compositional and cellular properties of the subchondral bone are linked 
+to cartilage degeneration in hip osteoarthritis. Osteoarthritis Cartilage 2024; 32: 535-
+547. 
+7. 
+Jaiprakash A, Prasadam I, Feng JQ, Liu Y, Crawford R, Xiao Y. Phenotypic 
+characterization of osteoarthritic osteocytes from the sclerotic zones: a possible 
+pathological role in subchondral bone sclerosis. Int J Biol Sci 2012; 8: 406-417. 
+8. 
+Bonewald LF. The amazing osteocyte. J Bone Miner Res 2011; 26: 229-238. 
+9. 
+Buenzli PR, Sims NA. Quantifying the osteocyte network in the human skeleton. Bone 
+2015; 75: 144-150. 
+10. 
+Yee CS, Schurman CA, White CR, Alliston T. Investigating Osteocytic 
+Perilacunar/Canalicular Remodeling. Curr Osteoporos Rep 2019; 17: 157-168. 
+11. 
+Qing H, Ardeshirpour L, Pajevic PD, Dusevich V, Jahn K, Kato S, et al. Demonstration 
+of osteocytic perilacunar/canalicular remodeling in mice during lactation. J Bone Miner 
+Res 2012; 27: 1018-1029. 
+12. 
+Tang SY, Herber RP, Ho SP, Alliston T. Matrix metalloproteinase-13 is required for 
+osteocytic perilacunar remodeling and maintains bone fracture resistance. J Bone Miner 
+Res 2012; 27: 1936-1950. 
+13. 
+Inoue K, Mikuni-Takagaki Y, Oikawa K, Itoh T, Inada M, Noguchi T, et al. A crucial 
+role for matrix metalloproteinase 2 in osteocytic canalicular formation and bone 
+metabolism. J Biol Chem 2006; 281: 33814-33824. 
+14. 
+Delgado-Calle J, Hancock B, Likine EF, Sato AY, McAndrews K, Sanudo C, et al. 
+MMP14 is a novel target of PTH signaling in osteocytes that controls resorption by 
+regulating soluble RANKL production. FASEB J 2018; 32: 2878-2890. 
+15. 
+Prideaux M, Findlay DM, Atkins GJ. Osteocytes: The master cells in bone remodelling. 
+Curr Opin Pharmacol 2016; 28: 24-30. 
+16. 
+Schurman CA, Kaya S, Dole N, Luna NMM, Castillo N, Potter R, et al. Aging impairs 
+the osteocytic regulation of collagen integrity and bone quality. Bone Res 2024; 12: 13. 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+25 
+17. 
+Alemi AS, Mazur CM, Fowler TW, Woo JJ, Knott PD, Alliston T. Glucocorticoids 
+cause mandibular bone fragility and suppress osteocyte perilacunar-canalicular 
+remodeling. Bone Rep 2018; 9: 145-153. 
+18. 
+Dole NS, Mazur CM, Acevedo C, Lopez JP, Monteiro DA, Fowler TW, et al. 
+Osteocyte-Intrinsic 
+TGF-beta 
+Signaling 
+Regulates 
+Bone 
+Quality 
+through 
+Perilacunar/Canalicular Remodeling. Cell Rep 2017; 21: 2585-2596. 
+19. 
+Kobayashi K, Nojiri H, Saita Y, Morikawa D, Ozawa Y, Watanabe K, et al. 
+Mitochondrial superoxide in osteocytes perturbs canalicular networks in the setting of 
+age-related osteoporosis. Sci Rep 2015; 5: 9148. 
+20. 
+Kegelman CD, Coulombe JC, Jordan KM, Horan DJ, Qin L, Robling AG, et al. YAP 
+and TAZ Mediate Osteocyte Perilacunar/Canalicular Remodeling. J Bone Miner Res 
+2020; 35: 196-210. 
+21. 
+Stickens D, Behonick DJ, Ortega N, Heyer B, Hartenstein B, Yu Y, et al. Altered 
+endochondral bone development in matrix metalloproteinase 13-deficient mice. 
+Development 2004; 131: 5883-5895. 
+22. 
+Lu Y, Xie Y, Zhang S, Dusevich V, Bonewald LF, Feng JQ. DMP1-targeted Cre 
+expression in odontoblasts and osteocytes. J Dent Res 2007; 86: 320-325. 
+23. 
+Wang XD, Kou XX, He DQ, Zeng MM, Meng Z, Bi RY, et al. Progression of cartilage 
+degradation, bone resorption and pain in rat temporomandibular joint osteoarthritis 
+induced by injection of iodoacetate. PLoS One 2012; 7: e45036. 
+24. 
+Kamekura S, Hoshi K, Shimoaka T, Chung U, Chikuda H, Yamada T, et al. 
+Osteoarthritis development in novel experimental mouse models induced by knee joint 
+instability. Osteoarthritis Cartilage 2005; 13: 632-641. 
+25. 
+Safranin O/Fast Green Stain for Cartilage. University of Rochester Center for 
+Musculoskeletal Research 2017. 
+26. 
+Yee CS, Meliadis C, Kaya S, Chang W, Alliston T. The osteocytic actions of 
+glucocorticoids on bone mass, mechanical properties, or perilacunar remodeling 
+outcomes are not rescued by PTH(1-34). Front Endocrinol (Lausanne) 2024; 15: 
+1342938. 
+27. 
+Matias EM, Mecham DK, Black CS, Graf JW, Steel SD, Wilhelm SK, et al. 
+Malocclusion model of temporomandibular joint osteoarthritis in mice with and without 
+receptor for advanced glycation end products. Arch Oral Biol 2016; 69: 47-62. 
+28. 
+Jauregui EJ, Akil O, Acevedo C, Hall-Glenn F, Tsai BS, Bale HA, et al. Parallel 
+mechanisms suppress cochlear bone remodeling to protect hearing. Bone 2016; 89: 7-
+15. 
+29. 
+Ploton D, Menager M, Jeannesson P, Himber G, Pigeon F, Adnet JJ. Improvement in 
+the staining and in the visualization of the argyrophilic proteins of the nucleolar 
+organizer region at the optical level. Histochem J 1986; 18: 5-14. 
+30. 
+Montes GS, Junqueira LC. The use of the Picrosirius-polarization method for the study 
+of the biopathology of collagen. Mem Inst Oswaldo Cruz 1991; 86 Suppl 3: 1-11. 
+31. 
+Rezakhaniha R, Agianniotis A, Schrauwen JT, Griffa A, Sage D, Bouten CV, et al. 
+Experimental investigation of collagen waviness and orientation in the arterial 
+adventitia using confocal laser scanning microscopy. Biomech Model Mechanobiol 
+2012; 11: 461-473. 
+32. 
+van 't Hof RJ, Rose L, Bassonga E, Daroszewska A. Open source software for semi-
+automated histomorphometry of bone resorption and formation parameters. Bone 2017; 
+99: 69-79. 
+33. 
+Dole NS, Yee CS, Mazur CM, Acevedo C, Alliston T. TGFbeta Regulation of 
+Perilacunar/Canalicular Remodeling Is Sexually Dimorphic. J Bone Miner Res 2020; 
+35: 1549-1561. 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+26 
+34. 
+Pitcher T, Sousa-Valente J, Malcangio M. The Monoiodoacetate Model of 
+Osteoarthritis Pain in the Mouse. J Vis Exp 2016. 
+35. 
+Guingamp C, Gegout-Pottie P, Philippe L, Terlain B, Netter P, Gillet P. Mono-
+iodoacetate-induced experimental osteoarthritis: a dose-response study of loss of 
+mobility, morphology, and biochemistry. Arthritis Rheum 1997; 40: 1670-1679. 
+36. 
+Xiao M, Hu Z, Jiang H, Li C, Guo H, Fang W, et al. The expression of Netrin-1 in the 
+MIA-induced osteoarthritic temporomandibular joint in mice. Sci Rep 2021; 11: 15695. 
+37. 
+Combe R, Bramwell S, Field MJ. The monosodium iodoacetate model of osteoarthritis: 
+a model of chronic nociceptive pain in rats? Neurosci Lett 2004; 370: 236-240. 
+38. 
+Sabri MI, Ochs S. Inhibition of glyceraldehyde-3-phosphate dehydrogenase in 
+mammalian nerve by iodoacetic acid. J Neurochem 1971; 18: 1509-1514. 
+39. 
+van der Kraan PM, Vitters EL, van de Putte LB, van den Berg WB. Development of 
+osteoarthritic lesions in mice by "metabolic" and "mechanical" alterations in the knee 
+joints. Am J Pathol 1989; 135: 1001-1014. 
+40. 
+Jia H, Ma X, Wei Y, Tong W, Tower RJ, Chandra A, et al. Loading-Induced Reduction 
+in Sclerostin as a Mechanism of Subchondral Bone Plate Sclerosis in Mouse Knee 
+Joints During Late-Stage Osteoarthritis. Arthritis Rheumatol 2018; 70: 230-241. 
+41. 
+Schurman CA, Bons J, Woo JJ, Yee C, Tao N, Alliston T, et al. Tissue and Extracellular 
+Matrix Remodeling of the Subchondral Bone during Osteoarthritis of Knee Joints as 
+revealed by Spatial Mass Spectrometry Imaging. bioRxiv 2025. 
+42. 
+Cillero-Pastor B, Eijkel GB, Kiss A, Blanco FJ, Heeren RM. Matrix-assisted laser 
+desorption ionization-imaging mass spectrometry: a new methodology to study human 
+osteoarthritic cartilage. Arthritis Rheum 2013; 65: 710-720. 
+43. 
+Peffers MJ, Cillero-Pastor B, Eijkel GB, Clegg PD, Heeren RM. Matrix assisted laser 
+desorption ionization mass spectrometry imaging identifies markers of ageing and 
+osteoarthritic cartilage. Arthritis Res Ther 2014; 16: R110. 
+44. 
+Zhao Y, An Y, Zhou L, Wu F, Wu G, Wang J, et al. Animal Models of 
+Temporomandibular Joint Osteoarthritis: Classification and Selection. Front Physiol 
+2022; 13: 859517. 
+45. 
+Shen G, Darendeliler MA. The adaptive remodeling of condylar cartilage---a transition 
+from chondrogenesis to osteogenesis. J Dent Res 2005; 84: 691-699. 
+46. 
+Berendsen AD, Olsen BR. Bone development. Bone 2015; 80: 14-18. 
+47. 
+Bielajew BJ, Donahue RP, Espinosa MG, Arzi B, Wang D, Hatcher DC, et al. Knee 
+orthopedics as a template for the temporomandibular joint. Cell Rep Med 2021; 2: 
+100241. 
+48. 
+Juran CM, Dolwick MF, McFetridge PS. Shear mechanics of the TMJ disc: relationship 
+to common clinical observations. J Dent Res 2013; 92: 193-198. 
+49. 
+Yang B, Li X, Fu C, Cai W, Meng B, Qu Y, et al. Extracellular vesicles in osteoarthritis 
+of peripheral joint and temporomandibular joint. Front Endocrinol (Lausanne) 2023; 
+14: 1158744. 
+50. 
+Suzuki A, Iwata J. Mouse genetic models for temporomandibular joint development 
+and disorders. Oral Dis 2016; 22: 33-38. 
+51. 
+Lorenz J, Grassel S. Experimental osteoarthritis models in mice. Methods Mol Biol 
+2014; 1194: 401-419. 
+52. 
+Bellido M, Lugo L, Roman-Blas JA, Castaneda S, Caeiro JR, Dapia S, et al. 
+Subchondral bone microstructural damage by increased remodelling aggravates 
+experimental osteoarthritis preceded by osteoporosis. Arthritis Res Ther 2010; 12: 
+R152. 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+27 
+53. 
+Zhu S, Chen K, Lan Y, Zhang N, Jiang R, Hu J. Alendronate protects against articular 
+cartilage erosion by inhibiting subchondral bone loss in ovariectomized rats. Bone 
+2013; 53: 340-349. 
+54. 
+Karsdal MA, Madsen SH, Christiansen C, Henriksen K, Fosang AJ, Sondergaard BC. 
+Cartilage degradation is fully reversible in the presence of aggrecanase but not matrix 
+metalloproteinase activity. Arthritis Res Ther 2008; 10: R63. 
+55. 
+Shi J, Lee S, Pan HC, Mohammad A, Lin A, Guo W, et al. Association of Condylar 
+Bone Quality with TMJ Osteoarthritis. J Dent Res 2017; 96: 888-894. 
+56. 
+Vos LM, Kuijer R, Huddleston Slater JJ, Bulstra SK, Stegenga B. Inflammation is more 
+distinct in temporomandibular joint osteoarthritis compared to the knee joint. J Oral 
+Maxillofac Surg 2014; 72: 35-40. 
+57. 
+Nazet U, Neubert P, Schatz V, Grassel S, Proff P, Jantsch J, et al. Differential gene 
+expression response of synovial fibroblasts from temporomandibular joints and knee 
+joints to dynamic tensile stress. J Orofac Orthop 2022; 83: 361-375. 
+58. 
+Pan J, Wang B, Li W, Zhou X, Scherr T, Yang Y, et al. Elevated cross-talk between 
+subchondral bone and cartilage in osteoarthritic joints. Bone 2012; 51: 212-217. 
+59. 
+Ponte F, Kim HN, Warren A, Iyer S, Han L, Mannen E, et al. Mmp13 deletion in 
+mesenchymal cells increases bone mass and may attenuate the cortical bone loss caused 
+by estrogen deficiency. Sci Rep 2022; 12: 10257. 
+60. 
+Little CB, Barai A, Burkhardt D, Smith SM, Fosang AJ, Werb Z, et al. Matrix 
+metalloproteinase 13-deficient mice are resistant to osteoarthritic cartilage erosion but 
+not chondrocyte hypertrophy or osteophyte development. Arthritis Rheum 2009; 60: 
+3723-3733. 
+61. 
+Wang M, Sampson ER, Jin H, Li J, Ke QH, Im HJ, et al. MMP13 is a critical target 
+gene during the progression of osteoarthritis. Arthritis Res Ther 2013; 15: R5. 
+62. 
+Clift CL, Drake RR, Mehta A, Angel PM. Multiplexed imaging mass spectrometry of 
+the extracellular matrix using serial enzyme digests from formalin-fixed paraffin-
+embedded tissue sections. Anal Bioanal Chem 2021; 413: 2709-2719. 
+63. 
+Angel PM, Mehta A, Norris-Caneda K, Drake RR. MALDI Imaging Mass 
+Spectrometry of N-glycans and Tryptic Peptides from the Same Formalin-Fixed, 
+Paraffin-Embedded Tissue Section. Methods Mol Biol 2018; 1788: 225-241. 
+64. 
+Angel PM, Comte-Walters S, Ball LE, Talbot K, Mehta A, Brockbank KGM, et al. 
+Mapping Extracellular Matrix Proteins in Formalin-Fixed, Paraffin-Embedded Tissues 
+by MALDI Imaging Mass Spectrometry. J Proteome Res 2018; 17: 635-646. 
+65. 
+Angel PM, Baldwin HS, Gottlieb Sen D, Su YR, Mayer JE, Bichell D, et al. Advances 
+in MALDI imaging mass spectrometry of proteins in cardiac tissue, including the heart 
+valve. Biochim Biophys Acta Proteins Proteom 2017; 1865: 927-935. 
+ 
+ 
+DATA AVAILABILITY STATEMENT 
+The datasets generated for this study are included in the article/Supplementary Materials. 
+Further inquiries can be directed to the corresponding authors.   
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+28 
+ 
+DISCLAIMER 
+This research was supported in part by the Intramural Research Program of the National 
+Institutes of Health (NIH). The contributions of the NIH author were made as part of their 
+official duties as NIH federal employees, are in compliance with agency policy requirements, 
+and are considered Works of the United States Government. However, the findings and 
+conclusions presented in this paper are those of the authors and do not necessarily reflect the 
+views of the NIH or the U.S. Department of Health and Human Services. 
+FIGURE LEGENDS 
+Figure 1. Osteocyte deficiency of MMP13 protects the TMJ from MIA-induced joint 
+degeneration. Safranin O / Fast Green stain on TMJs (n=5-6) shows loss of proteoglycan 
+staining (red) in the cartilage, a hallmark of cartilage degeneration, in MIA-treated control, but 
+not in DMP1-cre+/-;MMP13fl/fl mice (A, 40X, scale bar = 130µm). Baseline TMJ phenotypes 
+between the two saline-treated genotypes shows no differences in Modified TMJ Mankin 
+Scores (B-F). Although MIA significantly increases all variables comprising the Modified TMJ 
+Mankin Score (C-F) and the total score in Cre-negative control cohorts (B), DMP1-cre+/-
+;MMP13fl/fl mice do not show any MIA-induced changes in Modified TMJ Mankin Scores (B-
+F), revealing protection of cartilage in the DMP1-cre+/-;MMP13fl/fl mice. Data are presented as 
+mean + SD. Statistically significant differences (p<0.05) were determined by two-way 
+ANOVA with post-hoc Tukey.  
+Figure 2. Osteocytic MMP13-Deficiency Prevents Injury-induced Changes to TMJ 
+Subchondral Bone LCN without Altering Collagen Organization. LCN are visualized by 
+Ploton Silver Stain of the TMJ (n=5-6) (A, 100X, scale bar = 30µm). Lacunar density in the 
+TMJ condyle is significantly higher in MIA-treated Cre-negative mice compared to saline 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+29 
+controls, but is unaffected by MIA in the DMP1-cre+/-;MMP13fl/fl TMJ (B). Collagen 
+orientation in the subchondral TMJ was visualized from Picrosirius Red Stain (C) and analysis 
+of collagen organization (D), maximum distribution of orientation (E), and full width half 
+maximum (FWHM) (D) were unaltered in all groups (n=5) (40X, scale bar = 80µm). Data are 
+presented as mean + SD. Statistically significant differences (p<0.05) were determined by two-
+way ANOVA with post-hoc Tukey. 
+Figure 3. Maintenance of Bone Resorption and Cathepsin K expression following injury 
+in the DMP1-cre+/-;MMP13fl/fl TMJ. TRAP staining shows resorption activity (A, N=4, 20X, 
+scale bar = 200µm) primarily in the subchondral bone regions. The effect of MIA on TRAP 
+activity, evaluated as the percentage of osteoclast surface over bone surface (Oc.S/BS), in Cre-
+negative control mice is opposite that in DMP1-cre+/-;MMP13fl/fl TMJs (B) with ANOVA 
+results indicating a significant genotype and treatment interaction effect (C). IHC using anti-
+cathepsin K (CTSK) shows increased CTSK intensity (D, N=5, 40X, scale bar = 100µm) and 
+trends of increased CTSK-positive staining overall, and in articular cartilage and in 
+subchondral bone regions of MIA-treated Cre-negative control mice (E-G). Basal levels of 
+CTSK expression are maintained in DMP1-cre+/-;MMP13fl/fl TMJs treated with MIA (E-G). 
+Data are presented as mean + SD. Statistically significant differences (p<0.05) were determined 
+by two-way ANOVA with post-hoc Tukey. 
+Figure 4. Osteocytic MMP13 expression is reduced in MIA-induced TMJOA. 
+Immunofluorescence on TMJ sections using negative control (Rabbit IgG) (A, 20X, scale bar 
+= 100µm; a1, 40X, scale bar = 100µm) or anti-MMP13 (B, 40X, scale bar = 100µm). The 
+dotted white line indicates the borderline between the cartilage and subchondral bone. Results 
+show total MMP13 expression (C), which includes cartilage (D) and subchondral bone (E) 
+regions of the TMJ. While MIA-treated Control mice had decreased MMP13 expression (C), 
+MMP13 levels in MIA-treated DMP1-cre+/-;MMP13fl/fl did not change from DMP1-cre+/-
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+30 
+;MMP13fl/fl basal levels (C-E). Data are presented as mean + SD. Statistically significant 
+differences (p<0.05) were determined by two-way ANOVA with post-hoc Tukey. 
+Figure 5. TMJ Subchondral Bone is Unaffected by MIA Treatment. µCT was used to 
+generate and quantify 3D reconstructed images of the TMJ condyle surface (A, scale bar = 
+200µm), revealing that MIA-treatment does not affect the subchondral bone of the TMJ in the 
+presence or absence of osteocyte-specific MMP13 (B-I). No changes across genotype and 
+treatment groups are observed in any bone parameters (n=4-5/group): bone mineral density 
+(BMD) (B), bone volume fraction (BV/TV) (C), connectivity density (Conn Density) (D), 
+trabecular number (Tb. N) (E), tissue mineral density (TMD) (F), trabecular thickness (Tb.Th) 
+(G), trabecular spacing (Tb.Sp) (H), and structural model index (SMI) (I). Data are presented 
+as mean + SD. Statistically significant differences (p<0.05) were determined by two-way 
+ANOVA with post-hoc Tukey. 
+Figure 6. Osteocytic MMP13-deficiency Prevents Injury-Induced Knee SBP Thickening. 
+Cre-negative control mice with MLI-injury show thicker SBP in the injured medial region as 
+visualized by 3D reconstructed images of the femoral knee (A, scale bar = 200µm) and verified 
+quantitatively (n=10-11) (D,E). However, osteocytic MMP13-deficiency mitigates injury-
+induced SBP thickening (D,E). No difference in SBP thickness in the lateral side is observed 
+(B,C). LCN visualized by Ploton Silver Stain of knee subchondral bone (n=5) (F) (100X, scale 
+bar = 30µm) shows no significant effects on lacunar density due to genotype or injury (n=6) 
+(G). Data are presented as mean + SD. Statistically significant differences (p<0.05) were 
+determined by two-way ANOVA with post-hoc Tukey. 
+Table 1: Modified Mankin Score to quantify TMJOA.  
+1. Cartilage 
+Erosion 
+Presence of an intact, eroded, and/or fibrillation on the surface of 
+the condylar cartilage. 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+31 
+a. Smooth non-eroded cartilage 
+0 
+b. Rough non-eroded cartilage 
+1 
+c. Superficial fibrillation 
+2 
+d. Separation of uncalcified from calcified cartilage 
+3 
+e. Erosion of uncalcified cartilage only 
+4 
+f. Erosion extending into calcified cartilage 
+5 
+g. Erosion down to subchondral bone 
+6 
+2. Chondrocyte 
+periphery 
+staining 
+Intensity in Safranin O stain in the surrounding region of the 
+chondrocytes.  
+a. Normal 
+0 
+b. Slightly enhanced 
+1 
+c. Intensely enhanced 
+2 
+3. Spatial 
+arrangement of 
+chondrocytes 
+Diffuse hypercellularity was noted as a clear increase in the general 
+number of chondrocytes, while clustering was agreed upon as three 
+or more cells congregated together. Hypocellularity was chosen when 
+the cartilage had areas lacking any chondrocytes.  
+a. Normal 
+0 
+b. Diffuse hypercellularity 
+1 
+c. Clustering 
+2 
+d. Hypocellularity 
+3 
+4. Background 
+Staining 
+Intensity 
+Intensity of the counterstain, Fast Green.  
+ 
+a. Normal 
+0 
+b. Slight reduction 
+1 
+c. Moderate reduction 
+2 
+d. Severe reduction 
+3 
+e. No dye noted 
+4 
+5. Subchondral 
+bone 
+deterioration 
+Anatomy of the subchondral bone as identified with Fast 
+Green staining adjacent to the cartilage (Safranin O stain) to 
+observe erosion and sclerotic changes.   
+ 
+a. Normal 
+0 
+b. Local bone defect: single/superficial 
+1 
+c. Local bone defect: multiple/single deep 
+2 
+d. Bone sclerosis 
+3 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+32 
+6. Demarcation 
+The boundary between the cartilage and the subchondral bone. 
+Examples of a well-demarcated versus a vaguely demarcated 
+one are shown below. The sample that is not demarcated has 
+finger-like projections from the cartilage infiltrating into the 
+bone. 
+ 
+a. No 
+0 
+b. Yes 
+1 
+ 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+33 
+ 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+34 
+ 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+35 
+ 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+36 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+37 
+ 
+Journal Pre-proof
+Osteocyte-Intrinsic MMP13 Exacerbates MIA-Induced TMJOA 
+ 
+38 
+ 
+ 
+Journal Pre-proof

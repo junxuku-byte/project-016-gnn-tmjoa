@@ -1,0 +1,758 @@
+82
+Abstract: This study evaluated the long-term effec-
+tiveness of intra-articular temporomandibular joint 
+arthrocentesis for patients with osteoarthritis and 
+compared arthrocentesis/lavage alone with arthro-
+centesis/lavage and injected hyaluronic acid. Forty 
+patients met the inclusion criteria, and 37 completed 
+long-term follow-up (approximately 4 years). The 
+patients were randomly allocated to two groups: 
+arthrocentesis with lavage alone (A-group, n = 17) or 
+combined with hyaluronic acid treatment (AS-group, 
+n = 20). Standard two-needle arthrocentesis was 
+performed. Pain and joint sounds were measured at 
+baseline and approximately 4 years after treatment. 
+Reported pain, as indicated by visual analogue scale 
+(VAS) score, significantly decreased from baseline to 
+the final follow-up examination in both groups. Mean 
+VAS score decreased from 64 to 16 (P < 0.001) in the 
+A-group and from 63 to 25 (P < 0.001) in the AS-group. 
+Average maximum incisor opening increased signifi-
+cantly in both groups but did not significantly differ 
+between groups (P = 0.223). Joint sounds did not 
+significantly improve within groups (A-group, P = 
+0.495; AS-group, P = 0.236). Both methods resulted in 
+significant long-term improvements in pain and jaw 
+function.
+Keywords: temporomandibular joint disorder; 
+arthrocentesis; intra-articular injections; 
+hyaluronic acid.
+Introduction
+Symptomatic derangement of the temporomandibular 
+joint (TMJ) affects approximately 10% of the popula-
+tion, is more frequent in females, and increases in 
+incidence with age (1,2). TMJ conditions may severely 
+impair quality of life and can be challenging to treat (3). 
+Osteoarthritis (OA) is a degenerative joint disease that 
+destroys articular cartilage and bone, and is the most 
+common condition affecting the TMJ (4). Individuals 
+with OA of the TMJ experience restricted jaw movement, 
+joint sounds (clicking, crepitation), and pain of varying 
+intensity. Inflammation is the most important cause 
+of TMJ-related pain, and substantial concentrations 
+of inflammatory mediators such as interleukins (IL-1, 
+IL-2, IL-6), tumor necrosis factor alpha, and cytotoxins 
+have been found in the synovial fluid of patients with 
+various types of arthritis (5,6). OA of the TMJ can be 
+treated clinically with invasive procedures (arthroscopy, 
+arthrocentesis, lavage, and hyaluronic acid [HA]) or 
+corticosteroid injections) or noninvasive procedures 
+(splints, massage, exercise, and medication).
+Arthrocentesis is a simple, minimally invasive tech-
+nique that flushes out inflammatory mediators from the 
+superior joint space and disrupts adhesions within the 
+joint. It was found to decrease intra-articular pain and 
+joint sounds and increase mouth opening (7,8). Arthro-
+centesis can be performed under local anesthesia by 
+means of standard two-needle technique and joint lavage 
+with physiological solution or Ringer’s solution. Further-
+Journal of Oral Science, Vol. 61, No. 1, 82-88, 2019
+Original
+Long-term effectiveness of arthrocentesis with and without 
+hyaluronic acid injection for treatment of  
+temporomandibular joint osteoarthritis
+Sara Bergstrand1), Hanne K Ingstad1), Anne Møystad2), and Tore Bjørnland1)
+1)Department of Oral Surgery and Oral Medicine, Faculty of Dentistry, University of Oslo, Oslo, Norway
+2)Institute of Clinical Dentistry, Faculty of Dentistry, University of Oslo, Oslo, Norway
+(Received November 6, 2017; Accepted February 22, 2018)
+Correspondence to Dr. Tore Bjørnland, Department of Oral 
+Surgery and Oral Medicine, Institute for Clinical Dentistry, 
+University of Oslo, Box 1109 Blindern, Oslo N-0371, Norway
+Fax: +47-2285-2341, E-mail: tore.bjornland@odont.uio.no
+J-STAGE Advance Publication: February 28, 2019
+Color figures can be viewed in the online issue at J-STAGE.
+doi.org/10.2334/josnusd.17-0423
+DN/JST.JSTAGE/josnusd/17-0423
+83
+more, arthrocentesis is much more easily tolerated than 
+other surgical methods (e.g., open TMJ surgery) (9).
+HA is a polysaccharide of low, medium, or high 
+molecular weight and has been used successfully as 
+a TMJ injection, to reduce inflammation and restore 
+normal lubrication (4). Injected HA was significantly 
+more effective than injected corticosteroids in decreasing 
+pain intensity in OA of the TMJ (4). Similarly, Ungor et 
+al. (10) concluded that HA injection in combination with 
+arthrocentesis had promising effects on pain and TMJ 
+function.
+The short-term effects of intra-articular treatment 
+with arthrocentesis have been evaluated in patients with 
+OA (11,12) and disc displacement (13,14); however, 
+few studies have investigated the long-term effects 
+of combined arthrocentesis/lavage and HA injection 
+in patients with TMJ disorders (10). No studies have 
+examined the long-term effects of arthrocentesis and 
+compared its effects with or without HA injection into the 
+TMJ in patients with OA. This study therefore evaluated 
+the long-term effects of arthrocentesis/lavage with and 
+without injected HA in patients with OA of the TMJ. 
+Materials and Methods
+Study site, randomization, and patients
+The Regional Committees for Medical and Health 
+Research Ethics of Norway (S-09323a) approved this 
+randomized, blinded, prospective study. The participants 
+were recruited from consecutive patients with a diagnosis 
+of OA, as defined by the Research Diagnostic Criteria 
+for Temporomandibular Disorders (RDC/TMD), (15) 
+who were admitted to the Department of Oral Surgery 
+and Oral Medicine of the University of Oslo. Inclu-
+sion criteria were OA in one or both TMJs, with pain 
+or reduced jaw function, and radiographic evidence of 
+OA, including erosions, flattening, and sclerosis of the 
+condyle or articulating fossa. Panoramic radiographs 
+were obtained for all 40 patients, and computed tomog-
+raphy (CT) and/or magnetic resonance (MR) images 
+were additionally used if there was an indication (12 
+patients had Orthopantomogram (OPG) and CT images, 
+4 patients had OPG and MR images, and 3 patients had 
+OPG, CT, and MR images). Exclusion criteria were 
+a history of general arthritis or other connective tissue 
+disease, immunosuppressive treatment, any organ 
+disease, pregnancy or lactation, allergy or hypersensi-
+tivity to eggs, feathers, avian proteins, or chicken, or a 
+history of intra-articular injection into the TMJ during 
+the previous 12 months. Conservative therapies such as 
+patient education, nonsteroidal anti-inflammatory drugs, 
+physiotherapy, and occlusal splints were attempted in all 
+patients before their enrollment in this study. 
+All patients provided written informed consent to 
+participate in the study and were advised that they could 
+withdraw at any time. If a patient had bilateral TMJ 
+symptoms, the more severely affected side was studied, 
+to avoid statistically complicated corrections of within-
+patient correlation. Forty patients were included in the 
+study and treated with single side-arthrocentesis with 
+lavage in the TMJ. The 40 patients were randomly allo-
+cated to two groups. One group received arthrocentesis 
+with lavage, and the other group received arthrocentesis 
+with lavage and an additional injection of HA (Synvisc, 
+Genzyme Co., Ridgefield, NJ, USA; Fig. 1). All patients 
+were instructed on how to maintain a soft-diet regimen 
+for 14 days and were encouraged to practice self-assisted 
+physical therapy for as long as needed.
+Before the study started, 40 sealed envelopes were 
+placed in a box: 20 contained a paper marked “AS”, for 
+Synvisc (Genzyme Co.), and 20 contained a paper marked 
+“A”, for arthrocentesis with lavage. The envelopes were 
+mixed together. When a patient arrived for treatment, a 
+sealed envelope was drawn from the box and opened to 
+determine the treatment.
+Of the 40 patients, 37 completed the study (Fig. 1). 
+The mean duration of follow-up after treatment for these 
+37 patients was 47 months (range, 25-79 months). The 
+baseline (pre-treatment) characteristics of the patients in 
+each treatment group are shown in Table 1. Mean patient 
+age was 51 years (range, 23-83 years).
+Assessment of baseline jaw function included 
+maximum incisor opening, lateral function on both sides, 
+and protrusion of the lower jaw. Pain symptoms were 
+evaluated at baseline with a visual analogue scale (VAS) 
+from 0 to 100, where 0 was no pain and 100 was the 
+worst imaginable pain. Pain localization was recorded 
+as the TMJ or masticatory musculature. Sounds from the 
+Fig. 1   CONSORT diagram showing flow of patients through the 
+study.
+84
+affected jaw, such as clicking or crepitation, were noted. 
+The contralateral TMJ was also examined for pain and 
+jaw sounds. The mean VAS score and maximum opening 
+at baseline are shown in Table 1. 
+Arthrocentesis procedure and follow-up
+All 37 patients were treated with arthrocentesis and 
+lavage, and 20 additionally received an injection of 
+Synvisc (Genzyme Co.). After disinfection of the pre-
+auricular area, 1 mL of Carbocaine 30 mg/mL (Dentsply 
+Ltd., Surrey, England) local anesthesia was injected 
+through the skin to the TMJ capsule. Standard two-needle 
+technique arthrocentesis was performed as previously 
+described (9) with joint lavage with Ringer’s solution 
+(Fig. 2). An envelope was opened and, if so indicated, 
+the participant received an approximately 1-mL intra-
+articular injection of Synvisc (Genzyme Co.) with fixed 
+needles. After the procedure, patients were instructed to 
+eat soft food, reduce jaw function for 1 week, and use 
+paracetamol (up to 500 mg three times daily), if needed. 
+The patients underwent regular postoperative follow-up 
+during the first year. The final follow-up examination 
+was performed at least 2 years postoperatively. This 
+study was double-blinded: neither the patient nor the 
+dentist performing long-term follow-up was aware of the 
+patient’s treatment status. 
+Statistical methods
+Statistical analyses were performed with SPSS version 
+22 for Mac (IBM Co., New York, NY, USA) The 
+paired t-test was used for continuous variables, and the 
+Wilcoxon matched pairs test was used for ordinal scale 
+variables. Between-group comparisons were done with 
+the two-sample t-test, Mann-Whitney test, and Wilcoxon 
+signed rank test (in accordance with the measuring scale 
+of the analyzed variable). All tests were carried out with a 
+confidence interval of 95%, and a P value of 0.05 or less 
+was considered to indicate statistical significance. 
+Results
+The groups did not significantly differ with respect to 
+mean age, baseline maximum incisor opening, baseline 
+VAS score, or mean duration of TMJ symptoms. The 
+only significant difference was the number of men in the 
+A-group (Table 1).
+Jaw movement
+There was an overall improvement in jaw movement from 
+baseline to the final examination. Average maximum 
+incisor opening increased significantly from baseline to 
+the final examination in both groups, but the difference 
+between groups was not significant (P = 0.223; Table 
+2). Maximum incisor opening at baseline and at the final 
+examination are shown in Table 2. The mean increase 
+from baseline to final examination was 5 mm (P = 0.009) 
+in the AS-group and 6 mm (P = 0.007) in the A-group.
+Analysis of lateral and contralateral excursion showed 
+that jaw function from baseline to final examination 
+increased in both groups but did not significantly 
+differ within or between groups (Table 3). Protrusion 
+slightly increased from baseline to final examination 
+in the AS-group and slightly decreased in the A-group; 
+however, the differences were not significant (Table 3). 
+Interestingly, mean jaw protrusion increased from 6.0 
+mm at baseline to 7.2 mm at the 6-month follow-up 
+examination in the AS-group and from 6.1 to 6.9 mm in 
+the A-group. 
+Assessment of pain
+In both the AS-group and A-group, reported pain signifi-
+cantly decreased from the pre-treatment examination to 
+the final examination (Table 4). There were no significant 
+Table 1  Baseline characteristics of patients who completed 
+long-term follow-up (n = 37) after arthrocentesis with 
+lavage and Synvisc (Genzyme Co.) injection (AS-group) or 
+arthrocentesis with lavage alone (A-group).
+AS-group
+A-group
+patients (n)
+20
+17
+females/males (n)
+19/1
+11/6*
+mean age, years (±SD**)
+47 ± 15.7
+55 ± 14.5
+mean maximum  
+incisor opening (mm)
+34
+37
+mean VAS*** score (0-100)
+63
+64
+mean duration of TMJ  
+symptoms in months (±SD)
+64.2 ± 49.2
+63.5 ± 72.6
+*There were significantly more men in the A-group (P < 0.02).
+** SD = standard deviation.
+*** VAS = visual analogue scale.
+Fig. 2   Arthrocentesis and needle placement in the right TMJ 
+of a 53-year-old woman with osteoarthritis.
+85
+differences between the groups. Mean VAS score at base-
+line was 63 in the AS-group and 64 in the A-group. Mean 
+VAS score progressively decreased in both groups at each 
+follow-up examination (Table 4). VAS score was signifi-
+cantly lower at the final examination than at baseline in 
+both groups: 25 (P < 0.001) in the AS-group and 16 (P < 
+0.001) in the A-group. In the AS-group, 17 patients had a 
+lower VAS score, one had the same VAS score (80), and 
+two had higher VAS scores (5 and 43 points). VAS score 
+in the AS-group ranged from 40 to 100 (median, 58.5; 
+mean, 63.0) at baseline and from 0 to 94 (median, 17; 
+mean, 25.3) at the final examination. In the A-group, 15 
+patients had lower VAS scores, but two had higher VAS 
+scores (4 and 3 points). VAS score in the A-group ranged 
+from 15 to 100 (median, 70; mean, 63.7) at baseline and 
+from 0 to 79 (median, 9; mean, 16.3) at the final exami-
+nation. Change in VAS score did not significantly differ 
+between groups (P = 0.276). Table 4 shows the results of 
+the 6-month follow-up examination, for comparison of 
+change in VAS score and other variables after a shorter 
+duration of follow-up. 
+Table 2  Maximum incisor opening, in mm (±SD), at baseline and the final examination (FFU).
+treatment
+baseline 
+mean
+baseline
+median
+baseline
+range
+FFU
+mean
+FFU
+median
+FFU
+range
+change 
+mean
+P-value
+AS-group 
+ (n = 20)
+34 (±10)
+34
+17-50
+39 (±8)
+41
+23-51
+5 (±8)
+0.009*
+A-group 
+(n  = 17)
+37 (±10)
+35
+25-57
+43 (±8)
+40
+34-61
+6 (±8)
+0.007**
+between group 
+comparison 
+0.223***
+* Significant increase in mean maximum incisor opening in AS-group from baseline to the FFU.
+** Significant increase in mean maximum incisor opening in A-group from baseline to the FFU.
+*** No significant difference in increase in mean maximum incisor opening between the AS-group and A-group.
+Table 3  Lateral excursion, contralateral excursion, and protrusion values, in mm (±SD), measured at baseline and the 
+final examination (FFU) in the AS-group (arthrocentesis with lavage and Synvisc injection, Genzyme Co.) and A-group 
+(arthrocentesis with lavage alone).
+AS-group
+A-group
+baseline
+mean
+baseline 
+range
+FFU
+mean
+FFU 
+range
+baseline
+mean
+baseline 
+range
+FFU
+mean
+FFU 
+range
+lateral excursion  
+to affected side 
+7.6 (±3.3)
+1-14
+9.0 (±2.5)
+5-14
+7.5 (±3.5)
+3-15
+9.3 (±2.9)
+4-14
+contralateral  
+excursion
+7.2 (±2.7)
+3-13
+8.7 (±3.0)
+3-14
+6.7 (±2.7)
+2-12
+8.4 (±3.2)
+2-14
+protrusion 
+6.0 (±1.5)
+4-9
+6.1 (±2.8)
+0-10
+6.1 (±1.7)
+3-9
+5.8 (±2.4)
+0-10
+Table 4  Mean visual analogue scale (VAS), in mm where 0 indicates no pain and 100 the worst imaginable pain, pain 
+localisation and joint sounds, measured at baseline (before treatment), at 6-months follow up and at the final follow 
+(FFU) up in the AS-group (arthrocentesis with lavage and injection with Synvisc (Genzyme Co.) and in the A-group 
+(arthrocentesis with lavage alone). Number of patients (n).
+AS-group
+A-group
+baseline
+6 m
+FFU
+baseline
+6 m
+FFU
+VAS (±S.D)
+63 (±16.6)
+40 (±14.5)
+25 (±27.4)*
+64 (±24.8)
+29 (±32.3)
+16 (±20.5)**
+Pain localisation (n)
+   no pain
+0
+6
+8
+0
+11
+8
+   TMJ + musculature
+15
+7
+5
+12
+6
+8
+   TMJ 
+5
+6
+7
+5
+0
+1
+Joint sounds (n)
+   no sound
+6
+9
+7
+6
+11
+6
+   clicking
+2
+1
+2
+1
+0
+5
+   crepitation
+7
+8
+9
+8
+3
+2
+   click+crepitation
+5
+1
+2
+2
+3
+4
+* Significant decrease of VAS-score from before the treatment (baseline) to the final follow-up in the AS-group (P < 0.001).
+** Significant decrease of VAS-score from before the treatment (baseline) to the final follow-up in the AS-group (P < 0.001).
+86
+Pain localization 
+Pain in the TMJ and musculature significantly decreased 
+from baseline to the final examination in both groups (P 
+= 0.008; Table 4). No patient was free of pain at baseline 
+(Table 4). At baseline, 15 patients in the AS-group had 
+pain in the TMJ and musculature; at the final examina-
+tion, four reported the same pain localization (TMJ and 
+musculature), six had less pain in the TMJ only, and five 
+had no pain. At baseline, five patients had pain in the TMJ 
+only; at the final examination, one reported no change 
+in pain localization (TMJ only), one had greater pain in 
+the TMJ and musculature, and three had no pain. In the 
+A-group, five patients had pain in the TMJ only at base-
+line; at the final examination, three had no pain, one had 
+the same pain localization, and one had pain in the TMJ 
+and musculature. At baseline, 12 patients in the A-group 
+had pain in the TMJ and musculature; at the final exami-
+nation, seven had no change in pain localization, and five 
+were free of pain. 
+Joint sounds
+There was no significant change in joint sounds 
+from baseline to the final examination within groups 
+(AS-group, P = 0.236; A-group, P = 0.495) or between 
+groups (P = 0.084) (Table 4).
+In the AS-group, one patient with no joint sounds at 
+baseline developed clicking and crepitation, although 
+VAS score decreased from 57 to 19 and maximum incisor 
+opening increased from 32 to 36 mm. Of the 14 patients 
+with clicking or crepitation, five had crepitation only 
+at baseline but had crepitation and clicking at the final 
+examination. Among the seven patients with clicking 
+and crepitation at baseline, only three still had clicking 
+and crepitation at the final examination, while one had 
+clicking only, one had crepitation only, and one had no 
+joint sounds. 
+Three patients in the A-group with no TMJ sounds at 
+baseline developed clicking; the other three had no joint 
+sounds after 2 or more years of follow-up. One patient 
+with clicking in the A-group at baseline had clicking only 
+at the final examination. Among the eight patients with 
+clicking and crepitation at baseline, two had clicking 
+and crepitation, three had crepitation only, and three 
+had no joint sounds at the final examination. Among 
+the two remaining patients with crepitation at baseline, 
+one continued to have crepitation only and the other had 
+clicking at the final examination.
+Discussion
+The results indicate that arthrocentesis reduced pain and 
+increased jaw function after up to 4 years of follow-up. 
+This is consistent with a recent study of arthrocentesis 
+alone for TMJ osteoarthritis (8). Sodium hyaluronate 
+injection had no additional effect after 4 years of follow-
+up, which contrasts with findings from short-term studies 
+(4,16). 
+As compared with baseline, mouth opening at the 
+final examination was significantly increased in both 
+groups, and a significant increase was already noted 
+in the A-group at 6 months. Thus, arthrocentesis with 
+lavage alone appears to be an adequate treatment for 
+TMJ osteoarthritis. In a long-term study in Sweden (17), 
+patients with painful disc displacement without reduction 
+received anesthetics alone or anesthetics and arthrocen-
+tesis with lavage. Pain had decreased in both groups at 
+a 3-year post-treatment follow-up examination, although 
+the difference between groups was not significant. The 
+difference in sex ratio between the present two groups, 
+i.e., the lower female/male ratio in the A-group, may 
+have affected the results in this present study. Therefore, 
+future studies should ensure that the female/male ratio 
+is equivalent. Apart from this study, only a few studies 
+reported long-term follow-up of patients who received 
+arthrocentesis. In a recent retrospective study, Nitzan et 
+al. (8) concluded that about 80% of patients with TMJ 
+OA who received arthrocentesis with lavage alone had 
+favorable outcomes, namely, reduced pain and increased 
+mouth opening, after a mean follow-up of 56 months. 
+This present study confirms their results in patients who 
+underwent arthrocentesis without additional sodium 
+hyaluronate. Önder et al. (18) reported similar results in 
+their study comparing patients with TMJ OA and a control 
+group treated with occlusal splints and medication only. 
+In the study group (which received arthrocentesis), peak 
+maximum mouth opening was noted at 6 months rather 
+than at the end of the mean long-term postoperative 
+follow-up period of 36.7 months, although the differ-
+ences were significant at both follow-up examinations.
+It is unclear if different TMJ diagnoses can be 
+compared in patients receiving arthrocentesis, but many 
+studies have concluded that arthrocentesis has effects 
+on various TMJ disorders. Studies of arthrocentesis for 
+patients with disc derangement reported success rates of 
+83% and 84% (19,20). Arthrocentesis is widely used in 
+the TMJ for patients with a diagnosis of disc derange-
+ment. Only a few long-term studies have evaluated 
+arthrocentesis and sodium hyaluronate in patients with 
+different degenerative conditions in the TMJ (10,17,18). 
+Sodium hyaluronate injection is widely used in ortho-
+pedic treatment, especially in the knee joint (21,22). The 
+results of arthrocentesis with additional injections (such 
+as corticosteroids, visco-supplementation, or platelet-
+87
+rich plasma) have varied greatly in patients with TMJ 
+disorders, and no consensus has been reached regarding 
+the most effective treatment (4,23-25). However, a 
+recent study by Kilic and Güngörmüs (26) reported that 
+arthrocentesis and platelet-rich plasma is not superior to 
+arthrocentesis with HA injection and that arthrocentesis 
+and HA injection is more acceptable for patients on a 
+short-term basis. Several studies reported benefits for 
+visco-supplementation after arthrocentesis (16,27-29). 
+HA may have a beneficial effect on inflammatory media-
+tors in OA (30), but it is unclear whether arthrocentesis 
+alone or in combination with HA or corticosteroids yields 
+the best results with respect to function and quality of life 
+(31). As compared with arthrocentesis alone, combined 
+use of HA for treatment of OA (4) may improve TMJ 
+function more rapidly. However, improved joint function 
+and motion may induce normal production of synovial 
+fluid, independent of the medications used during arthro-
+centesis; thus, the difference between treatments may be 
+limited.
+No control group was included in this present study. 
+There are very few studies of arthrocentesis with placebo 
+or sham surgery in the TMJ. Therefore, additional studies 
+comparing arthrocentesis with a control group receiving 
+a placebo or sham surgery would be helpful. Sahlström 
+et al. (7) and Baker et al. (17) reported positive results 
+with only anesthesia and sham surgery (flushing saline in 
+a cup next to the patient to simulate lavage) for patients 
+who believed that additional surgery had been performed. 
+In general orthopedics, sham surgery is more often used, 
+and sham shoulder surgery may be as effective as labial 
+repair of biceps tenodesis (32).
+ In the present study, five patients did not report a reduc-
+tion in pain from baseline to the final examination. In the 
+A-group, two patients had increased VAS scores, and in 
+the AS-group, two patients had increased VAS scores and 
+one patient had no change in VAS score. Three of these 
+five patients had lower VAS scores at 6 months than at 
+baseline or the final examination. This suggests that the 
+effect varies among patients and that patients thus have 
+differing needs for arthrocentesis retreatment to achieve 
+a sustained effect. All five of these patients also had 
+pain for 4 years or longer (range, 48-144 months) before 
+treatment, which suggests they had more severe OA and 
+required additional treatment. 
+A strength of this present study was that arthrocen-
+tesis was performed by just one operator and that the 
+final examinations were performed by two independent 
+researchers, who were unaware of treatment assignment, 
+thus minimizing the risk of bias. 
+This present study started in 2013 and followed the 
+diagnostic criteria for osteoarthritis described by Dworkin 
+et al. (15). Revised criteria were proposed in 2014 (2), 
+and new criteria for osteoarthritis diagnosis might yield 
+other treatment outcomes in the future.
+Existing evidence indicates that arthrocentesis has 
+a low risk of complications (24) and that the benefits 
+greatly exceed the risks. This was confirmed in this 
+present study: no patient developed complications other 
+than transient paresis of the facial nerve due to the use of 
+local anesthesia.
+In conclusion, arthrocentesis of the TMJ reduced pain 
+and improved function after short- and long-term obser-
+vation. These outcomes were not changed by the use of 
+medication during arthrocentesis.
+Conflict of interest
+The authors have no conflict of interest to declare.
+References
+  1.	 Ethunandan M, Wilson AW (2006) Temporomandibular joint 
+arthrocentesis-more questions than answers? J Oral Maxil-
+lofac Surg 64, 952-955.
+  2.	 Schiffman E, Ohrbach R, Truelove E, Look J, Anderson 
+G, Goulet J-P et al. (2014) Diagnostic criteria for temporo-
+mandibular disorders (DC/TMD) for clinical and research 
+applications: recommendations of the international RDC/
+TMD consortium network and orofacial pain special interest 
+group. J Oral Facial Pain Headache 28, 6-27.
+  3.	 Dahlström L, Carlsson GE (2010) Temporomandibular 
+disorders and oral health-related quality of life. A systematic 
+review. Acta Odontol Scand 68, 80-85.
+  4.	 Bjørnland T, Gjærum AA, Møystad A (2007) Osteoarthritis 
+of the temporomandibular joint: an evaluation of the effects 
+and complications of corticosteroid injection compared 
+with injection with sodium hyaluronate. J Oral Rehabil 34, 
+583-589.
+  5.	 Nitzan DW, Dolwick MF, Martinez GA (1991) Temporo-
+mandibular joint arthrocentesis: a simplified treatment for 
+severe, limited mouth opening. J Oral Maxillofac Surg 49, 
+1163-1167.
+  6.	 Olsen-Bergem H, Bjørnland T, Reseland JE (2014) Temporo-
+mandibular joint pain is negatively correlated to TNF alpha 
+and osteoprotegrin content in synovial fluid in patients with 
+juvenile idiopathic arthritis. Endocrinol Metab Syndr, doi: 
+10.4172/2161-1017.1000145.
+  7.	 Sahlström LE, Ekberg EC, List T, Petersson A, Eriksson L 
+(2013) Lavage treatment of painful jaw movements at disc 
+displacement without reduction. A randomized controlled 
+trial in a short-term perspective. Int J Oral Maxillofac Surg 
+42, 356-363.
+  8.	 Nitzan DW, Svidovsky J, Zini A, Zadik Y (2017) Effect of 
+arthrocentesis on symptomatic osteoarthritis of the temporo-
+mandibular joint and analysis of the effect of preoperative 
+88
+clinical and radiologic features. J Oral Maxillofac Surg 75, 
+260-267.
+  9.	 Nitzan DW, Price A (2001) The use of arthrocentesis for the 
+treatment of osteoarthritic temporomandibular joints. J Oral 
+Maxillofac Surg 59, 1154-1159.
+10.	 Ungor C, Atasoy KT, Taskesen F, Pirpir C, Yilmaz O (2015) 
+Long-term outcome of arthrocentesis plus hyaluronic acid 
+injection in patients with Wilkes stage II and III temporo-
+mandibular joint internal derangement. J Craniofac Surg 26, 
+2104-2108.
+11.	 Guarda-Nardini L, Masiero S, Marioni G (2005) Conserva-
+tive treatment of temporomandibular joint osteoarthrosis: 
+intra-articular injection of sodium hyaluronate. J Oral Rehabil 
+32, 729-734.
+12.	 Guarda-Nardini L, Stifano M, Brombin C, Salmaso L, 
+Manfredini D (2007) A one-year case series of arthrocentesis 
+with hyaluronic acid injections for temporomandibular joint 
+osteoarthritis. Oral Surg Oral Med Oral Pathol Oral Radiol 
+Endod 103, e14-22.
+13.	 Hepguler S, Akkoc YS, Pehlivan M, Ozturk C, Celebi G, 
+Saracoglu A et al. (2002) The efficacy of intra-articular 
+sodium hyaluronate in patients with reducing displaced disc 
+of the temporomandibular joint. J Oral Rehabil 29, 80-86.
+14.	 Yeung RWK, Chow RLK, Samman N, Chiu K (2006) Short-
+term therapeutic outcome of intra-articular high molecular 
+weight hyaluronic acid injection for nonreducing disc 
+displacement of the temporomandibular joint. Oral Surg Oral 
+Med Oral Pathol Oral Radiol Endod 102, 453-461.
+15.	 Dworkin SF, LeReseche L (1992) Research diagnostic criteria 
+for temporomandibular disorders: review, criteria, examina-
+tions and specifications, critique. J Craniomandib Disord 6, 
+301-355.
+16.	 Guarda-Nardini L, Rossi A, Arboretti R, Bonnini S, Stellini 
+E, Manfredini D (2015) Single- or multiple-session visco-
+supplementation protocols for temporomandibular joint 
+degenerative disorders: a randomized clinical trial. J Oral 
+Rehabil 42, 521-528.
+17.	 Baker Z, Eriksson L, Sahlström LE, Ekberg EC (2015) 
+Questionable effect of lavage for treatment of painful jaw 
+movements at disc displacement without reduction: a 3-year 
+randomised controlled follow-up. J Oral Rehabil 42, 742-750.
+18.	 Önder ME, Tüz HH, Koçyiğit D, Kişnişci RS (2009) 
+Long-term results of arthrocentesis in degenerative temporo-
+mandibular disorders. Oral Surg Oral Med Oral Pathol Oral 
+Radiol Endod 107, e1-5.
+19.	 Al-Belasy FA, Dolwick MF (2007) Arthrocentesis for the 
+treatment of temporomandibular joint closed lock: a review 
+article. Int J Oral Maxillofac Surg 36, 773-782.
+20.	 Monje-Gil F, Nitzan D, Gonzalez-Garcia R (2012) Temporo-
+mandibular joint arthrocentesis. Review of the literature. Med 
+Oral Patol Oral Cir Bucal 17, e575-581.
+21.	 Leopold SS, Redd BB, Warme WJ, Wehrle PA, Pettis PD, 
+Shott S (2003) Corticosteriod compared with hyaluronic 
+acid injections for the treatment of osteoarthritis of the knee: 
+a prospective, randomized trial. J Bone Joint Surg Am 85, 
+1197-1203.
+22.	 Housman L, Arden N, Schnitzer TJ, Birbara C, Conrozier 
+T, Skrepnik N et al. (2014) Intra-articular hylastan versus 
+steroid for knee osteoarthritis. Knee Surg Sports Traumatol 
+Arthrosc 22, 1684-1692.
+23.	 Olsen-Bergem H, Bjørnland T (2014) A cohort study of 
+patients with juvenile idiopathic arthritis and arthritis of the 
+temporomandibular joint: outcome of arthrocentesis with and 
+without the use of steroids. Int J Oral Maxillofac Surg 43, 
+990-995.
+24.	 Tvrdy P, Heinz P, Pink (2015). Arthrocentesis of the temporo-
+mandibular joint: a review. Biomed Pap Med Fac Univ 
+Palacky Olomouc Czech Repub 159, 31-34.
+25.	 Kilic SC, Güngörmüs M, Sümbüllü MA (2015) Is arthrocen-
+tesis plus platelet-rich plasma superior to arthrocentesis alone 
+in the treatment of temporomandibular joint osteoarthritis? A 
+randomized clinical trial. J Oral Maxillofac Surg 73, 1473-
+1483.
+26.	 Kilic SC, Güngörmüs M. (2016) Is arthrocentesis plus 
+platelet-rich plasma superior to arthrocentesis plus hyaluronic 
+acid for the treatment of temporomandibular joint osteoar-
+thritis: a randomized clinical trial. Int J Oral Maxillofac Surg 
+45, 1538-1544.
+27.	 Manfredini D, Bonnini R, Arboretti R, Guarda-Nardini L 
+(2009) Temporomandibular joint osteoarthritis: an open label 
+trial of 76 patients treated with arthrocentesis plus hyaluronic 
+acid injections. Int J Oral Maxillofac Surg 38, 827-834. 
+28.	 Machon V, Hirjak D, Lukas J (2011) Therapy of the osteo-
+arthritis of the temporomandibular joint. J Craniomaxillofac 
+Surg 39, 127-130. 
+29.	 Guarda-Nardini L, Rossi A, Ramonda R, Punzi L, Ferronato 
+G, Manfredini D (2014) Effectiveness of treatment with 
+viscosupplementation in temporomandibular joints with or 
+without effusion. Int J Oral Maxillofac Surg 43, 1218-1223.
+30.	 Iturriaga V, Bornhardt T, Manterola C, Brebi P (2017) 
+Effect of hyaluronic acid on the regulation of inflammatory 
+mediators in osteoarthritis of the temporomandibular joint: a 
+systematic review. Int J Oral Maxillofac Surg 46, 590-595.
+31.	 Bouloux GF, Chou J, Krishnan D, Aghaloo T, Kahenasa N, 
+Smith AS et al. (2017) Is hyaluronic acid or corticosteroid 
+superior to lactated ringer solution in the short term for 
+improving function and quality of life after arthrocentesis? 
+Part 2. J Oral Maxillofac Surg 75, 63-72.
+32.	 Schrøder CP, Skare Ø, Reikerås O, Mowinckel P, Brox JI 
+(2017) Sham surgery versus labial repair or biceps tenodesis 
+for type II SLAP lesions of the shoulder: a three-armed 
+randomised clinical trial. Br J Sports Med, doi/org10.1136/
+bjsports-2016-097098. 

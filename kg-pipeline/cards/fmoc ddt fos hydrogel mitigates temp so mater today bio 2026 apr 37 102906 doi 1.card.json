@@ -1,0 +1,32 @@
+{
+  "title": "Fmoc-DDT@Fos hydrogel mitigates temporomandibular joint osteoarthritis through regulating macrophage reprogramming and ferroptosis",
+  "authors": "Yuxin Zhang等",
+  "year": 2026,
+  "journal": "Materials Today Bio",
+  "category": "TMJ",
+  "research_question": "Fmoc-DDT@Fos肽水凝胶药物递送系统能否通过调控巨噬细胞重编程和铁死亡缓解颞下颌关节骨关节炎？",
+  "methods_summary": [
+    "合成Fmoc-DDT@Fos肽水凝胶药物递送系统",
+    "体外实验：巨噬细胞重编程、铁死亡检测、软骨细胞功能评估",
+    "体内实验：MIA诱导的TMJ OA大鼠模型",
+    "多组学测序（RNA-seq和蛋白质组学）分析机制"
+  ],
+  "dataset": "MIA诱导的TMJ OA大鼠模型及体外培养的滑膜巨噬细胞和髁突软骨细胞",
+  "key_findings": [
+    "Fmoc-DDT@Fos具有良好的生物相容性、巨噬细胞靶向性和Fos缓释特性",
+    "Fmoc-DDT@Fos促进M1巨噬细胞向M2表型重编程，抑制炎症反应",
+    "Fmoc-DDT@Fos抑制巨噬细胞铁死亡，维持氧化还原平衡和线粒体功能",
+    "Fmoc-DDT@Fos通过调控巨噬细胞功能保护软骨细胞，维持髁突软骨稳态",
+    "体内实验证实Fmoc-DDT@Fos减轻TMJ OA大鼠的软骨退变、滑膜炎和骨破坏"
+  ],
+  "relevance_score": "high",
+  "tags": [
+    "颞下颌关节骨关节炎",
+    "Fmoc-DDT@Fos水凝胶",
+    "巨噬细胞重编程",
+    "铁死亡",
+    "软骨稳态",
+    "药物递送"
+  ],
+  "extracted_insights": "本研究开发了一种新型Fmoc-DDT@Fos肽水凝胶药物递送系统，通过局部靶向递送Fostamatinib，调控巨噬细胞从促炎M1表型向抗炎M2表型重编程并抑制铁死亡，从而维持髁突软骨稳态并缓解TMJ OA进展，为TMJ OA提供了一种安全有效的治疗策略。"
+}

@@ -1,0 +1,1703 @@
+Journal of Oral & Facial Pain and Headache  53
+Effectiveness of Intra-Articular Injections of  
+Sodium Hyaluronate or Corticosteroids for  
+Intracapsular Temporomandibular Disorders:  
+A Systematic Review and Meta-Analysis 
+Aims: To assess the effectiveness of intra-articular injections of sodium 
+hy­alur­onate (NaH) or corticosteroids (CS) for treatment of intracapsular 
+temporomandibular disorders (TMD). Methods: Single- or double-blinded 
+randomized controlled trials (RCTs) on the effectiveness of NaH or CS injections, 
+compared to each other or to placebo, for the treatment of intracapsular TMD 
+due to osteoarthritis and/or internal joint derangement were analyzed in this 
+systematic review and meta-analysis. Electronic searches of MEDLINE through 
+the PubMed, Web of Science, and Cochrane Library databases were conducted 
+on March 17, 2015, and an updated search was conducted on June 7, 2017. 
+Three reviewers independently extracted the data and assessed the risk of bias of 
+included studies. Results: An initial search yielded 245 studies, and 5 additional 
+studies were identified through cross referencing. A total of 22 studies were 
+identified as relevant based on the abstracts, but only 7 RCTs met the inclusion 
+criteria. Six of the included studies had unclear risk of bias, and one had high risk 
+of bias. Four studies were eligible for meta-analysis. Pooled results showed no 
+significant difference in short- or long-term pain improvement with NaH compared 
+to CS. The number of responders to NaH was significantly more than placebo in 
+one study, but not significantly higher than CS in another study. Conclusion: 
+Although there was no significant difference between the effectiveness of NaH 
+and CS intra-articular injections, there was some evidence that NaH was better 
+than placebo. Further research is needed to determine the minimum effective 
+dose and long-term side effects of both injections. J Oral Facial Pain Headache 
+2018;32:53–66. doi: 10.11607/ofph.1783
+Keywords: corticosteroid, hyaluronic acid, intra-articular injection,  
+sodium hyaluronate, temporomandibular disorders
+T
+emporomandibular disorders (TMD) are clinical conditions re-
+sulting from extra- and/or intracapsular disorders of the temporo-
+mandibular joints (TMJs). Extracapsular disorders are conditions 
+affecting the structures surrounding the TMJ, while intracapsular disor-
+ders are conditions affecting the structures within the TMJ.1 TMJ inter-
+nal derangement is present in approximately 80% of symptomatic TMD 
+patients.2 The incidence of degenerative joint disease (ie, osteoarthritis 
+[OA]) of the TMJ in the United States is unknown, but the prevalence 
+of patients seeking treatment for OA of the TMJ is higher than the num-
+ber of individuals seeking treatment for TMJ pain or dysfunction.3 OA 
+affects women more than men,4 and because its incidence increases 
+with age,5 it is becoming an increasingly important health problem in 
+older populations.
+Intracapsular TMD are commonly managed by conservative ther-
+apies (eg, counseling, avoidance, physiotherapy, occlusal splints, and 
+anti-inflammatories). If symptoms and functions do not improve with 
+conservative therapies, the clinician may consider intra-articular injec-
+tions of corticosteroids (CS) or sodium hyaluronate (NaH), alone or in 
+conjunction with arthroscopic lavage, prior to resorting to invasive sur-
+gical interventions.6 
+Marlon A. Moldez, DMD, MSc, PhD
+Graduate Student
+Master of Science Program in Orofacial 
+Pain and Oral Medicine
+Herman Ostrow School of Dentistry of 
+USC
+Los Angeles, California, USA
+Victor R. Camones, DDS, MS, FACP
+Graduate Student
+Master of Science Program in Orofacial 
+Pain and Oral Medicine
+Herman Ostrow School of Dentistry of 
+USC
+Los Angeles, California, USA
+Guillermo E. Ramos, DDS, MS
+Graduate Student
+Master of Science Program in Orofacial 
+Pain and Oral Medicine
+Herman Ostrow School of Dentistry of 
+USC
+Los Angeles, California, USA
+Mariela Padilla, DDS, MEd
+Assistant Professor of Clinical Dentistry
+Assistant Director of Online Masters & 
+Certificates
+Herman Ostrow School of Dentistry of 
+USC
+Los Angeles, California, USA
+Reyes Enciso, PhD
+Associate Professor (Instructional) 
+Division of Dental Public Health and 
+Pediatric Dentistry
+Herman Ostrow School of Dentistry of 
+USC
+Los Angeles, California, USA
+Correspondence to: 
+Dr Reyes Enciso 
+Associate Professor (Instructional) 
+Division of Dental Public Health and 
+Pediatric Dentistry 
+Herman Ostrow School of Dentistry of 
+University of Southern California 
+925 West 34th Street, room #4268 
+Los Angeles, CA 90089, USA 
+Fax: (213) 740-8815 
+Email: renciso@usc.edu
+©2018 by Quintessence Publishing Co Inc.
+© 2018 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+54  Volume 32, Number 1, 2018
+Moldez et al
+Inflammatory and nociceptive mediators are pres-
+ent in the synovial fluid of TMJs with intracapsular dis-
+orders.7 CS prevent the release of arachidonic acid 
+by inhibiting phospholipase A2, which in turn prevents 
+the formation of proinflammatory cytokines and noci-
+ceptive mediators.8 The concentration and molecular 
+weight of endogenous hyaluronic acid are reduced 
+in arthritic synovial fluid of the knee,9 which in turn 
+results in increased inflammatory mediators. The rhe-
+ologic homeostasis of TMJ synovial fluid is restored 
+with intra-articular injection of exogenous NaH.10,11 
+The functional mechanism of action of NaH is directly 
+dependent on the molecular weight and concentra-
+tion of hyaluronic acid. Of the hyaluronic acid–based 
+viscosupplements used in the studies included in this 
+systematic review, Hyalgan has the lowest molecular 
+weight (500,000 to 730,000 Daltons) and SYNVISC 
+the highest (6,000,000 Daltons). NaH of high molec-
+ular weight yields greater analgesic therapeutic prop-
+erties than NaH of low molecular weight.12
+Intra-articular injections of CS or NaH are current-
+ly being utilized to treat intracapsular TMD.13–19 The 
+aim of this systematic review and meta-analysis was 
+to assess the effectiveness of intra-articular injections 
+of NaH or CS for the treatment of intracapsular TMD. 
+Materials and Methods
+Selection Criteria
+Studies were limited to randomized controlled tri-
+als (RCTs) on TMJ intra-articular injections of CS or 
+NaH, compared to each other or to placebo, in adult 
+patients diagnosed with OA and/or internal derange-
+ment of the TMJ. Other terms used to describe these 
+conditions were also included in the search strate-
+gy (eg, temporomandibular joint disorders, temporo-
+mandibular joint dysfunction syndrome, TMJ disc 
+derangement, TMJ disc displacement, and cranio-
+mandibular dysfunction [CMD]). 
+The clinical PICO (problem, intervention, compar-
+ison, outcome) question was defined as follows: 
+•	
+Problem (P): Adults diagnosed with osteoarthritis 
+and/or internal derangement of the TMJ
+•	
+Intervention (I): CS or NaH TMJ injection without 
+arthrocentesis
+•	
+Comparison (C): Placebo, CS, or NaH
+•	
+Outcome (O): Change in pain score with 
+treatment and number of patients with reported 
+improvement of symptoms
+Case reports, clinical guidelines, abstracts of 
+conference proceedings, pilot studies, and system-
+atic reviews were not analyzed. RCTs not available 
+in English, studies including rheumatoid arthritis 
+patients, and studies on arthrocentesis (which was 
+considered a different intervention) with NaH or CS 
+injections were excluded.
+Search Methods for Identification of Studies 
+The search strategies described in Table 1 were ap-
+plied to all database searches. Briefly, the following 
+databases were searched on March 17, 2015:
+•	
+MEDLINE via PubMed (search restricted to 
+English language, humans, and adults)
+•	
+The Web of Science, which included conference 
+proceedings (gray literature)
+•	
+The Cochrane Library 
+Three review authors (M.M., V.C., and G.R.) 
+screened titles and abstracts and performed full-text 
+reviews, as needed. An update of the search was 
+Table 1  Electronic Database Searches 
+Database
+Search strategy
+PubMed  
+TMJ OR TMD OR (Temporomandibular Joint) OR (Temporomandibular Joint Disorders) OR CMD OR 
+(Temporomandibular Joint Dysfunction Syndrome) OR (TMJ disc derangement) OR (TMJ disc displacement) 
+OR (Myofascial Pain Syndrome)) AND (corticosteroids OR hydroxycorticosteroids OR glucocorticosteroids OR 
+mineralocorticosteroids OR “hyaluronic acid” OR hyaluronate OR “sodium hyaluronate” OR Hyaluronan
+Filters: Language: Limit to English; Age: Limit to adults; Species: Limit to Humans.
+Web of Science 
+TOPIC: (Temporomandibular Joint) OR (Temporomandibular Joint Disorder*) OR CMD OR (Temporomandibular Joint 
+Dysfunction Syndrome) OR (TMJ disc derangement) OR (TMJ disc displacement) OR (Myofascial Pain Syndrome) OR 
+TMD OR TMJ AND TOPIC: Corticosteroids OR hydroxycorticosteroids OR glucocorticosteroids OR mineralocortico-
+steroids OR (hyaluronic acid) OR hyaluronate OR (sodium and hyaluronate) OR Hyaluronan AND TOPIC: injection
+The Cochrane 
+Library 
+#1 (Temporomandibular Joint) OR (Temporomandibular Joint Disorder) OR CMD OR (Temporomandibular Joint 
+Dysfunction Syndrome) OR (TMJ disc derangement) OR (TMJ disc displacement) OR (Myofascial Pain Syndrome) 
+OR TMD OR TMJ 
+#2 Corticosteroids OR hydroxycorticosteroids OR glucocorticosteroids OR mineralocorticosteroids OR  
+“hyaluronic acid” OR hyaluronate OR “sodium hyaluronate” OR Hyaluronan
+#3 Injection
+#1 and #2 and #3
+TMJ = temporomandibular joint; TMD = temporomandibular disorders; CMD = craniomandibular disorders. 
+© 2018 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+Moldez et al
+Journal of Oral & Facial Pain and Headache  55
+performed on June 7th, 2016, but did not produce 
+any new relevant articles. The same three authors 
+independently scanned all reference sections of re-
+views, systematic reviews, and all included articles to 
+make sure that no relevant studies were missed from 
+the initial search.
+Data Collection and Management
+Data were gathered independently by the three re-
+view authors. Data included the characteristics of 
+the participants, inclusion and exclusion criteria, in-
+terventions, control groups, and outcomes. Risk of 
+bias assessment was performed by the same three 
+authors. Disagreements were resolved by group dis-
+cussion with a fourth author (R.E.).
+The primary outcome assessed was change 
+in the severity of facial or jaw pain measured on a 
+0- to 10-cm or 0- to 100-mm visual analog scale 
+(VAS) (0 = no pain; 10 cm or 100 mm = worst pain). 
+Secondary outcomes included the number of re-
+sponders (ie, patients with self-reported total or par-
+tial remission of symptoms after treatment)16–18 and 
+change in mandibular function (ie, range of mandibu-
+lar movement, measured in mm). 
+The Helkimo index assesses the severity of TMD 
+based on the evaluation of three subindices: the an-
+amnesis index, the clinical dysfunction index, and the 
+occlusal index.20–22 The anamnesis index is based 
+on subjective symptoms reported by the patient and 
+has three different levels (free, mild, and severe dys-
+function). The clinical dysfunction index evaluates the 
+function of the masticatory system according to the 
+presence and/or severity of clinical symptoms (range 
+of mandibular movement, TMJ function impairment, 
+muscle tenderness during palpation, TMJ pain during 
+palpation, and pain during mandibular movement). 
+The occlusal index evaluates the patient’s dental oc-
+clusion based on the number of existing teeth, num-
+ber of teeth in occlusion, occlusal interferences, and 
+joint interferences.20–22
+The modified Helkimo clinical dysfunction index 
+evaluates pain on movement of the mandible, TMJ 
+pain, maximal mouth opening, signs of TMJ noise 
+and disc derangement, and muscle pain in mastica-
+tory muscles. Treatment response with this index is 
+measured as23: 
+•	
+Total remission: Index components all went  
+down to the 0 or 1 level
+•	
+Partial remission: Index component was at a  
+level greater than 1
+•	
+Unchanged: None of the components went  
+up or down
+•	
+Exacerbated: One or more of the index 
+components went up
+Evaluation and Management of Risk of Bias 
+Evaluation and management of risk of bias was 
+performed based on the method described in the 
+Cochrane Handbook for Systematic Reviews of 
+Interventions.24 A risk of bias table was completed for 
+individual studies.
+Measurement of Treatment Effect
+Two meta-analyses were conducted: one for change 
+in VAS pain from baseline to posttreatment (prima-
+ry outcome), and one for number of patients with 
+improved symptoms (secondary outcome). Authors 
+of studies with missing outcome data were con-
+tacted to supply these data, and only those studies 
+with complete outcome data were included in the 
+meta-analyses. 
+Standardized differences in means (SDM) and 
+95% confidence intervals (CI) were reported for 
+change in VAS pain with treatment, since the authors 
+used different scales (10-cm or 100-mm VAS). Risk 
+ratios (RR) with 95% CI were reported for the number 
+of patients with improved symptoms (dichotomous 
+variable; yes/no improvement). Subgroup analyses 
+were conducted for NaH compared to CS, NaH 
+compared to placebo, and CS compared to place-
+bo. Cochran’s (or Q) test25 and the I2 statistic26 were 
+used to test for statistical heterogeneity. When statis-
+tically significant heterogeneity (Q P value < .10) was 
+found regarding the effect estimates, the results of 
+the meta-analysis were based on the random-effects 
+model; otherwise, they were based on the fixed-ef-
+fects model. All analyses were performed using com-
+prehensive meta-analysis v2 software (BioStat).
+Levels of Evidence and Summary of Review 
+Findings
+Quality of evidence assessment and summary of 
+the review findings were conducted with the soft-
+ware Grading of Recommendations Assessment, 
+Development, and Evaluation (GRADE) profiler 
+(Grader) by using the Cochrane Collaboration and 
+GRADE Working Group recommendations.24
+Results
+The initial database search described in Table 1 
+yielded 275 publications, 30 of which were duplicate 
+studies (Fig 1). The reference sections of these stud-
+ies were manually searched, resulting in five addition-
+al references. Based on the abstracts of these 250 
+studies, 22 studies were identified as relevant for the 
+systematic review, and the other 228 were exclud-
+ed for the following reasons (Table 2): abstract only 
+(n = 1); animal studies (n = 16); studies on juvenile 
+idiopathic arthritis (n = 22); different condition (ie, 
+© 2018 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+56  Volume 32, Number 1, 2018
+Moldez et al
+neck pain, leukemia, fibromyalgia, low back pain, my-
+ofascial pain) (n = 83); different intervention (ie, oc-
+clusal splints, botulinum toxin, acupuncture, trigger 
+point injections, IGF-1) (n = 27); no control group or 
+placebo group (n = 9); not an RCT (ie, case report, 
+case series, comparative study) (n = 21); opinion/ed-
+itorial (n = 1); not in English (n = 3); duplicate entry 
+(n = 2); review (n = 19); or studies on the efficacy of 
+arthrocentesis with or without NaH or CS (n = 24). 
+The full texts of the 22 studies were obtained and 
+analyzed for inclusion independently by three review-
+ers. Of the original 22 studies, 15 were rejected af-
+ter a full-text review (Table 3), and of the remaining 
+7 studies, only 4 reported outcome data that could 
+be used for meta-analyses. The flowchart for crite-
+ria and inclusion is presented in Fig 1 based on the 
+Preferred Reporting Items for Systematic Reviews 
+and Meta-Analyses (PRISMA).27
+An update of the search in June of 2017 provid-
+ed no new relevant RCTs (Table 4 shows reasons for 
+exclusion of the references retrieved in June 2017).
+Included Studies
+Seven RCTs13–19 were included in this systematic re-
+view (Table 5). A total of 372 (282 F, 111 M) subjects 
+were included. As Kopp et al utilized the same subjects 
+in a follow-up study17 as in their original study,18 the 
+subjects in the follow-up study were not included in the 
+count of 372 subjects. The total number of participants 
+in each study varied from 3318 to 121.13 Participants 
+were all adults ranging from 21 to 77 years of age. 
+The majority of the subjects were female, and only the 
+study by Tang et al19 had an even gender distribution. 
+The diagnostic criteria used for TMD varied 
+among investigators. Bertolami et al13 used the 
+Helkimo index with three specific conditions: (1) de-
+generative joint disease; (2) displaced disc with re-
+duction; and (3) displaced disc without reduction. 
+Bjorland et al14 and Tang et al19 included patients with 
+osteoarthrosis of the TMJ and myofascial pain ac-
+cording to the Research Diagnostic Criteria for TMD 
+(RDC/TMD).28,29 Gencer et al15 used Wilkes’ clas-
+sification30 and confirmed the diagnosis of TMJ de-
+generation with a computed tomography (CT) scan. 
+Hepguler at al16 used reduced displaced disc and 
+the modified Helkimo index for inclusion criteria.20–22 
+Kopp et al17,18 used pain localized to the TMJ of at 
+least 6-month duration, joint tenderness to palpation, 
+and the Helkimo index20–22 (Table 3).
+Three studies compared NaH to CS,14,17,18 three 
+compared NaH to placebo (physiologic saline solu-
+tion),13,16,19 and one compared NaH and CS to pla-
+cebo.15 Betamethasone was used by four studies 
+for intra-articular CS injection,14,15,17,18 and different 
+compositions and brands were used for NaH in-
+jection, including 1% NaH (MedChem Products),13 
+SYNVISC,14 Hyalgan,15,19 Hylartil,17,18 and Orthovisc.16 
+The frequency of NaH injections compared to 
+physiologic saline solution varied among the stud-
+ies, from a single injection13 to multiple injections (ie, 
+five19 with 1-week intervals between injections). The 
+frequency of CS injection varied from one injection15 
+to two injections14,16–18 at 2-week intervals (Table 6).
+Outcomes
+Of the three studies15,16,19 that compared NaH to place-
+bo, only Gencer et al15 reported the mean and standard 
+deviation (SD) VAS pain at baseline and follow-up. Tang 
+et al19 did not report posttreatment data for the placebo 
+group, and Hepguler et al16 did not report SD for the 
+treatment and placebo groups, nor P values comparing 
+both groups. Based on these omissions, these stud-
+ies15,16,19 could not be included in the meta-analyses, 
+but were included in the qualitative analyses.
+Full-text articles excluded, 
+with reasons (n = 15)
+•Reviews (n = 2)
+•Different intervention (n = 1)
+•Different condition (n = 4)
+•Not randomized (n = 2)
+•No placebo group (n = 4) 
+•Animal study (n = 1)
+•Different outcome (n = 1)
+Records excluded  
+(n = 228)
+Additional records 
+identified through other 
+sources (n = 5)
+Studies included in 
+quantitative synthesis 
+(meta-analysis) (n = 4)
+Studies included in  
+qualitative synthesis  
+(n = 7)
+Full-text articles  
+assessed for eligibility 
+(n = 22)
+Records screened  
+(n = 250)
+Records after duplicates removed (n = 250)
+Records identified 
+through database 
+searching (n = 275)
+Included
+Eligibility
+Screening
+Identification
+Fig 1  PRISMA27 flow diagram representing search results.
+© 2018 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+Moldez et al
+Journal of Oral & Facial Pain and Headache  57
+Table 2  Excluded Studies After Screening of Titles and Abstracts 
+Study (search on March 17, 2015)
+Reason for exclusion
+Aktas et al,39 2010
+Different intervention (arthrocentesis + NaH)
+Alpaslan and Alpaslan,40 2010
+Different intervention (arthrocentesis + NaH)
+Alpaslan et al,41 2000
+Different intervention (arthrocentesis + NaH)
+Alpaslan et al,42 2003 
+Different intervention (arthrocentesis)
+Alpaslan et al,43 2001 
+Different intervention (arthrocentesis + NaH)
+Appelgren et al,44 1998 
+Different intervention (arthrocentesis + CS)
+Guarda-Nardini et al,45 2005 
+Different intervention (arthrocentesis + NaH)
+Guarda-Nardini et al,46 2008 
+Different intervention (arthrocentesis)
+Guarda-Nardini et al,47 2012 
+Different intervention (arthrocentesis + NaH)
+Guarda-Nardini et al,48 2012
+Different intervention (arthrocentesis + NaH)
+Guarda-Nardini et al,49 2012 
+Different intervention (arthrocentesis + NaH)
+Guarda-Nardini et al,50 2011 
+Different intervention (arthrocentesis + NaH)
+Guarda-Nardini et al,51 2014 
+Different intervention (arthrocentesis + NaH)
+Guo and Revington,52 2009
+Different intervention (arthrocentesis, lavage)
+Huddleston et al,53 2012
+Different intervention (arthrocentesis + CS)
+Manfredini et al,54 2009
+Different intervention (arthocentesis + NaH)
+Manfredini et al,36 2012 
+Different Intervention (arthocentesis + NaH or CS)
+Manfredini et al,33 2013 
+Different intervention (arthocentesis + NaH)
+Manfredini et al,55 2013 
+Different intervention (arthocentesis + NaH)
+Sanromán et al,56 2004
+Different intervention (arthrocentesis, arthroscopy)
+Sato et al,57 1997
+Different intervention (arthrocentesis + NaH)
+Su et al,58 2014
+Different intervention (arthrocentesis + NaH)
+Tabrizi et al,59 2014
+Different intervention (arthrocentesis + CS)
+Ungor et al,60 2014
+Different intervention (arthrocentesis)
+NaH = Sodium hyaluronate; CS = corticosteroid.
+Table 3  Studies Excluded After Full-Text Review
+Study (search on March 17, 2015)
+Reason for exclusion
+Alstergren et al,61 1996
+Not an RCT
+Charalambous et al,62 2004
+Different condition (knee arthritis)
+Edwards,63 1994
+Not an RCT, pilot study with 5 patients
+Gu et al,64 1998
+No placebo group (NaH vs lidocaine)
+Gu et al,65 1998
+No placebo group (prednisolone and lidocaine vs lidocaine alone)
+Guarda-Nardini et al,66 2005
+No placebo group (NaH vs bite plane vs no treatment)
+Hirota,67 1998
+Different topic (arachidonic acid metabolites or cytokines)
+Kopp et al,37 1991
+Different condition (rheumatoid arthritis)
+Li et al,68 2015
+No control group (NaH, superior vs inferior joint space)
+Møystad et al,38 2008
+Different outcome (osseous changes with computed tomography)
+Oliveras-Moreno et al,69 2008
+No placebo group (NaH vs methocarbamol 380 mg and paracetamol 300 mg) 
+Rydell and Balazs,70 1971
+Animal study
+Shi et al,71 2003
+Systematic review
+Toller,72 1976
+Literature review
+Vallon et al,73 2002
+Follow-up of an RCT (NaH vs CS vs saline), not randomized
+NaH = sodium hyaluronate; CS = corticosteroid; RCT = randomized controlled trial.
+Table 4  Excluded Studies After Updated Search in June 2017
+Study
+Reasons for exclusion
+Bouloux et al,74 2017
+Different intervention (arthrocentesis vs arthrocentesis + CS) 
+Fernandez-Ferro et al,75 2017
+Different intervention (arthroscopy + PRGF vs arthroscopy + NaH)
+Goaiato et al,35 2016
+Systematic review
+Hegab et al,76 2015
+No placebo group (PRP or NaH)
+Cömert Kiliç et al,77 2016
+Different intervention (arthrocentesis + NaH vs arthrocentesis + CS vs arthrocentesis + placebo)
+Korkmaz et al,78 2016
+No placebo group (single NaH injection vs double injection vs splint vs no treatment [self-selected])
+Marty et al,79 2016
+Literature review, not in English (French)
+Ozdamar et al,80 2017
+Different intervention (arthrocentesis vs arthrocentesis + NaH) 
+Patel et al,81 2016
+Different intervention (arthrocentesis vs arthrocentesis + NaH)
+NaH = sodium hyaluronate; CS = corticosteroid; PRGF = plasma rich in growth factors; PRP = platelet-rich plasma.
+© 2018 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+58  Volume 32, Number 1, 2018
+Moldez et al
+Three studies15,16,19 reported changes in pain 
+levels on a 10-cm VAS, while the other four stud-
+ies13,14,17,18 used a 100-mm VAS. One study15 report-
+ed changes at 1 week and 6 weeks, and four13,14,16,18 
+reported changes at 1 month after intra-articular in-
+jection. Four articles13,14,16,17 reported VAS pain at 1 
+Table 5  Summary of Eligible RCTs
+Reference
+Year, country,  
+sample size
+Interventions
+Mean ± SD age (range)  
+Gender distribution of participants, n
+Bertolami et al13
+1993, USA, N = 121 
+NaH (n = 80) 
+Saline (n = 41) 
+NaH: 36 y, 72 F/8 M 
+Placebo: 40.7 y, 35 F/7 M
+Bjørnland et al14
+2007, Norway, N = 40 
+NaH (SYNVISC)  
+(n = 20)  
+CS (Celestone  
+Chronodose) (n = 20)
+NaH: 53.4 ± 12.9 y, 19 F/1 M 
+CS: 50.0 ± 13.3 y, 15 F/5 M 
+Gencer et al15
+2014, Turkey, N = 100 
+NaH (n = 25)  
+Betamethasone (n = 25)  
+Tenoxicam (n = 25) 
+Saline (n = 25)
+Range: 18–65 y 
+NaH: 36.27 y, 14 F/11 M 
+CS: 38.25 y, 14 F/11 M 
+TX: 40.50 y, 14 F/11 M 
+Saline: 40.41 y, 13 F/12 M
+Hepguler et al16
+2002, Turkey, N = 38 
+NaH (n = 19) 
+Saline (n = 19) 
+NaH: 31.94 ± 12.67 y, 13 F/6 M
+Saline: 31.10 ± 11.25 y, 13 F/6 M 
+Kopp et al18
+1985, Sweden, N = 33 
+NaH (n = 18)  
+Betamethasone (n = 15)
+Range: 26–77 y 
+NaH: 47.55 ± 14.68 y, 16 F/2 M 
+CS: 45.06 ± 11.97 y, 13 F/2 M
+Kopp et al (follow-up)17
+1987, Sweden, N = 33 
+NaH (n = 18)  
+Betamethasone (n = 15)
+Range: 26–77 y 
+NaH: 48 ± 15 y, 11 F/1 M 
+CS: 50.57 ± 10.98 y, 7 F/0 M
+Tang et al19
+2010, China, N = 60 
+NaH (n = 20) 
+Saline (n = 20) 
+Healthy controls 
+saline (n = 20)
+NaH: 43 (28–57) y, 11 F/9 M 
+Saline: 44 (25–63) y, 10 F/10 M 
+Healthy controls: 41 (27–55) y,  
+10 F/10 M
+NaH = sodium hyaluronate; CS = corticosteroid; TMJ = temporomandibular joint; F = Female; M = Male; MRI = magnetic resonance imaging;  
+OA = osteoarthritis; RDC/TMD = Research Diagnostic Criteria for TMD; saline = physiologic saline solution.
+Table 6 Dosages and Side Effects Reported in Included Studies 
+Study
+Treatment groups
+Number of injections and dosage
+Bertolami et al13
+NaH (n = 80) 
+Saline (n = 41)  
+Single injection, amount injected dictated by joint space volume 
+Bjørnland et al14
+NaH (n = 20) 
+CS (n = 20) 
+ 
+Two injections of NaH or CS 14 days apart; 0.7–1 mL  
+Xylocaine with adrenaline was used as a local anesthesic on the skin.
+Gencer et al15
+NaH (n = 25)  
+CS (n = 25)  
+Tenoxicam (n = 25) 
+Saline (n = 25)
+Single injection of NaH, CS, TX, or saline; 0.5 mL
+Hepguler et al16
+NaH (n = 19) 
+Saline (n = 19) 
+Two injections of NaH or saline 1 wk apart; 0.5 mL
+Kopp et al18
+NaH (n = 18)  
+CS (n = 15)
+Two injections of NaH or CS with 2-wk interval; 0.5 mL 
+Kopp et al (follow-up)17
+NaH (n = 18)  
+CS (n = 15)
+Two injections of NaH or CS with 2-wk interval; 0.5 mL
+Tang et al19
+NaH (n = 20) 
+Saline in TMJ patients  (n = 20) 
+Saline in healthy controls (n = 20)
+5 injections of NaH or saline once a wk for 5 wk; 1 mL
+NaH = sodium hyaluronate; CS = corticosteroids; TX = Tenoxicam; saline = physiologic saline solution.
+© 2018 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+Moldez et al
+Journal of Oral & Facial Pain and Headache  59
+month and/or 6 months after intra-articular injection. 
+Only Kopp et al17 compared VAS changes at 1 year 
+and 2 years (Table 7).
+Risk of Bias 
+The risks of bias for the included studies are summa-
+rized in Table 8 and Fig 2. 
+Inclusion criteria
+Risk of 
+bias
+1) ≥ 21 y 
+2) Diagnosis of intracapsular TMJ disorder  
+3) Exhibit severity at Helkimo dysfunction Class II or higher (severe dysfunction)  
+4) Prove refractory to conservative therapies for at least 2 mo
+Unclear 
+1) > 20 y 
+2) Subjective pain from the TMJ at function and at rest for > 1 year, restricted mandibular function 
+3) Radiographic evidence of OA of the TMJ 
+4) Patients tried conservative treatments, such as information and reassurance, nonsteroidal anti-inflammatory drugs,  
+physiotherapy, and occlusal splints, without alleviation of symptoms
+Unclear 
+1) Patients with symptoms of jaw pain, limited or painful jaw movement, or clicking or grating within the joint 
+2) TMD diagnosis confirmed by computed tomography 
+3) Wilke’s diagnosis: Late intermediate (IV) and late (V) stage 
+Unclear
+1) > 21 y 
+2) Fulfilled diagnostic criteria for reducing displaced disc of the TMJ: TMJ pain (variable), clicking, reciprocal clicking,  jaw  
+deviates toward side of click until click occurs then returns to midline, MRI shows displaced disc that reduces on opening
+3) Resistance to conservative treatment for at least 2 mo
+Unclear
+1) Pain localized to the TMJ of at least 6 months' duration and tenderness to palpation of the joint (TMJ arthritis) 
+2) Failure of conservative treatment, such as occlusal adjustment, bite plates, and/or physical exercises
+Unclear
+Same as Kopp et al18 
+High
+1) Patients diagnosed with OA 
+2) Unsuccessfully treated by conservative therapy (jaw exercises, physiotherapy, and occlusal splint) 
+3) Fulfilled criteria for OA of the TMJ according to the RDC/TMD: Presence of arthralgia (TMJ pain with lateral and/or 
+posterior palpation plus self-reports of pain during maximum unassisted/assisted opening and/or lateral excursion, coarse 
+crepitus in the joint, and radiographic degenerative changes)
+Unclear 
+Side effects
+A total of 13 adverse events occurred in 10 patients. The majority were mild in nature, self-limiting, and of short duration and consisted 
+primarily of discomfort at the injection site and/or localized swelling. The duration of the event was generally 1 day. 
+NaH group: 7 events in 6 patients (5 mild, 1 moderate, 1 severe) 
+Saline group: 6 events in 4 patients (4 mild, 2 severe)
+No permanent facial nerve damage or infection was observed. 
+NaH group: TMJ pain after injections (n = 4), ear pressure (n = 1), open bite (n = 1) 
+CS group: Ear pressure (n = 2), open bite (n = 1), generalized rashes (n = 2)
+Not stated; however, the authors reported in Methods that 5 min after the procedure, the patient was examined for signs of facial palsy, 
+and manual mobilization of the jaw was performed to improve mouth opening.
+Not stated
+Not stated
+Not stated
+Not stated
+© 2018 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+60  Volume 32, Number 1, 2018
+Moldez et al
+Random Sequence Generation. Only one study15 
+described how randomization was generated (ie, com-
+puter-generated sequence). No other studies report-
+ed the method for randomization and were therefore 
+judged at unclear risk of bias. 
+Allocation Concealment. Three studies were 
+judged at low risk of bias because they concealed 
+the sequence of randomization by using sealed en-
+velopes14 and clear colorless fluids,13,16 which are in-
+distinguishable by visual inspection. The studies by 
+Bertolami et al13 and Hepguler et al16 used coded sy-
+ringes that were randomized by the manufacturer and 
+then used sequentially with no identification known 
+to the participating clinicians, examiners, or investi-
+gators. The other four studies15,17–19 did not describe 
+their allocation concealment and were therefore 
+judged at unclear risk of bias.
+Blinding. No study described in detail how the 
+patients, investigators, outcome assessors, and data 
+analysts were blinded to the treatment allocation, and 
+therefore all studies were rated at unclear risk of bias.
+Incomplete Outcome Data. Six studies13–16,18,19 
+were rated at low risk for incomplete outcome data. 
+The exception was the study by Kopp et al,17 a 
+follow-up study with large dropouts. In this study, the 
+dropout rate at year 1 was 50% and 46.7% for NaH 
+and CS, respectively. However, 100% and 85.7% of 
+participants who received NaH and CS at the 1-year 
+follow-up, respectively, attended the 2-year follow-up. 
+Selective Reporting. All studies were considered 
+at low risk of bias for selective reporting.
+Other Potential Bias. One study was consid-
+ered at unclear risk of bias due to gender distribution 
+Table 7  Baseline and Posttreatment Pain Intensity with NaH Compared to CS
+Study
+Scale/follow-up
+Mean ± SD outcome in NaH 
+group (no. of participants)
+Mean ± SD outcome in CS 
+group (no. of participants)
+P value
+Mean ± SD
+n
+Mean ± SD
+n
+Bjørnland et al14
+0–100 mm VAS 
+B, 1 mo, 6 mo
+B: 70 ± 16.2 
+1 mo: 32 ± 25.6 
+6 mo: 14 ± 16.2
+20
+B: 73 ± 18.1 
+1 mo: 42 ± 27.8 
+6 mo: 31 ± 31.7
+20
+1 mo: .409
+6 mo: .084
+Gencer et al15
+0–10 cm VAS 
+1 wk, 6 wk
+1 wk: 3.18 ± 0.9 
+6 wk: 3.41 ± 1.2
+25
+1 wk: 4.13 ± 1.5  
+6 wk: 4.51 ± 1.0
+25
+6 wk: .632
+Kopp et al18
+0–100 mm VAS 
+B, 4 wk
+B: Median 53 mm 
+4 wk: Median 37 mm (P < .01)
+18
+B: Median 57 mm 
+4 wk: Median 24 mm (P > .05)
+15
+4 wk: .278
+Kopp et al (follow-up)17
+0–100 mm VAS 
+B, 1 y 
+2 y
+B: Median 49 mm 
+1 y: Median 38 mm 
+(cross-over patients included)  
+(P < .05) 
+2 y: Median 33 mm (P < .05)
+12
+B: Median 60 mm 
+1 y: Median 35 mm (P < .05) 
+B: Median 60 mm 
+2 y: Median 17 mm 
+(cross-over patients included)  
+(P < .05)
+12 
+10
+1 y: .511
+2 y: .787
+SD = standard deviation; NaH = sodium hyaluronate; CS = corticosteroid; VAS = visual analog scale; B = baseline. 
+Table 8  Summary of Risk of Bias for Eligible Studies
+Study
+Random 
+sequence 
+generation
+Allocation 
+concealment
+Blinding
+Incomplete 
+outcome  
+data
+Selective 
+reporting
+Other  
+potential 
+bias
+Overall  
+bias
+Bertolami et al13
+?
+–
+?
+–
+–
+–
+?
+Bjørnland et al14
+?
+–
+?
+–
+–
+?
+?
+Gencer et al15
+–
+?
+?
+–
+–
+?
+?
+Hepguler et al16
+?
+–
+?
+–
+–
+–
+?
+Kopp et al18
+?
+?
+?
+–
+–
+–
+?
+Kopp et al17 (follow-up)
+?
+?
+?
++
+–
+–
++
+Tang et al19
+?
+?
+?
+–
+–
+–
+? 
++ = high risk of bias; – = low risk of bias; ? = unclear risk of bias.
+Random sequence generation
+Allocation concealment
+Blinding
+Incomplete outcome data
+Selective reporting
+Other bias
+Overall risk of bias
+0
+20
+40
+60
+80
+100
+Low risk
+Unclear risk
+High risk
+Risk (%)
+Fig 2  Graph of summary of risk of bias for eligible studies.
+© 2018 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+Moldez et al
+Journal of Oral & Facial Pain and Headache  61
+imbalance at baseline.14 No co-interventions were 
+reported in any of the included studies during treat-
+ment. Gencer et al15 studied patients who received 
+etodolac and had an unfavorable response to it; risk 
+of bias for this study15 was considered unclear.
+Summary of Risk of Bias. The study by Kopp et 
+al17 was rated at high risk of bias due to large drop-
+outs. All other studies were rated at unclear risk for 
+this parameter.
+Effects of Interventions
+Primary Outcome. Six studies reported posttreat-
+ment VAS pain. Three of these studies compared 
+NaH to CS,14,17,18 two compared NaH to placebo,13,16 
+and one compared NaH to either CS or placebo.15 
+Comparison of Change in VAS Pain Score Be-
+tween NaH and CS. Three studies14,15,18 reported VAS 
+pain at baseline and at 4 to 6 weeks follow-up (ie, 
+short-term pain) (Table 7). No statistically significant 
+heterogeneity was found among these three studies 
+(Q test P = .361; I2 = 2%), so the fixed-effects model 
+was used to compute the overall pooled results, which 
+showed no statistically significant difference in short-
+term posttreatment pain with NaH compared to CS in-
+jections (SDM = –0.040; 95% CI = –0.395 to 0.315; 
+P = .825) (Fig 3).
+To determine the effects of long-term pain (6 
+months to 2 years), the data from Kopp et al17 at 1 year 
+was pooled with 6-month data from Bjørnland et al14 
+(Table 7). There was statistically significant heteroge-
+neity (Q test P = .034; I2 = 78%), so the random-effects 
+model was used. The meta-analysis showed no statis-
+tically significant difference in long-term posttreatment 
+pain with NaH compared to CS (SDM = –0.058; 95% 
+CI = –1.055 to 0.939; P = .909) (Fig 4).
+No significant differences in VAS pain were found 
+when the 6-month data by Bjørnland et al14 and the 
+2-year data by Kopp et al17 were analyzed in a sen-
+sitivity analysis (SDM = 0.032, 95% CI = –1.168 to 
+1.233, P = .958).
+Comparison of Change in VAS Pain Score Be-
+tween NaH and Placebo. Of the four studies13,15,16,19 
+that compared NaH to placebo, only Gencer et al15 
+reported the mean and SD VAS pain score at base-
+line and at follow-up. The study by Tang et al19 did not 
+follow up on the VAS pain changes for the placebo 
+group, and Hepguler et al16 did not report the SD for 
+the treatment and placebo groups or a P value com-
+paring both groups. Bertolami et al13 did not report 
+VAS intensity of pain changes. Therefore, of the four 
+studies, only the study by Gencer et al15 was eligible 
+for meta-analysis. 
+Secondary Outcomes. Number of Patients with 
+Reported Improvement of Symptoms with NaH. 
+NaH vs CS. In their initial study18 and in their fol-
+low-up study,17 Kopp et al reported the number of 
+patients who had improvement of symptoms. There 
+was no significant difference between NaH and 
+CS at the 1-month (P = .470), 1-year (P = .511), or 
+2-year follow-ups (P = .787). The mean combined ef-
+fect showed no significant difference between NaH 
+and CS (RR = 0.994; 95% CI = 0.540 to 1.830; 
+P = .985) (Fig 5).
+NaH vs Placebo. Only Hepguler et al16 report-
+ed the number of patients who had improvement 
+of symptoms at 1 month (P = .001) and 6 months 
+(P = .038) with NaH vs placebo. The mean combined 
+effect of NaH at 1 month and 6 months was statisti-
+cally significantly better than placebo (RR = 3.194; 
+95% CI = 1.357 to 7.518; P = .008) (Fig 6).
+CS vs Placebo. Gencer et al15 did not report the 
+number of patients with improvement of symptoms.
+Helkimo Clinical Dysfunction Score and Mandib-
+ular Function. NaH vs Placebo. Bertolami et al13 re-
+ported a significant improvement in total dysfunction 
+score (P ≤ .001) and total intracapsular dysfunction 
+score (P ≤ .05) when NaH was used from 1 month to 
+5 months. Hepguler et al16 found a statistically signifi-
+cantly greater reduction in Helkimo clinical dysfunc-
+tion index with NaH compared to placebo. 
+NaH vs CS. Kopp et al18 reported statistical-
+ly significant reduced clinical dysfunction for both 
+NaH (P < .05) and CS (P < .01) groups. Bjørnland 
+et al14 found a statistically significant improvement 
+in range of mandibular movement for both NaH and 
+CS groups. However, neither of the two studies14,18 
+showed significant differences between groups. 
+Side Effects 
+Only two studies13,14 reported the side effects of 
+intra-articular injections (Table 6). Bertolami et al13 
+reported discomfort at the injection site and/or lo-
+calized swelling, which they described as mild and 
+of short duration (generally 1 day). Side effects were 
+reported by 7.5% of patients receiving NaH and by 
+9.8% of patients receiving saline. Bjørnland et al14 re-
+ported that 20% of patients experienced severe pain 
+after injection with NaH at rest or with mandibular 
+movement. The CS patients presented with ear pres-
+sure, open bite, and generalized rashes, but none 
+had pain after injection. According to the authors,14 
+complications, however temporary, may have influ-
+enced the overall outcome of the study, particularly 
+with regard to assessment of pain intensity. 
+Levels of Evidence and Summary of the 
+Review Findings
+The summary of the outcomes and side effects report-
+ed by the authors are presented in Tables 6 and 9, re-
+spectively. Although a few of the papers showed NaH 
+as more effective than CS in terms of pain or side ef-
+fects for certain conditions, the level of evidence was 
+© 2018 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+62  Volume 32, Number 1, 2018
+Moldez et al
+considered low. According to the GRADE levels of ev-
+idence and summary of findings, the level of evidence 
+for short- and long-term changes in pain was low due 
+to the risk of bias (ie, unclear or high risk), imprecision 
+due to the small number of studies reporting these 
+outcomes, and the small sample sizes of the studies 
+analyzed (< 400 participants in total) (Table 10). 
+Discussion 
+RCTs on intra-articular injection of NaH or CS for intra-
+capsular disorders due to OA and/or internal derange-
+ment of the TMJ were evaluated in this systematic 
+review and meta-analysis. Four RCTs compared NaH 
+to CS,14,15,17,18 and three compared it to placebo.13,16,19 
+Statistics for each study
+Study
+SDM
+Lower limit
+Upper limit
+P value
+SDM and 95% CI
+Bjørnland et al14
+–0.262
+–0.884
+0.360
+.409
+Gencer et al15
+–0.136
+–0.691
+0.419
+.632
+Kopp et al18
+0.383
+–0.309
+1.074
+.278
+Total
+–0.040
+–0.395
+0.315
+.825
+–4.00 –2.00
+0
+2.00
+4.00
+Favors NaH
+Favors CS
+Fig 3  Results of RCTs comparing short-term (4 to 6 weeks) change in pain score for patients receiving intra-articular injections of NaH 
+vs CS. SDM = standardized difference in means; CI = confidence interval.
+Statistics for each study
+Study
+SDM
+Lower limit
+Upper limit
+P value
+SDM and 95% CI
+Bjørnland et al14
+–0.556
+–1.188
+0.076
+.084
+Kopp et al17
+0.461
+–0.233
+1.156
+.193
+Total
+–0.058
+–1.055
+0.939
+.909
+–4.00 –2.00
+0
+2.00
+4.00
+Favors NaH
+Favors CS
+Fig 4  Results of RCTs comparing long-term (6 months to 1 year) change in pain score for patients receiving intra-articular injections of 
+NaH vs CS. SDM = standardized difference in means; CI = confidence interval.
+Time 
+point
+Statistics for each study
+Study
+RR
+Lower limit
+Upper limit
+P value
+RR and 95% CI
+Kopp et al18 
+1 mo
+1.204
+0.728
+1.990
+.470
+Kopp et al17 
+1 y
+0.778
+0.368
+1.645
+.511
+Kopp et al17
+2 y
+0.933
+0.566
+1.539
+.787
+Kopp et al17,18
+Combined
+0.994
+0.540
+1.830
+.985
+0.01
+0.10
+0
+10
+100
+Favors CS
+Favors NaH
+Fig 5  Results of RCTs comparing the number of patients with reported improvement of symptoms receiving intra-articular injection of 
+NaH vs CS. Kopp et al17 is a 1- and 2-year follow-up of Kopp et al,18 which reported 1-month results. RR = risk ratio; CI = confidence 
+interval.
+Time 
+point
+Statistics for each study
+Study
+RR
+Lower limit
+Upper limit
+P value
+RR and 95% CI
+Hepguler et al16
+1 mo
+4.250
+1.755
+10.290
+.001
+Hepguler et al16
+6 mo
+2.400
+1.050
+5.488
+.038
+Hepguler et al16
+Combined
+3.194
+1.357
+7.518
+.008
+0.01
+0.10
+0
+10
+100
+Favors placebo
+Favors NaH
+Fig 6  Results of RCTs comparing the number of patients with reported improvement of symptoms receiving intra-articular injections of 
+NaH vs placebo. RR = risk ratio; CI = confidence interval.
+© 2018 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+Moldez et al
+Journal of Oral & Facial Pain and Headache  63
+The majority of the subjects had OA of the TMJ, and 
+only one study16 used disc displacement with re-
+duction as the main diagnosis. All subjects received 
+one to two intra-articular injections into the superior 
+joint space at either 1- or 2-week intervals. The total 
+amount of the injected drug varied from 0.5 mL15,16,18 to 
+1 mL.14,19 One study13 did not specify the exact amount 
+of injected medication and was dependent on the joint 
+space volume. 
+The overall strength of the evidence was low due 
+to the small number of studies, small sample sizes 
+(< 400 participants), and the presence of risk of bias. 
+Overall Completeness and Applicability of 
+Evidence
+Three main databases were searched: MEDLINE 
+through PubMed, Web of Science, and The Cochrane 
+Library. Access to EMBASE was not available to the 
+Table 9  Summary of Outcomes Reported in Included Studies 
+Study
+Intervention
+Summary of outcomes
+Conclusion  
+by the authors
+Bertolami et al13
+NaH (n = 80) 
+Saline (n = 41)  
+  
+ 
+DJD: No difference in TMJ dysfunction, pain, or physical measurements 
+between treatment groups 
+DDN: Significant between-group differences in dysfunction index and VAS 
+pain and function scores were seen after 1 month; however, beyond this 
+time point, sample size was too small 
+DDR: Significant improvements in the NaH group compared to the saline 
+group throughout the 6-month test period in: 
+(a) Total anamnestic index (P < .05) 
+(b) Total intracapsular anamnestic score, sum of mobility, TMJ function, 
+TMJ pain, and movement pain variables (P < .05)
+(c) Visual analog TMJ noise (P < .01). 
+At the 2- and 3-month examinations, twice as many patients treated with 
+NaH (90%) showed improvement in temporomandibular dysfunction 
+compared to patients given placebo.
+DJD: NaH = saline 
+DDN: NaH > saline 
+DDR: NaH > saline
+Bjørnland et al14
+NaH + xylocaine 
+(n = 20)  
+CS + xylocaine  
+(n = 20) 
+Both groups of patients had less pain intensity at the 6-month follow-up, 
+and there was significantly less pain intensity in the group of patients who 
+received NaH compared with CS (P = .001). 
+Injections in the TMJ of NaH or CS may reduce pain and improve function 
+in patients with osteoarthritis.  
+The injections were more effective in patients with only TMJ pain 
+compared to patients suffering from both TMJ and myofascial pain. 
+NaH > CS (pain)
+Gencer et al15
+NaH (n = 25)  
+CS (n = 25)  
+Tenoxicam  
+(n = 25) 
+Saline (n = 25) 
+The NaH group showed significantly better pain relief scores compared 
+to the other groups at 1 wk and 6 wk (P < .05). TX and CS groups’ pain 
+scores were better than saline group values (P < .05 for both TX and CS). 
+TX group at 1 wk displayed better pain scores than CS group (P < .05).  
+The pain relief effect of TX was noted to decrease significantly between 
+1 wk and 6 wk (P < .05). The same pattern was not observed in NaH, CS, 
+and saline groups between 1 wk and 6 wk (P > .05).
+NaH > TX > CS > 
+saline
+Hepguler et al16
+NaH (n = 19) 
+Saline (n = 19)  
+Evaluation of patients by modified Helkimo’s clinical dysfunction index 
+in the NaH group showed significant improvement at 1 mo and 6 mo 
+compared to saline (P < .001 and P < .05, respectively).
+NaH > saline
+Kopp et al18
+NaH (n = 18)  
+CS (n = 15) 
+NaH and CS reduced subjective symptoms and clinical signs significantly, 
+and no statistically significant difference in effect could be found between 
+drugs in this regard.  
+The patients who had crepitus in the joints injected with CS achieved a 
+smaller reduction in clinical dysfunction score compared to the patients 
+without crepitus, which indicates that the prognosis of intra-articular CS 
+injection is poor in patients who have advanced OA of the TMJ. 
+NaH = CS (symp-
+toms and signs) 
+Kopp et al  
+(follow-up)17
+NaH (n = 18)  
+CS (n = 15) 
+NaH and CS were equally effective in treating patients with chronic 
+arthritis of TMJ, but NaH might be the best alternative due to reduced risk 
+for side effects.
+NaH = CS (pain) 
+NaH > CS (side 
+effects)
+Tang et al19
+NaH (n = 20) 
+Saline in OA pa-
+tients (n = 20) 
+Saline in healthy 
+controls (n = 20)
+NaH decreased uPA activity and levels of uPA, soluble uPAr, and PA inhib-
+itor 1 levels in synovial fluid collected before and after treatment in TMJs 
+of OA patients (P < .05), and there was no difference after saline injection. 
+Within the NaH group, the VAS score was significantly reduced after treat-
+ment (P < .05), but not in the saline group. VAS changes correlated with 
+changes in uPA and uPAR levels, as well as with uPA activity.
+NaH > saline (pain) 
+NaH = sodium hyaluronate; CS = corticosteroids; TX = Tenoxicam; DJD = degenerative joint disease; DDN = disc displacement without reduction;  
+DDR = disc displacement with reduction; OA = osteoarthritis; VAS = visual analog scale; uPA = urokinase-type PA ; uPAr = uPA receptor.
+© 2018 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+64  Volume 32, Number 1, 2018
+Moldez et al
+review authors. Included studies and reviews were 
+hand searched for eligible RCTs. Open-label stud-
+ies were not included in this systematic review. The 
+participants in the seven eligible studies included in 
+this systematic review were patients who failed to im-
+prove with conservative treatments. The results of this 
+review are applicable to individuals of 21 years and 
+older who present with intracapsular TMD and are re-
+sistant to conservative therapies; they do not apply to 
+patients with general arthritis, connective tissue dis-
+ease, a history of treatment with immunosuppressive 
+drugs, any organ diseases, and/or general infection.
+Agreements and Disagreements with Other 
+Studies or Reviews
+The systematic review by De Souza et al31 analyzed 
+studies on different interventions for OA of the TMJ (ie, 
+NaH vs CS, diclofenac sodium vs occlusal splint, and 
+glucosamine vs ibuprofen). The authors found weak 
+evidence that the effectiveness of NaH and CS are 
+equivalent.31 Escoda-Francolí et al32 reviewed stud-
+ies that compared different dosages of NaH and CS 
+intra-articular injections in conjunction with arthrocen-
+tesis. In this systematic review, the PICO question ex-
+cluded arthrocentesis studies. Balazs et al12 tried to 
+establish the best chemical composition of NaH that 
+proved most beneficial. Manfredini et al33 analyzed 
+the studies on the efficacy of intra-articular injection 
+of NaH vs placebo, CS (either alone or through ar-
+throcentesis), the use of analgesics (paracetamol 
+plus methocarbamol), and oral appliance therapy. The 
+present findings agree with their conclusions33 that 
+NaH injections are superior to placebo, with outcomes 
+similar to CS injections. Machado et al34 carried out an 
+extensive search analyzing the effects of NaH vs CS in 
+the treatment of internal derangement of the TMJ and 
+found that both were seemingly effective; however, 
+they provided no meta-analysis nor a summary of the 
+quality of the evidence. Goiato et al35 used a PICO 
+question different from the present study and included 
+in their systematic review studies on arthrocentesis,36 
+subjects with rheumatoid arthritis,37 and assessment 
+of bone changes after injections,38 which had been 
+excluded in the present systematic review. Thus, prior 
+reviews concur that there is no difference in the effec-
+tiveness of NaH or CS intra-articular injections for OA 
+and/or TMJ internal derangement. However, the quality 
+of the evidence is low.
+Conclusions
+Although there was no statistically significant differ-
+ence in the effectiveness between NaH and CS in-
+jections to treat intracapsular TMD, there was some 
+favorable evidence that NaH is better than placebo. 
+Nonetheless, the quality of evidence resulting from this 
+systematic review is low due to high or unclear risk of 
+bias, heterogeneity in outcomes, small sample size, and 
+small number of studies included in the meta-analysis. 
+Therefore, high-quality RCTs on the effectiveness of 
+NaH compared to CS or placebo with large sample 
+sizes and long-term follow-up are still lacking.
+Acknowledgments
+The authors of this review would like to thank Dr Gayle Macdonald 
+and Dr Margarita Zeichner-David for help with editing and for-
+matting of the manuscript. The authors have no funding and no 
+conflicts of interest.
+References
+  1. 	 Okeson JP. The classification of orofacial pains. Oral Maxillofac 
+Surg Clin North Am 2008;20:133–144. 
+  2. 	Paesani D, Westesson PL, Hatala M, Tallents RH, Kurita K. 
+Prevalence of temporomandibular joint internal derangement in 
+patients with craniomandibular disorders. Am J Orthod Dentofacial 
+Orthop 1992;101:41–47.
+Table 10  Summary of Findings for Quality of Evidence (GRADE)
+Outcomes
+No. of Participants 
+(studies), follow-up
+Quality of the evidence 
+(GRADE)
+Anticipated absolute effects
+Risk difference with NaH (95% CI)
+Change in VAS pain 
+(short term)
+123 
+(3) 
+4–6 wk
+⊕⊕⊝⊝ 
+LOWa,b due to risk of bias, 
+imprecision
+The mean change in short-term pain in the NaH group 
+was 0.040 standard deviations lower (0.395 lower to 
+0.315 higher) than in the CS group, favorable to NaH.
+Change in VAS pain 
+(long term)
+64 
+(2) 
+6–12 mo
+⊕⊕⊝⊝ 
+LOWa,c due to risk of bias, 
+imprecision
+The mean change in long-term pain in the NaH group 
+was 0.058 standard deviations lower (1.055 lower to 
+0.939 higher) than in the CS group, favorable to NaH.
+VAS = visual analog scale; RCT = randomized controlled trial. GRADE Working Group grades of evidence: High quality = further research is very unlikely 
+to change the level of confidence in the estimate of effect; moderate quality = further research is likely to have an important impact on the level of 
+confidence in the estimate of effect and may change the estimate; low quality = further research is very likely to have an important impact on the level of 
+confidence in the estimate of effect and is likely to change the estimate; very low quality = review authors are very uncertain about the estimate. aAll RCTs 
+at unclear or high risk of bias. bOnly three studies included in meta-anlysis, small sample size (< 400 participants in total). cOnly two studies included in 
+meta-anlysis, small sample size (< 400 participants in total). 
+© 2018 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+Moldez et al
+Journal of Oral & Facial Pain and Headache  65
+  3. 	Haskin CL, Milam SB, Cameron IL. Pathogenesis of degenerative 
+joint disease in the human temporomandibular joint. Crit Rev Oral 
+Biol Med 1995;6:248–277.
+  4. 	Johansson A, Unell L, Carlsson GE, Söderfeldt B, Halling A. 
+Gender difference in symptoms related to temporomandibular 
+disorders in a population of 50-year-old subjects. J Orofac Pain 
+2003;17:29–35.
+  5. 	Johansson A, Unell L, Carlsson GE, Söderfeldt B, Halling A. 
+Risk factors associated with symptoms of temporomandibular 
+disorders in a population of 50- and 60-year-old subjects. J Oral 
+Rehabil 2006;33:473–481. 
+  6. 	Dym H, Bowler D, Zeidan J. Pharmacologic treatments for tem-
+poromandibular disorders. Dent Clin North Am 2016;60:367–379.
+  7. 	 Shafer DM, Assael L, White LB, Rossomando EF. Tumor necro-
+sis factor-alpha as a biochemical marker of pain and outcome 
+in temporomandibular joints with internal derangements. J Oral 
+Maxillofac Surg 1994;52:786–791. 
+  8. 	Jacobs JW, Bijlsma JW. Glucocorticoid therapy. In: Firestein GS, 
+Kelley WN (eds). Kelley’s Textbook of Rheumatology. Philadelphia: 
+Elsevier, 2013:894–916. 
+  9. 	 Balazs EA, Watson D, Duff IF, Roseman S. Hyaluronic acid in sy-
+novial fluid. I. Molecular parameters of hyaluronic acid in normal 
+and arthritis human fluids. Arthritis Rheum 1967;10:357–376. 
+10. 	Balazs EA, Denlinger JL. Viscosupplementation: A new concept in 
+the treatment of osteoarthritis. J Rheumatol Suppl 1993;39:3–9.
+11. 	 Mathieu P, Conrozier T, Vignon E, Rozand Y, Rinaudo M. Rheologic 
+behavior of osteoarthritic synovial fluid after addition of hyaluronic 
+acid: A pilot study. Clin Orthop Relat Res 2009;467:3002–3009. 
+12. 	Balazs EA. Analgesic effect of elastoviscous hyaluronan solu-
+tions and the treatment of arthritic pain. Cells Tissues Organs 
+2003;174:49–62. 
+13. 	Bertolami CN, Gay T, Clark GT, et al. Use of sodium hyaluronate 
+in treating temporomandibular joint disorders: A randomized, dou-
+ble-blind, placebo-controlled clinical trial. J Oral Maxillofac Surg 
+1993;51:232–242. 
+14. 	Bjørnland T, Gjaerum AA, Møystad A. Osteoarthritis of the tem-
+poromandibular joint: An evaluation of the effects and compli-
+cations of corticosteroid injection compared with injection with 
+sodium hyaluronate. J Oral Rehabil 2007;34:583–589. 
+15. 	Gencer ZK, Özkiris¸ M, Okur A, Korkmaz M, Saydam L. A com-
+parative study on the impact of intra-articular injections of 
+hyaluronic acid, tenoxicam and betametazon on the relief of tem-
+poromandibular joint disorder complaints. J Craniomaxillofac Surg 
+2014;42:1117–1121. 
+16. 	Hepguler S, Akkoc YS, Pehlivan M, et al. The efficacy of intra-ar-
+ticular sodium hyaluronate in patients with reducing displaced disc 
+of the temporomandibular joint. J Oral Rehabil 2002;29:80–86. 
+17. 	 Kopp S, Carlsson GE, Haraldson T, Wenneberg B. Long-term ef-
+fect of intra-articular injections of sodium hyaluronate and cortico-
+steroid on temporomandibular joint arthritis. J Oral Maxillofac Surg 
+1987;45:929–935.
+18. 	Kopp S, Wenneberg B, Haraldson T, Carlsson GE. The short-
+term effect of intra-articular injections of sodium hyaluronate and 
+corticosteroid on temporomandibular joint pain and dysfunction. 
+J Oral Maxillofac Surg 1985;43:429–435. 
+19. 	Tang YL, Zhu GQ, Hu L, et al. Effects of intra-articular adminis-
+tration of sodium hyaluronate on plasminogen activator system in 
+temporomandibular joints with osteoarthritis. Oral Surg Oral Med 
+Oral Pathol Oral Radiol Endod 2010;109:541–547. 
+20. 	Helkimo M. Studies on function and dysfunction of the mastica-
+tory system. I. An epidemiological investigation of symptoms of 
+dysfunction in Lapps in the north of Finland. Proc Finn Dent Soc 
+1974;70:37–49.
+21. 	Helkimo M. Studies on function and dysfunction of the masticatory 
+system. II. Index for anamnestic and clinical dysfunction and oc-
+clusal state. Sven Tandlak Tidskr 1974;67:101–121.
+22. 	Helkimo M. Studies on function and dysfunction of the masti-
+catory system. 3. Analyses of anamnestic and clinical record-
+ings of dysfunction with the aid of indices. Sven Tandlak Tidskr 
+1974;67:165–181.
+23. 	Kurita H, Kurashina K, Kotani A. Clinical effect of full coverage 
+occlusal splint therapy for specific temporomandibular disorder 
+conditions and symptoms. J Prosthet Dent 1997;78:506–510. 
+24. 	The Cochrane Collaboration. Higgins J, Green S (eds). Cochrane 
+Handbook for Systematic Reviews of Interventions: Version 5.1.0. 
+http://community.cochrane.org/handbook. Accessed 24 August, 
+2017.
+25. 	Cochran WG. The combination of estimates from different experi-
+ments. Biometrics 1954;10:101–129.
+26. 	Higgins JP, Thompson SG. Quantifying heterogeneity in a me-
+ta-analysis. Stat Med 2002;21:1539–1558.
+27. 	 Moher D, Liberati A, Tetzlaff J, Altman DG, PRISMA Group. 
+Preferred reporting items for systematic reviews and meta-analyses: 
+The PRISMA statement. PLoS Med 2009;6:e1000097. 
+28. 	Dworkin SF, LeResche L. Research diagnostic criteria for tem-
+poromandibular disorders: Review, criteria, examinations and 
+specifications, critique. J Craniomandib Disord 1992;6:301–355.
+29. 	Dworkin SF. Research Diagnostic Criteria for Temporo­mandibular 
+Disorders: Current status & future relevance. J Oral Rehabil 2010; 
+37:734–743. 
+30. 	Wilkes CH. Internal derangements of the temporomandibular 
+joint. Pathological variations. Arch Otolaryngol Head Neck Surg 
+1989;115:469–477. 
+31. 	de Souza RF, Lovato da Silva CH, Nasser M, Fedorowicz Z, Al-
+Muharraqi MA. Interventions for the management of temporo-
+mandibular joint osteoarthritis. Cochrane Database Syst Rev 
+2012;(4):CD007261.
+32. 	Escoda-Francolí J, Vázquez-Delgado E, Gay-Escoda C. Scientific 
+evidence on the usefulness of intraarticular hyaluronic acid injec-
+tion in the management of temporomandibular dysfunction. Med 
+Oral Patol Oral Cir Bucal 2010;15:e644–e648. 
+33. 	Manfredini D, Favero L, Del Giudice A, Masiero S, Stellini E, 
+Guarda-Nardini L. Axis II psychosocial findings predict effective-
+ness of TMJ hyaluronic acid injections. Int J Oral Maxillofac Surg 
+2013;42:364–368. 
+34. 	Machado E, Bonotto D, Cunali PA. Intra-articular injections with 
+corticosteroids and sodium hyaluronate for treating temporoman-
+dibular joint disorders: A systematic review. Dental Press J Orthod 
+2013;18:128–133. 
+35. 	Goiato MC, da Silva EV, de Medeiros RA, Túrcio KH, Dos Santos 
+DM. Are intra-articular injections of hyaluronic acid effective for 
+the treatment of temporomandibular disorders? A systematic re-
+view. Int J Oral Maxillofac Surg 2016;45:1531–1537. 
+36. 	Manfredini D, Rancitelli D, Ferronato G, Guarda-Nardini L. 
+Arthrocentesis with or without additional drugs in temporoman-
+dibular joint inflammatory-degenerative disease: Comparison of 
+six treatment protocols. J Oral Rehabil 2012;39:245–251. 
+37. 	 Kopp S, Akerman S, Nilner M. Short-term effects of intra-articular 
+sodium hyaluronate, glucocorticoid, and saline injections on rheu-
+matoid arthritis of the temporomandibular joint. J Craniomandib 
+Disord 1991;5:231–238.
+38. 	Møystad A, Mork-Knutsen BB, Bjørnland T. Injection of sodium 
+hyaluronate compared to a corticosteroid in the treatment of pa-
+tients with temporomandibular joint osteoarthritis: A CT evalua-
+tion. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 2008; 
+105:e53–e60. 
+39. 	Aktas I, Yalcin S, Sencer S. Prognostic indicators of the out-
+come of arthrocentesis with and without sodium hyaluronate in-
+jection for the treatment of disc displacement without reduction: 
+A magnetic resonance imaging study. Int J Oral Maxillofac Surg 
+2010;39:1080–1085. 
+40. 	Alpaslan C, Alpaslan G. The efficacy of intraarticular injection of 
+sodium hyaluronate on temporomandibular joint disc displace-
+ment with reduction [abstract]. J Craniomaxillofac Surg 1998; 
+26(suppl):s6.
+41. 	 Alpaslan C, Bilgihan A, Alpaslan GH, Güner B, Ozgür Yis M, 
+Erbas¸ D. Effect of arthrocentesis and sodium hyaluronate injec-
+tion on nitrite, nitrate, and thiobarbituric acid-reactive substance 
+levels in the synovial fluid. Oral Surg Oral Med Oral Pathol Oral 
+Radiol Endod 2000;89:686–690.
+42. 	Alpaslan C, Dolwick MF, Heft MW. Five-year retrospective eval-
+uation of temporomandibular joint arthrocentesis. Int J Oral 
+Maxillofac Surg 2003;32:263–267. 
+43. 	Alpaslan GH, Alpaslan C, Bertolami CN. Efficacy of temporoman-
+dibular joint arthrocentesis with and without injection of sodium 
+hyaluronate in treatment of internal derangements [discussion]. 
+J Oral Maxillofac Surg 2001;59:618–619. 
+© 2018 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 
+66  Volume 32, Number 1, 2018
+Moldez et al
+44. 	Appelgren A, Appelgren B, Kopp S, Lundeberg T, Theodorsson 
+E. Substance P-associated increase of intra-articular tempera-
+ture and pain threshold in the arthritic TMJ. J Orofac Pain 1998; 
+12:101–107.
+45. 	Guarda-Nardini L, Tito R, Staffieri A, Beltrame A. Treatment 
+of patients with arthrosis of the temporomandibular joint by in-
+filtration of sodium hyaluronate: A preliminary study. Eur Arch 
+Otorhinolaryngol 2002;259:279–284. 
+46. 	Guarda-Nardini L, Manfredini D, Ferronato G. Arthrocentesis 
+of the temporomandibular joint: A proposal for a single-needle 
+technique. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 
+2008;106:483–486. 
+47. 	 Guarda-Nardini L, Cadorin C, Frizziero A, Ferronato G, Manfredini 
+D. Comparison of 2 hyaluronic acid drugs for the treatment of tem-
+poromandibular joint osteoarthritis. J Oral Maxillofac Surg 2012; 
+70:2522–2530. 
+48. 	Guarda-Nardini L, Ferronato G, Manfredini D. Two-needle vs. sin-
+gle-needle technique for TMJ arthrocentesis plus hyaluronic acid 
+injections: A comparative trial over a six-month follow up. Int J Oral 
+Maxillofac Surg 2012;41:506–513. 
+49. 	Guarda-Nardini L, Olivo M, Ferronato G, Salmaso L, Bonnini S, 
+Manfredini D. Treatment effectiveness of arthrocentesis plus hyal-
+uronic acid injections in different age groups of patients with tem-
+poromandibular joint osteoarthritis. J Oral Maxillofac Surg 2012; 
+70:2048–2056. 
+50. 	Guarda-Nardini L, Ferronato G, Favero L, Manfredini D. Predictive 
+factors of hyaluronic acid injections short-term effectiveness for 
+TMJ degenerative joint disease. J Oral Rehabil 2011;38:315–320. 
+51. 	 Guarda-Nardini L, Rossi A, Ramonda R, Punzi L, Ferronato G, 
+Manfredini D. Effectiveness of treatment with viscosupplementa-
+tion in temporomandibular joints with or without effusion. Int J Oral 
+Maxilllofac Surg 2014;43:1218–1223.
+52. 	Guo C, Shi Z, Revington P. Arthrocentesis and lavage for treating 
+temporomandibular joint disorders. Cochrane Database Syst Rev 
+2009;(4):CD004973.
+53. 	Huddleston Slater JJ, Vos LM, Stroy LP, Stegenga B. Randomized 
+trial on the effectiveness of dexamethasone in TMJ arthrocentesis. 
+J Dent Res 2012;91:173–178. 
+54. 	Manfredini D, Bonnini S, Arboretti R, Guarda-Nardini L. 
+Temporomandibular joint osteoarthritis: An open label trial of 76 
+patients treated with arthrocentesis plus hyaluronic acid injec-
+tions. Int J Oral Maxillofac Surg 2009;38:827–834. 
+55. 	Manfredini D, Favero L, Michieli M, Salmaso L, Cocilovo F, 
+Guarda-Nardini L. An assessment of the usefulness of jaw kine-
+siography in monitoring temporomandibular disorders: Correlation 
+of treatment-related kinesiographic and pain changes in patients 
+receiving temporomandibular joint injections. J Am Dent Assoc 
+2013;144:397–405.
+56. 	Sanromán JF. Closed lock (MRI fixed disc): A comparison 
+of arthrocentesis and arthroscopy. Int J Oral Maxillofac Surg 
+2004;33:344–348. 
+57. 	 Sato S, Ohta M, Ohki H, Kawamura H, Motegi K. Effect of lavage 
+with injection of sodium hyaluronate for patients with nonreducing 
+disk displacement of the temporomandibular joint. Oral Surg Oral 
+Med Oral Pathol Oral Radiol Endod 1997;84:241–244. 
+58. 	Su N, Yang X, Liu Y, Huang Y, Shi Z. Evaluation of arthrocentesis 
+with hyaluronic acid injection plus oral glucosamine hydrochloride 
+for temporomandibular joint osteoarthritis in oral-health-related 
+quality of life. J Craniomaxillofac Surg 2014;42:846–851.
+59. 	Tabrizi R, Karagah T, Arabion H, Soleimanpour MR, Soleimanpour 
+M. Outcomes of arthrocentesis for the treatment of internal de-
+rangement pain: With or without corticosteroids? J Craniofac 
+Surg 2014;25:e571–e575.
+60. 	Ungor C, Cezairli B, Taskesen F, Dayisoylu EH, Cizmeci Senel 
+F. Comparative treatment outcomes of menopausal and non-
+menopausal women after arthrocentesis. J Craniofac Surg 2014; 
+25:e592–e598.
+61. 	Alstergren P, Appelgren A, Appelgren B, Kopp S, Lundeberg T, 
+Theodorsson E. The effect on joint fluid concentration of neuro-
+peptide Y by intra-articular injection of glucocorticoid in temporo-
+mandibular joint arthritis. Acta Odontol Scand 1996;54:1–7.
+62. 	Charalambous CP. Corticosteroid compared with hyaluronic acid 
+injections for the treatment of osteoarthritis of the knee. J Bone 
+Joint Surg Am 2004;86-A:874.
+63. 	Edwards JL. Sodium hyaluronate for temporomandibular joint dis-
+orders. Ann R Australas Coll Dent Surg 1994;12:217–222.
+64. 	Gu Z, Wu Q, Zhang Y, Zhang Z, Sun K. Visco-supplementation 
+therapy in internal derangement of temporomandibular joint. Chin 
+Med J (Engl) 1998;111:656–659.
+65. 	Gu ZY, Wu HL, Wu QL, Cao ZQ, Zhang YX. The effect of in-
+tra-articular irrigation injection therapy on osteoarthrosis of the 
+temporomandibular joint. Chin J Dent Res 1998;1:44–48.
+66. 	Guarda-Nardini L, Masiero S, Marioni G. Conservative treatment 
+of temporomandibular joint osteoarthrosis: Intra-articular injection 
+of sodium hyaluronate. J Oral Rehabil 2005;32:729–734. 
+67. 	 Hirota W. Intra-articular injection of hyaluronic acid reduces total 
+amounts of leukotriene C4, 6-keto-prostaglandin F1alpha, prosta-
+glandin F2alpha and interleukin-1beta in synovial fluid of patients 
+with internal derangement in disorders of the temporomandibular 
+joint. Br J Oral Maxillofac Surg 1998;36:35–38.
+68. 	Li C, Long X, Deng M, Li J, Cai H, Meng Q. Osteoarthritic changes 
+after superior and inferior joint space injection of hyaluronic acid for 
+the treatment of temporomandibular joint osteoarthritis with ante-
+rior disc displacement without reduction: A cone-beam computed 
+tomographic evaluation. J Oral Maxillofac Surg 2015;73:232–244.
+69. 	Oliveras-Moreno JM, Hernandez-Pacheco E, Oliveras-Quintana 
+T, Infante-Cossio P, Gutierrez-Perez JL. Efficacy and safety of so-
+dium hyaluronate in the treatment of Wilkes stage II disease. J Oral 
+Maxillofac Surg 2008;66:2243–2246. 
+70. 	Rydell N, Balazs EA. Effect of intra-articular injection of hyaluronic 
+acid on the clinical symptoms of osteoarthritis and on granulation 
+tissue formation. Clin Orthop Relat Res 1971;80:25–32.
+71. 	Shi Z, Guo C, Awad M. Hyaluronate for temporomandibular joint 
+disorders. Cochrane Database Syst Rev 2003;(1):CD002970. 
+72. 	Toller P. Non-surgical treatment of dysfunctions of the tempo-
+ro-mandibular joint. Oral Sci Rev 1976;7:70–85.
+73. 	Vallon D, Akerman S, Nilner M, Petersson A. Long-term follow-up 
+of intra-articular injections into the temporomandibular joint in pa-
+tients with rheumatoid arthritis. Swed Dent J 2002;26:149–158.
+74. 	Bouloux GF, Chou J, Krishnan D, et al. Is hyaluronic acid or corti-
+costeroid superior to lactated ringer solution in the short term for 
+improving function and quality of life after arthrocentesis? Part 2. 
+J Oral Maxillofac Surg 2017;75:63–72. 
+75. 	Fernández-Ferro M, Fernández-Sanromán J, Blanco-Carrión A, et 
+al. Comparison of intra-articular injection of plasma rich in growth 
+factors versus hyaluronic acid following arthroscopy in the treat-
+ment of temporomandibular dysfunction: A randomised prospec-
+tive study. J Craniomaxillofac Surg 2017;45:449–454. 
+76. 	Hegab AF, Ali HE, Elmasry M, Khallaf MG. Platelet-rich plasma 
+injection as an effective treatment for temporomandibular joint os-
+teoarthritis. J Oral Maxillofac Surg 2015;73:1706–1713. 
+77. 	 Cömert Kiliç S. Does injection of corticosteroid after arthrocen-
+tesis improve outcomes of temporomandibular joint osteoar-
+thritis? A randomized clinical trial. J Oral Maxillofac Surg 2016; 
+74:2151–2158. 
+78. 	Korkmaz YT, Altıntas NY, Korkmaz FM, Candırlı C, Coskun U, 
+Durmuslar MC. Is hyaluronic acid injection effective for the treat-
+ment of temporomandibular joint disc displacement with reduc-
+tion? J Oral Maxillofac Surg 2016;74:1728–1740. 
+79. 	Marty P, Louvrier A, Weber A, Dubreuil P, Chatelain B, Meyer C. 
+Arthrocentesis of the temporomandibular joint and intra-articular 
+injections: An update [in French]. Rev Stomatol Chir Maxillofac 
+Chir Orale 2016;117:266–272.
+80. 	Ozdamar SM, Alev B, Yarat A. The impact of arthrocentesis with 
+and without hyaluronic acid injection in the prognosis and synovial 
+fluid myeloperoxidase levels of patients with painful symptomatic 
+internal derangement of temporomandibular joint: A randomised 
+controlled clinical trial. J Oral Rehabil 2017;44:73–80. 
+81. 	Patel P, Idrees F, Newaskar V, Agrawal D. Sodium hyaluronate: An 
+effective adjunct in temporomandibular joint arthrocentesis. Oral 
+Maxillofac Surg 2016;20:405–410. 
+© 2018 BY QUINTESSENCE PUBLISHING CO, INC. PRINTING OF THIS DOCUMENT IS RESTRICTED TO PERSONAL USE ONLY. 
+NO PART MAY BE REPRODUCED OR TRANSMITTED IN ANY FORM WITHOUT WRITTEN PERMISSION FROM THE PUBLISHER. 

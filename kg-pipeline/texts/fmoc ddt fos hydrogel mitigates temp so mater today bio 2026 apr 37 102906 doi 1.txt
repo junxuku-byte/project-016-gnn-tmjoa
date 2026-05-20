@@ -1,0 +1,1329 @@
+Fmoc-DDT@Fos hydrogel mitigates temporomandibular joint osteoarthritis 
+through regulating macrophage reprogramming and ferroptosis
+Yuxin Zhang a,b,1, Dahe Zhang a,1, Xiaokun Yue b,1, Qingyu Xu a, Lingtong Bu a, Jiajia Lu c,*
+,  
+Chi Yang a,**
+, Pei Shen a,***, Jisi Zheng a,****
+a Department of Oral Surgery, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong 
+University, National Center for Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology, Shanghai Research Institute 
+of Stomatology, Shanghai, 200011, China
+b Shanghai Key Laboratory of Orthopedic Implants, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, 200011, China
+c Department of Orthopedic Trauma, Shanghai Fourth People's Hospital, School of Medicine, Tongji University, Shanghai, 200434, China
+A R T I C L E  I N F O
+Keywords:
+Temporomandibular joint osteoarthritis
+Fmoc-DDT@Fos hydrogel
+Fostamatinib
+Macrophage reprogramming
+Ferroptosis
+Cartilage homeostasis
+A B S T R A C T
+Temporomandibular joint osteoarthritis (TMJ OA) represents a progressive degenerative disorder that seriously 
+threatens patients’ quality of life. Current treatment aims to slow cartilage degeneration, relieve pain, promote 
+bone remodeling, and restore joint function. In this study, we develop a novel peptide hydrogel drug delivery 
+system named Fmoc-DDT@Fos, combining Fmoc-FF peptides with PLGA/TPP nanospheres loaded with Fosta­
+matinib (Fos), functionalized for sustained release and locally targeted application of Fos. In vitro and in vivo 
+studies demonstrate that this drug delivery system has good biocompatibility, macrophage targeting, and Fos 
+slow-release properties. It is able to inhibit inflammatory response by promoting the functional reprogramming 
+of macrophages from pro-inflammatory M1 phenotype toward anti-inflammatory M2 phenotype and modulating 
+ferroptosis pathways, which subsequently maintains condylar cartilage homeostasis and halts TMJ OA pro­
+gression. By elucidating these mechanisms, our research not only offers a novel therapeutic strategy for TMJ OA 
+but also deepens our understanding of its pathophysiology. Moreover, this biomaterial-based strategy may 
+provide a safer and more effective framework for managing other inflammatory and degenerative diseases.
+1. Introduction
+Temporomandibular Joint Osteoarthritis (TMJ OA) represents a 
+prevalent chronic degenerative joint disorder, particularly prevalent 
+among older adults [1]. Due to the potential harmful effects on cra­
+niomaxillofacial growth and development in children and adolescents in 
+recent years has received increasing attention from the medical and 
+patient communities. TMJ OA is characterized by progressive cartilage 
+degeneration, synovitis, and subchondral bone destruction, often lead­
+ing to worsening pain, restricted mouth opening, and impaired joint 
+mobility, which significantly reduced the patients’ quality of life [2,3]. 
+Although its precise pathogenesis remains unclear, TMJ OA is likely 
+linked to genetic, metabolic, mechanical stress, and inflammatory 
+processes [4]. Given its complexity and multifactorial nature, effective 
+management demands comprehensive strategies aimed at symptom re­
+lief, slowing disease progression, and damaged tissue repair [5].
+Currently, the clinical management of TMJ OA is based on the 
+principle of preferred non-surgical treatment, primarily relies on phar­
+macological treatments, physical therapy, and behavioral management 
+[6,7]. Commonly used medications include non-steroidal anti-in­
+flammatory drugs (NSAIDs), corticosteroids, and glucosamine sulfate 
+[8]. While these treatments alleviate pain and inflammation to a certain 
+extent, their long-term use can lead to serious side effects, such as 
+gastrointestinal issues and cardiovascular risks, and it can also lead to 
+drug dependence [9–11]. Physical therapy and behavioral management 
+can improve quality of life but generally have limited effects on 
+* Corresponding author.
+** Corresponding author
+*** Corresponding author.
+**** Corresponding author.
+E-mail addresses: lujiajia@smmu.edu.cn (J. Lu), yangchi1963@hotmail.com (C. Yang), shenpei1215@163.com (P. Shen), 237111641@qq.com (J. Zheng). 
+1 These authors contributed equally to this work.
+Contents lists available at ScienceDirect
+Materials Today Bio
+journal homepage: www.journals.elsevier.com/materials-today-bio
+https://doi.org/10.1016/j.mtbio.2026.102906
+Received 15 June 2025; Received in revised form 13 January 2026; Accepted 5 February 2026  
+Materials Today Bio 37 (2026) 102906 
+Available online 9 February 2026 
+2590-0064/© 2026 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by- 
+nc-nd/4.0/ ). 
+reversing the degenerative process of the joints [12]. Therefore, the 
+development of safer and more effective treatment strategies is urgent 
+and imperative [13–15].
+In recent years, the application of biomaterials in medicine has 
+developed rapidly and has become an important means of disease 
+treatment and tissue engineering [16–18]. Among these, peptide 
+hydrogels have attracted attention for their biocompatibility, structural 
+tunability, and biodegradability [19,20]. Peptide hydrogels offer an 
+effective 
+drug 
+delivery 
+platform, 
+enabling 
+local 
+release 
+of 
+anti-inflammatory or regenerative agents at the lesion site to minimize 
+systemic toxicity. Our previous study has identified the potential of the 
+targeted drug Fostamatinib (Fos) in the prevention and treatment of 
+TMJ OA and initially explored its therapeutic mechanisms [21]. 
+Thereby, in this study, we aim to further construct a peptide hydrogel 
+drug delivery system for sustained release and locally targeted appli­
+cation of Fos, thus demonstrating the potential of biomaterials to opti­
+mize therapeutic efficacy through precise drug delivery control [22–24].
+Macrophages are highly multifunctional immune cells that play a 
+crucial inflammatory regulatory role in the pathogenesis of TMJ OA, 
+their polarization state is essential for maintaining or disrupting 
+condylar cartilage homeostasis. Pro-inflammatory M1 macrophages 
+aggravate synovial inflammation and tissue destruction by secreting 
+mediators such as TNF-α, IL-1β, and IL-6, whereas M2 macrophages 
+produce anti-inflammatory cytokines, including IL-10 and TGF-β, 
+facilitating tissue repair [25,26]. Modulating macrophage polarization 
+toward the M2 phenotype has emerged as a potential therapeutic 
+strategy for TMJ OA. The development of the peptide hydrogel drug 
+delivery system is inspired by this principle. It may significantly improve 
+the inflammatory state and joint function in TMJ OA by enhancing 
+inflammation control and cartilage repair through local modulation of 
+macrophage function [27–29].
+In this study, we successfully construct the Fmoc-DDT@Fos peptide 
+hydrogel drug delivery system and delve into the effect and molecular 
+mechanisms by which it alleviates TMJ OA through the modulation of 
+macrophage function. Through comprehensive in vitro and in vivo ex­
+periments, we aim to demonstrate that the hydrogel facilitates the 
+reprogramming of M1 macrophages to M2 phenotype and inhibits fer­
+roptosis. These actions collectively alleviate TMJ OA by reducing joint 
+inflammation and maintaining condylar cartilage homeostasis. By 
+elucidating these mechanisms, this research not only offers a novel 
+therapeutic strategy for TMJ OA but also deepens our understanding of 
+its pathophysiology. Moreover, this biomaterial-based strategy may 
+provide a safer and more effective framework for managing other in­
+flammatory and degenerative diseases.
+Fig. 1. Synthesis and characterization of DDT@Fos. (A) Schematic illustration of PPT@Fos synthesis; TEM (B) and SEM (C) analysis of PLGA-b-PEG-TPP and 
+PPT@Fos morphology; NTA of size distribution for PLGA-b-PEG-TPP (D) and PPT@Fos (E); (F) NTA of Zeta potential for PLGA-b-PEG-TPP and PPT@Fos; (G) 
+Schematic illustration of DDT@Fos synthesis; TEM (H) and SEM (I) analysis of PPT@Fos and DDT@Fos morphology; (J) NTA of size distribution for DDT@Fos; (K) 
+NTA of Zeta potential for PLGA-b-PEG-TPP, PPT@Fos, and DDT@Fos; (L) Fluorescence detection of ddH2O, PPT@Fos, DBCO-DS, and DDT@Fos.
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+2 
+2. Results
+2.1. Development of Fos-loaded DDT@Fos
+Spleen Tyrosine Kinase (SYK) inhibitors can block M1 macrophage 
+polarization and limit pro-inflammatory cytokine release, thereby 
+ameliorating osteoarthritis [30,31]. Fos, the first SYK inhibitor approved 
+for clinical use, reduces the inflammatory response by inhibiting SYK 
+activation in macrophages [32,33]. However, its exact therapeutic role 
+and mechanism for TMJ OA as well as how to develop safer, more 
+effective, and more precise and long-lasting modes of administration 
+remain to be further investigated. In this study, we have designed and 
+synthesized a peptide hydrogel incorporating poly(lactic-co-glycolic 
+acid)/tripolyphosphate (PLGA/TPP) nanospheres for the delivery of 
+Fos. This drug delivery system is engineered to specifically target mac­
+rophages, thereby modulating the inflammatory microenvironment of 
+TMJ OA (Fig. S1).
+Initially, we synthesized PLGA/TPP by coupling PLGA-b-PEG-OH 
+with TPP (Fig. 1A). As shown in Fig. S2A, the coupling of PLGA-b- 
+PEG-OH with TPP facilitated the self-assembly of nanospheres. 
+Fourier-transform infrared spectroscopy (FTIR) revealed a carbonyl 
+peak shift, confirming the interaction between PLGA-b-PEG-OH and TPP 
+(Fig. S2B). Furthermore, the correlation of the PPh3+ peaks within the 
+7.70-7.90 range with the TPP 1H NMR spectra further verified the 
+conjugation between TPP and PLGA-b-PEG (Fig. S2C–E). Fos was sub­
+sequently encapsulated using the inherent self-assembly capability of 
+PLGA-b-PEG-TPP, named PPT@Fos. Transmission electron microscopy 
+(TEM) demonstrated that PPT@Fos retained a three-dimensional 
+spherical architecture and possessed a greater diameter than PLGA-b- 
+PEG-TPP (Fig. 1B). Scanning electron microscopy (SEM) further 
+confirmed that the nanospheres were spherical and their size increased 
+after loading with Fos (Fig. 1C). Particle size analysis was further vali­
+dated by nanosizer measurements, which showed that the average 
+diameter of PLGA-b-PEG-TPP was 83.59 ± 9.6 nm with a zeta potential 
+of −11.26 mV, whereas PPT@Fos had an average diameter of 
+158.13 ± 16.3 nm and a zeta potential of −8.76 mV. Both size 
+enlargement and a modest rise in zeta potential were observed after drug 
+incorporation (Fig. 1D–F).
+We then conjugated dibenzocyclooctyne (DBCO) with cy5.5 fluo­
+rescent dye-labeled dextran sulfate (DS), a targeting fragment for scav­
+enger receptor class A (SR-A) expressed on macrophages, yielding the 
+compound DBCO-DS (Fig. 1G, Fig. S3A). The fluorescence of DBCO-DS 
+under near-infrared light confirmed the successful conjugation of 
+cy5.5-DS with DBCO-amine (Fig. S3B), which was further substantiated 
+by ultraviolet-visible spectroscopy (Fig. S3C). Additionally, the corre­
+lation of the 1H NMR spectra further indicated the presence of charac­
+teristic DS hydroxyl (-OH) peaks in the synthesized DBCO-DS 
+(Fig. S3D–F). Subsequently, we introduced azide groups on the surface 
+of PPT@Fos and used click chemistry to attach DBCO-DS to the azide- 
+containing PPT@Fos, thereby generating the targeted macrophage 
+nanospheres DDT@Fos (Fig. 1G). TEM and SEM showed that DDT@Fos 
+maintained a spherical morphology, uniform distribution, and intact 
+structure (Fig. 1H and I). Compared to PPT@Fos, the DDT@Fos 
+exhibited a slight increase in size, averaging 217.37 ± 18.3 nm, and a 
+slightly higher zeta potential of −2.89 mV (Fig. 1J and K). Near-infrared 
+illumination further verified the successful combination of PPT@Fos 
+with DBCO-DS (Fig. 1L). These results demonstrate the successful con­
+struction of Fos-loaded DDT@Fos nanospheres.
+2.2. Development of DDT@Fos-loaded Fmoc-DDT@Fos
+Peptide hydrogels, resembling the secondary structures of natural 
+proteins, exhibit excellent biocompatibility, hydrophilicity, and pro­
+cessability, making them widely applicable as therapeutic agents and 
+drug 
+delivery 
+carriers 
+[34,35]. 
+Among 
+of 
+them, 
+fluorenylmethoxycarbonyl-diphenylalanine 
+(Fmoc-FF) 
+peptide 
+hydrogels are widely utilized in biomedical contexts, including drug 
+delivery, tissue engineering, wound repair, and biosensing, owing to its 
+self-assembly capability, adjustable mechanical strength, high water 
+retention, injectability, and favorable biocompatibility [36,37]. There­
+fore, we further synthesized the DDT@Fos loaded Fmoc-FF named 
+Fmoc-DDT@Fos to enhance the delivery efficiency of the nanospheres 
+(Fig. 2A).
+The attachment of DDT@Fos on the Fmoc-FF is illustrated in Fig. 2B. 
+TEM, SEM, and near-infrared light detection further verified the suc­
+cessful adhesion of DDT@Fos within Fmoc-FF (Fig. 2C–E). As illustrated 
+in Fig. 2F, elevating the nanospheres content in the hydrogel resulted in 
+corresponding rises in both the storage modulus (G′) and the loss 
+modulus (G″), reflecting enhanced mechanical strength of the hydrogel. 
+This effect is likely due to the nanospheres introducing multiple points of 
+contact within the fibers of the Fmoc-FF, thereby increasing its me­
+chanical strength. Additionally, Fmoc-DDT@Fos demonstrated self- 
+healing capabilities, with the ability to rapidly recover from breaks 
+through at least three cycles of damage and repair (Fig. 2G). Further­
+more, in vitro drug release tests showed that Fmoc-DDT@Fos provided 
+sustained Fos release in phosphate-buffered saline (PBS) (Fig. 2H).
+To further evaluate the biosafety of Fmoc-DDT@Fos, the rat condylar 
+chondrocytes were isolated and cultured (Fig. S4A–B). As shown in 
+Fig. S4C, the chondrocytes displayed typical spindle-shaped and 
+polygonal morphologies. Fig. S4D depicted chondrocytes stained with 
+Toluidine Blue, displaying a blue matrix and dark blue nuclei. The 
+presence of sparse metachromatic granules around the cells indicates the 
+secretion of proteoglycans by the chondrocytes. Immunofluorescence 
+(IF) staining further revealed high expression of Collagen II, which is the 
+marker for chondrocytes (Fig. S4E). Subsequently, synovial macro­
+phages were obtained from rat TMJ synovium and exhibited high 
+expression of macrophage markers CD45 and CD11b (Fig. S5A–C). IFN- 
+γ/LPS treatment successfully induced the M0 macrophages to M1 
+phenotype, as evidenced by elevated expression of iNOS and CD86 
+(Fig. S5D).
+Subsequently, IF staining was employed to evaluate the uptake of 
+Fmoc-DDT@Fos by synovial macrophages. Cells co-cultured with Fmoc- 
+DDT@Fos displayed red fluorescence, indicating that the macrophages 
+internalized the nanospheres (Fig. S6A). The biocompatibility of Fmoc- 
+DDT@Fos was further evaluated using live/dead cell staining 
+(Fig. S6B–C) and Cell Counting Kit-8 (CCK-8) cell viability assays 
+(Fig. S6D–E), which revealed negligible cytotoxicity to both chon­
+drocytes and synovial macrophages. Additionally, hemolysis assays also 
+indicated that the excellent biocompatibility of Fmoc-DDT@Fos in the 
+circulatory system (Fig. S6F). In vivo experiments were also performed to 
+test the degradation of Fmoc-DDT@Fos within the body. Over time, the 
+fluorescence intensity of Fmoc-DDT@Fos gradually decreased in the rat 
+TMJs, indicating that the material could be progressively degraded and 
+absorbed (Fig. S6G). Histological examination of the heart, lungs, liver, 
+spleen, and kidneys via hematoxylin and eosin (H&E) staining revealed 
+no pathological abnormalities (Fig. S6H). Collectively, these results 
+confirm that Fmoc-DDT@Fos is successfully developed and exhibited 
+favorable Fos slow release, macrophage targeting, and biocompatibility.
+2.3. Fmoc-DDT@Fos induces macrophage reprogramming to mitigate 
+inflammation
+To investigate the impact of Fmoc-DDT@Fos on macrophage 
+reprogramming, IFN-γ/LPS were used to induce M0 macrophages to M1 
+phenotype, followed by Fmoc-DDT@Fos treatment. IF staining and 
+Western blot (WB) revealed that M1 macrophages exhibited signifi­
+cantly higher SYK expression compared to M0 macrophages, which was 
+notably reduced after Fmoc-DDT@Fos treatment (Fig. 3A and B). 
+Additionally, Fmoc-DDT@Fos exposure decreased CD86 (M1 marker) 
+expression while increasing CD206 (M2 marker) expression, suggesting 
+macrophage reprogramming from the M1 to the M2 phenotype 
+(Fig. 3C). The underlying mechanism is depicted in Fig. 3D and these 
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+3 
+findings were further validated by flow cytometry (Fig. 3E, Fig. S7). 
+Finally, enzyme-linked immunosorbent assay (ELISA) and WB were 
+performed to quantify the expression of pro-inflammatory cytokines 
+(TNF-α, IL-6) and anti-inflammatory cytokines (TGF-β, IL-10). 
+Compared to M0 macrophages, M1 macrophages displayed markedly 
+elevated TNF-α and IL-6 levels, accompanied by a reduction in TGF-β 
+and IL-10 production. Fmoc-DDT@Fos treatment significantly reversed 
+these changes (Fig. 3F and G), indicating that Fmoc-DDT@Fos effec­
+tively suppresses the inflammation triggered by M1 macrophages. 
+Collectively, these results demonstrate that Fmoc-DDT@Fos facilitates 
+the macrophage reprogramming, thereby mitigating the inflammatory 
+response associated with M1 macrophages.
+2.4. Fmoc-DDT@Fos maintains condylar cartilage homeostasis by 
+modulating macrophage reprogramming
+Considering the complex interactions between macrophages and 
+chondrocytes during the progression of TMJ OA, we further investigated 
+whether Fmoc-DDT@Fos could influence condylar chondrocyte func­
+tion (proliferation, migration, apoptosis, and matrix degradation) by 
+modulating macrophage reprogramming. Firstly, we added conditioned 
+media (CM) from differently treated macrophages to chondrocyte cul­
+tures and assessed cell viability and proliferation capacity using CCK-8 
+and EdU staining. M1 macrophage CM markedly reduced chondrocyte 
+viability and proliferative capacity, whereas Fmoc-DDT@Fos treatment 
+restored both parameters (Fig. 4A and B). WB analysis further demon­
+strated that Fmoc-DDT@Fos treatment significantly reversed the M1 
+macrophage CM-induced reduction in proliferation markers Ki67 and 
+PCNA expression (Fig. 4C). Additionally, we evaluated the chondrocytes 
+Fig. 2. Synthesis and characterization of Fmoc-DDT@Fos. (A) Schematic illustration of Fmoc-DDT@Fos synthesis; (B) Distribution diagram of DDT@Fos in Fmoc- 
+FF hydrogel; TEM (C) and SEM (D) analysis of Fmoc-FF and Fmoc-DDT@Fos morphology; (E) Fluorescence detection of ddH2O, Fmoc-FF, DDT@Fos, and Fmoc- 
+DDT@Fos; (F) Rheological characterization of Fmoc-DDT@Fos loaded with varying concentrations of DDT@Fos; (G) Rheological evaluation of the self-healing 
+properties of Fmoc-DDT@Fos; (H) Release of Fos from Fmoc-DDT@Fos into PBS over 72 h.
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+4 
+migration capacity through wound healing and Transwell assays. 
+Chondrocytes incubated with M1 macrophage CM exhibited reduced 
+cell migration, which was significantly enhanced by Fmoc-DDT@Fos 
+treatment (Fig. 4D and E). Subsequently, we investigated the effect of 
+macrophage reprogramming on chondrocyte apoptosis. The results 
+indicated that chondrocyte apoptosis was significantly increased when 
+cultured in M1 macrophage CM, which was reduced by Fmoc-DDT@Fos 
+treatment (Fig. 4F). Similarly, M1 macrophage CM upregulated the 
+expression of the pro-apoptotic protein Bax and downregulated the anti- 
+apoptotic protein Bcl-2 in chondrocytes, and Fmoc-DDT@Fos treatment 
+reversed this expression alteration (Fig. 4G). Finally, we examined 
+extracellular matrix (ECM) metabolism in chondrocytes. M1 macro­
+phage CM treatment significantly increased the expression of the cata­
+bolic marker Adamts5 while reducing the anabolic markers Aggrecan 
+(AGG) and Collagen II. Fmoc-DDT@Fos intervention dramatically 
+reversed this alteration, suggesting that enhanced cartilage matrix 
+synthesis (Fig. 4H). Collectively, these results demonstrate that Fmoc- 
+DDT@Fos can protect chondrocyte function by regulating macrophage 
+Fig. 3. Fmoc-DDT@Fos promotes macrophage reprogramming. IF (A) and WB (B) analysis of SYK expression in synovial macrophages; (C) IF staining of CD86 
+and CD206 in synovial macrophages; (D) Schematic of the Fmoc-DDT@Fos action mechanism; (E) Flow cytometry analysis of CD86 and CD206 expression in synovial 
+macrophages; ELISA (F) and WB (G) analysis of TNF-α, IL-6, TGF-β, and IL-10 expression in synovial macrophages. *p < 0.05, **p < 0.01, ***p <
+0.001, ****p < 0.0001.
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+5 
+reprogramming, thus maintaining condylar cartilage homeostasis.
+2.5. Multi-omics sequencing analysis to explore the mechanism of Fmoc- 
+DDT@Fos promoting macrophage reprogramming
+To further investigate the mechanism of Fmoc-DDT@Fos promoting 
+macrophage reprogramming, we conducted bulk RNA-seq analysis on 
+M1 macrophages treated with PBS (control group) or Fmoc-DDT@Fos 
+(treatment group). Principal component analysis (PCA) demonstrated 
+a pronounced segregation of the two groups, reflecting markedly 
+different transcriptional landscapes (Fig. S8A). After normalizing the 
+RNA-seq data (Fig. S8B–C), 466 differential expression genes (DEGs) 
+meeting the thresholds of |log2FC| > 2 and p < 0.05 were identified, 
+including 216 with increased expression and 250 with decreased 
+expression (Fig. S8D–E). Gene Ontology (GO) enrichment analysis 
+revealed that DEGs were predominantly concentrated in biological 
+processes (BP) such as cytokine-mediated signaling, leukocyte migra­
+tion, and lymphocyte proliferation; cellular components (CC) including 
+receptor complexes, secretory granules, and collagen-rich extracellular 
+matrices; and molecular functions (MF) related to cytokine receptor 
+binding, cytokine activity, and G protein-coupled receptor binding 
+(Fig. 5A and B). Kyoto Encyclopedia of Genes and Genomes (KEGG) 
+pathway analysis demonstrated that DEGs were most prominently 
+associated with cytokine-cytokine receptor interaction and ferroptosis 
+pathways (Fig. 5C and D).
+Molecules expression analysis related to the cytokine-cytokine 
+receptor interaction pathway revealed that pro-inflammatory pathways 
+such as IL-6, IL-1, and TNF were significantly suppressed, while anti- 
+inflammatory pathways such as IL-10 were activated in the treatment 
+group (Fig. S9). Additionally, ferroptosis-associated molecules were 
+markedly downregulated in the treatment group, indicating significant 
+suppression of this pathway (Fig. S10). RNA-seq analysis of 
+inflammation-related genes showed significantly lower of pro- 
+inflammatory Il6, Il1b, and Tnf, accompanied by increased Il10 and 
+Tgfb1 relative to the control group (Fig. 5E–Table S1). Expression of M1 
+macrophage markers Cd86 and Cd80 was reduced, whereas M2 markers 
+Cd206 and Cd163 were elevated, consistent with in vitro results and 
+further confirming macrophage reprogramming induced by Fmoc- 
+DDT@Fos (Fig. 5F–Table S1).
+Finally, proteomic sequencing further supported these findings. PCA 
+and Loading plots clearly separated the control and treatment groups 
+(Fig. S11A–C). Orthogonal Partial Least Squares Discriminant Analysis 
+(OPLS-DA) revealed clear group separation, and permutation testing 
+produced an R2Y value of 0.998 (>0.8), confirming the robustness of the 
+model (Fig. S11D–E). Normalized proteomic data identified 46 differ­
+entially expressed proteins (DEPs; |log2FC| > 1, p < 0.05), comprising 
+21 upregulated and 25 downregulated proteins in the treatment group 
+(Fig. S11F). GO analyses indicated that the DEPs were predominantly 
+clustered in pathways associated with cellular biotic stimulus, endocytic 
+vesicle, and cytokine receptor binding (Fig. S12A–B). Consistent with 
+RNA-seq, KEGG enrichment further reinforced the regulatory role of 
+Fmoc-DDT@Fos 
+in 
+cytokine-cytokine 
+receptor 
+interaction 
+and 
+Fig. 4. Effects of Fmoc-DDT@Fos-induced macrophage reprogramming on chondrocytes. (A) CCK-8 assay of chondrocytes at 12, 24, 36, and 48 h; (B) EdU 
+assay evaluating proliferation capacity of chondrocytes; (C) WB analysis of Ki67 and PCNA expression in chondrocytes; (D) Scratch assay of chondrocytes; (E) 
+Transwell assay of chondrocytes; (F) AnnexinV/PI dual staining flow cytometry assessing chondrocyte apoptosis; (G) WB analysis of Bax and Bcl-2 expression in 
+chondrocytes; (H) WB analysis of Adamts5, AGG, and Collagen II expression in chondrocytes. *p < 0.05, **p < 0.01, ***p < 0.001, ****p < 0.0001.
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+6 
+ferroptosis (Fig. S12C–D). Key protein expression analysis revealed that 
+SYK and pro-inflammatory factors (TNF and IL-1β) were decreased, 
+while the anti-inflammatory factor TGF-β1 was increased. Additionally, 
+CD80 expression decreased, whereas CD206 expression increased 
+(Fig. S13, Table S2). These findings are consistent with RNA-seq and in 
+vitro results. Overall, these results confirm that Fmoc-DDT@Fos-induced 
+M1-to-M2 macrophage reprogramming is closely related to the regula­
+tion of inflammation and ferroptosis pathways.
+2.6. Fmoc-DDT@Fos inhibits macrophage ferroptosis
+To further investigate the moderator effect of Fmoc-DDT@Fos on 
+ferroptosis, we treated synovial macrophages with the ferroptosis in­
+ducers Erastin and Fmoc-DDT@Fos to assess their biological functions. 
+Initially, we measured specific markers associated with ferroptosis: iron 
+content, reduced glutathione (GSH), oxidized glutathione (GSSG), 
+reactive oxygen species (ROS), and malondialdehyde (MDA) [38]. 
+FerroOrange probe and iron detection kit results showed that 
+Erastin-induced a significant increase in Fe2+ and total iron levels, 
+which was reversed by Fmoc-DDT@Fos treatment, suggesting its ability 
+to maintain iron homeostasis (Fig. 6A and B). Redox balance assessment 
+showed a pronounced decline in the GSH/GSSG ratio after Erastin 
+exposure, whereas Fmoc-DDT@Fos restored this ratio (Fig. 6C). 
+Fmoc-DDT@Fos treatment similarly inhibited the Erastin-induced in­
+crease in ROS (Fig. 6D and E). Intracellular ROS can oxidize membrane 
+polyunsaturated lipids, forming MDA and other end products [39]. 
+Fmoc-DDT@Fos treatment also significantly inhibited Erastin-induced 
+elevation of MDA (Fig. 6F). Similarly, elevated lipid peroxidation 
+levels detected by the lipid peroxidation sensor C11-BODIPY581/591 
+were also alleviated by Fmoc-DDT@Fos treatment (Fig. 6G). These re­
+sults indicate an alleviation of oxidative stress state of macrophages by 
+Fmoc-DDT@Fos.
+To further verify these findings, the expression of GPX4 and 
+SLC7A11, key ferroptosis inhibitors with antioxidative repair functions, 
+Fig. 5. Pathway enrichment analysis of macrophage RNA-seq data. Bubble chart (A) and circular diagram (B) for GO enrichment analysis of DEGs from RNA-seq; 
+Bubble chart (C) and circular diagram (D) for KEGG enrichment analysis of DEGs from RNA-seq; (E) Expression levels of Il6, Il1b, Tnf, Il10, and Tgfb1 genes in RNA- 
+seq data; (F) Expression levels of Cd86, Cd80, Cd206, and Cd163 genes in RNA-seq data. *p < 0.05, **p < 0.01, ***p < 0.001.
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+7 
+was 
+quantified 
+[40,41]. 
+Consistent 
+with 
+RNA-seq 
+results, 
+Fmoc-DDT@Fos significantly reversed Erastin-induced reduction of 
+Gpx4 and Slc7a11 at the transcriptional level (Fig. 6H and I). Ferroptosis 
+is also associated with characteristic mitochondrial morphological 
+changes [42,43]. As shown in Fig. 6J, mitochondrial shrinkage, cristae 
+reduction, and increased membrane density were observed in macro­
+phages treated with Erastin, while mitochondrial damage appeared to be 
+repaired after Fmoc-DDT@Fos treatment. JC-1 staining, which assesses 
+changes in mitochondrial membrane potential (MMP), showed that 
+Erastin significantly decreased the MMP hyperpolarization, while 
+Fmoc-DDT@Fos attenuated this effect (Fig. 6K), suggesting that 
+Fmoc-DDT@Fos modulates macrophage ferroptosis potentially through 
+its effects on mitochondrial function. Collectively, these results confirm 
+that Fmoc-DDT@Fos has an important role in inhibiting macrophage 
+ferroptosis.
+2.7. Fmoc-DDT@Fos promotes tissue repair in TMJ OA Rat
+To investigate the effects of Fmoc-DDT@Fos on tissue repair, we 
+established a TMJ OA rat model by intra-articular injection of mono­
+sodium iodoacetate (MIA) and treated with or without Fmoc-DDT@Fos. 
+Micro-CT analysis revealed localized bone surface collapse, subchondral 
+bone degeneration, and increased marrow space after MIA injection, 
+while Fmoc-DDT@Fos treatment significantly alleviated subchondral 
+Fig. 6. Impact of Fmoc-DDT@Fos on macrophage ferroptosis. (A) Fe2+ in macrophages was marked using FerroOrange; (B) Total iron content in macrophages 
+was measured by iron assay kit; (C) GSH/GSSG ratio in macrophages; (D-E) Visualization of ROS production in macrophages using DCFH-DA; (F) Measurement of 
+MDA content in macrophages; (G) C11-BODIPY 581/591 staining for macrophages; qRT-PCR analysis of ferroptosis-related gene Gpx4 (H) and Slc7a11 (I); (J) TEM 
+observation of mitochondrial morphology; (K) JC-1 assay for MMP in macrophages. **p < 0.01, ***p < 0.001, ****p < 0.0001.
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+8 
+bone destruction and improved cortical surface smoothness (Fig. 7A). 
+Quantitative analysis showed that the reduced bone volume fraction 
+(BV/TV) and increased trabecular separation (Tb.Sp) were reversed 
+following Fmoc-DDT@Fos treatment (Fig. 7B and C). H&E staining 
+indicated that TMJ OA rats exhibited severe inflammatory cell infiltra­
+tion, extensive synovitis, abscess formation, cartilage destruction, and 
+bone erosion. In contrast, the Fmoc-DDT@Fos treatment markedly 
+alleviate these pathological changes (Fig. 7D–G). Safranin O-fast green 
+staining revealed a marked loss of aggrecan (AGG) deposition and 
+significantly elevated Osteoarthritis Research Society International 
+(OARSI) scores in TMJ OA rats, which was improved by Fmoc-DDT@Fos 
+(Fig. 7H–J). Additionally, immunohistochemical (IHC) staining showed 
+that Fmoc-DDT@Fos significantly restored the TMJ OA-induced 
+decrease in chondrocyte marker Col2α (Fig. 7K), indicating chon­
+drocyte number increase, consistent with in vitro findings. Finally, the in 
+vivo biosafety of Fmoc-DDT@Fos was assessed. Histological examination 
+of heart, liver, spleen, lung, and kidney tissues showed no apparent 
+damage in any group (Fig. S14A). Serum biochemical analysis revealed 
+no significant differences in liver (ALT, AST), heart (LDH, CK), and 
+kidney (UREA, CREA) function markers (Fig. S14B–D). Collectively, 
+these results demonstrate that Fmoc-DDT@Fos effectively mitigates the 
+pathological changes of TMJ OA and slowing down disease progression.
+2.8. Fmoc-DDT@Fos promotes macrophage reprogramming in TMJ OA 
+Rat
+To further elucidate the impact of Fmoc-DDT@Fos on macrophage 
+reprogramming in vivo, we conducted follow-up studies on TMJ OA rats. 
+Initially, IHC staining revealed markedly elevated SYK expression in 
+TMJ OA rats, which was reduced following Fmoc-DDT@Fos adminis­
+tration (Fig. 8A). Next, we examined the expression of the pan- 
+macrophage marker CD45 using IF staining. Notably, Fmoc-DDT@Fos 
+did not alter the increased expression of CD45 induced by TMJ OA, 
+suggesting the overall number of macrophages remained unchanged 
+(Fig. 8B). Interestingly, consistent with the in vitro results, introduction 
+of Fmoc-DDT@Fos alters the ratio of CD86 to CD206 and induces 
+Fig. 7. Effects of Fmoc-DDT@Fos on tissue repair in TMJ OA rat. (A) Micro-CT scans show sagittal and top views of rat TMJs; Assessment of BV/TV (B) and Tb.Sp 
+(C); (D) H&E staining of rat TMJs; Histological scoring of neutrophil infiltration (E), synovitis (F), and cartilage erosion (G) in rat TMJs; (H) Safranin O-fast green 
+staining of rat TMJs; (I) AGG content in rat TMJs; (J) OARSI scoring of rat TMJs; (K) IHC staining of Col2α in rat TMJs. ***p < 0.001, ****p < 0.0001.
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+9 
+macrophage reprogramming from pro-inflammatory M1 to anti- 
+inflammatory M2 phenotype (Fig. 8C). Flow cytometry further vali­
+dated these findings (Fig. 8D, Fig. S15). Lastly, WB was used to assess 
+key inflammatory factor expression. TMJ OA rats exhibited significantly 
+increased expression of TNF-α and IL-6, while TGF-β and IL-10 were 
+downregulated. Fmoc-DDT@Fos treatment effectively reversed these 
+changes (Fig. 8E). Collectively, these data indicate that Fmoc-DDT@Fos 
+can modulate the inflammatory microenvironment in TMJ OA rats by 
+promoting macrophage reprogramming.
+2.9. Fmoc-DDT@Fos inhibits ferroptosis in TMJ OA Rat
+Finally, we also investigated the impact of Fmoc-DDT@Fos on fer­
+roptosis in TMJ OA rats. Prussian blue staining revealed elevated Fe3+
+deposition in TMJ OA rats, which was markedly reduced following 
+Fmoc-DDT@Fos treatment (Fig. S16A). In addition, Fmoc-DDT@Fos 
+significantly reduced the TMJ OA-induced increase in ROS content 
+(Fig. S16B). IF staining (Fig. S16C–D) and qRT-PCR analysis (Fig. S16E) 
+of ferroptosis-related molecule showed that the ferroptosis inhibitory 
+molecules GPX4 and SLC7A11 was significantly downregulated in TMJ 
+OA rats, whereas the ferroptosis-inducing molecule acyl-CoA synthetase 
+long-chain family member 4 (ACSL4) was significantly increased. 
+Notably, Fmoc-DDT@Fos effectively reversed these changes. Abnormal 
+alterations in ferroptosis-revealed markers MDA and GSH/GSSG ratio in 
+TMJ OA rats were also significantly restored by the introduction of 
+Fmoc-DDT@Fos (Fig. S16F–G). Furthermore, TEM showed that Fmoc- 
+DDT@Fos 
+treatment 
+alleviated 
+typical 
+ferroptosis-revealed 
+mitochondrial abnormalities in TMJ OA rats, such as cristae disruption 
+and compromised membrane integrity (Fig. S16H). Collectively, these 
+results suggest that Fmoc-DDT@Fos can inhibit ferroptosis in TMJ OA 
+rats.
+3. Discussion
+TMJ OA is a prevalent chronic degenerative joint disease that 
+significantly impairs joint function and diminishes the patients’ quality 
+of life [44]. It is characterized by cartilage degeneration, inflammatory 
+response, and subchondral bone destruction, often accompanied by pain 
+and limited mobility. Importantly, while traditionally associated with 
+aging, its incidence is rising among middle-aged and younger in­
+dividuals. Current interventions primarily relieve symptoms but fail to 
+halt or reverse joint degeneration [45–47]. Therefore, the search for new 
+multidimensional therapeutic strategies for TMJ OA continues to be a 
+current hot topic.
+Considering that our recent research has made a groundbreaking 
+discovery that Fos can alleviates TMJ OA by maintaining cartilage ho­
+meostasis [21], here we introduces an innovative treatment approach of 
+Fmoc-DDT@Fos peptide hydrogel drug delivery system for locally tar­
+geted long-term administration of Fos, and then explores its therapeutic 
+potential in TMJ OA. Our strategy offers a more targeted therapy with 
+potentially fewer side effects than traditional treatments. A combination 
+of in vitro and in vivo investigations demonstrated that the hydrogel 
+markedly ameliorates TMJ OA-induced pathological alterations, 
+underscoring its potential in drug delivery applications. These findings 
+Fig. 8. Impact of Fmoc-DDT@Fos on macrophage reprogramming in TMJ OA rat. (A) IHC staining of SYK in rat TMJs; (B) IF staining of CD45 in rat TMJs; (C) IF 
+staining of CD206 and CD86 in rat TMJs; (D) Flow cytometry analysis of CD163, CD206, CD80, and CD86 in rat TMJs; (E) WB analysis of TNF-α, IL-6, TGF-β, and IL- 
+10 in rat TMJs. *p < 0.05, **p < 0.01, ***p < 0.001, ****p < 0.0001, “ns” indicates no statistical difference.
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+10 
+provide new molecular targets and treatment methods for TMJ OA and 
+expand peptide hydrogels’ application in the biomedical field. Mean­
+while, the hydrogel prepared in this study is an injectable hydrogel, 
+which can be administered in a fluid state through a syringe. After in­
+jection, the liquid undergoes an in situ sol-gel transition to form a tissue 
+engineering scaffold. This type of hydrogel represents a promising 
+therapeutic material that can be directly used as a drug carrier or 
+encapsulate smaller drug delivery vehicles to achieve precise and 
+controlled delivery of drugs or biotherapeutic molecules to the lesion 
+site, thereby providing safe and effective treatment. Such hydrogels are 
+frequently employed in the treatment of refractory diseases such as 
+rheumatoid arthritis (RA) [48–51].
+Currently, mainstream treatment strategies for TMJ OA rely heavily 
+on pharmacological and non-pharmacological approaches [44]. Phar­
+macological approaches, including NSAIDs and corticosteroids, can 
+relieve pain and inflammation. However, concerns regarding long-term 
+efficacy and safety persist, particularly the risks of gastrointestinal 
+complications and potential cardiovascular adverse effects [52,53]. 
+Non-pharmacological treatments such as physical therapy and behav­
+ioral modifications offer partial symptom relief but fail to halt or reverse 
+joint degeneration. In contrast, the Fmoc-DDT@Fos developed in this 
+study exhibits excellent biocompatibility and achieves controlled release 
+and targeted delivery of Fos through PLGA/TPP incorporation, enabling 
+precise control of drug concentration and spatiotemporal release, which 
+significantly reduces the risk of systemic side effects and enhances both 
+therapeutic efficacy and safety. This hydrogel can effectively suppress 
+inflammation and promote tissue repair by the regulation of macro­
+phage reprogramming and ferroptosis, which remain challenging for 
+conventional treatments and show notable innovation and practical 
+potential. Compared with conventional drug delivery systems, this 
+platform exhibits distinct advantages in managing inflammatory disor­
+ders, particularly arthritis [54].
+Macrophages play a critical dual role in inflammatory diseases like 
+TMJ OA [55–57]. These versatile immune cells can polarize into 
+pro-inflammatory M1 and anti-inflammatory M2 phenotypes, exerting 
+opposing effects on inflammation and tissue repair [58–60]. In our 
+study, the Fmoc-DDT@Fos effectively promoted the reprogramming of 
+macrophages from M1 to M2 phenotype, significantly reducing M1 
+macrophage-initiated inflammatory response. Under inflammatory 
+conditions, macrophages are distributed not only in the synovium but 
+also in the subchondral marrow cavity and peri-cartilaginous tissues. 
+Considering the widespread distribution of macrophages in the TMJ and 
+the targeted design of the DDT structure, Fmoc-DDT@Fos is also likely 
+to act on macrophages beyond the synovium. This finding provides a 
+new mechanistic understanding of TMJ OA treatment and highlights the 
+potential importance of regulating macrophage polarization in treating 
+inflammatory diseases. Compared with previous studies, our approach 
+offers a deeper exploration of molecular strategies for macrophage 
+functional regulation, presenting a more fundamental and durable 
+alternative to conventional anti-inflammatory drugs and opening 
+promising avenues for future research and therapy.
+Ferroptosis, a regulated cell death modality driven by iron, has 
+recently been recognized as a pivotal contributor to various pathological 
+conditions, particularly those associated with oxidative stress [61–63]. 
+In chronic inflammatory conditions such as TMJ OA, ferroptosis directly 
+influences the inflammatory process and tissue repair mechanisms by 
+modulating the activity and survival of macrophages [64]. In this study, 
+we demonstrated that the Fmoc-DDT@Fos how controlling the homeo­
+stasis of intracellular iron can effectively regulate the ferroptosis 
+pathway, thereby suppressing inflammatory response. This precise 
+regulation of iron homeostasis provides a novel perspective for TMJ OA 
+treatment and offers potential therapeutic strategies for other diseases 
+involving dysregulated iron metabolism.
+Although this study presents a novel therapeutic approach and mo­
+lecular insights for TMJ OA repair, several limitations should be 
+acknowledged. Firstly, the therapeutic efficacy of Fmoc-DDT@Fos was 
+evaluated only in a TMJ OA rat model, validation in additional animal 
+models is required to further confirm its feasibility and effectiveness. 
+Secondly, the investigation primarily focused on regulating ferroptosis 
+and inflammatory pathways, whereas Fmoc-DDT@Fos may also influ­
+ence other signaling cascades and molecular mechanisms. Future 
+research should explore these potential pathways and identify syner­
+gistic effects. Additionally, while transcriptomic and proteomic analyses 
+strongly implicate the SYK pathway, direct experimental evidence is 
+lacking. Studies employing SYK gene knockout or selective inhibitors are 
+warranted to substantiate this mechanistic link. Other limitations 
+include the restricted sample size, potential model bias, and controlled 
+experimental settings. Increasing sample size and performing long-term 
+follow-up will be essential to verify therapeutic durability and safety. 
+Furthermore, ferroptosis detection was conducted using whole TMJ 
+tissue rather than isolated synovial tissue, which should be addressed in 
+future experiments for improved specificity. Finally, standard thera­
+peutic controls, such as NSAIDs or corticosteroids, were not included, 
+preventing direct comparison of efficacy and safety. Subsequent work 
+should incorporate such controls and optimize the hydrogel formulation 
+by enhancing stability and drug-loading efficiency.
+In summary, the Fmoc-DDT@Fos peptide hydrogel drug delivery 
+system developed in this study has good biocompatibility, macrophage 
+targeting, and Fos slow-release properties. Through a series of in vitro 
+and in vivo experiments, we have demonstrated that this hydrogel 
+significantly ameliorates pathological changes in TMJ OA by modu­
+lating macrophage reprogramming and ferroptosis, followed by inhib­
+iting inflammatory response and maintaining cartilage homeostasis. 
+(Fig. 9). Our study provides novel molecular targets and therapeutic 
+strategies for the clinical management of TMJ OA and highlights the 
+promise of peptide hydrogel as drug delivery system in the biomedical 
+field, providing valuable insights and transforming clinical applications 
+for the future treatment of similar chronic inflammatory and degener­
+ative diseases.
+4. Materials and methods
+4.1. Morphology, size, and distribution of nanospheres
+TEM: nanospheres (20 μL) were placed on carbon-coated copper 
+grids, negatively stained with 1% uranyl acetate (CD106833, Howei­
+pharm, China) for 5 min, rinsed three times with PBS, and air-dried after 
+removing residual phosphotungstic acid with filter paper. Images were 
+obtained at 100 kV utilizing a Hitachi H7650 TEM (Hitachi, Japan).
+SEM: nanospheres were mounted on conductive tape, sputter-coated 
+with gold for 60 s using a Cressington device (Cressington Scientific 
+Instruments, UK), and imaged at 3 kV with an S-4800 SEM (Hitachi, 
+Japan).
+Nanoparticle tracking analysis (NTA): 20 μg nanospheres were dis­
+solved in 1 mL PBS, vortexing for 1 min, and analyzing size distribution 
+with a ZetaView system (Particle Metrix, Germany). Dynamic light 
+scattering (DLS) was performed to determine the average particle size, 
+polydispersity index (PDI), and zeta potential.
+4.2. Rheological assessment
+Rheological properties were evaluated at 25 ◦C utilizing an Anton 
+Paar MCR 502e rheometer (Anton Paar, Austria) with plate-plate ge­
+ometry and a saturated chamber to prevent evaporation. Hydrogel 
+samples containing varying nanosphere concentrations (0-0.5% w/v) 
+were transferred directly from the mixing tube to the measurement 
+plate. Self-healing ability was determined by cyclic strain testing, 
+alternating between 1% and 500% strain for three consecutive cycles.
+4.3. Drug release efficiency testing
+In vitro drug release testing: Samples were suspended in PBS and 
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+11 
+periodically collected, filtered to remove the hydrogel and nanospheres, 
+and the supernatant was obtained. A Fos stock solution (1 mg/mL in 
+acetonitrile) was serially diluted to generate an eight-point calibration 
+curve (1-0.005 mg/mL). The filtered supernatant sample was injected 
+into the High-Performance Liquid Chromatography (HPLC, Agilent, 
+USA) system, retention times and peak areas were recorded for each 
+sample. The concentration of Fos was determined using the calibration 
+curve.
+In vivo dissolution testing: The Fmoc-DDT@Fos (0.5 mg in 50 μL PBS) 
+was injected into rat TMJs. To monitor the dissolution of the hydrogel 
+over time, in vivo imaging was performed on days 1, 3, 5, and 7 post- 
+injection using an IVIS Lumina Series imaging system (PerkinElmer, 
+USA). Injections of an equivalent dose of cy5.5-DS served as controls.
+4.4. Culture of condylar chondrocytes
+Condylar cartilage was obtained from Sprague-Dawley (SD) rats 
+(Shanghai SIPPR-Bk Lab Animal Co., Ltd., China) under sterile condi­
+tions, rinsed with PBS, cut into pieces, and digested with 0.2% type II 
+collagenase (17101015, Thermo Fisher, USA) and 0.25% trypsin 
+(25200072, Thermo Fisher) at 37 ◦C for 3 h. The resulting cell suspen­
+sion was filtered through a stainless steel mesh and centrifuged for 
+5 min. The cells were subsequently transferred to Dulbecco's Modified 
+Eagle Medium (DMEM, 11965092, Thermo Fisher) supplemented with 
+10% fetal bovine serum (FBS, 10099, Gibco, USA) and 100 U/mL 
+penicillin-streptomycin solution (10378016, Thermo Fisher) and incu­
+bated with 5% CO2 at 37 ◦C. The medium was replaced every 2 days. 
+When the confluence of cells reached about 90%, the cells were 
+passaged, and the chondrocytes used in this study were from the pas­
+sages 3-6. The identification of condyle chondrocytes were using IF 
+staining of Collagen II (PA5-99159, 1:100, Thermo Fisher) and Tolui­
+dine Blue staining (G3660, Solarbio Technology Co., Ltd., China).
+4.5. Culture of TMJ synovial macrophages
+Synovium of SD rats was collected and digested with type IV colla­
+genase (C4-BIOC, Sigma-Aldrich) at 37 ◦C for 1-2 h, filtered through a 
+40 μm cell strainer, centrifuged, and resuspended in fresh medium. Non- 
+adherent cells were incubated in uncoated dishes for 24 h. After 
+removing non-adherent lymphocytes, the adherent cells were cultured 
+for 1-2 weeks, with medium changes every 2 days. Residual non- 
+macrophages were eliminated by 0.05% trypsin treatment and M0 
+macrophages were confirmed by detecting CD45 and CD11b expression. 
+Uptake of Fmoc-DDT@Fos was assessed by IF. IFN-γ (20 ng/mL; I3275, 
+Sigma-Aldrich) and LPS (100 ng/mL; 916374, Sigma-Aldrich) were used 
+to induce M1 macrophages. Ferroptosis was induced by Treating with 
+5 μM Erastin (HY-15763, MedChemExpress, USA).
+4.6. IF staining
+Samples were fixed in 4% paraformaldehyde (PFA), blocked with 5% 
+BSA, and incubated overnight at 4 ◦C with primary antibodies from 
+Abcam (rabbit anti-SYK, ab155187, 1:500; rabbit anti-CD206, ab64693, 
+1:500; rabbit anti-CD45, ab281586, 1:50), Thermo Fisher (rabbit anti- 
+CD86, 942-RBM4-P1, 1:500; rabbit anti-Collagen II, PA5-99159, 
+1:100; rabbit anti-ACSL4, MA5-42756, 1:100; mouse anti-GPX4, 2879- 
+MSM1-P0, 1:100), and Proteintech (mouse anti-CD80, 66406, 1:100). 
+After PBS rinsing, Alexa Fluor 594 (ab150116, 1:200, Abcam) or Alexa 
+Fluor 488 (ab150077, 1:200, Abcam) secondary antibodies were applied 
+for 1 h at RT, followed by DAPI staining (C1002, Beyotime) for 10 min. 
+Fig. 9. Schematic diagram of Fmoc-DDT@Fos regulation of macrophage reprogramming and ferroptosis during TMJ OA.
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+12 
+Samples were imaged using a fluorescence microscope and fluorescence 
+coverage was quantified using ImageJ Pro Plus 6.0.
+4.7. Flow cytometry experiment
+Processing cell and tissue samples to obtain detectable cell suspen­
+sions. For macrophage analysis, cells were stained with anti-CD45-FITC 
+(554877, BD Biosciences), anti-CD11b-FITC (554861, BD Biosciences), 
+and anti-CD80-PE (555014, BD Biosciences). M1 macrophages were 
+identified using anti-CD86-FITC (555018, BD Biosciences), and M2 
+macrophages with anti-CD206/Goat anti-Rabbit IgG H&L (Alexa Fluor 
+488) (ab64693/ab150077, Abcam) and anti-CD163-APC (ab314947, 
+Abcam).
+4.8. In vitro biosafety evaluation
+CCK-8 cell viability assay: cells were seeded in a 96-well plate 
+overnight and cultured with different treatment for different time. After 
+treatment, 10 μL CCK-8 (C0041, Beyotime) was added to each well for 
+2 h. Absorbance at 450 nm was measured using a microplate reader 
+(BioTek, USA) with absorbance levels directly reflecting cell viability.
+Live/dead cell staining: cells were seeded in 24-well plates and 
+cultured with a complete medium containing Fmoc-DDT@Fos for 1, 3, 
+and 5 days. Cells were incubated with 200 μL live/dead staining solution 
+(PF00007, Proteintech) for 30 min at RT. Observations were made using 
+a fluorescence microscope (Zeiss Axiovert 200, Carl Zeiss Inc., USA).
+4.9. Hemolysis test
+Fmoc-DDT@Fos solutions (3.13-100 μg/mL) were prepared, with 
+PBS as a negative control and deionized water as a positive control. 
+Fresh human whole blood (IPHASE, China) containing EDTA was mixed 
+with each solution at specified ratios and incubated at 37 ◦C for 3 h. 
+Following centrifugation, the supernatant was collected, and hemoglo­
+bin release was determined by recording absorbance at 540 nm with a 
+spectrophotometer.
+4.10. Histopathological analysis
+H&E and Safranin O-Fast Green staining were performed using a 
+H&E Staining Kit (C0105S, Beyotime) and Safranin O-Fast Green kit 
+(G1371, Solarbio Science & Technology, China) according to the man­
+ufacturer's protocol to examine the pathological changes in rats tissues 
+using TMJ tissue section. The sections were scanned and imaged using a 
+slide scanner (Aperio ScanScope CS, Leica Biosystems, Germany).
+4.11. WB
+Total protein was extracted using RIPA lysis buffer with 1% PMSF 
+(P0013B, Beyotime). Protein was separated by 8-12% SDS-PAGE at 
+120V and transferred to PVDF membranes (1620177, Bio-Rad) at 
+250 mA. Membranes were blocked in 5% non-fat milk for 1 h, incubated 
+overnight at 4 ◦C with primary antibodies (Table S3), washed, and then 
+incubated for 1 h at RT with HRP-conjugated secondary antibodies 
+(ab6721 or ab205719, Abcam; 1:5000). Bands were visualized using 
+ECL reagent (1705062, Bio-Rad, USA) and imaged (ImageQuant LAS 
+4000C, GE Healthcare, USA). Total protein levels were normalized to 
+GAPDH and target protein expression was calculated based on band 
+intensity ratios.
+4.12. ELISA
+Expression levels of IL-6, TNF-α, IL-10, and TGF-β in cell superna­
+tants were quantified using ELISA kits (E-EL-R0015, E-EL-R2856, E-EL- 
+R0016, E-EL-R1015; Elabscience, China). Briefly, standards and samples 
+were incubated in antibody-coated wells, washed, and treated 
+sequentially with biotinylated antibodies, HRP-conjugated secondary 
+antibodies, and TMB substrate. Color development was terminated with 
+stop solution, and absorbance at 450 nm was measured.
+4.13. EdU staining
+Cells were seeded in 96-well plates and incubated with EdU solution 
+(10 μmol/L; ST067, Beyotime) for 1 h. After removing the culture me­
+dium, the cells were fixed for 15 min using 4% PFA, then washed twice 
+with PBS. The cells were permeabilized with 0.5% Triton X-100 for 
+20 min, followed by two additional washes with PBS. EdU staining so­
+lution was applied for 30 min in the dark, followed by nuclear staining 
+with DAPI for 5 min. Random fields of view were observed under a 
+fluorescence microscope (FM-600, Pudong Optical Instruments Co., 
+China) and the number of positive cells was recorded.
+4.14. Transwell assay
+A 100 μL aliquot of the cell suspension (2.5 × 104 cells/mL) was 
+added to the upper chamber of the Transwell insert, while 500 μL of 
+medium was added to the lower chamber. After 24 h of incubation, the 
+upper chamber was removed, and non-migrated cells were carefully 
+wiped off using a cotton swab. The migrated cells were then fixed for 
+30 min with 4% PFA. Following fixation, the cells were stained with 
+0.1% crystal violet (C0121, Beyotime) for 30 min. Five random fields 
+were imaged under an inverted microscope (IXplore Pro, Olympus, 
+Japan) and the number of migrated cells was quantified.
+4.15. Scratch assay
+A 6-well plate was pre-marked on the underside with parallel lines at 
+0.5-1 cm intervals. Chondrocytes were seeded and grown to full 
+confluence. A straight scratch was made perpendicular to the pre- 
+marked lines using a 200 μL pipette tip, followed by replacement with 
+serum-free medium. Images of the wound region were obtained at 0 and 
+24 h using an optical microscope (DM500, Leica), and the wound closure 
+rate was determined by measuring the scratch width at each time point 
+with ImageJ-Pro Plus 6.0 software.
+4.16. Cell apoptosis detection
+Cell apoptosis was quantified utilizing an Annexin V-FITC/PI 
+detection kit (C1062L, Beyotime). The treated chondrocytes were 
+resuspended in binding buffer, then added with 10 μL Annexin V-FITC 
+and 5 μL PI. After cultured at room temperature in the dark for 15 min, 
+the cell apoptosis was analyzed using a FACScan flow cytometer (BD 
+FACSCalibur) within 20 min.
+4.17. RNA-seq and data analysis
+Bulk RNA-seq was conducted by CapitalBio Technology (Beijing, 
+China) using 5 μg of total RNA per sample. Ribosomal RNA (rRNA) was 
+removed with the Ribo-Zero Magnetic Kit (MRZG12324, Epicentre, 
+USA), and strand-specific libraries were prepared using the NEBNext 
+Ultra RNA Library Prep Kit for Illumina (E7760S, NEB, USA). RNA was 
+fragmented (~300 bp) in NEBNext First Strand Synthesis Reaction 
+Buffer, followed by first- and second-strand cDNA synthesis in dUTP 
+Mix. The resulting fragments were end-repaired, polyadenylated, and 
+ligated with Illumina adapters. The second strand was selectively 
+degraded with USER Enzyme (M5508, NEB, USA). Libraries were PCR- 
+amplified, purified, checked on an Agilent 2100 Bioanalyzer, quanti­
+fied with the KAPA Library Quantification Kit (kk3605, Merck, USA), 
+and sequenced on an Illumina NextSeq CN500 platform in paired-end 
+mode.
+Raw paired-end reads were assessed with FastQC (v0.11.8). Adapters 
+and poly (A) tails were removed using Cutadapt (v1.18), and reads 
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+13 
+containing >5% ambiguous bases (N) were discarded via a custom Perl 
+script. Quality filtering was performed with the FASTX Toolkit 
+(v0.0.13), retaining reads with at least 70% of bases exhibiting a Phred 
+score greater than 20. The paired-end reads were subsequently repaired 
+with BBMap and aligned to the rat reference genome using HISAT2 
+(v0.7.12). mRNA count data were analyzed in R utilizing the Limma 
+package, with DEGs defined as |log2FC| > 2 and p < 0.05. Functional 
+enrichment analysis of DEGs for GO (BP, MF, and CC categories) was 
+performed with ClusterProfiler, and visualized with bubble and circle 
+plots. KEGG pathway enrichment was conducted using the same cutoff 
+criteria and visualized manner.
+4.18. Proteomics sequencing and analysis
+Total protein was extracted and protein concentration was measured 
+by BCA assay, normalized, adjusted to pH 8.0, and digested with trypsin. 
+Digested peptides were purified with ZipTip C18, separated by HPLC, 
+and analyzed by MS/MS using MaxQuant for protein identification and 
+quantification.
+For mass spectrometry (MS) analysis, desalted peptides were labeled 
+with iTRAQ reagent containing 0.1% formic acid (FA) and analyzed in 
+triplicate on a QSTAR Elite Hybrid MS (Applied Biosystems/MDS- 
+SCIEX) coupled to an online HPLC system (Shimadzu, Japan). For 
+each run, 30 μL of peptide solution was injected onto a custom nano- 
+bore C18 column with an integrated nano-spray tip (New Objectives, 
+Woburn, MA). Peptides were separated over a 90-min gradient using 
+mobile phase A (0.1% FA, 2% acetonitrile) and mobile phase B (0.1% 
+FA, 100% acetonitrile) at 0.2 μL/min, with flow splitting to maintain a 
+constant 30 μL/min delivery. The mass spectrometer was operated in 
+positive ion mode (m/z 300-2000), targeting +2 to +4 precursor ions. 
+The three most intense peptide ions per MS/MS spectrum were frag­
+mented with dynamic exclusion (30 s, ±30 mDa), automatic collision 
+energy, and intelligent information-dependent acquisition. The frag­
+ment intensity multiplier was set at 20, with a maximum accumulation 
+time of 2 s.
+At the end of the proteomics dataset collection, we analyzed the data 
+using the Maxquan software (t v.1.6.15.0) to exhaustively search, pro­
+cess and analyze the dataset. We implemented strict screening criteria: a 
+1% false discovery rate (FDR) was required for spectra, peptides and 
+protein levels in proteomics. We then obtained intensity values for each 
+protein or peptide in the different samples and screened for DEPs 
+(p < 0.05 and |log2fold change| > 1). Subsequently, the identified DEPs 
+were analyzed for GO terms and KEGG pathway enrichment.
+4.19. qRT-PCR analysis
+Total RNA was extracted utilizing the Trizol reagent (A33254, 
+Thermo Fisher). cDNA was synthesized with the Reverse Transcription 
+Kit (RR047A, Takara, Japan), and quantitative PCR was performed 
+using the SYBR® Premix Ex Taq™ II kit (DRR081, Takara) on an 
+ABI7500 Real-Time PCR System (Thermo Fisher). The sequences of all 
+primers were synthesized and provided by Sangon Biotech as shown in 
+Table S4. The relative mRNA expression levels were calculated using the 
+2−ΔΔCt method and normalized to Gapdh.
+4.20. Iron content testing
+Intracellular Fe2+ levels in macrophages were visualized using the 
+FerroOrange probe (F374, Dojindo, Japan). Pre-treated cells were 
+seeded in confocal dishes, washed with Hank's balanced salt solution 
+(HBSS; 13150016, Gibco), and subsequently exposed to 1 μM FerroOr­
+ange for 30 min before imaging with a laser scanning confocal micro­
+scope (LSM780, Zeiss). The total iron content was determined using Iron 
+Assay Kit (MAK025, Sigma-Aldrich). Samples were centrifuged to obtain 
+the supernatant. Each 100 μL supernatant was mixed with 35 μL Reagent 
+A, 5 μL Reagent B, and 150 μL Reagent C and incubated for 30 min. The 
+OD was measured at 359 nm using an Epoch Microplate Spectropho­
+tometer (BioTek). Iron ion concentrations were assessed from a standard 
+curve for iron ions and normalized by protein concentrations.
+4.21. Biochemical assays
+GSH, GSSG, and MDA levels in samples were examined utilizing the 
+GSH/GSSG Assay Kit (S0053, Beyotime) and the MDA Assay Kit 
+(BC0025, Solarbio) according to the manufacturer's instructions. Lipid 
+peroxidation was evaluated by incubating cells in confocal dishes with 
+5 μM C11-BODIPY581/591 (D3861, Thermo Fisher) in the dark for 
+15 min, followed by fluorescence microscopy imaging. ROS levels were 
+quantified using a ROS Assay Kit (S0033S, Beyotime), 2′,7′-Dichlor­
+odihydrofluorescein diacetate (DCFH-DA) was diluted to 10 μM in 
+serum-free medium (1:1000) and incubated with cells for 20 min. After 
+washes, fluorescence was visualized with a fluorescence microscope 
+(FV-1000/ES, Olympus, Japan) and analyzed using ImageJ.
+4.22. TEM
+Samples were fixed at 4 ◦C overnight in 2.5% glutaraldehyde (P1126, 
+Solarbio Science & Technology), followed by post-fixation in 1% 
+osmium tetroxide (115355, AIKE Reagent, China) for 1-2 h. Samples 
+were dehydrated through graded ethanol (50-95%) and pure acetone, 
+embedded in resin, and polymerized at 70 ◦C overnight. Ultrathin sec­
+tions (70-90 nm) were cut with a Reichert ultramicrotome, stained with 
+lead citrate and 50% ethanol-saturated uranyl acetate (15 min each), 
+and examined by TEM.
+4.23. MMP assay
+MMP was evaluated using the JC-1 MMP Assay Kit (40706ES60, 
+Yeasen Biotechnology, China). Cells in 6-well plates were incubated 
+with 1 mL JC-1 staining solution at 37 ◦C for 20 min. For the positive 
+control, CCCP (50 mM) was diluted to 50 μM and treated for 20 min. 
+After staining, cells were washed twice with 1 × JC-1 buffer, resus­
+pended in 2 mL culture medium, and examined under a fluorescence or 
+confocal microscope. JC-1 monomers were detected at 490 nm excita­
+tion and 530 nm emission.
+4.24. Rat TMJ OA model construction and treatment
+TMJ OA was induced in six-week-old female SD rats by injection of 
+MIA (I2512, Sigma-Aldrich) into the joint cavity. The animals were 
+randomly divided into three groups: sham, TMJ OA (MIA + PBS), and 
+Fmoc-DDT@Fos (MIA + Fmoc-DDT@Fos). Rats were anesthetized with 
+1% pentobarbital (0.35 mL/0.1 kg) and fixed on a sterile operating table, 
+and 50 μL MIA (I2512, Sigma-Aldrich) solution (0.5 mg/50 μL PBS) was 
+injected into the joint cavity in the TMJ OA and TMJ OA + Fmoc- 
+DDT@Fos groups, and 50 μL PBS in the sham group. After 1 week, the 
+Fmoc-DDT@Fos group received a joint injection of 50 μL Fmoc- 
+DDT@Fos solution (0.5 mg/50 μL PBS), and the sham and TMJ OA 
+groups were injected with an equal amount of PBS. Rats were euthanized 
+by CO2 inhalation after 4 weeks of treatment. Rat serum samples were 
+collected and analyzed using an automated biochemical analyzer (BK- 
+400, BIOBASE Biodustry, China) to measure serum levels of CK, LDH, 
+ALT, AST, CREA, and UREA. TMJs and major organs (heart, liver, 
+spleen, lungs, kidneys) were collected for subsequent analysis [65,66].
+4.25. Micro-CT
+To examine and document the macroscopic features of the TMJs, 
+samples were scanned using a micro-CT system (μCT50, Scanco Medical, 
+Switzerland) at 70 kV and 114 μA, with an effective pixel size of 6 μm. 
+The condyles were reconstructed in the sagittal and coronal views using 
+Mimics software, and the structural characteristics of the bone were 
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+14 
+analyzed using CTvox software. The evaluations included calculating 
+the bone volume (BV) to total volume (TV) ratio (BV/TV, %) and 
+trabecular separation (Tb. Sp, mm).
+4.26. IHC staining
+Sections were blocked with normal goat serum (E510009, Sangon 
+Biotech, China) at RT for 20 min. After blocking, primary antibodies 
+against SYK (ab155187, 1:100, Abcam) and Col2α (PA5-99159, 1:100, 
+Thermo Fisher) were applied and incubated overnight at 4 ◦C. Sections 
+were washed three times and the HRP-labeled secondary antibody 
+(ab6721, 1:5000, Abcam) is then incubated for 60 min. The DAB 
+Staining Kit (P0203, Beyotime) was used to develop color, applying a 
+drop of chromogen to the samples for 6 min, followed by hematoxylin 
+staining for 5 min. Sections were dehydrated, cleared in xylene, and 
+mounted with neutral resin. Observations and analyses were performed 
+under an upright microscope (BX63, Olympus, Japan).
+4.27. Prussian Blue staining
+Fe3+ deposition in rat TMJ tissues was assessed using a Prussian Blue 
+Iron Stain Kit (G1424, Solarbio Science & Technology). Tissues were 
+fixed in 4% PFA, dehydrated, cleared, paraffin-embedded, and sectioned 
+at 5 μm. Sections were baked at 60 ◦C, dewaxed to water, and stained 
+with Prussian Blue, followed by rinsing, rapid clearing, and mounting 
+with neutral resin. Images were acquired under a light microscope, and 
+Fe3+ was quantified using Olyvia software.
+4.28. Statistical analysis
+Data were derived from at least three independent experiments and 
+are presented as mean ± standard deviation (SD). Two-group compari­
+sons employed the independent-samples t-test, while multi-group ana­
+lyses used one-way ANOVA with Tukey's post-hoc test. Analyses were 
+conducted in GraphPad Prism 9.5.0 and R 4.2.1, with p < 0.05 deemed 
+significant.
+Ethical statement
+All the animal experiments were complied with the National In­
+stitutes of Health Guide for the Care and Use of Laboratory Animals and 
+received approval from the Institution of Animal Care and Use Com­
+mittee (IACUC) of the Ninth People's Hospital Affiliated to Shanghai Jiao 
+Tong University School of Medicine (approval no. SH9H-2023-A197- 
+SB).
+Funding
+This study was supported by National Key R&D Program of China 
+(2023YFC2509100), Science and Technology Commission of Shanghai 
+Municipality (23Y31900400), National Natural Science Foundation of 
+China (82571118, 82370984 & 82370980), China Postdoctoral Science 
+Foundation (2025M781698), Natural Science Foundation of Shanghai 
+(22ZR1437600), and Shanghai's Top Priority Research Center 
+(2022ZZ01017).
+CRediT authorship contribution statement
+Yuxin Zhang: Conceptualization, Data curation, Formal analysis, 
+Investigation, Methodology, Resources, Software, Validation, Visuali­
+zation. Dahe Zhang: Data curation, Formal analysis, Investigation, 
+Methodology, Software, Validation, Visualization. Xiaokun Yue: 
+Conceptualization, Data curation, Formal analysis, Investigation, 
+Methodology, Validation. Qingyu Xu: Data curation, Formal analysis, 
+Investigation, Methodology, Resources. Lingtong Bu: Data curation, 
+Formal analysis, Funding acquisition, Investigation, Methodology. 
+Jiajia Lu: Conceptualization, Supervision, Writing – original draft, 
+Writing – review & editing. Chi Yang: Data curation, Formal analysis, 
+Investigation, Methodology, Resources, Software, Validation. Pei Shen: 
+Conceptualization, Funding acquisition, Investigation, Project adminis­
+tration, Writing – review & editing. Jisi Zheng: Conceptualization, 
+Funding acquisition, Supervision, Writing – review & editing.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Acknowledgment
+None.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.mtbio.2026.102906.
+Data availability
+Data will be made available on request.
+References
+[1] M. Kaneda, Y. Shimpo, K. Yoshida, R. Kubo, F. Kobayashi, A. Mishima, C. Igarashi, 
+H. Tomonari, Structural features of the temporomandibular joint evaluated by MRI 
+and their association with oral function and craniofacial morphology in female 
+patients with malocclusion: a cross-sectional, Study, JCM 14 (2025) 4921, https:// 
+doi.org/10.3390/jcm14144921.
+[2] G. Gerbino, M. Omed`e, E. Raveggi, S. Silvestri, E. Zavattero, G. Ramieri, 
+Temporomandibular joint ankylosis: long-term outcomes with one-stage resection 
+and reconstruction using total joint alloplastic Replacement-A 20-Year experience, 
+JCM 14 (2025) 4639, https://doi.org/10.3390/jcm14134639.
+[3] S.I. Macías-Hern´andez, J.D. Morones-Alba, I. Tapia-Ferrusco, O.B. V´elez-Guti´errez, 
+C. Hern´andez-Diaz, T.I. Nava-Bringas, E. Cruz-Medina, L.C. Toro, Ma. de los A. 
+Soria-Bastida, A home-based exercise program for temporomandibular joint 
+osteoarthritis: pain, functionality, and joint structure, JKAOMS 48 (2022) 50–58, 
+https://doi.org/10.5125/jkaoms.2022.48.1.50.
+[4] Z. Huang, R. Yang, L. Zhang, M. Zhu, C. Zhang, J. Wen, H. Li, BRD4 inhibition 
+alleviates mechanical stress-induced TMJ OA-like pathological changes and 
+attenuates TREM1-mediated inflammatory response, Clin. Epigenet. 13 (2021), 
+https://doi.org/10.1186/s13148-021-01008-6.
+[5] W. Yuan, Y. Wu, M. Huang, X. Zhou, J. Liu, Y. Yi, J. Wang, J. Liu, A new frontier in 
+temporomandibular joint osteoarthritis treatment: exosome-based therapeutic 
+strategy, Front. Bioeng. Biotechnol. 10 (2022), https://doi.org/10.3389/ 
+fbioe.2022.1074536.
+[6] M. Wieckiewicz, K. Boening, P. Wiland, Y.Y. Shiau, A. Paradowska-Stolarz, 
+Reported concepts for the treatment modalities and pain management of 
+temporomandibular disorders, J. Headache Pain 16 (2015) 106, https://doi.org/ 
+10.1186/s10194-015-0586-5.
+[7] M. Taqi, S.J.A. Zaidi, S. uddin Siddiqui, B. Zia, M. Khadija Siddiqui, Dental 
+practitioners' knowledge, management practices, and attitudes toward 
+collaboration in the treatment of temporomandibular joint disorders: a mixed- 
+methods study, BMC Prim. Care. 25 (2024), https://doi.org/10.1186/s12875-024- 
+02398-1.
+[8] G.M. Tartaglia, A. Gizdulich, M. Farronato, R.J. Gupta, S.T. Connelly, 
+Electroporation technique for joint pain-Pilot feasibility study on TMD patients, 
+Clin. Exp. Dental Res. 6 (2020) 642–649, https://doi.org/10.1002/cre2.327.
+[9] H. Minakuchi, M. Fujisawa, Y. Abe, T. Iida, K. Oki, K. Okura, N. Tanabe, 
+A. Nishiyama, Managements of sleep bruxism in adult: a systematic review, 
+Japanese dental, Sci. Rev. 58 (2022) 124–136, https://doi.org/10.1016/j. 
+jdsr.2022.02.004.
+[10] E.-P. Alona, E. Ilana, One year into the COVID-19 pandemic-temporomandibular 
+disorders and bruxism: what we have learned and what we can do to improve our 
+manner of treatment, Dent. Med. Probl. 58 (2021) 215–218, https://doi.org/ 
+10.17219/dmp/132896.
+[11] P.M.M. Moleirinho-Alves, A.M.C.S. de Almeida, P.M.T.C. Cebola, R.A.N. da 
+S. Oliveira, P.L.C. de Pezarat-Correia, Effects of therapeutic and aerobic exercise 
+programs in temporomandibular disorder-associated headaches, J. Appl. Oral Sci. 
+29 (2021), https://doi.org/10.1590/1678-7757-2021-0059.
+[12] G. Trisolino, M. Favero, D. Dallari, E. Tassinari, F. Traina, M. Otero, S.R. Goldring, 
+M.B. Goldring, C. Carubbi, R. Ramonda, S. Stilli, B. Grigolo, E. Olivotto, Labral 
+calcification plays a key role in hip pain and symptoms in femoroacetabular 
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+15 
+impingement, J. Orthop. Surg. Res. 15 (2020), https://doi.org/10.1186/s13018- 
+020-01610-z.
+[13] G.R. Burmester, S.B. Cohen, K.L. Winthrop, P. Nash, A.D. Irvine, A. Deodhar, 
+E. Mysler, Y. Tanaka, J. Liu, A.P. Lacerda, H. Palac, T. Shaw, P.J. Mease, 
+E. Guttman-Yassky, Safety profile of upadacitinib over 15 000 patient-years across 
+rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and atopic 
+dermatitis, RMD Open 9 (2023) e002735, https://doi.org/10.1136/rmdopen- 
+2022-002735.
+[14] N. Al Fayez, M.S. Nassar, A.A. Alshehri, M.K. Alnefaie, F.A. Almughem, B. 
+Y. Alshehri, A.O. Alawad, E.A. Tawfik, Recent advancement in mRNA vaccine 
+development and applications, Pharmaceutics 15 (2023) 1972, https://doi.org/ 
+10.3390/pharmaceutics15071972.
+[15] J. Xi, L.R. Lei, W. Zouzas, X. April Si, Nasally inhaled therapeutics and vaccination 
+for COVID-19: developments and challenges, MedComm 2 (2021) 569–586, 
+https://doi.org/10.1002/mco2.101.
+[16] N. Falcone, M. Ermis, D.G. Tamay, M. Mecwan, M. Monirizad, T.G. Mathes, 
+V. Jucaud, A. Choroomi, N.R. de Barros, Y. Zhu, N.E. Vrana, H. Kraatz, H. Kim, 
+A. Khademhosseini, Peptide hydrogels as immunomaterials and their use in cancer 
+immunotherapy delivery, Adv Healthcare Materials 12 (2023), https://doi.org/ 
+10.1002/adhm.202301096.
+[17] J. Lu, J. Cai, Z. Zhou, J. Ma, T. Han, N. Lu, L. Zhu, Gel@CAT-L hydrogel mediates 
+mitochondrial unfolded protein response to regulate reactive oxygen species and 
+mitochondrial homeostasis in osteoarthritis, Biomaterials 321 (2025) 123283, 
+https://doi.org/10.1016/j.biomaterials.2025.123283.
+[18] J. Lu, X. Shi, Q. Fu, Y. Li, Z. Zhou, N. Lu, L. Zhu, Extracellular vesicles from 
+inflammatory-stimulated BMSCs ameliorate osteoarthritis via Rpl14 mediated 
+synovial macrophage polarization, Chem. Eng. J. 499 (2024) 156541, https://doi. 
+org/10.1016/j.cej.2024.156541.
+[19] A.J. Morwood, I.A. El-Karim, S.A. Clarke, F.T. Lundy, The role of extracellular 
+matrix (ECM) adhesion motifs in functionalised hydrogels, Molecules 28 (2023) 
+4616, https://doi.org/10.3390/molecules28124616.
+[20] W. Sheng, Q. Song, X. Su, Y. Lu, Y. Bai, F. Ji, L. Zhang, R. Yang, X. Fu, Sodium 
+alginate/gelatin hydrogels loaded with adipose-derived mesenchymal stem cells 
+promote wound healing in diabetic rats, J. Cosmet. Dermatol. 22 (2023) 
+1670–1679, https://doi.org/10.1111/jocd.15631.
+[21] Y. Zhang, D. Zhang, Q. Xu, S. Xia, P. Shen, C. Yang, Fostamatinib alleviates 
+temporomandibular joint osteoarthritis by maintaining cartilage homeostasis 
+through MAPK/NF-κB and AKT/mTOR pathways, Int. Immunopharmacol. 147 
+(2025) 113996, https://doi.org/10.1016/j.intimp.2024.113996.
+[22] T. Guan, J. Li, C. Chen, Y. Liu, Self-assembling peptide-based hydrogels for wound 
+tissue repair, Adv. Sci. 9 (2022), https://doi.org/10.1002/advs.202104165.
+[23] X. Li, H. Zhang, L. Liu, C. Cao, P. Wei, X. Yi, Y. Zhou, Q. Lv, D. Zhou, T. Yi, De novo 
+design of self-assembly hydrogels based on Fmoc-diphenylalanine providing drug 
+release, J. Mater. Chem. B 9 (2021) 8686–8693, https://doi.org/10.1039/ 
+d1tb01628h.
+[24] B. Shan, F. Wu, Hydrogel-based growth factor delivery platforms: strategies and 
+recent advances, Adv. Mater. 36 (2023), https://doi.org/10.1002/ 
+adma.202210707.
+[25] Y. Li, Y. Zhou, Y. Wang, R. Crawford, Y. Xiao, Synovial macrophages in cartilage 
+destruction and regeneration-lessons learnt from osteoarthritis and synovial 
+chondromatosis, Biomed. Mater. 17 (2021) 012001, https://doi.org/10.1088/ 
+1748-605x/ac3d74.
+[26] J. Zhao, Y. Feng, X. Liu, H. Li, H. Guo, J. Ke, X. Long, The relationship of ALPK1, 
+hyaluronic acid and M1 macrophage polarization in the temporomandibular joint 
+synovitis, J. Cell Mol. Med. 28 (2024), https://doi.org/10.1111/jcmm.18172.
+[27] M. Kharaziha, A. Baidya, N. Annabi, Rational design of immunomodulatory 
+hydrogels for chronic wound healing, Adv. Mater. 33 (2021), https://doi.org/ 
+10.1002/adma.202100176.
+[28] J. Zhang, D. Tong, H. Song, R. Ruan, Y. Sun, Y. Lin, J. Wang, L. Hou, J. Dai, J. Ding, 
+H. Yang, Osteoimmunity-regulating biomimetically hierarchical scaffold for 
+augmented bone regeneration, Adv. Mater. 34 (2022), https://doi.org/10.1002/ 
+adma.202202044.
+[29] Y. Wang, J. Wang, R. Gao, X. Liu, Z. Feng, C. Zhang, P. Huang, A. Dong, D. Kong, 
+W. Wang, Biomimetic glycopeptide hydrogel coated PCL/nHA scaffold for 
+enhanced cranial bone regeneration via macrophage M2 polarization-induced 
+osteo-immunomodulation, Biomaterials 285 (2022) 121538, https://doi.org/ 
+10.1016/j.biomaterials.2022.121538.
+[30] F.N. Novikov, M.V. Panova, I.Y. Titov, V.S. Stroylov, O.V. Stroganov, G.G. Chilov, 
+Inhibition of SYK and cSrc kinases can protect bone and cartilage in preclinical 
+models of osteoarthritis and rheumatoid arthritis, Sci. Rep. 11 (2021), https://doi. 
+org/10.1038/s41598-021-02568-6.
+[31] P. Ma, L. Yue, H. Yang, Y. Fan, J. Bai, S. Li, J. Yuan, Z. Zhang, C. Yao, M. Lin, 
+Q. Hou, Chondroprotective and anti-inflammatory effects of amurensin H by 
+regulating TLR4/Syk/NF-κB signals, J. Cell Mol. Med. 24 (2019) 1958–1968, 
+https://doi.org/10.1111/jcmm.14893.
+[32] J. Paik, Correction to: fostamatinib: a review in chronic immune 
+thrombocytopenia, Drugs 81 (2021), https://doi.org/10.1007/s40265-021-01540- 
+y, 1361-1361.
+[33] K. Sae-khow, A. Charoensappakit, K. Udompornpitak, W. Saisorn, J. Issara- 
+Amphorn, T. Palaga, A. Leelahavanichkul, Syk inhibitor attenuates lupus in 
+FcγRIIb-/- mice through the inhibition of DNA extracellular traps from 
+macrophages and neutrophils via p38MAPK-dependent pathway, Cell Death 
+Discov. 11 (2025), https://doi.org/10.1038/s41420-025-02342-x.
+[34] L. Cai, S. Liu, J. Guo, Y.-G. Jia, Polypeptide-based self-healing hydrogels: design 
+and biomedical applications, Acta Biomater. 113 (2020) 84–100, https://doi.org/ 
+10.1016/j.actbio.2020.07.001.
+[35] R. Binaymotlagh, L. Chronopoulou, C. Palocci, Peptide-based hydrogels: template 
+materials for tissue engineering, JFB. 14 (2023) 233. https://doi.org/10.3390/jf 
+b14040233.
+[36] Y. Li, T. Zheng, Y. Du, B. Zhao, H.P. Patel, R. Boldt, G.K. Auernhammer, A. Fery, 
+J. Li, J. Thiele, Titanium dioxide nanoparticles embedded in assembled dipeptide 
+hydrogels for microfluidic photodegradation, J. Colloid Interface Sci. 654 (2024) 
+405–412, https://doi.org/10.1016/j.jcis.2023.09.191.
+[37] Y. Wang, Q. Geng, Y. Zhang, L. Adler-Abramovich, X. Fan, D. Mei, E. Gazit, K. Tao, 
+Fmoc-diphenylalanine gelating nanoarchitectonics: a simplistic peptide self- 
+assembly to meet complex applications, J. Colloid Interface Sci. 636 (2023) 
+113–133, https://doi.org/10.1016/j.jcis.2022.12.166.
+[38] J. Liu, X. Song, F. Kuang, Q. Zhang, Y. Xie, R. Kang, G. Kroemer, D. Tang, NUPR1 is 
+a critical repressor of ferroptosis, Nat. Commun. 12 (2021), https://doi.org/ 
+10.1038/s41467-021-20904-2.
+[39] Z. Huang, G. Chen, H. Wu, X. Huang, R. Xu, F. Deng, Y. Li, Ebselen restores peri- 
+implantitis-induced osteogenic inhibition via suppressing BMSCs ferroptosis, Exp. 
+Cell Res. 427 (2023) 113612, https://doi.org/10.1016/j.yexcr.2023.113612.
+[40] Y. Zhang, R.V. Swanda, L. Nie, X. Liu, C. Wang, H. Lee, G. Lei, C. Mao, P. Koppula, 
+W. Cheng, J. Zhang, Z. Xiao, L. Zhuang, B. Fang, J. Chen, S.-B. Qian, B. Gan, 
+mTORC1 couples cyst(e)ine availability with GPX4 protein synthesis and 
+ferroptosis regulation, Nat. Commun. 12 (2021), https://doi.org/10.1038/s41467- 
+021-21841-w.
+[41] G. Lei, Y. Zhang, P. Koppula, X. Liu, J. Zhang, S.H. Lin, J.A. Ajani, Q. Xiao, Z. Liao, 
+H. Wang, B. Gan, The role of ferroptosis in ionizing radiation-induced cell death 
+and tumor suppression, Cell Res. 30 (2020) 146–162, https://doi.org/10.1038/ 
+s41422-019-0263-3.
+[42] X. He, D. Wang, Y. Yi, Y. Tan, M. Wu, H. Wang, W. Hu, H. Chen, Q. Zhang, Y. Wu, 
+δ-Tocotrienol preconditioning improves the capability of bone marrow-derived 
+mesenchymal stem cells in promoting wound healing by inhibiting BACH1-related 
+ferroptosis, Cell Death Discov. 9 (2023), https://doi.org/10.1038/s41420-023- 
+01653-1.
+[43] H. Chen, Z. Han, Y. Wang, J. Su, Y. Lin, X. Cheng, W. Liu, J. He, Y. Fan, L. Chen, 
+H. Zuo, Targeting ferroptosis in bone-related diseases: facts and perspectives, JIR 
+16 (2023) 4661–4677, https://doi.org/10.2147/jir.s432111.
+[44] D.A. Reed, Y. Zhao, M. Han, L.G. Mercuri, M. Miloro, Mechanical loading disrupts 
+focal adhesion kinase activation in mandibular fibrochondrocytes during murine 
+temporomandibular joint osteoarthritis, J. Oral Maxillofac. Surg. 79 (2021) 2058. 
+e1–2058.e15, https://doi.org/10.1016/j.joms.2021.05.001.
+[45] M.D. Ansari, H. Majid, A. Khan, Y. Sultana, Clinical frontiers of metabolic bone 
+disorders: a comprehensive review, Metab Target Organ Damage 4 (2023), https:// 
+doi.org/10.20517/mtod.2023.38.
+[46] R.H. Brophy, Y.A. Fillingham, AAOS clinical practice guideline summary: 
+management of osteoarthritis of the knee (Nonarthroplasty), third edition, J. Am. 
+Acad. Orthop. Surg. 30 (2022) e721–e729, https://doi.org/10.5435/jaaos-d-21- 
+01233.
+[47] Z. Zhou, J. Lu, M. Yang, J. Cai, Q. Fu, J. Ma, L. Zhu, The mitochondrial unfolded 
+protein response (UPRmt) protects against osteoarthritis, Exp. Mol. Med. 54 (2022) 
+1979–1990, https://doi.org/10.1038/s12276-022-00885-y.
+[48] A. Bar, E. Ruvinov, S. Cohen, Live imaging flow bioreactor for the simulation of 
+articular cartilage regeneration after treatment with bioactive hydrogel, 
+Biotechnol. Bioeng. 115 (2018) 2205–2216, https://doi.org/10.1002/bit.26736.
+[49] M. Zewail, N. Nafee, N. Boraie, Intra-articular dual drug delivery for synergistic 
+rheumatoid arthritis treatment, J. Pharmaceut. Sci. 110 (2021) 2808–2822, 
+https://doi.org/10.1016/j.xphs.2021.04.001.
+[50] Y. Zhao, S. Song, D. Wang, H. Liu, J. Zhang, Z. Li, J. Wang, X. Ren, Y. Zhao, 
+Nanozyme-reinforced hydrogel as a HO-driven oxygenerator for enhancing 
+prosthetic interface osseointegration in rheumatoid arthritis therapy, Nat. 
+Commun. 13 (2022) 6758, https://doi.org/10.1038/s41467-022-34481-5.
+[51] N. Raina, R. Pahwa, J. Bhattacharya, A.K. Paul, V. Nissapatorn, M. de Lourdes 
+Pereira, S.M.R. Oliveira, K.G. Dolma, M. Rahmatullah, P. Wilairatana, M. Gupta, 
+Drug delivery strategies and biomedical significance of hydrogels: translational 
+considerations, Pharmaceutics 14 (2022) 574, https://doi.org/10.3390/ 
+pharmaceutics14030574.
+[52] F. Barry, F. Chai, H. Chijcheapaza-Flores, M.J. Garcia-Fernandez, N. Blanchemain, 
+R. Nicot, Systematic review of studies on drug-delivery systems for management of 
+temporomandibular-joint osteoarthritis, J. Stomatol. Oral Maxillofac. Surg. 123 
+(2022) e336–e341, https://doi.org/10.1016/j.jormas.2021.08.003.
+[53] X. Cen, X. Pan, B. Zhang, C. Liu, X. Huang, Z. Zhao, Hyaluronan injection versus 
+oral glucosamine and diclofenac in the treatment of temporomandibular joint 
+osteoarthritis, Clin. Oral Invest. 26 (2021) 2703–2710, https://doi.org/10.1007/ 
+s00784-021-04241-8.
+[54] Q. Qiao, X. Liu, T. Yang, K. Cui, L. Kong, C. Yang, Z. Zhang, Nanomedicine for 
+acute respiratory distress syndrome: the latest application, targeting strategy, and 
+rational design, Acta Pharm. Sin. B 11 (2021) 3060–3091, https://doi.org/ 
+10.1016/j.apsb.2021.04.023.
+[55] K.B. Onel, D.B. Horton, D.J. Lovell, S. Shenoi, C.A. Cuello, S.T. Angeles-Han, M. 
+L. Becker, R.Q. Cron, B.M. Feldman, P.J. Ferguson, H. Gewanter, J. Guzman, 
+Y. Kimura, T. Lee, K. Murphy, P.A. Nigrovic, M.J. Ombrello, C.E. Rabinovich, 
+M. Tesher, M. Twilt, M. Klein-Gitelman, F. Barbar-Smiley, A.M. Cooper, 
+B. Edelheit, M. Gillispie-Taylor, K. Hays, M.L. Mannion, R. Peterson, E. Flanagan, 
+N. Saad, N. Sullivan, A.M. Szymanski, R. Trachtman, M. Turgunbaev, K. Veiga, A. 
+S. Turner, J.T. Reston, 2021 American college of rheumatology guideline for the 
+treatment of juvenile idiopathic arthritis: therapeutic approaches for oligoarthritis, 
+temporomandibular joint arthritis, and systemic juvenile idiopathic arthritis, 
+Arthritis Rheumatol. 74 (2022) 553–569, https://doi.org/10.1002/art.42037.
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+16 
+[56] K.B. Onel, D.B. Horton, D.J. Lovell, S. Shenoi, C.A. Cuello, S.T. Angeles-Han, M. 
+L. Becker, R.Q. Cron, B.M. Feldman, P.J. Ferguson, H. Gewanter, J. Guzman, 
+Y. Kimura, T. Lee, K. Murphy, P.A. Nigrovic, M.J. Ombrello, C.E. Rabinovich, 
+M. Tesher, M. Twilt, M. Klein-Gitelman, F. Barbar-Smiley, A.M. Cooper, 
+B. Edelheit, M. Gillispie-Taylor, K. Hays, M.L. Mannion, R. Peterson, E. Flanagan, 
+N. Saad, N. Sullivan, A.M. Szymanski, R. Trachtman, M. Turgunbaev, K. Veiga, A. 
+S. Turner, J.T. Reston, 2021 American college of rheumatology guideline for the 
+treatment of juvenile idiopathic arthritis: therapeutic approaches for oligoarthritis, 
+temporomandibular joint arthritis, and systemic juvenile idiopathic arthritis, 
+Arthritis Care Res. 74 (2022) 521–537, https://doi.org/10.1002/acr.24853.
+[57] T. Ootake, T. Ishii, K. Sueishi, A. Watanabe, Y. Ishizuka, K. Amano, M. Nagao, 
+K. Nishimura, Y. Nishii, Effects of mechanical stress and deficiency of 
+dihydrotestosterone or 17β-estradiol on temporomandibular joint osteoarthritis in 
+mice, Osteoarthr. Cartil. 29 (2021) 1575–1589, https://doi.org/10.1016/j. 
+joca.2021.08.005.
+[58] J. Lu, Y. Li, J. Cai, X. Jin, G. Chu, H. Jin, L. Zhu, A. Chen, Biocompatibility and 
+therapeutic efficacy of crosslinked hydrogel filled 3D-printed nerve conduit for 
+sacral nerve injury repair, Biomaterials 320 (2025) 123230, https://doi.org/ 
+10.1016/j.biomaterials.2025.123230.
+[59] J. Qiu, B. Wu, S.B. Goodman, G.J. Berry, J.J. Goronzy, C.M. Weyand, Metabolic 
+control of autoimmunity and tissue inflammation in rheumatoid arthritis, Front. 
+Immunol. 12 (2021), https://doi.org/10.3389/fimmu.2021.652771.
+[60] S.E. Di Carlo, J. Raffenne, H. Varet, A. Ode, D.C. Granados, M. Stein, R. Legendre, 
+J. Tuckermann, C. Bousquet, L. Peduto, Depletion of slow-cycling PDGFRα+
+ADAM12+ mesenchymal cells promotes antitumor immunity by restricting 
+macrophage efferocytosis, Nat. Immunol. 24 (2023) 1867–1878, https://doi.org/ 
+10.1038/s41590-023-01642-7.
+[61] N. Santana-Codina, A. Gikandi, J.D. Mancias, The role of NCOA4-Mediated 
+ferritinophagy in ferroptosis, Adv. Exp. Med. Biol. (2021) 41–57, https://doi.org/ 
+10.1007/978-3-030-62026-4_4.
+[62] A. Ajoolabady, D. Tang, G. Kroemer, J. Ren, Ferroptosis in hepatocellular 
+carcinoma: mechanisms and targeted therapy, Br. J. Cancer 128 (2022) 190–205, 
+https://doi.org/10.1038/s41416-022-01998-x.
+[63] X. Yang, N.K. Kawasaki, J. Min, T. Matsui, F. Wang, Ferroptosis in heart failure, 
+J. Mol. Cellular Cardiol. 173 (2022) 141–153, https://doi.org/10.1016/j. 
+yjmcc.2022.10.004.
+[64] B.Y. Chen, J.L. Pathak, H.Y. Lin, W.Q. Guo, W.J. Chen, G. Luo, L.J. Wang, X.F. Sun, 
+Y. Ding, J. Li, T.G.H. Diekwisch, C. Liu, Inflammation triggers chondrocyte 
+ferroptosis in TMJOA via HIF-1α/TFRC, J. Dent. Res. 103 (2024) 712–722, https:// 
+doi.org/10.1177/00220345241242389.
+[65] J. Guo, K. Su, L. Wang, B. Feng, X. You, M. Deng, W.S. Toh, J. Wu, B. Cheng, J. Xia, 
+Poly(p-coumaric acid) nanoparticles alleviate temporomandibular joint 
+osteoarthritis by inhibiting chondrocyte ferroptosis, Bioact. Mater. 40 (2024) 
+212–226, https://doi.org/10.1016/j.bioactmat.2024.06.007.
+[66] X.-D. Wang, X.-X. Kou, D.-Q. He, M.-M. Zeng, Z. Meng, R.-Y. Bi, Y. Liu, J.-N. Zhang, 
+Y.-H. Gan, Y.-H. Zhou, Progression of cartilage degradation, bone resorption and 
+pain in rat temporomandibular joint osteoarthritis induced by injection of 
+iodoacetate, PLoS One 7 (2012) e45036, https://doi.org/10.1371/journal. 
+pone.0045036.
+Y. Zhang et al.                                                                                                                                                                                                                                   
+Materials Today Bio 37 (2026) 102906 
+17 

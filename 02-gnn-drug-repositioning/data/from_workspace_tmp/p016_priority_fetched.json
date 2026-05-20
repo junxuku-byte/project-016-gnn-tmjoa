@@ -1,0 +1,1115 @@
+{
+  "search_metadata": {
+    "timestamp": "2026-05-18T19:06:56.373972",
+    "total": 42,
+    "tier_distribution": {
+      "A": 0,
+      "B": 0,
+      "C": 42,
+      "D": 0
+    }
+  },
+  "results": [
+    {
+      "doi": "10.1016/j.jcms.2026.104504",
+      "pmid": "41747664",
+      "title": "Concentrated growth factor as treatment for temporomandibular joint osteoarthritis: A randomized controlled clinical trial.",
+      "authors": [
+        "Zheng XJ",
+        "Guo LJ",
+        "Yang S"
+      ],
+      "first_author": "Zheng XJ",
+      "year": 2026,
+      "journal": "Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1080/08869634.2025.2571830",
+      "pmid": "41084405",
+      "title": "Comparison of NSAID therapy alone versus combined NSAID and home exercise therapy in patients with temporomandibular joint osteoarthritis and arthralgia.",
+      "authors": [
+        "Erdogan O",
+        "Bas B"
+      ],
+      "first_author": "Erdogan O",
+      "year": 2026,
+      "journal": "Cranio : the journal of craniomandibular practice",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.joms.2025.05.009",
+      "pmid": "40494404",
+      "title": "Is Intra-articular Injection of Hyaluronic Acid, Corticosteroid or Platelet-rich Plasma Following Medical Ozone Superior to Medical Ozone Alone in the Treatment of Temporomandibular Joint Osteoarthritis?",
+      "authors": [
+        "Cömert Kiliç S",
+        "Babayev U",
+        "Kiliç N"
+      ],
+      "first_author": "Cömert Kiliç S",
+      "year": 2025,
+      "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.jdent.2025.105659",
+      "pmid": "40043882",
+      "title": "TMJ pericapsular guided injection with visual-inertial odometry (Augmented/mixed reality): A novel pilot clinical approach for joint osteoarthrosis drug delivery.",
+      "authors": [
+        "Farronato M",
+        "Crispino R",
+        "Fabbro MD",
+        "Tartaglia GM",
+        "Cenzato N"
+      ],
+      "first_author": "Farronato M",
+      "year": 2025,
+      "journal": "Journal of dentistry",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.jcms.2025.02.016",
+      "pmid": "39988525",
+      "title": "Does intra-articular medical ozone therapy applied at different concentrates improve outcomes of temporomandibular joint osteoarthritis? A randomized clinical trial.",
+      "authors": [
+        "Cömert Kiliç S",
+        "Gürsaç Çeli K M"
+      ],
+      "first_author": "Cömert Kiliç S",
+      "year": 2025,
+      "journal": "Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.2174/0115733971309907240527105306",
+      "pmid": "38867545",
+      "title": "Efficiency of Glucosamine in Treating Temporomandibular Joint Osteoarthritis: A Meta-Analytic Umbrella Review.",
+      "authors": [
+        "Sivakumar S",
+        "Kumar PP",
+        "Prasanna PL",
+        "Sivakumar G",
+        "Balasamy S",
+        "Sundramoorthy AK"
+      ],
+      "first_author": "Sivakumar S",
+      "year": 2025,
+      "journal": "Current rheumatology reviews",
+      "article_type": "Systematic Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1080/08869634.2022.2076796",
+      "pmid": "35588467",
+      "title": "Efficacy of the use of chondroitin sulphate and glucosamine for the treatment of temporomandibular joint dysfunction: A systematic review and meta-analysis.",
+      "authors": [
+        "Ruiz-Romero V",
+        "Toledano-Serrabona J",
+        "Gay-Escoda C"
+      ],
+      "first_author": "Ruiz-Romero V",
+      "year": 2025,
+      "journal": "Cranio : the journal of craniomandibular practice",
+      "article_type": "Systematic Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1186/s12903-024-04258-x",
+      "pmid": "38720327",
+      "title": "A randomized controlled clinical trial of concentrated growth factor combined with sodium hyaluronate in the treatment of temporomandibular joint osteoarthritis.",
+      "authors": [
+        "Jia XY",
+        "Jing SL",
+        "Sun Y",
+        "Gong ZC",
+        "Guo ZC"
+      ],
+      "first_author": "Jia XY",
+      "year": 2024,
+      "journal": "BMC oral health",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": true,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1111/joor.13571",
+      "pmid": "37608244",
+      "title": "Hyaluronic acid injections for pain relief and functional improvement in patients with temporomandibular disorders: An umbrella review of systematic reviews.",
+      "authors": [
+        "Agostini F",
+        "Ferrillo M",
+        "Bernetti A",
+        "Finamore N",
+        "Mangone M",
+        "Giudice A",
+        "Paoloni M",
+        "de Sire A"
+      ],
+      "first_author": "Agostini F",
+      "year": 2023,
+      "journal": "Journal of oral rehabilitation",
+      "article_type": "Systematic Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1186/s12903-023-02852-z",
+      "pmid": "36890529",
+      "title": "Does intra-articular injection of tenoxicam after arthrocentesis heal outcomes of temporomandibular joint osteoarthritis? A randomized clinical trial.",
+      "authors": [
+        "Bayramoglu Z",
+        "Yavuz GY",
+        "Keskinruzgar A",
+        "Koparal M",
+        "Kaya GS"
+      ],
+      "first_author": "Bayramoglu Z",
+      "year": 2023,
+      "journal": "BMC oral health",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": true,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.3390/ijms24054925",
+      "pmid": "36902359",
+      "title": "Oral Glucosamine in the Treatment of Temporomandibular Joint Osteoarthritis: A Systematic Review.",
+      "authors": [
+        "Derwich M",
+        "Górski B",
+        "Amm E",
+        "Pawłowska E"
+      ],
+      "first_author": "Derwich M",
+      "year": 2023,
+      "journal": "International journal of molecular sciences",
+      "article_type": "Systematic Review",
+      "is_oa": true,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.jormas.2022.11.016",
+      "pmid": "36414172",
+      "title": "Synergistic effect of platelet rich plasma with hyaluronic acid injection following arthrocentesis to reduce pain and improve function in TMJ osteoarthritis.",
+      "authors": [
+        "Hegab AF",
+        "Hameed HIAA",
+        "Hassaneen AM",
+        "Hyder A"
+      ],
+      "first_author": "Hegab AF",
+      "year": 2023,
+      "journal": "Journal of stomatology, oral and maxillofacial surgery",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.jormas.2021.08.003",
+      "pmid": "34400376",
+      "title": "Systematic review of studies on drug-delivery systems for management of temporomandibular-joint osteoarthritis.",
+      "authors": [
+        "Barry F",
+        "Chai F",
+        "Chijcheapaza-Flores H",
+        "Garcia-Fernandez MJ",
+        "Blanchemain N",
+        "Nicot R"
+      ],
+      "first_author": "Barry F",
+      "year": 2022,
+      "journal": "Journal of stomatology, oral and maxillofacial surgery",
+      "article_type": "Systematic Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.jebdp.2022.101720",
+      "pmid": "36162894",
+      "title": "EFFECTIVENESS OF INTRA-ARTICULAR INJECTIONS OF SODIUM HYALURONATE, CORTICOSTEROIDS, PLATELET-RICH PLASMA ON TEMPOROMANDIBULAR JOINT OSTEOARTHRITIS: A SYSTEMATIC REVIEW AND NETWORK META-ANALYSIS OF RANDOMIZED CONTROLLED TRIALS.",
+      "authors": [
+        "Xie Y",
+        "Zhao K",
+        "Ye G",
+        "Yao X",
+        "Yu M",
+        "Ouyang H"
+      ],
+      "first_author": "Xie Y",
+      "year": 2022,
+      "journal": "The journal of evidence-based dental practice",
+      "article_type": "Systematic Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.joms.2022.05.002",
+      "pmid": "35679902",
+      "title": "Combined Platelet-Rich Plasma and Hyaluronic Acid can Reduce Pain in Patients Undergoing Arthrocentesis for Temporomandibular Joint Osteoarthritis.",
+      "authors": [
+        "Asadpour N",
+        "Shooshtari Z",
+        "Kazemian M",
+        "Gholami M",
+        "Vatanparast N",
+        "Samieirad S"
+      ],
+      "first_author": "Asadpour N",
+      "year": 2022,
+      "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.jcms.2022.06.006",
+      "pmid": "35798596",
+      "title": "Injectable platelet-rich fibrin as treatment for temporomandibular joint osteoarthritis: A randomized controlled clinical trial.",
+      "authors": [
+        "Işık G",
+        "Kenç S",
+        "Özveri Koyuncu B",
+        "Günbay S",
+        "Günbay T"
+      ],
+      "first_author": "Işık G",
+      "year": 2022,
+      "journal": "Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1007/s10571-020-01033-8",
+      "pmid": "33387118",
+      "title": "Chronic Pain Causes Peripheral and Central Responses in MIA-Induced TMJOA Rats.",
+      "authors": [
+        "Jiang H",
+        "Xu L",
+        "Liu W",
+        "Xiao M",
+        "Ke J",
+        "Long X"
+      ],
+      "first_author": "Jiang H",
+      "year": 2022,
+      "journal": "Cellular and molecular neurobiology",
+      "article_type": "Journal Article",
+      "is_oa": true,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.ijom.2021.01.019",
+      "pmid": "33642154",
+      "title": "Is there a difference in treatment effect of different intra-articular drugs for temporomandibular joint osteoarthritis? A systematic review of randomized controlled trials.",
+      "authors": [
+        "Liapaki A",
+        "Thamm JR",
+        "Ha S",
+        "Monteiro JLGC",
+        "McCain JP",
+        "Troulis MJ",
+        "Guastaldi FPS"
+      ],
+      "first_author": "Liapaki A",
+      "year": 2021,
+      "journal": "International journal of oral and maxillofacial surgery",
+      "article_type": "Systematic Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.joms.2021.02.034",
+      "pmid": "33775650",
+      "title": "A Systematic Review of Rat Models With Temporomandibular Osteoarthritis Suitable for the Study of Emerging Prolonged Intra-Articular Drug Delivery Systems.",
+      "authors": [
+        "Nicot R",
+        "Barry F",
+        "Chijcheapaza-Flores H",
+        "Garcia-Fernandez MJ",
+        "Raoul G",
+        "Blanchemain N",
+        "Chai F"
+      ],
+      "first_author": "Nicot R",
+      "year": 2021,
+      "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+      "article_type": "Systematic Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.jcms.2021.02.012",
+      "pmid": "33685850",
+      "title": "Does glucosamine, chondroitin sulfate, and methylsulfonylmethane supplementation improve the outcome of temporomandibular joint osteoarthritis management with arthrocentesis plus intraarticular hyaluronic acid injection. A randomized clinical trial.",
+      "authors": [
+        "Cömert Kılıç S"
+      ],
+      "first_author": "Cömert Kılıç S",
+      "year": 2021,
+      "journal": "Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1038/s41598-021-94470-4",
+      "pmid": "34290363",
+      "title": "Roles for B[a]P and FICZ in subchondral bone metabolism and experimental temporomandibular joint osteoarthritis via the AhR/Cyp1a1 signaling axis.",
+      "authors": [
+        "Yoshikawa Y",
+        "Izawa T",
+        "Hamada Y",
+        "Takenaga H",
+        "Wang Z",
+        "Ishimaru N",
+        "Kamioka H"
+      ],
+      "first_author": "Yoshikawa Y",
+      "year": 2021,
+      "journal": "Scientific reports",
+      "article_type": "Journal Article",
+      "is_oa": true,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.3390/ijms22147405",
+      "pmid": "34299024",
+      "title": "Mechanisms of Action and Efficacy of Hyaluronic Acid, Corticosteroids and Platelet-Rich Plasma in the Treatment of Temporomandibular Joint Osteoarthritis-A Systematic Review.",
+      "authors": [
+        "Derwich M",
+        "Mitus-Kenig M",
+        "Pawlowska E"
+      ],
+      "first_author": "Derwich M",
+      "year": 2021,
+      "journal": "International journal of molecular sciences",
+      "article_type": "Systematic Review",
+      "is_oa": true,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.joms.2019.10.016",
+      "pmid": "31765633",
+      "title": "Multiple Treatment Meta-Analysis of Intra-Articular Injection for Temporomandibular Osteoarthritis.",
+      "authors": [
+        "Liu Y",
+        "Wu JS",
+        "Tang YL",
+        "Tang YJ",
+        "Fei W",
+        "Liang XH"
+      ],
+      "first_author": "Liu Y",
+      "year": 2020,
+      "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+      "article_type": "Meta-Analysis",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1097/AJP.0000000000000746",
+      "pmid": "31318725",
+      "title": "Efficacy and Safety of Low-dose Codeine-containing Combination Analgesics for Pain: Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Abdel Shaheed C",
+        "Maher CG",
+        "McLachlan AJ"
+      ],
+      "first_author": "Abdel Shaheed C",
+      "year": 2019,
+      "journal": "The Clinical journal of pain",
+      "article_type": "Systematic Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.jcms.2018.08.007",
+      "pmid": "30249483",
+      "title": "Efficacy of viscosupplementation with hyaluronic acid in temporomandibular disorders: A systematic review.",
+      "authors": [
+        "Ferreira N",
+        "Masterson D",
+        "Lopes de Lima R",
+        "de Souza Moura B",
+        "Oliveira AT",
+        "Kelly da Silva Fidalgo T",
+        "Carvalho ACP",
+        "DosSantos MF",
+        "Grossmann E"
+      ],
+      "first_author": "Ferreira N",
+      "year": 2018,
+      "journal": "Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery",
+      "article_type": "Systematic Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.joms.2018.04.031",
+      "pmid": "29864430",
+      "title": "Oral Glucosamine Hydrochloride Combined With Hyaluronate Sodium Intra-Articular Injection for Temporomandibular Joint Osteoarthritis: A Double-Blind Randomized Controlled Trial.",
+      "authors": [
+        "Yang W",
+        "Liu W",
+        "Miao C",
+        "Sun H",
+        "Li L",
+        "Li C"
+      ],
+      "first_author": "Yang W",
+      "year": 2018,
+      "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1111/joor.12616",
+      "pmid": "29446485",
+      "title": "Effects of glucosamine supplements on painful temporomandibular joint osteoarthritis: A systematic review.",
+      "authors": [
+        "Melo G",
+        "Casett E",
+        "Stuginski-Barbosa J",
+        "Guerra ENS",
+        "Fernandes DA",
+        "Porporatti AL",
+        "Flores-Mir C",
+        "De Luca Canto G"
+      ],
+      "first_author": "Melo G",
+      "year": 2018,
+      "journal": "Journal of oral rehabilitation",
+      "article_type": "Systematic Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1111/odi.12760",
+      "pmid": "28862770",
+      "title": "Glucosamine oral administration as an adjunct to hyaluronic acid injection in treating temporomandibular joint osteoarthritis.",
+      "authors": [
+        "Cen X",
+        "Liu Y",
+        "Wang S",
+        "Yang X",
+        "Shi Z",
+        "Liang X"
+      ],
+      "first_author": "Cen X",
+      "year": 2018,
+      "journal": "Oral diseases",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.joms.2017.10.028",
+      "pmid": "29182905",
+      "title": "Is There a Difference in Intra-Articular Injections of Corticosteroids, Hyaluronate, or Placebo for Temporomandibular Osteoarthritis?",
+      "authors": [
+        "Liu Y",
+        "Wu J",
+        "Fei W",
+        "Cen X",
+        "Xiong Y",
+        "Wang S",
+        "Tang Y",
+        "Liang X"
+      ],
+      "first_author": "Liu Y",
+      "year": 2018,
+      "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+      "article_type": "Systematic Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.ijom.2017.09.014",
+      "pmid": "29066000",
+      "title": "Platelet-rich plasma for the therapeutic management of temporomandibular joint disorders: a systematic review.",
+      "authors": [
+        "Bousnaki M",
+        "Bakopoulou A",
+        "Koidis P"
+      ],
+      "first_author": "Bousnaki M",
+      "year": 2018,
+      "journal": "International journal of oral and maxillofacial surgery",
+      "article_type": "Systematic Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.11607/ofph.1783",
+      "pmid": "29244893",
+      "title": "Effectiveness of Intra-Articular Injections of Sodium Hyaluronate or Corticosteroids for Intracapsular Temporomandibular Disorders: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Moldez MA",
+        "Camones VR",
+        "Ramos GE",
+        "Padilla M",
+        "Enciso R"
+      ],
+      "first_author": "Moldez MA",
+      "year": 2018,
+      "journal": "Journal of oral & facial pain and headache",
+      "article_type": "Systematic Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.ijom.2017.01.014",
+      "pmid": "28228347",
+      "title": "Effect of hyaluronic acid on the regulation of inflammatory mediators in osteoarthritis of the temporomandibular joint: a systematic review.",
+      "authors": [
+        "Iturriaga V",
+        "Bornhardt T",
+        "Manterola C",
+        "Brebi P"
+      ],
+      "first_author": "Iturriaga V",
+      "year": 2017,
+      "journal": "International journal of oral and maxillofacial surgery",
+      "article_type": "Systematic Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.jcms.2017.01.010",
+      "pmid": "28237253",
+      "title": "Comparison of intra-articular injection of plasma rich in growth factors versus hyaluronic acid following arthroscopy in the treatment of temporomandibular dysfunction: A randomised prospective study.",
+      "authors": [
+        "Fernández-Ferro M",
+        "Fernández-Sanromán J",
+        "Blanco-Carrión A",
+        "Costas-López A",
+        "López-Betancourt A",
+        "Arenaz-Bua J",
+        "Stavaru Marinescu B"
+      ],
+      "first_author": "Fernández-Ferro M",
+      "year": 2017,
+      "journal": "Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.ijom.2016.01.008",
+      "pmid": "27026059",
+      "title": "Clinical effects of an avocado-soybean unsaponifiable extract on arthralgia and osteoarthritis of the temporomandibular joint: preliminary study.",
+      "authors": [
+        "Catunda IS",
+        "Vasconcelos BC",
+        "Andrade ES",
+        "Costa DF"
+      ],
+      "first_author": "Catunda IS",
+      "year": 2016,
+      "journal": "International journal of oral and maxillofacial surgery",
+      "article_type": "Randomized Controlled Trial",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1007/s10266-020-00503-1",
+      "pmid": "32140951",
+      "title": "Bone metabolism of the jaw in response to bisphosphonate: a quantitative analysis of bone scintigraphy images.",
+      "authors": [
+        "Nakai F",
+        "Ohbayashi Y",
+        "Nakai Y",
+        "Iwasaki A",
+        "Miyake M"
+      ],
+      "first_author": "Nakai F",
+      "year": 2020,
+      "journal": "Odontology",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cytogfr.2026.01.002",
+      "pmid": "41512597",
+      "title": "cPLA2 in musculoskeletal and autoimmune diseases: Molecular mechanisms and therapeutic insights.",
+      "authors": [
+        "He C",
+        "Huang G",
+        "Bi J",
+        "Fu W",
+        "Liu CJ"
+      ],
+      "first_author": "He C",
+      "year": 2026,
+      "journal": "Cytokine & growth factor reviews",
+      "article_type": "Review",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1038/s41598-026-35708-x",
+      "pmid": "41520053",
+      "title": "Repurposing metformin for treating osteoarthritis via leveraging Nrf2 signaling.",
+      "authors": [
+        "Zhong Y",
+        "Chen J",
+        "Shi N",
+        "Yu J",
+        "Wang S",
+        "Wang G",
+        "Liu M",
+        "Yang X",
+        "Cheng X"
+      ],
+      "first_author": "Zhong Y",
+      "year": 2026,
+      "journal": "Scientific reports",
+      "article_type": "Systematic Review",
+      "is_oa": true,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1038/s41586-025-08771-z",
+      "pmid": "40205036",
+      "title": "Translational genomics of osteoarthritis in 1,962,069 individuals.",
+      "authors": [
+        "Hatzikotoulas K",
+        "Southam L",
+        "Stefansdottir L",
+        "Boer CG",
+        "McDonald ML",
+        "Pett JP",
+        "Park YC",
+        "Tuerlings M",
+        "Mulders R",
+        "Barysenka A",
+        "Arruda AL",
+        "Tragante V",
+        "Rocco A",
+        "Bittner N",
+        "Chen S",
+        "Horn S",
+        "Srinivasasainagendra V",
+        "To K",
+        "Katsoula G",
+        "Kreitmaier P",
+        "Tenghe AMM",
+        "Gilly A",
+        "Arbeeva L",
+        "Chen LG",
+        "de Pins AM",
+        "Dochtermann D",
+        "Henkel C",
+        "Höijer J",
+        "Ito S",
+        "Lind PA",
+        "Lukusa-Sawalena B",
+        "Minn AKK",
+        "Mola-Caminal M",
+        "Narita A",
+        "Nguyen C",
+        "Reimann E",
+        "Silberstein MD",
+        "Skogholt AH",
+        "Tiwari HK",
+        "Yau MS",
+        "Yue M",
+        "Zhao W",
+        "Zhou JJ",
+        "Alexiadis G",
+        "Banasik K",
+        "Brunak S",
+        "Campbell A",
+        "Cheung JTS",
+        "Dowsett J",
+        "Faquih T",
+        "Faul JD",
+        "Fei L",
+        "Fenstad AM",
+        "Funayama T",
+        "Gabrielsen ME",
+        "Gocho C",
+        "Gromov K",
+        "Hansen T",
+        "Hudjashov G",
+        "Ingvarsson T",
+        "Johnson JS",
+        "Jonsson H",
+        "Kakehi S",
+        "Karjalainen J",
+        "Kasbohm E",
+        "Lemmelä S",
+        "Lin K",
+        "Liu X",
+        "Loef M",
+        "Mangino M",
+        "McCartney D",
+        "Millwood IY",
+        "Richman J",
+        "Roberts MB",
+        "Ryan KA",
+        "Samartzis D",
+        "Shivakumar M",
+        "Skou ST",
+        "Sugimoto S",
+        "Suzuki K",
+        "Takuwa H",
+        "Teder-Laving M",
+        "Thomas L",
+        "Tomizuka K",
+        "Turman C",
+        "Weiss S",
+        "Wu TT",
+        "Zengini E",
+        "Zhang Y",
+        "arcOGEN Consortium",
+        "ARGO Consortium",
+        "DBDS Genomic Consortium",
+        "Estonian Biobank Research Team",
+        "FinnGen",
+        "Genes & Health Research Team",
+        "HUNT All-In Pain",
+        "Million Veteran Program",
+        "Regeneron Genetics Center",
+        "Ferreira MAR",
+        "Babis G",
+        "Baras A",
+        "Barker T",
+        "Carey DJ",
+        "Cheah KSE",
+        "Chen Z",
+        "Cheung JP",
+        "Daly M",
+        "de Mutsert R",
+        "Eaton CB",
+        "Erikstrup C",
+        "Furnes ON",
+        "Golightly YM",
+        "Gudbjartsson DF",
+        "Hailer NP",
+        "Hayward C",
+        "Hochberg MC",
+        "Homuth G",
+        "Huckins LM",
+        "Hveem K",
+        "Ikegawa S",
+        "Ishijima M",
+        "Isomura M",
+        "Jones M",
+        "Kang JH",
+        "Kardia SLR",
+        "Kloppenburg M",
+        "Kraft P",
+        "Kumahashi N",
+        "Kuwata S",
+        "Lee MTM",
+        "Lee PH",
+        "Lerner R",
+        "Li L",
+        "Lietman SA",
+        "Lotta L",
+        "Lupton MK",
+        "Mägi R",
+        "Martin NG",
+        "McAlindon TE",
+        "Medland SE",
+        "Michaëlsson K",
+        "Mitchell BD",
+        "Mook-Kanamori DO",
+        "Morris AP",
+        "Nabika T",
+        "Nagami F",
+        "Nelson AE",
+        "Ostrowski SR",
+        "Palotie A",
+        "Pedersen OB",
+        "Rosendaal FR",
+        "Sakurai-Yageta M",
+        "Schmidt CO",
+        "Sham PC",
+        "Singh JA",
+        "Smelser DT",
+        "Smith JA",
+        "Song YQ",
+        "Sørensen E",
+        "Tamiya G",
+        "Tamura Y",
+        "Terao C",
+        "Thorleifsson G",
+        "Troelsen A",
+        "Tsezou A",
+        "Uchio Y",
+        "Uitterlinden AG",
+        "Ullum H",
+        "Valdes AM",
+        "van Heel DA",
+        "Walters RG",
+        "Weir DR",
+        "Wilkinson JM",
+        "Winsvold BS",
+        "Yamamoto M",
+        "Zwart JA",
+        "Stefansson K",
+        "Meulenbelt I",
+        "Teichmann SA",
+        "van Meurs JBJ",
+        "Styrkarsdottir U",
+        "Zeggini E"
+      ],
+      "first_author": "Hatzikotoulas K",
+      "year": 2025,
+      "journal": "Nature",
+      "article_type": "Meta-Analysis",
+      "is_oa": true,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.phymed.2022.154506",
+      "pmid": "36403512",
+      "title": "Astragaloside IV as a novel CXCR4 antagonist alleviates osteoarthritis in the knee of monosodium iodoacetate-induced rats.",
+      "authors": [
+        "Yang K",
+        "Xie Q",
+        "Tang T",
+        "Zhao N",
+        "Liang J",
+        "Shen Y",
+        "Li Z",
+        "Liu B",
+        "Chen J",
+        "Cheng W",
+        "Bai X",
+        "Zhang P",
+        "Liu Q",
+        "Song B",
+        "Hu C",
+        "Liu L",
+        "Wang Y"
+      ],
+      "first_author": "Yang K",
+      "year": 2023,
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1038/s41588-022-01221-w",
+      "pmid": "36411363",
+      "title": "Novel genetic loci associated with osteoarthritis in multi-ancestry analyses in the Million Veteran Program and UK Biobank.",
+      "authors": [
+        "McDonald MN",
+        "Lakshman Kumar P",
+        "Srinivasasainagendra V",
+        "Nair A",
+        "Rocco AP",
+        "Wilson AC",
+        "Chiles JW",
+        "Richman JS",
+        "Pinson SA",
+        "Dennis RA",
+        "Jagadale V",
+        "Brown CJ",
+        "Pyarajan S",
+        "Tiwari HK",
+        "Bamman MM",
+        "Singh JA"
+      ],
+      "first_author": "McDonald MN",
+      "year": 2022,
+      "journal": "Nature genetics",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1136/annrheumdis-2021-221380",
+      "pmid": "34853001",
+      "title": "Digoxin targets low density lipoprotein receptor-related protein 4 and protects against osteoarthritis.",
+      "authors": [
+        "Wang KD",
+        "Ding X",
+        "Jiang N",
+        "Zeng C",
+        "Wu J",
+        "Cai XY",
+        "Hettinghouse A",
+        "Khleborodova A",
+        "Lei ZN",
+        "Chen ZS",
+        "Lei GH",
+        "Liu CJ"
+      ],
+      "first_author": "Wang KD",
+      "year": 2022,
+      "journal": "Annals of the rheumatic diseases",
+      "article_type": "Journal Article",
+      "is_oa": true,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    },
+    {
+      "doi": "10.1016/j.mehy.2021.110713",
+      "pmid": "34710749",
+      "title": "Repurposing pentosan polysulfate sodium as hyaluronic acid linked polyion complex nanoparticles for the management of osteoarthritis: A potential approach.",
+      "authors": [
+        "Solanki P",
+        "Ansari MD",
+        "Anjali",
+        "Khan I",
+        "Jahan RN",
+        "Nikita",
+        "Pandit J",
+        "Aqil M",
+        "Ahmad FJ",
+        "Sultana Y"
+      ],
+      "first_author": "Solanki P",
+      "year": 2021,
+      "journal": "Medical hypotheses",
+      "article_type": "Journal Article",
+      "is_oa": false,
+      "tier": "C",
+      "sources": [
+        "pubmed"
+      ]
+    }
+  ]
+}
