@@ -2,6 +2,10 @@
 """
 Baseline 1: Random Walk with Restart (RWR) on four-layer heterogeneous graph.
 Classic drug repositioning baseline — restart from drug, walk until convergence.
+
+# ── Paths (portable) ──────────────────────────────────────
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 """
 
 import json, random
@@ -12,7 +16,7 @@ from sklearn.metrics import roc_auc_score, average_precision_score
 
 SEED=42; random.seed(SEED); np.random.seed(SEED)
 
-DATA=Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+DATA=Path("DATA_DIR")
 GRAPH=DATA/"four_layer_graph_full.json"; TRAIN=DATA/"p016_train_v5_0.json"
 OUT=DATA/"rwr_baseline_results.json"
 

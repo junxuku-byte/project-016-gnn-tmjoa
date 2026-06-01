@@ -2,13 +2,17 @@
 """
 Phase 3b: Expand target-pathway-disease coverage.
 Strategy: Merge domain knowledge + literature extraction.
+
+# ── Paths (portable) ──────────────────────────────────────
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 """
 
 import json
 from collections import defaultdict
 from pathlib import Path
 
-OUT_DIR = Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+OUT_DIR = Path("DATA_DIR")
 ORIG = OUT_DIR / "four_layer_graph.json"
 RAW = OUT_DIR / "mechanism_quadruples_raw.json"
 OUT = OUT_DIR / "four_layer_graph_expanded.json"

@@ -12,6 +12,10 @@ v3.8 strategy name corrections:
   title_cooccurrence_zero  → cooccurrence_exclusion (all 8 are stars, unusable)
   unrelated_drug_class   → mechanism_exclusion
   failed_oa_trial        → temporal_anchor
+
+# ── Paths (portable) ──────────────────────────────────────
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 """
 
 import json
@@ -22,8 +26,8 @@ from pathlib import Path
 random.seed(42)
 
 # ── Paths ──────────────────────────────────────────────────────────
-BASE = Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data/from_workspace_tmp")
-OUT  = Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+BASE = Path("DATA_DIR / "from_workspace_tmp"")
+OUT  = Path("DATA_DIR")
 
 POS_FILE  = BASE / "p016_train_v3_5.json"
 POOL_FILE = BASE / "p016_negative_pool_v3_8.json"

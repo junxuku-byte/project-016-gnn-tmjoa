@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# ── Paths (portable) ──────────────────────────────────────
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 """Phase 3d Strategy A+B+C: HeteroGNN + topological features + class-weighted loss."""
 
 import json, random
@@ -11,7 +15,7 @@ from sklearn.metrics import roc_auc_score, average_precision_score
 SEED=42; DEVICE=torch.device('cpu')
 random.seed(SEED); np.random.seed(SEED); torch.manual_seed(SEED)
 
-DATA=Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+DATA=Path("DATA_DIR")
 GRAPH=DATA/"four_layer_graph_full.json"; TRAIN=DATA/"p016_train_v5_0.json"; OUT=DATA/"hgnn_abc_ldo_results.json"
 
 HIDDEN=128; N_LAYERS=2; DROPOUT=0.4; LR=0.005; EPOCHS=400; PATIENCE=40; N_FOLDS=5

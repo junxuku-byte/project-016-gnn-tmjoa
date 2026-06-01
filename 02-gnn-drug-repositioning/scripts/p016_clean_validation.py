@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# ── Paths (portable) ──────────────────────────────────────
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 """Re-run literature validation excluding all graph-construction PMIDs."""
 import json, time, os, xml.etree.ElementTree as ET
 from urllib.request import urlopen, Request
@@ -8,7 +12,7 @@ from pathlib import Path
 os.environ['HTTP_PROXY'] = 'http://127.0.0.1:7897'
 os.environ['HTTPS_PROXY'] = 'http://127.0.0.1:7897'
 
-DATA = Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+DATA = Path("DATA_DIR")
 ENTREZ = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils'
 
 # ── Load graph PMIDs to exclude ──

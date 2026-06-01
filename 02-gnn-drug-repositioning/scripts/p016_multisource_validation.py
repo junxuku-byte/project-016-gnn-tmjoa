@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# ── Paths (portable) ──────────────────────────────────────
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 """Multi-source literature validation: OpenAlex + Scopus + PubMed (3-database cross-validation)."""
 import json, time, os
 from urllib.request import urlopen, Request
@@ -8,7 +12,7 @@ from pathlib import Path
 os.environ['HTTP_PROXY'] = 'http://127.0.0.1:7897'
 os.environ['HTTPS_PROXY'] = 'http://127.0.0.1:7897'
 
-DATA = Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+DATA = Path("DATA_DIR")
 
 with open(DATA/'literature_validation.json') as f: val = json.load(f)
 top_drugs = [p['drug'] for p in val['predictions'][:20]]

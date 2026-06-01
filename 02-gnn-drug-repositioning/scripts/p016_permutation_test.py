@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# ── Paths (portable) ──────────────────────────────────────
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 """Phase 3d: Permutation test for A+B+C HeteroGNN LDO AUC significance."""
 
 import json, random
@@ -10,7 +14,7 @@ from sklearn.metrics import roc_auc_score
 
 SEED=42; random.seed(SEED); np.random.seed(SEED); torch.manual_seed(SEED)
 
-DATA=Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+DATA=Path("DATA_DIR")
 GRAPH=DATA/"four_layer_graph_full.json"; TRAIN=DATA/"p016_train_v5_0.json"
 OUT=DATA/"permutation_test_results.json"
 

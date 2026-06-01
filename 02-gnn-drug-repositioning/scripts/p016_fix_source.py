@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
+
+# ── Paths (portable) ──────────────────────────────────────
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 """Fix training set v5: populate 'source' field with PMID + evidence source."""
 import json
 from pathlib import Path
 from collections import defaultdict
 
-DATA = Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+DATA = Path("DATA_DIR")
 
 # Load training set
 with open(DATA/'p016_train_v5_0.json') as f: train = json.load(f)

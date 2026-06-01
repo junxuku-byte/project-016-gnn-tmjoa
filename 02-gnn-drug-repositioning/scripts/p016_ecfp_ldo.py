@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+# ── Paths (portable) ──────────────────────────────────────
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 """ECFP4 fingerprint feature enhancement + LDO comparison."""
 import json, random, time, sys
 from pathlib import Path
@@ -10,7 +14,7 @@ from collections import defaultdict
 
 SEED=42; random.seed(SEED); np.random.seed(SEED); torch.manual_seed(SEED)
 DEVICE=torch.device('cpu')
-DATA=Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+DATA=Path("DATA_DIR")
 
 # ── Load data ──
 with open(DATA/'four_layer_graph_full_v2.json') as f: g=json.load(f)

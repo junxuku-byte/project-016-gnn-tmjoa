@@ -2,6 +2,10 @@
 """
 Item 1: TRUE homogeneous GNN baseline — no layer type encoding, single shared W_msg.
 Verifies that the ablation baseline (0.68) is not an artifact of transductive leak.
+
+# ── Paths (portable) ──────────────────────────────────────
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 """
 import json, random
 from pathlib import Path
@@ -13,7 +17,7 @@ from sklearn.metrics import roc_auc_score, average_precision_score
 SEED=42; random.seed(SEED); np.random.seed(SEED); torch.manual_seed(SEED)
 DEVICE=torch.device('cpu')
 
-DATA=Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+DATA=Path("DATA_DIR")
 GRAPH=DATA/"four_layer_graph_full_v2.json"
 TRAIN=DATA/"p016_train_v5_0.json"
 OUT=DATA/"true_homogeneous_baseline.json"

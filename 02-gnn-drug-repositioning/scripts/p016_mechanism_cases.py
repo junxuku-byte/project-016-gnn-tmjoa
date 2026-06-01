@@ -2,6 +2,10 @@
 """
 P0: Mechanism path case studies — extract drug→target→pathway→disease paths
 for top-ranked predictions to use as paper case studies.
+
+# ── Paths (portable) ──────────────────────────────────────
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 """
 import json, random
 from pathlib import Path
@@ -12,7 +16,7 @@ from collections import defaultdict
 SEED=42; random.seed(SEED); np.random.seed(SEED); torch.manual_seed(SEED)
 DEVICE=torch.device('cpu')
 
-DATA=Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+DATA=Path("DATA_DIR")
 GRAPH=DATA/"four_layer_graph_full_v2.json"
 TRAIN=DATA/"p016_train_v5_0.json"
 OUT=DATA/"mechanism_case_studies.json"

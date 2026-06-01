@@ -3,6 +3,10 @@
 Improvement 1: Node2Vec TRUE INDUCTIVE baseline.
 Per-fold: remove held-out drug edges from graph → re-train Node2Vec embeddings → train MLP predictor.
 This eliminates the transductive leak from the previous Node2Vec baseline.
+
+# ── Paths (portable) ──────────────────────────────────────
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 """
 
 import json, random
@@ -15,7 +19,7 @@ import torch, torch.nn as nn, torch.nn.functional as F
 SEED=42; random.seed(SEED); np.random.seed(SEED)
 DEVICE=torch.device('cpu')
 
-DATA=Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+DATA=Path("DATA_DIR")
 GRAPH=DATA/"four_layer_graph_full.json"; TRAIN=DATA/"p016_train_v5_0.json"
 OUT=DATA/"node2vec_inductive_results.json"
 

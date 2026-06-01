@@ -2,11 +2,15 @@
 """
 P1+P2: Ablation table + Literature validation visualization data.
 Outputs publication-ready JSON for Figure generation.
+
+# ── Paths (portable) ──────────────────────────────────────
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 """
 import json
 from pathlib import Path
 
-DATA=Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+DATA=Path("DATA_DIR")
 OUT=DATA/"paper_figures_data.json"
 
 # ─── Ablation table ─────────────────────────────────────────────

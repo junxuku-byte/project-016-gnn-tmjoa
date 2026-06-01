@@ -2,6 +2,10 @@
 """
 Phase 3d Strategy A: Heterogeneous Message Passing GNN (HGNNConv).
 Separate weight matrices for DT, TP, PD edge types + type-specific aggregation.
+
+# ── Paths (portable) ──────────────────────────────────────
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 """
 
 import json, random
@@ -16,7 +20,7 @@ from collections import defaultdict
 SEED = 42; DEVICE = torch.device('cpu')
 random.seed(SEED); np.random.seed(SEED); torch.manual_seed(SEED)
 
-DATA = Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+DATA = Path("DATA_DIR")
 GRAPH = DATA / "four_layer_graph_full.json"
 TRAIN = DATA / "p016_train_v5_0.json"
 OUT = DATA / "hgnn_ldo_results.json"

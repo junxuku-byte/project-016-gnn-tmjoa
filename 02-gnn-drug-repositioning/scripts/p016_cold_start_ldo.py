@@ -9,11 +9,15 @@ import numpy as np
 import torch, torch.nn as nn, torch.nn.functional as F
 from collections import defaultdict
 from sklearn.metrics import roc_auc_score
+from pathlib import Path
 
+
+SCRIPT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = SCRIPT_DIR / "data"
 SEED=42; random.seed(SEED); np.random.seed(SEED); torch.manual_seed(SEED)
 DEVICE=torch.device('cpu')
 
-DATA=Path("/Users/junxuku/morph-lab/projects/project-016-gnn-drug-repositioning/02-gnn-drug-repositioning/data")
+DATA=Path("DATA_DIR / """)
 GRAPH=DATA/"four_layer_graph_full_v2.json"
 TRAIN=DATA/"p016_train_v5_0.json"
 OUT=DATA/"cold_start_ldo_results.json"
