@@ -320,7 +320,7 @@ Our findings suggest that, for curated disease-specific mechanism graphs, graph 
 [5] Schiffman E, et al. Diagnostic criteria for temporomandibular disorders (DC/TMD). J Oral Facial Pain Headache. 2014;28(1):6–27.
 [6] Wang XD, et al. Current understanding of pathogenesis and treatment of TMJ osteoarthritis. J Dent Res. 2015;94(5):666–673.
 [7] de Souza RF, et al. Interventions for the management of temporomandibular joint osteoarthritis. Cochrane Database Syst Rev. 2012;(4):CD007261.
-[8] Wang Z, et al. TMJ osteoarthritis: a review of current understanding and future directions. Int J Oral Sci. 2022;14(1):48.
+[8] Wang D, et al. Recent advances in animal models, diagnosis, and treatment of temporomandibular joint osteoarthritis. Tissue Eng Part B Rev. 2023;29(1):68–82.
 [9] de Leeuw R, Klasser GD. Orofacial pain: guidelines for assessment, diagnosis, and management. 6th ed. Quintessence; 2018.
 [10] Yella JK, et al. Changing trends in computational drug repositioning. Pharmaceuticals. 2018;11(2):57.
 [11] Chen T, et al. Drug–target interaction prediction: databases, web servers and computational models. Brief Bioinform. 2016;17(4):696–712.
@@ -334,7 +334,7 @@ Our findings suggest that, for curated disease-specific mechanism graphs, graph 
 [19] Zhou J, et al. Graph neural networks: A review of methods and applications. AI Open. 2020;1:57–81.
 [20] Xu K, et al. How powerful are graph neural networks? ICLR. 2019.
 [21] Huang K, et al. DeepPurpose: a deep learning library for drug–target interaction prediction. Bioinformatics. 2021;36(22–23):5545–5547.
-[22] Liu Y, et al. Learning interpretable cellular responses from perturbation data. Nat Methods. 2022;19(9):1093–1101.
+[22] Luo H, et al. Biomedical data and computational models for drug repositioning: a comprehensive review. Brief Bioinform. 2021;22(2):1604–1619.
 [23] Mendez D, et al. ChEMBL: towards direct deposition of bioassay data. Nucleic Acids Res. 2019;47(D1):D930–D940.
 [24] Kanehisa M, et al. KEGG: new perspectives on genomes, pathways, diseases and drugs. Nucleic Acids Res. 2017;45(D1):D353–D361.
 [25] Fabregat A, et al. The Reactome pathway knowledgebase. Nucleic Acids Res. 2018;46(D1):D649–D655.
