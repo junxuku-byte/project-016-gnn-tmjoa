@@ -27,7 +27,7 @@ SEED = 42; DEVICE = torch.device('cpu')
 random.seed(SEED); np.random.seed(SEED); torch.manual_seed(SEED)
 
 DATA = Path("DATA_DIR")
-GRAPH = DATA / "four_layer_graph_full_v2.json"
+GRAPH = DATA / "four_layer_graph_full_v3.json"  # v3 superset (225 drugs), v2 at four_layer_graph_full_v2.json
 TRAIN = DATA / "p016_train_v5_0.json"
 
 N_LAYERS = 2; HIDDEN = 128; DROPOUT = 0.4

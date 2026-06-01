@@ -21,6 +21,13 @@ We reformulate computational drug repositioning as a mechanism-constrained hiera
 - **Multi-source validation**: 18/20 top TMJOA candidates confirmed across PubMed, OpenAlex, and Scopus
 - **Novel prediction**: BGJ398 (infigratinib, FGFR inhibitor) — a genuinely literature-novel TMJOA repositioning candidate
 
+### Graph Versions
+
+- **v2** (paper v9): 132 drugs, 134 targets, 157 pathways — used for all paper experiments
+- **v3** (extended): 225 drugs, 176 targets, 157 pathways — activates 93 cold-start drugs with pharmacology-based target mapping (SSRIs, NSAIDs, antihistamines, opioids, immunotherapy, etc.)
+
+Run `python3 scripts/p016_activate_cold_start.py` to generate v3 from v2. All training scripts use v3 by default (v3 is a superset of v2).
+
 ## Quick Start
 
 ```bash

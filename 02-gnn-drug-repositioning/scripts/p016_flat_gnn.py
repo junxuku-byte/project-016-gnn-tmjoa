@@ -24,7 +24,7 @@ PATIENCE = 40
 
 SCRIPT_DIR = Path(__file__).resolve().parent.parent
 DATA = SCRIPT_DIR / "data"
-GRAPH = DATA / "four_layer_graph_full_v2.json"
+GRAPH = DATA / "four_layer_graph_full_v3.json"  # v3 superset (225 drugs), v2 at four_layer_graph_full_v2.json
 TRAIN = DATA / "p016_train_v5_1.json"
 OUT = DATA / "flat_graph_and_equivalence.json"
 

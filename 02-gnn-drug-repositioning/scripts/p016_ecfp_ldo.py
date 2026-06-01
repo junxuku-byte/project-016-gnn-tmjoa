@@ -17,7 +17,7 @@ DEVICE=torch.device('cpu')
 DATA=Path("DATA_DIR")
 
 # ── Load data ──
-with open(DATA/'four_layer_graph_full_v2.json') as f: g=json.load(f)
+with open(DATA/'four_layer_graph_full_v3.json'  # v3 superset (225 drugs), v2 at four_layer_graph_full_v2.json) as f: g=json.load(f)
 with open(DATA/'p016_train_v5_0.json') as f: train=json.load(f)
 with open(DATA/'drug_smiles_cache.json') as f: sc=json.load(f)
 
