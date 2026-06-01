@@ -1,0 +1,4614 @@
+{
+  "metadata": {
+    "n_drugs": 132,
+    "n_targets": 134,
+    "n_pathways": 157,
+    "n_diseases": 15,
+    "version": "four_layer_graph_full_v3",
+    "description": "v2 + 131 drug-target edges and 158 target-pathway edges for 100 cold-start drugs",
+    "cold_start_drugs_activated": 100
+  },
+  "targets": [
+    "30S ribosome",
+    "5-HT",
+    "5-HT2A",
+    "5-HT2C",
+    "5-HT3",
+    "5-HT4",
+    "50S ribosome",
+    "5\u03b1-reductase",
+    "A1",
+    "A2A",
+    "ACE",
+    "ACh",
+    "ADAMTS",
+    "ADAMTS5",
+    "AICAR",
+    "AMPA",
+    "AMPK",
+    "AP-1",
+    "AT1",
+    "ATIII",
+    "Aggrecan",
+    "Akt",
+    "Aromatase",
+    "BMP",
+    "CALCR",
+    "CD44",
+    "CFTR",
+    "CHIP",
+    "COL2A1",
+    "COMT",
+    "COX",
+    "COX-1",
+    "COX-2",
+    "CTLA-4",
+    "CYP51",
+    "CaSR",
+    "CaV",
+    "CaV1.2",
+    "CaV2.2",
+    "Collagen",
+    "Complex I",
+    "Cyclophilin",
+    "CysLT1",
+    "D2",
+    "DAT",
+    "DHFR",
+    "DHODH",
+    "DNA",
+    "DNA gyrase",
+    "DNA polymerase",
+    "DNMT",
+    "DPP4",
+    "EGFR",
+    "FGF",
+    "FKBP12",
+    "FP",
+    "FPPS",
+    "GABA",
+    "GABA-A",
+    "GABA-B",
+    "GPD2",
+    "GR",
+    "GSK3\u03b2",
+    "GnRH",
+    "H+/K+ ATPase",
+    "H1",
+    "H2",
+    "HDAC",
+    "HGPRT",
+    "HMGCR",
+    "Hedgehog",
+    "IGF",
+    "IL-1",
+    "IL-6",
+    "IMPDH",
+    "IMPase",
+    "INSR",
+    "IRS",
+    "JAK",
+    "JAK1",
+    "JAK2",
+    "KATP",
+    "KCNQ",
+    "KOR",
+    "LAG3",
+    "LOX",
+    "M3",
+    "MAPK",
+    "MAT",
+    "MMP",
+    "MMP13",
+    "MOR",
+    "MR",
+    "MT1",
+    "MT2",
+    "NET",
+    "NF-\u03baB",
+    "NGF",
+    "NKCC2",
+    "NMDA",
+    "Na+/K+ ATPase",
+    "NaV",
+    "NaV1.7",
+    "Neuraminidase",
+    "Nrf2",
+    "OPG",
+    "P2Y12",
+    "PBP",
+    "PD-1",
+    "PDE",
+    "PDE4",
+    "PDE5",
+    "PDGF",
+    "PI3K",
+    "PPAR-\u03b1",
+    "PPAR-\u03b3",
+    "PTH1R",
+    "RANKL",
+    "RAR",
+    "RAR-\u03b2",
+    "RAR-\u03b3",
+    "RNA polymerase",
+    "ROS",
+    "RUNX2",
+    "RXR",
+    "S6K1",
+    "SERT",
+    "SIRT1",
+    "SNAP-25",
+    "SNARE",
+    "SOD",
+    "STAT3",
+    "SV2A",
+    "TGF-\u03b2",
+    "TLR",
+    "TLR2",
+    "TLR4",
+    "TNF",
+    "TNF-\u03b1",
+    "TPMT",
+    "TRPV",
+    "TRPV1",
+    "TS",
+    "TXA2",
+    "TYK2",
+    "Topo IV",
+    "TrkA",
+    "VDR",
+    "VEGF",
+    "VGSC",
+    "VKORC1",
+    "Wnt",
+    "aldosterone",
+    "alkylating",
+    "aromatase",
+    "calcineurin",
+    "integrin",
+    "mTOR",
+    "mTORC1",
+    "microtubule",
+    "nAChR",
+    "osteoclast",
+    "receptor",
+    "topoisomerase II",
+    "tubulin",
+    "\u03b11A-AR",
+    "\u03b12-AR",
+    "\u03b12A-AR",
+    "\u03b12\u03b4",
+    "\u03b12\u03b4-1",
+    "\u03b2-AR",
+    "\u03b2-catenin",
+    "\u03b21-AR",
+    "\u03b22-AR",
+    "\u03ba-opioid",
+    "\u03bc-opioid"
+  ],
+  "pathways": [
+    "AMPK signaling",
+    "BMP signaling",
+    "DNA damage",
+    "DNA methylation",
+    "DNA replication",
+    "DNA synthesis",
+    "DNA topology",
+    "ECM",
+    "ECM degradation",
+    "EGF signaling",
+    "ER stress",
+    "ERK pathway",
+    "FGF signaling",
+    "GABAergic signaling",
+    "IGF signaling",
+    "JAK-STAT",
+    "K+ channel",
+    "L-type calcium channel",
+    "MAPK signaling",
+    "N-type calcium channel",
+    "NF-\u03baB signaling",
+    "OA cartilage degradation",
+    "PDGF signaling",
+    "PI3K-AKT",
+    "PPAR signaling",
+    "RANK/RANKL/OPG",
+    "RAS signaling",
+    "SIRT signaling",
+    "T cell activation",
+    "TGF-\u03b2/Smad",
+    "Wnt signaling",
+    "Wnt/\u03b2-catenin",
+    "adipogenesis",
+    "aldosterone signaling",
+    "allergy",
+    "analgesia",
+    "analgesic",
+    "angiogenesis",
+    "anti-inflammatory",
+    "antifungal",
+    "antioxidant response",
+    "antithrombotic",
+    "anxiolysis",
+    "apoptosis",
+    "appetite",
+    "autoimmune",
+    "autophagy",
+    "bacterial",
+    "bacterial protein synthesis",
+    "blood pressure",
+    "bone metabolism",
+    "bone resorption",
+    "bronchodilation",
+    "calcium channel auxiliary",
+    "calcium sensing",
+    "calcium signaling",
+    "cardiac",
+    "cardiac contractility",
+    "cartilage matrix",
+    "catecholamine metabolism",
+    "cell adhesion",
+    "cell cycle",
+    "cell growth",
+    "cell survival",
+    "cell wall synthesis",
+    "cholesterol synthesis",
+    "cholinergic signaling",
+    "circadian",
+    "coagulation",
+    "cytoprotection",
+    "cytoskeleton",
+    "differentiation",
+    "diuresis",
+    "dopamine reuptake",
+    "dopaminergic signaling",
+    "emesis",
+    "energy metabolism",
+    "epigenetics",
+    "ergosterol synthesis",
+    "estrogen synthesis",
+    "excitation",
+    "excitatory",
+    "excitatory neurotransmission",
+    "farnesyl pyrophosphate synthase",
+    "folate metabolism",
+    "gastric acid",
+    "gastric acid secretion",
+    "gene regulation",
+    "general signaling",
+    "glucocorticoid signaling",
+    "glucose uptake",
+    "glutamatergic signaling",
+    "glycerol phosphate shuttle",
+    "hallucinogen",
+    "hematopoiesis",
+    "histaminergic signaling",
+    "hyaluronan receptor",
+    "immune",
+    "immune response",
+    "immunosuppressive",
+    "inflammation",
+    "inflammatory cytokine pathway",
+    "inflammatory response",
+    "inhibitory neurotransmission",
+    "innate immunity",
+    "insulin signaling",
+    "interferon signaling",
+    "ion transport",
+    "isoprenoid metabolism",
+    "leukotriene synthesis",
+    "lipid metabolism",
+    "longevity",
+    "mTOR inhibition",
+    "mTOR signaling",
+    "melatonin signaling",
+    "metabolism",
+    "methionine cycle",
+    "microtubule",
+    "mineralocorticoid",
+    "mitochondrial respiration",
+    "mitosis",
+    "mood",
+    "muscle contraction",
+    "neuron survival",
+    "neuronal excitability",
+    "neurotransmitter release",
+    "neurotrophin signaling",
+    "nociception",
+    "noradrenergic signaling",
+    "norepinephrine reuptake",
+    "opioid signaling",
+    "osteoblast differentiation",
+    "osteoclast differentiation",
+    "osteoclast inhibition",
+    "oxidative phosphorylation",
+    "p38 MAPK",
+    "pain",
+    "pain signaling",
+    "platelet aggregation",
+    "prostaglandin synthesis",
+    "protein quality control",
+    "protein synthesis",
+    "purine metabolism",
+    "pyrimidine synthesis",
+    "retinoid signaling",
+    "serotonergic signaling",
+    "serotonin reuptake",
+    "smooth muscle",
+    "sodium channel",
+    "spasticity",
+    "steroidogenesis",
+    "sympathetic",
+    "synaptic vesicle",
+    "tissue remodeling",
+    "vitamin D signaling",
+    "vitamin K cycle",
+    "wound healing"
+  ],
+  "drug_target_edges": [
+    [
+      "Chondroitin",
+      "MMP"
+    ],
+    [
+      "Nitrous oxide",
+      "NMDA"
+    ],
+    [
+      "Clonazepam",
+      "GABA-A"
+    ],
+    [
+      "Ipilimumab",
+      "CTLA-4"
+    ],
+    [
+      "Riluzole",
+      "MAPK"
+    ],
+    [
+      "Metoclopramide",
+      "5-HT3"
+    ],
+    [
+      "Cyclophosphamide",
+      "DNA"
+    ],
+    [
+      "Methylphenidate",
+      "DAT"
+    ],
+    [
+      "Topiramate",
+      "GABA"
+    ],
+    [
+      "Ketoprofen",
+      "COX-1"
+    ],
+    [
+      "Dextrose",
+      "receptor"
+    ],
+    [
+      "Heparin",
+      "ATIII"
+    ],
+    [
+      "Finasteride",
+      "5\u03b1-reductase"
+    ],
+    [
+      "Spironolactone",
+      "aldosterone"
+    ],
+    [
+      "Sertraline",
+      "SERT"
+    ],
+    [
+      "Remdesivir",
+      "RNA polymerase"
+    ],
+    [
+      "Collagen",
+      "MMP13"
+    ],
+    [
+      "Captopril",
+      "ACE"
+    ],
+    [
+      "Sitagliptin",
+      "DPP4"
+    ],
+    [
+      "Domperidone",
+      "D2"
+    ],
+    [
+      "Quercetin",
+      "NF-\u03baB"
+    ],
+    [
+      "Buprenorphine",
+      "\u03bc-opioid"
+    ],
+    [
+      "Dextrose",
+      "TNF"
+    ],
+    [
+      "Gabapentin",
+      "CaV2.2"
+    ],
+    [
+      "Ranitidine",
+      "H2"
+    ],
+    [
+      "Insulin",
+      "IRS"
+    ],
+    [
+      "Azathioprine",
+      "TPMT"
+    ],
+    [
+      "Aspirin",
+      "COX-1"
+    ],
+    [
+      "Vitamin D",
+      "OPG"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "TNF"
+    ],
+    [
+      "Zoledronic acid",
+      "osteoclast"
+    ],
+    [
+      "Nitrous oxide",
+      "GABA-A"
+    ],
+    [
+      "Chondroitin",
+      "TNF"
+    ],
+    [
+      "Bisphosphonate",
+      "RANKL"
+    ],
+    [
+      "Mycophenolate",
+      "IMPDH"
+    ],
+    [
+      "Guanfacine",
+      "\u03b12A-AR"
+    ],
+    [
+      "Corticosteroid",
+      "GR"
+    ],
+    [
+      "Tofacitinib",
+      "TYK2"
+    ],
+    [
+      "Fentanyl",
+      "\u03bc-opioid"
+    ],
+    [
+      "Palmitoylethanolamide",
+      "PPAR-\u03b1"
+    ],
+    [
+      "Fulranumab",
+      "NGF"
+    ],
+    [
+      "Quercetin",
+      "COX-2"
+    ],
+    [
+      "Hypertonic dextrose",
+      "Aggrecan"
+    ],
+    [
+      "Valproic acid",
+      "HDAC"
+    ],
+    [
+      "Tenoxicam",
+      "COX-2"
+    ],
+    [
+      "Collagen",
+      "TRPV"
+    ],
+    [
+      "Diclofenac",
+      "COX-1"
+    ],
+    [
+      "Venlafaxine",
+      "SERT"
+    ],
+    [
+      "Clarithromycin",
+      "50S ribosome"
+    ],
+    [
+      "NSAIDs",
+      "TNF"
+    ],
+    [
+      "Tapentadol",
+      "\u03bc-opioid"
+    ],
+    [
+      "Loperamide",
+      "\u03bc-opioid"
+    ],
+    [
+      "Naproxen",
+      "COX-1"
+    ],
+    [
+      "Insulin",
+      "PI3K"
+    ],
+    [
+      "Collagen",
+      "TNF-\u03b1"
+    ],
+    [
+      "Corticosteroid",
+      "NF-\u03baB"
+    ],
+    [
+      "Dextrose",
+      "IL-1"
+    ],
+    [
+      "Buprenorphine",
+      "MOR"
+    ],
+    [
+      "PRP",
+      "TGF-\u03b2"
+    ],
+    [
+      "Xenon",
+      "NMDA"
+    ],
+    [
+      "PRP",
+      "PDGF"
+    ],
+    [
+      "PDRN",
+      "IL-1"
+    ],
+    [
+      "Zinc",
+      "\u03b2-catenin"
+    ],
+    [
+      "Letrozole",
+      "aromatase"
+    ],
+    [
+      "BGJ398",
+      "receptor"
+    ],
+    [
+      "Metformin",
+      "Complex I"
+    ],
+    [
+      "Riluzole",
+      "GABA"
+    ],
+    [
+      "BGJ398",
+      "RUNX2"
+    ],
+    [
+      "Omeprazole",
+      "H+/K+ ATPase"
+    ],
+    [
+      "Ziconotide",
+      "CaV2.2"
+    ],
+    [
+      "BGJ398",
+      "FGF"
+    ],
+    [
+      "Venlafaxine",
+      "NET"
+    ],
+    [
+      "D5W",
+      "TRPV"
+    ],
+    [
+      "Botulinum toxin",
+      "SNARE"
+    ],
+    [
+      "Losartan",
+      "AT1"
+    ],
+    [
+      "Dextrose",
+      "TRPV"
+    ],
+    [
+      "NSAIDs",
+      "COX-2"
+    ],
+    [
+      "Nortriptyline",
+      "SERT"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "TRPV"
+    ],
+    [
+      "GSK2831781",
+      "LAG3"
+    ],
+    [
+      "Valproic acid",
+      "GABA"
+    ],
+    [
+      "Collagen",
+      "Collagen"
+    ],
+    [
+      "Bupivacaine",
+      "KCNQ"
+    ],
+    [
+      "Timolol",
+      "\u03b2-AR"
+    ],
+    [
+      "Zinc",
+      "BMP"
+    ],
+    [
+      "Latanoprost",
+      "FP"
+    ],
+    [
+      "Ketamine",
+      "NMDA"
+    ],
+    [
+      "Meloxicam",
+      "COX-2"
+    ],
+    [
+      "EGCG",
+      "mTOR"
+    ],
+    [
+      "Resveratrol",
+      "AMPK"
+    ],
+    [
+      "Glipizide",
+      "KATP"
+    ],
+    [
+      "Denosumab",
+      "NF-\u03baB"
+    ],
+    [
+      "Vitamin D3",
+      "OPG"
+    ],
+    [
+      "Capsaicin",
+      "TRPV1"
+    ],
+    [
+      "Metformin",
+      "GPD2"
+    ],
+    [
+      "Moxifloxacin",
+      "Topo IV"
+    ],
+    [
+      "Sirolimus",
+      "FKBP12"
+    ],
+    [
+      "Topiramate",
+      "NaV"
+    ],
+    [
+      "Orphenadrine",
+      "NMDA"
+    ],
+    [
+      "Resveratrol",
+      "SIRT1"
+    ],
+    [
+      "Naltrexone",
+      "TLR4"
+    ],
+    [
+      "Acitretin",
+      "RAR"
+    ],
+    [
+      "NSAIDs",
+      "TNF-\u03b1"
+    ],
+    [
+      "Alendronate",
+      "NF-\u03baB"
+    ],
+    [
+      "Loratadine",
+      "H1"
+    ],
+    [
+      "Riluzole",
+      "KCNQ"
+    ],
+    [
+      "Midazolam",
+      "GABA-A"
+    ],
+    [
+      "Tenoxicam",
+      "COX-1"
+    ],
+    [
+      "Olanzapine",
+      "D2"
+    ],
+    [
+      "PDRN",
+      "TGF-\u03b2"
+    ],
+    [
+      "Amoxicillin",
+      "PBP"
+    ],
+    [
+      "Methylphenidate",
+      "NET"
+    ],
+    [
+      "Collagen",
+      "IL-6"
+    ],
+    [
+      "Esomeprazole",
+      "H+/K+ ATPase"
+    ],
+    [
+      "Pregabalin",
+      "\u03b12\u03b4"
+    ],
+    [
+      "Cyclosporine",
+      "calcineurin"
+    ],
+    [
+      "Curcumin",
+      "JAK"
+    ],
+    [
+      "Amitriptyline",
+      "NET"
+    ],
+    [
+      "Hyaluronic acid",
+      "TLR4"
+    ],
+    [
+      "Alendronate",
+      "FPPS"
+    ],
+    [
+      "Moxifloxacin",
+      "DNA gyrase"
+    ],
+    [
+      "Nortriptyline",
+      "NET"
+    ],
+    [
+      "Morphine",
+      "MOR"
+    ],
+    [
+      "Adapalene",
+      "RAR-\u03b3"
+    ],
+    [
+      "Rapamycin",
+      "mTOR"
+    ],
+    [
+      "Phenytoin",
+      "NaV"
+    ],
+    [
+      "Naltrexone",
+      "\u03ba-opioid"
+    ],
+    [
+      "Dexamethasone",
+      "NF-\u03baB"
+    ],
+    [
+      "Collagen",
+      "receptor"
+    ],
+    [
+      "Prednisone",
+      "GR"
+    ],
+    [
+      "Alfentanil",
+      "MOR"
+    ],
+    [
+      "Dextrose",
+      "Collagen"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "Collagen"
+    ],
+    [
+      "Chondroitin",
+      "Collagen"
+    ],
+    [
+      "Orphenadrine",
+      "H1"
+    ],
+    [
+      "Bisphosphonate",
+      "FPPS"
+    ],
+    [
+      "Doxorubicin",
+      "DNA"
+    ],
+    [
+      "Bisacodyl",
+      "CFTR"
+    ],
+    [
+      "Melatonin",
+      "MT2"
+    ],
+    [
+      "BGJ398",
+      "ADAMTS"
+    ],
+    [
+      "Cyclobenzaprine",
+      "5-HT2A"
+    ],
+    [
+      "Senna",
+      "CFTR"
+    ],
+    [
+      "Haloperidol",
+      "D2"
+    ],
+    [
+      "Metformin",
+      "AMPK"
+    ],
+    [
+      "Theophylline",
+      "PDE4"
+    ],
+    [
+      "Dextrose",
+      "Aggrecan"
+    ],
+    [
+      "Azithromycin",
+      "50S ribosome"
+    ],
+    [
+      "Leflunomide",
+      "DHODH"
+    ],
+    [
+      "Zinc",
+      "Collagen"
+    ],
+    [
+      "Methylprednisolone",
+      "NF-\u03baB"
+    ],
+    [
+      "Cyclobenzaprine",
+      "H1"
+    ],
+    [
+      "Diacerein",
+      "IL-1"
+    ],
+    [
+      "Tramadol",
+      "NET"
+    ],
+    [
+      "Prolotherapy",
+      "TNF-\u03b1"
+    ],
+    [
+      "Zonisamide",
+      "NaV"
+    ],
+    [
+      "Alendronate",
+      "CHIP"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "MMP"
+    ],
+    [
+      "Spironolactone",
+      "MR"
+    ],
+    [
+      "NSAIDs",
+      "COX-1"
+    ],
+    [
+      "Denosumab",
+      "RANKL"
+    ],
+    [
+      "Lithium",
+      "IMPase"
+    ],
+    [
+      "Collagen",
+      "IL-1"
+    ],
+    [
+      "Furosemide",
+      "NKCC2"
+    ],
+    [
+      "Alendronate",
+      "RANKL"
+    ],
+    [
+      "Curcumin",
+      "STAT3"
+    ],
+    [
+      "Isotretinoin",
+      "RAR"
+    ],
+    [
+      "Methocarbamol",
+      "VGSC"
+    ],
+    [
+      "Budesonide",
+      "GR"
+    ],
+    [
+      "Itraconazole",
+      "Hedgehog"
+    ],
+    [
+      "Risperidone",
+      "D2"
+    ],
+    [
+      "Alendronate",
+      "osteoclast"
+    ],
+    [
+      "NSAIDs",
+      "IL-6"
+    ],
+    [
+      "Insulin",
+      "NF-\u03baB"
+    ],
+    [
+      "Anastrozole",
+      "aromatase"
+    ],
+    [
+      "Methotrexate",
+      "DHFR"
+    ],
+    [
+      "Collagen",
+      "ADAMTS5"
+    ],
+    [
+      "5-Fluorouracil",
+      "DNA"
+    ],
+    [
+      "SAMe",
+      "COMT"
+    ],
+    [
+      "Corticosteroid_systemic_longterm",
+      "GR"
+    ],
+    [
+      "Itraconazole",
+      "CYP51"
+    ],
+    [
+      "Acyclovir",
+      "DNA polymerase"
+    ],
+    [
+      "Curcumin",
+      "TNF-\u03b1"
+    ],
+    [
+      "Fluoxetine",
+      "SERT"
+    ],
+    [
+      "Budesonide",
+      "NF-\u03baB"
+    ],
+    [
+      "Omega-3",
+      "COX"
+    ],
+    [
+      "Sirolimus",
+      "mTORC1"
+    ],
+    [
+      "Carisoprodol",
+      "GABA-A"
+    ],
+    [
+      "NSAIDs",
+      "receptor"
+    ],
+    [
+      "Hyaluronic acid",
+      "NF-\u03baB"
+    ],
+    [
+      "Bisphosphonate",
+      "osteoclast"
+    ],
+    [
+      "Ciprofloxacin",
+      "DNA gyrase"
+    ],
+    [
+      "Aluminum hydroxide",
+      "TLR"
+    ],
+    [
+      "EGCG",
+      "PI3K"
+    ],
+    [
+      "Melatonin",
+      "MT1"
+    ],
+    [
+      "Zopiclone",
+      "GABA-A"
+    ],
+    [
+      "Zinc",
+      "RUNX2"
+    ],
+    [
+      "Lidocaine",
+      "TRPV"
+    ],
+    [
+      "Diazepam",
+      "GABA-A"
+    ],
+    [
+      "Sodium valproate",
+      "GABA"
+    ],
+    [
+      "Botulinum toxin",
+      "SNAP-25"
+    ],
+    [
+      "Insulin",
+      "INSR"
+    ],
+    [
+      "Sirolimus",
+      "mTOR"
+    ],
+    [
+      "Curcumin",
+      "Nrf2"
+    ],
+    [
+      "5-Fluorouracil",
+      "TS"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "IL-1"
+    ],
+    [
+      "Collagen",
+      "ADAMTS"
+    ],
+    [
+      "Dexamethasone",
+      "AP-1"
+    ],
+    [
+      "Varenicline",
+      "nAChR"
+    ],
+    [
+      "Pregabalin",
+      "\u03b12\u03b4-1"
+    ],
+    [
+      "Everolimus",
+      "mTORC1"
+    ],
+    [
+      "Collagen",
+      "COL2A1"
+    ],
+    [
+      "Naloxone",
+      "\u03bc-opioid"
+    ],
+    [
+      "Indomethacin_high_dose",
+      "COX-1"
+    ],
+    [
+      "Collagen",
+      "TGF-\u03b2"
+    ],
+    [
+      "Aspirin",
+      "TXA2"
+    ],
+    [
+      "Rosuvastatin",
+      "HMGCR"
+    ],
+    [
+      "Atenolol",
+      "\u03b21-AR"
+    ],
+    [
+      "Ibuprofen",
+      "COX-2"
+    ],
+    [
+      "Edaravone",
+      "ROS"
+    ],
+    [
+      "NSAIDs",
+      "IL-1"
+    ],
+    [
+      "Prolotherapy",
+      "MMP"
+    ],
+    [
+      "Prolotherapy",
+      "IL-6"
+    ],
+    [
+      "Paclitaxel",
+      "tubulin"
+    ],
+    [
+      "Clonidine",
+      "\u03b12-AR"
+    ],
+    [
+      "Baclofen",
+      "GABA-B"
+    ],
+    [
+      "Carbamazepine",
+      "GABA"
+    ],
+    [
+      "Everolimus",
+      "mTOR"
+    ],
+    [
+      "Topiramate",
+      "AMPA"
+    ],
+    [
+      "Escitalopram",
+      "SERT"
+    ],
+    [
+      "Hyaluronic acid",
+      "CD44"
+    ],
+    [
+      "Piroxicam",
+      "COX-2"
+    ],
+    [
+      "Theophylline",
+      "A1"
+    ],
+    [
+      "Acitretin",
+      "RXR"
+    ],
+    [
+      "Aspirin",
+      "Wnt"
+    ],
+    [
+      "BGJ398",
+      "Wnt"
+    ],
+    [
+      "Prolotherapy",
+      "receptor"
+    ],
+    [
+      "Amitriptyline",
+      "SERT"
+    ],
+    [
+      "Doxycycline",
+      "MMP"
+    ],
+    [
+      "Tramadol",
+      "MOR"
+    ],
+    [
+      "Citalopram",
+      "5-HT"
+    ],
+    [
+      "Mirtazapine",
+      "5-HT2A"
+    ],
+    [
+      "Quetiapine",
+      "5-HT2A"
+    ],
+    [
+      "Lornoxicam",
+      "COX-2"
+    ],
+    [
+      "Quercetin",
+      "Nrf2"
+    ],
+    [
+      "Chondroitin",
+      "NF-\u03baB"
+    ],
+    [
+      "Montelukast",
+      "CysLT1"
+    ],
+    [
+      "SAMe",
+      "DNMT"
+    ],
+    [
+      "Methotrexate",
+      "AICAR"
+    ],
+    [
+      "Prolotherapy",
+      "TNF"
+    ],
+    [
+      "Naltrexone",
+      "\u03bc-opioid"
+    ],
+    [
+      "Botulinum toxin",
+      "ACh"
+    ],
+    [
+      "Diphenhydramine",
+      "H1"
+    ],
+    [
+      "Quetiapine",
+      "H1"
+    ],
+    [
+      "SAMe",
+      "MAT"
+    ],
+    [
+      "Zonisamide",
+      "CaV"
+    ],
+    [
+      "Glucosamine",
+      "NF-\u03baB"
+    ],
+    [
+      "Tacrolimus",
+      "calcineurin"
+    ],
+    [
+      "PRP",
+      "VEGF"
+    ],
+    [
+      "Vitamin D",
+      "RANKL"
+    ],
+    [
+      "Sertraline",
+      "5-HT"
+    ],
+    [
+      "Warfarin",
+      "VKORC1"
+    ],
+    [
+      "Tofacitinib",
+      "JAK1"
+    ],
+    [
+      "Chondroitin",
+      "ADAMTS"
+    ],
+    [
+      "Tretinoin",
+      "RAR"
+    ],
+    [
+      "Fexofenadine",
+      "H1"
+    ],
+    [
+      "Valacyclovir",
+      "DNA polymerase"
+    ],
+    [
+      "Collagen",
+      "Aggrecan"
+    ],
+    [
+      "Dextrose",
+      "TGF-\u03b2"
+    ],
+    [
+      "Metoprolol",
+      "\u03b21-AR"
+    ],
+    [
+      "Atorvastatin",
+      "HMGCR"
+    ],
+    [
+      "Bupropion",
+      "DAT"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "TGF-\u03b2"
+    ],
+    [
+      "Hypertonic dextrose",
+      "TNF"
+    ],
+    [
+      "Chondroitin",
+      "TGF-\u03b2"
+    ],
+    [
+      "Sufentanil",
+      "\u03bc-opioid"
+    ],
+    [
+      "Glucosamine",
+      "COX-2"
+    ],
+    [
+      "Simvastatin",
+      "HMGCR"
+    ],
+    [
+      "Baricitinib",
+      "JAK2"
+    ],
+    [
+      "Dexamethasone",
+      "GR"
+    ],
+    [
+      "Valsartan",
+      "AT1"
+    ],
+    [
+      "Phenobarbital",
+      "GABA-A"
+    ],
+    [
+      "Goserelin",
+      "GnRH"
+    ],
+    [
+      "Riluzole",
+      "receptor"
+    ],
+    [
+      "NSAIDs",
+      "TGF-\u03b2"
+    ],
+    [
+      "Tramadol",
+      "SERT"
+    ],
+    [
+      "Resveratrol",
+      "NF-\u03baB"
+    ],
+    [
+      "Nicotine",
+      "nAChR"
+    ],
+    [
+      "Teriparatide",
+      "PTH1R"
+    ],
+    [
+      "Fisetin",
+      "AMPK"
+    ],
+    [
+      "Cisplatin",
+      "receptor"
+    ],
+    [
+      "Quercetin",
+      "Akt"
+    ],
+    [
+      "Corticosteroid",
+      "Collagen"
+    ],
+    [
+      "Aspirin",
+      "NF-\u03baB"
+    ],
+    [
+      "Atomoxetine",
+      "NET"
+    ],
+    [
+      "Ketoprofen",
+      "COX-2"
+    ],
+    [
+      "PDRN",
+      "TNF-\u03b1"
+    ],
+    [
+      "Resveratrol",
+      "COX-2"
+    ],
+    [
+      "Fisetin",
+      "SIRT1"
+    ],
+    [
+      "Amlodipine",
+      "CaV1.2"
+    ],
+    [
+      "Methylprednisolone",
+      "GR"
+    ],
+    [
+      "Ibuprofen",
+      "COX-1"
+    ],
+    [
+      "BGJ398",
+      "MMP13"
+    ],
+    [
+      "Cyclophosphamide",
+      "alkylating"
+    ],
+    [
+      "Levofloxacin",
+      "DNA gyrase"
+    ],
+    [
+      "Rapamycin",
+      "S6K1"
+    ],
+    [
+      "Aspirin",
+      "COX-2"
+    ],
+    [
+      "BGJ398",
+      "MAPK"
+    ],
+    [
+      "Flurbiprofen",
+      "COX-2"
+    ],
+    [
+      "Propranolol",
+      "\u03b21-AR"
+    ],
+    [
+      "Sulfasalazine",
+      "COX"
+    ],
+    [
+      "Prolotherapy",
+      "TRPV"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "Aggrecan"
+    ],
+    [
+      "NSAIDs",
+      "Collagen"
+    ],
+    [
+      "Pioglitazone",
+      "PPAR-\u03b3"
+    ],
+    [
+      "Omega-3",
+      "LOX"
+    ],
+    [
+      "Hydrocodone",
+      "MOR"
+    ],
+    [
+      "Diclofenac",
+      "COX-2"
+    ],
+    [
+      "Metronidazole",
+      "DNA"
+    ],
+    [
+      "Salmon_calcitonin",
+      "CALCR"
+    ],
+    [
+      "Naproxen",
+      "COX-2"
+    ],
+    [
+      "Metoclopramide",
+      "5-HT4"
+    ],
+    [
+      "Amitriptyline",
+      "5-HT"
+    ],
+    [
+      "Hypertonic dextrose",
+      "TRPV"
+    ],
+    [
+      "Statin",
+      "HMGCR"
+    ],
+    [
+      "Vitamin D3",
+      "RANKL"
+    ],
+    [
+      "Denosumab",
+      "osteoclast"
+    ],
+    [
+      "Nivolumab",
+      "PD-1"
+    ],
+    [
+      "Pregabalin",
+      "CaV2.2"
+    ],
+    [
+      "Meloxicam",
+      "COX-1"
+    ],
+    [
+      "Hypertonic dextrose",
+      "TNF-\u03b1"
+    ],
+    [
+      "Cisplatin",
+      "DNA"
+    ],
+    [
+      "PRP",
+      "IGF"
+    ],
+    [
+      "Glyburide",
+      "KATP"
+    ],
+    [
+      "Rosiglitazone",
+      "PPAR-\u03b3"
+    ],
+    [
+      "Pembrolizumab",
+      "PD-1"
+    ],
+    [
+      "Levetiracetam",
+      "SV2A"
+    ],
+    [
+      "Caffeine",
+      "A2A"
+    ],
+    [
+      "Triamcinolone",
+      "GR"
+    ],
+    [
+      "Cetirizine",
+      "H1"
+    ],
+    [
+      "Sulfasalazine",
+      "NF-\u03baB"
+    ],
+    [
+      "Sodium valproate",
+      "VGSC"
+    ],
+    [
+      "Tacrolimus",
+      "FKBP12"
+    ],
+    [
+      "Methotrexate",
+      "TS"
+    ],
+    [
+      "Quercetin",
+      "AMPK"
+    ],
+    [
+      "Fluconazole",
+      "CYP51"
+    ],
+    [
+      "Tanezumab",
+      "NGF"
+    ],
+    [
+      "Triamcinolone",
+      "NF-\u03baB"
+    ],
+    [
+      "Adapalene",
+      "RAR-\u03b2"
+    ],
+    [
+      "Collagen",
+      "NF-\u03baB"
+    ],
+    [
+      "Riluzole",
+      "NaV1.7"
+    ],
+    [
+      "Glucosamine",
+      "MMP"
+    ],
+    [
+      "Prolotherapy",
+      "Collagen"
+    ],
+    [
+      "Doxycycline",
+      "30S ribosome"
+    ],
+    [
+      "Tamsulosin",
+      "\u03b11A-AR"
+    ],
+    [
+      "Pantoprazole",
+      "H+/K+ ATPase"
+    ],
+    [
+      "Diacerein",
+      "COX-2"
+    ],
+    [
+      "Bupropion",
+      "NET"
+    ],
+    [
+      "Tanezumab",
+      "TrkA"
+    ],
+    [
+      "Buprenorphine",
+      "KOR"
+    ],
+    [
+      "Duloxetine",
+      "SERT"
+    ],
+    [
+      "Rapamycin",
+      "FKBP12"
+    ],
+    [
+      "Zinc",
+      "Wnt"
+    ],
+    [
+      "Prolotherapy",
+      "Aggrecan"
+    ],
+    [
+      "Hypertonic dextrose",
+      "Collagen"
+    ],
+    [
+      "Leuprolide",
+      "GnRH"
+    ],
+    [
+      "Oxycodone",
+      "MOR"
+    ],
+    [
+      "PDRN",
+      "receptor"
+    ],
+    [
+      "Lidocaine",
+      "NaV1.7"
+    ],
+    [
+      "Flurbiprofen",
+      "COX-1"
+    ],
+    [
+      "Methotrexate_high_dose",
+      "DHFR"
+    ],
+    [
+      "Ipratropium",
+      "M3"
+    ],
+    [
+      "Enalapril",
+      "ACE"
+    ],
+    [
+      "Hyaluronic acid",
+      "TRPV"
+    ],
+    [
+      "Olanzapine",
+      "5-HT2A"
+    ],
+    [
+      "Caffeine",
+      "PDE"
+    ],
+    [
+      "Metoclopramide",
+      "D2"
+    ],
+    [
+      "Paracetamol",
+      "COX"
+    ],
+    [
+      "Glucosamine",
+      "TNF"
+    ],
+    [
+      "PDRN",
+      "TNF"
+    ],
+    [
+      "Paclitaxel",
+      "microtubule"
+    ],
+    [
+      "Methotrexate_high_dose",
+      "TS"
+    ],
+    [
+      "Digoxin",
+      "Na+/K+ ATPase"
+    ],
+    [
+      "Lansoprazole",
+      "H+/K+ ATPase"
+    ],
+    [
+      "Lithium",
+      "GSK3\u03b2"
+    ],
+    [
+      "Vitamin D",
+      "CaSR"
+    ],
+    [
+      "BGJ398",
+      "MMP"
+    ],
+    [
+      "Exemestane",
+      "Aromatase"
+    ],
+    [
+      "Propranolol",
+      "\u03b22-AR"
+    ],
+    [
+      "Hyaluronic acid",
+      "TLR2"
+    ],
+    [
+      "Duloxetine",
+      "NET"
+    ],
+    [
+      "Fasinumab",
+      "NGF"
+    ],
+    [
+      "Buprenorphine",
+      "\u03ba-opioid"
+    ],
+    [
+      "Salbutamol",
+      "\u03b22-AR"
+    ],
+    [
+      "Fentanyl",
+      "MOR"
+    ],
+    [
+      "Mirtazapine",
+      "H1"
+    ],
+    [
+      "Hypertonic dextrose",
+      "receptor"
+    ],
+    [
+      "Modafinil",
+      "DAT"
+    ],
+    [
+      "NSAIDs",
+      "NF-\u03baB"
+    ],
+    [
+      "Gabapentin",
+      "\u03b12\u03b4-1"
+    ],
+    [
+      "Zinc",
+      "NF-\u03baB"
+    ],
+    [
+      "Tizanidine",
+      "\u03b12-AR"
+    ],
+    [
+      "Leflunomide",
+      "TYK2"
+    ],
+    [
+      "Baricitinib",
+      "JAK1"
+    ],
+    [
+      "Oseltamivir",
+      "Neuraminidase"
+    ],
+    [
+      "Doxorubicin",
+      "topoisomerase II"
+    ],
+    [
+      "Celecoxib",
+      "NF-\u03baB"
+    ],
+    [
+      "Sildenafil",
+      "PDE5"
+    ],
+    [
+      "Fluoxetine",
+      "5-HT"
+    ],
+    [
+      "Collagen",
+      "integrin"
+    ],
+    [
+      "EGCG",
+      "MMP"
+    ],
+    [
+      "Prolotherapy",
+      "IL-1"
+    ],
+    [
+      "Hyaluronic acid",
+      "Collagen"
+    ],
+    [
+      "Vitamin D",
+      "VDR"
+    ],
+    [
+      "Aspirin",
+      "\u03b2-catenin"
+    ],
+    [
+      "EGCG",
+      "EGFR"
+    ],
+    [
+      "BGJ398",
+      "\u03b2-catenin"
+    ],
+    [
+      "Dextrose",
+      "TNF-\u03b1"
+    ],
+    [
+      "Clopidogrel",
+      "P2Y12"
+    ],
+    [
+      "Celecoxib",
+      "COX-2"
+    ],
+    [
+      "Levofloxacin",
+      "Topo IV"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "TNF-\u03b1"
+    ],
+    [
+      "Chondroitin",
+      "TNF-\u03b1"
+    ],
+    [
+      "Tadalafil",
+      "PDE5"
+    ],
+    [
+      "Metformin",
+      "mTOR"
+    ],
+    [
+      "Risperidone",
+      "5-HT2A"
+    ],
+    [
+      "Voriconazole",
+      "CYP51"
+    ],
+    [
+      "Hypertonic dextrose",
+      "IL-1"
+    ],
+    [
+      "Caffeine",
+      "A1"
+    ],
+    [
+      "Glucosamine",
+      "TNF-\u03b1"
+    ],
+    [
+      "Methotrexate_high_dose",
+      "AICAR"
+    ],
+    [
+      "BGJ398",
+      "ADAMTS5"
+    ],
+    [
+      "Rapamycin",
+      "mTORC1"
+    ],
+    [
+      "Ketamine_anesthesia",
+      "NMDA"
+    ],
+    [
+      "Methadone",
+      "NMDA"
+    ],
+    [
+      "Collagen",
+      "MMP"
+    ],
+    [
+      "Isotretinoin",
+      "RXR"
+    ],
+    [
+      "Paracetamol",
+      "TRPV1"
+    ],
+    [
+      "Insulin",
+      "RUNX2"
+    ],
+    [
+      "Cyclosporine",
+      "Cyclophilin"
+    ],
+    [
+      "Fisetin",
+      "NF-\u03baB"
+    ],
+    [
+      "Propofol",
+      "GABA-A"
+    ],
+    [
+      "Ondansetron",
+      "5-HT3"
+    ],
+    [
+      "BGJ398",
+      "BMP"
+    ],
+    [
+      "Piroxicam",
+      "COX-1"
+    ],
+    [
+      "Brimonidine",
+      "\u03b12-AR"
+    ],
+    [
+      "Methadone",
+      "\u03bc-opioid"
+    ],
+    [
+      "Everolimus",
+      "FKBP12"
+    ],
+    [
+      "M40403",
+      "SOD"
+    ],
+    [
+      "Carbamazepine",
+      "NaV"
+    ],
+    [
+      "Lidocaine",
+      "KCNQ"
+    ],
+    [
+      "NSAIDs",
+      "RANKL"
+    ],
+    [
+      "Fisetin",
+      "COX-2"
+    ],
+    [
+      "Lornoxicam",
+      "COX-1"
+    ],
+    [
+      "Zinc",
+      "RANKL"
+    ],
+    [
+      "Quetiapine",
+      "D2"
+    ],
+    [
+      "Zoledronic acid",
+      "FPPS"
+    ],
+    [
+      "Botulinum toxin",
+      "Aggrecan"
+    ],
+    [
+      "Prolotherapy",
+      "TGF-\u03b2"
+    ],
+    [
+      "Indomethacin_high_dose",
+      "COX-2"
+    ],
+    [
+      "Collagen",
+      "TNF"
+    ],
+    [
+      "Codeine",
+      "MOR"
+    ],
+    [
+      "PRP",
+      "FGF"
+    ],
+    [
+      "Curcumin",
+      "NF-\u03baB"
+    ],
+    [
+      "Glucosamine",
+      "Collagen"
+    ],
+    [
+      "Etomidate",
+      "GABA-A"
+    ],
+    [
+      "PDRN",
+      "Collagen"
+    ],
+    [
+      "Prednisone",
+      "NF-\u03baB"
+    ],
+    [
+      "Tapentadol",
+      "NET"
+    ],
+    [
+      "Bupivacaine",
+      "NaV1.7"
+    ],
+    [
+      "Sodium valproate",
+      "HDAC"
+    ],
+    [
+      "Hypertonic dextrose",
+      "TGF-\u03b2"
+    ],
+    [
+      "EGCG",
+      "COX-2"
+    ],
+    [
+      "Resveratrol",
+      "Nrf2"
+    ],
+    [
+      "Metformin",
+      "SIRT1"
+    ],
+    [
+      "Famotidine",
+      "H2"
+    ],
+    [
+      "Esketamine",
+      "NMDA"
+    ],
+    [
+      "Vitamin D3",
+      "VDR"
+    ],
+    [
+      "Curcumin",
+      "COX-2"
+    ],
+    [
+      "Mirtazapine",
+      "5-HT2C"
+    ],
+    [
+      "Hyaluronic acid",
+      "IL-1"
+    ],
+    [
+      "Dextrose",
+      "IL-6"
+    ],
+    [
+      "Dextrose",
+      "MMP"
+    ],
+    [
+      "Azathioprine",
+      "HGPRT"
+    ],
+    [
+      "Dextrose prolotherapy",
+      "IL-6"
+    ],
+    [
+      "Citalopram",
+      "SERT"
+    ],
+    [
+      "Cisplatin",
+      "NF-\u03baB"
+    ]
+  ],
+  "target_pathway_edges": [
+    [
+      "DNA gyrase",
+      "DNA topology"
+    ],
+    [
+      "MMP13",
+      "OA cartilage degradation"
+    ],
+    [
+      "DNMT",
+      "DNA methylation"
+    ],
+    [
+      "FKBP12",
+      "mTOR inhibition"
+    ],
+    [
+      "SOD",
+      "antioxidant response"
+    ],
+    [
+      "Cyclophilin",
+      "T cell activation"
+    ],
+    [
+      "\u03b12\u03b4",
+      "neuronal excitability"
+    ],
+    [
+      "M3",
+      "bronchodilation"
+    ],
+    [
+      "MAPK",
+      "p38 MAPK"
+    ],
+    [
+      "AT1",
+      "RAS signaling"
+    ],
+    [
+      "JAK2",
+      "hematopoiesis"
+    ],
+    [
+      "NGF",
+      "neurotrophin signaling"
+    ],
+    [
+      "TLR2",
+      "innate immunity"
+    ],
+    [
+      "H2",
+      "gastric acid"
+    ],
+    [
+      "\u03ba-opioid",
+      "analgesia"
+    ],
+    [
+      "PDE4",
+      "bronchodilation"
+    ],
+    [
+      "IL-1",
+      "NF-\u03baB signaling"
+    ],
+    [
+      "Akt",
+      "PI3K-AKT"
+    ],
+    [
+      "TGF-\u03b2",
+      "cell growth"
+    ],
+    [
+      "AMPA",
+      "glutamatergic signaling"
+    ],
+    [
+      "\u03b12\u03b4-1",
+      "analgesic"
+    ],
+    [
+      "CTLA-4",
+      "immune response"
+    ],
+    [
+      "TLR4",
+      "inflammation"
+    ],
+    [
+      "COL2A1",
+      "cartilage matrix"
+    ],
+    [
+      "DPP4",
+      "glucose uptake"
+    ],
+    [
+      "PDGF",
+      "cell growth"
+    ],
+    [
+      "ACh",
+      "muscle contraction"
+    ],
+    [
+      "FP",
+      "prostaglandin synthesis"
+    ],
+    [
+      "STAT3",
+      "inflammation"
+    ],
+    [
+      "PD-1",
+      "T cell activation"
+    ],
+    [
+      "GR",
+      "glucocorticoid signaling"
+    ],
+    [
+      "Collagen",
+      "ECM degradation"
+    ],
+    [
+      "FGF",
+      "FGF signaling"
+    ],
+    [
+      "RXR",
+      "retinoid signaling"
+    ],
+    [
+      "MMP",
+      "cartilage matrix"
+    ],
+    [
+      "osteoclast",
+      "bone resorption"
+    ],
+    [
+      "CaV1.2",
+      "smooth muscle"
+    ],
+    [
+      "IL-1",
+      "OA cartilage degradation"
+    ],
+    [
+      "PTH1R",
+      "bone metabolism"
+    ],
+    [
+      "IL-1",
+      "inflammatory cytokine pathway"
+    ],
+    [
+      "TRPV1",
+      "pain signaling"
+    ],
+    [
+      "CaV1.2",
+      "cardiac"
+    ],
+    [
+      "PDGF",
+      "wound healing"
+    ],
+    [
+      "MAPK",
+      "ERK pathway"
+    ],
+    [
+      "COX-2",
+      "inflammatory response"
+    ],
+    [
+      "DPP4",
+      "insulin signaling"
+    ],
+    [
+      "PPAR-\u03b1",
+      "lipid metabolism"
+    ],
+    [
+      "GABA-A",
+      "inhibitory neurotransmission"
+    ],
+    [
+      "\u03b12-AR",
+      "noradrenergic signaling"
+    ],
+    [
+      "KOR",
+      "opioid signaling"
+    ],
+    [
+      "NaV",
+      "neuronal excitability"
+    ],
+    [
+      "SERT",
+      "serotonin reuptake"
+    ],
+    [
+      "TNF-\u03b1",
+      "NF-\u03baB signaling"
+    ],
+    [
+      "RANKL",
+      "RANK/RANKL/OPG"
+    ],
+    [
+      "RAR",
+      "cell growth"
+    ],
+    [
+      "50S ribosome",
+      "bacterial protein synthesis"
+    ],
+    [
+      "PDE",
+      "purine metabolism"
+    ],
+    [
+      "SNAP-25",
+      "neurotransmitter release"
+    ],
+    [
+      "LAG3",
+      "T cell activation"
+    ],
+    [
+      "5-HT2C",
+      "serotonergic signaling"
+    ],
+    [
+      "SERT",
+      "serotonergic signaling"
+    ],
+    [
+      "INSR",
+      "glucose uptake"
+    ],
+    [
+      "CaV1.2",
+      "L-type calcium channel"
+    ],
+    [
+      "H2",
+      "histaminergic signaling"
+    ],
+    [
+      "DAT",
+      "dopaminergic signaling"
+    ],
+    [
+      "H1",
+      "inflammation"
+    ],
+    [
+      "CYP51",
+      "ergosterol synthesis"
+    ],
+    [
+      "CD44",
+      "cell adhesion"
+    ],
+    [
+      "CysLT1",
+      "allergy"
+    ],
+    [
+      "TNF-\u03b1",
+      "inflammatory cytokine pathway"
+    ],
+    [
+      "aromatase",
+      "estrogen synthesis"
+    ],
+    [
+      "DHFR",
+      "DNA synthesis"
+    ],
+    [
+      "\u03b2-catenin",
+      "Wnt signaling"
+    ],
+    [
+      "AMPK",
+      "AMPK signaling"
+    ],
+    [
+      "JAK1",
+      "JAK-STAT"
+    ],
+    [
+      "mTOR",
+      "cell growth"
+    ],
+    [
+      "\u03b22-AR",
+      "bronchodilation"
+    ],
+    [
+      "CD44",
+      "hyaluronan receptor"
+    ],
+    [
+      "ACE",
+      "blood pressure"
+    ],
+    [
+      "DHFR",
+      "folate metabolism"
+    ],
+    [
+      "GABA",
+      "inhibitory neurotransmission"
+    ],
+    [
+      "PBP",
+      "cell wall synthesis"
+    ],
+    [
+      "Cyclophilin",
+      "immunosuppressive"
+    ],
+    [
+      "TRPV1",
+      "nociception"
+    ],
+    [
+      "VDR",
+      "immune"
+    ],
+    [
+      "AP-1",
+      "inflammatory response"
+    ],
+    [
+      "FPPS",
+      "farnesyl pyrophosphate synthase"
+    ],
+    [
+      "Neuraminidase",
+      "immune response"
+    ],
+    [
+      "TNF",
+      "NF-\u03baB signaling"
+    ],
+    [
+      "\u03bc-opioid",
+      "opioid signaling"
+    ],
+    [
+      "RAR-\u03b2",
+      "retinoid signaling"
+    ],
+    [
+      "SIRT1",
+      "longevity"
+    ],
+    [
+      "S6K1",
+      "mTOR signaling"
+    ],
+    [
+      "ADAMTS",
+      "ECM degradation"
+    ],
+    [
+      "30S ribosome",
+      "bacterial protein synthesis"
+    ],
+    [
+      "RAR-\u03b3",
+      "differentiation"
+    ],
+    [
+      "MMP",
+      "ECM degradation"
+    ],
+    [
+      "D2",
+      "dopaminergic signaling"
+    ],
+    [
+      "EGFR",
+      "EGF signaling"
+    ],
+    [
+      "JAK",
+      "JAK-STAT"
+    ],
+    [
+      "integrin",
+      "ECM"
+    ],
+    [
+      "COX-2",
+      "anti-inflammatory"
+    ],
+    [
+      "AMPK",
+      "autophagy"
+    ],
+    [
+      "JAK1",
+      "immune response"
+    ],
+    [
+      "LOX",
+      "leukotriene synthesis"
+    ],
+    [
+      "PPAR-\u03b3",
+      "PPAR signaling"
+    ],
+    [
+      "tubulin",
+      "mitosis"
+    ],
+    [
+      "IMPase",
+      "phosphoinositide signaling"
+    ],
+    [
+      "osteoclast",
+      "osteoclast differentiation"
+    ],
+    [
+      "calcineurin",
+      "T cell activation"
+    ],
+    [
+      "Nrf2",
+      "cytoprotection"
+    ],
+    [
+      "PD-1",
+      "immunosuppressive"
+    ],
+    [
+      "CALCR",
+      "calcium sensing"
+    ],
+    [
+      "MAPK",
+      "MAPK signaling"
+    ],
+    [
+      "TLR",
+      "innate immunity"
+    ],
+    [
+      "COX",
+      "inflammatory response"
+    ],
+    [
+      "KOR",
+      "analgesia"
+    ],
+    [
+      "DPP4",
+      "inflammation"
+    ],
+    [
+      "aldosterone",
+      "aldosterone signaling"
+    ],
+    [
+      "TNF",
+      "inflammatory cytokine pathway"
+    ],
+    [
+      "NF-\u03baB",
+      "immune response"
+    ],
+    [
+      "M3",
+      "cholinergic signaling"
+    ],
+    [
+      "NKCC2",
+      "diuresis"
+    ],
+    [
+      "RANKL",
+      "osteoclast differentiation"
+    ],
+    [
+      "RAR",
+      "differentiation"
+    ],
+    [
+      "CaV",
+      "calcium signaling"
+    ],
+    [
+      "KATP",
+      "insulin signaling"
+    ],
+    [
+      "PDE4",
+      "purine metabolism"
+    ],
+    [
+      "MT1",
+      "circadian"
+    ],
+    [
+      "CFTR",
+      "ion transport"
+    ],
+    [
+      "S6K1",
+      "protein synthesis"
+    ],
+    [
+      "Hedgehog",
+      "differentiation"
+    ],
+    [
+      "A2A",
+      "purine metabolism"
+    ],
+    [
+      "VGSC",
+      "neuronal excitability"
+    ],
+    [
+      "mTORC1",
+      "mTOR signaling"
+    ],
+    [
+      "NGF",
+      "nociception"
+    ],
+    [
+      "5-HT",
+      "mood"
+    ],
+    [
+      "JAK",
+      "immune response"
+    ],
+    [
+      "ACE",
+      "RAS signaling"
+    ],
+    [
+      "FPPS",
+      "bone metabolism"
+    ],
+    [
+      "PTH1R",
+      "osteoblast differentiation"
+    ],
+    [
+      "CaSR",
+      "calcium sensing"
+    ],
+    [
+      "\u03b2-AR",
+      "blood pressure"
+    ],
+    [
+      "RAR-\u03b3",
+      "retinoid signaling"
+    ],
+    [
+      "DNA polymerase",
+      "DNA replication"
+    ],
+    [
+      "\u03b11A-AR",
+      "sympathetic"
+    ],
+    [
+      "BMP",
+      "BMP signaling"
+    ],
+    [
+      "NF-\u03baB",
+      "NF-\u03baB signaling"
+    ],
+    [
+      "PBP",
+      "bacterial"
+    ],
+    [
+      "GABA-B",
+      "spasticity"
+    ],
+    [
+      "AMPK",
+      "energy metabolism"
+    ],
+    [
+      "tubulin",
+      "microtubule"
+    ],
+    [
+      "LOX",
+      "inflammatory response"
+    ],
+    [
+      "\u03bc-opioid",
+      "analgesia"
+    ],
+    [
+      "CTLA-4",
+      "T cell activation"
+    ],
+    [
+      "COX-2",
+      "inflammation"
+    ],
+    [
+      "NET",
+      "norepinephrine reuptake"
+    ],
+    [
+      "NMDA",
+      "glutamatergic signaling"
+    ],
+    [
+      "BMP",
+      "TGF-\u03b2/Smad"
+    ],
+    [
+      "microtubule",
+      "mitosis"
+    ],
+    [
+      "TXA2",
+      "prostaglandin synthesis"
+    ],
+    [
+      "CaV2.2",
+      "pain"
+    ],
+    [
+      "PPAR-\u03b1",
+      "PPAR signaling"
+    ],
+    [
+      "SIRT1",
+      "SIRT signaling"
+    ],
+    [
+      "DNA",
+      "DNA synthesis"
+    ],
+    [
+      "mTOR",
+      "autophagy"
+    ],
+    [
+      "STAT3",
+      "JAK-STAT"
+    ],
+    [
+      "VDR",
+      "bone metabolism"
+    ],
+    [
+      "TYK2",
+      "JAK-STAT"
+    ],
+    [
+      "CD44",
+      "inflammation"
+    ],
+    [
+      "DNA",
+      "bacterial"
+    ],
+    [
+      "ATIII",
+      "antithrombotic"
+    ],
+    [
+      "DHODH",
+      "pyrimidine synthesis"
+    ],
+    [
+      "GnRH",
+      "steroidogenesis"
+    ],
+    [
+      "VEGF",
+      "angiogenesis"
+    ],
+    [
+      "SIRT1",
+      "metabolism"
+    ],
+    [
+      "COX-2",
+      "pain"
+    ],
+    [
+      "NET",
+      "noradrenergic signaling"
+    ],
+    [
+      "IGF",
+      "IGF signaling"
+    ],
+    [
+      "MMP13",
+      "ECM degradation"
+    ],
+    [
+      "\u03b21-AR",
+      "blood pressure"
+    ],
+    [
+      "calcineurin",
+      "immunosuppressive"
+    ],
+    [
+      "Aromatase",
+      "steroidogenesis"
+    ],
+    [
+      "topoisomerase II",
+      "cell cycle"
+    ],
+    [
+      "\u03b12-AR",
+      "spasticity"
+    ],
+    [
+      "MAT",
+      "methionine cycle"
+    ],
+    [
+      "Nrf2",
+      "antioxidant response"
+    ],
+    [
+      "ATIII",
+      "coagulation"
+    ],
+    [
+      "Wnt",
+      "Wnt signaling"
+    ],
+    [
+      "TLR4",
+      "innate immunity"
+    ],
+    [
+      "NaV",
+      "sodium channel"
+    ],
+    [
+      "ADAMTS5",
+      "ECM degradation"
+    ],
+    [
+      "GSK3\u03b2",
+      "neurotrophin signaling"
+    ],
+    [
+      "Na+/K+ ATPase",
+      "cardiac contractility"
+    ],
+    [
+      "KCNQ",
+      "K+ channel"
+    ],
+    [
+      "STAT3",
+      "immune response"
+    ],
+    [
+      "PDE4",
+      "anti-inflammatory"
+    ],
+    [
+      "PTH1R",
+      "Wnt/\u03b2-catenin"
+    ],
+    [
+      "ADAMTS",
+      "OA cartilage degradation"
+    ],
+    [
+      "PI3K",
+      "cell survival"
+    ],
+    [
+      "Aggrecan",
+      "cartilage matrix"
+    ],
+    [
+      "HMGCR",
+      "cholesterol synthesis"
+    ],
+    [
+      "CysLT1",
+      "leukotriene synthesis"
+    ],
+    [
+      "INSR",
+      "insulin signaling"
+    ],
+    [
+      "COX-1",
+      "prostaglandin synthesis"
+    ],
+    [
+      "mTORC1",
+      "cell growth"
+    ],
+    [
+      "D2",
+      "emesis"
+    ],
+    [
+      "NMDA",
+      "pain"
+    ],
+    [
+      "5\u03b1-reductase",
+      "steroidogenesis"
+    ],
+    [
+      "HDAC",
+      "gene regulation"
+    ],
+    [
+      "NMDA",
+      "analgesia"
+    ],
+    [
+      "NGF",
+      "pain signaling"
+    ],
+    [
+      "COMT",
+      "catecholamine metabolism"
+    ],
+    [
+      "\u03b12\u03b4",
+      "calcium channel auxiliary"
+    ],
+    [
+      "TGF-\u03b2",
+      "differentiation"
+    ],
+    [
+      "GPD2",
+      "glycerol phosphate shuttle"
+    ],
+    [
+      "OPG",
+      "osteoclast inhibition"
+    ],
+    [
+      "HGPRT",
+      "purine metabolism"
+    ],
+    [
+      "PDGF",
+      "PDGF signaling"
+    ],
+    [
+      "Complex I",
+      "mitochondrial respiration"
+    ],
+    [
+      "PDE5",
+      "vasodilation"
+    ],
+    [
+      "GABA-A",
+      "anxiolysis"
+    ],
+    [
+      "\u03b12\u03b4-1",
+      "calcium channel auxiliary"
+    ],
+    [
+      "\u03b21-AR",
+      "noradrenergic signaling"
+    ],
+    [
+      "alkylating",
+      "apoptosis"
+    ],
+    [
+      "TNF-\u03b1",
+      "apoptosis"
+    ],
+    [
+      "P2Y12",
+      "platelet aggregation"
+    ],
+    [
+      "CTLA-4",
+      "immunosuppressive"
+    ],
+    [
+      "5-HT2A",
+      "hallucinogen"
+    ],
+    [
+      "SERT",
+      "mood"
+    ],
+    [
+      "IL-1",
+      "inflammation"
+    ],
+    [
+      "CHIP",
+      "protein quality control"
+    ],
+    [
+      "DNA",
+      "DNA damage"
+    ],
+    [
+      "MT1",
+      "melatonin signaling"
+    ],
+    [
+      "COX-2",
+      "prostaglandin synthesis"
+    ],
+    [
+      "TrkA",
+      "neurotrophin signaling"
+    ],
+    [
+      "IL-6",
+      "JAK-STAT"
+    ],
+    [
+      "NF-\u03baB",
+      "inflammatory response"
+    ],
+    [
+      "\u03b11A-AR",
+      "noradrenergic signaling"
+    ],
+    [
+      "\u03b2-AR",
+      "cardiac"
+    ],
+    [
+      "CALCR",
+      "bone metabolism"
+    ],
+    [
+      "Collagen",
+      "cartilage matrix"
+    ],
+    [
+      "DNMT",
+      "epigenetics"
+    ],
+    [
+      "Wnt",
+      "Wnt/\u03b2-catenin"
+    ],
+    [
+      "KCNQ",
+      "neuronal excitability"
+    ],
+    [
+      "NMDA",
+      "neurotrophin signaling"
+    ],
+    [
+      "VDR",
+      "vitamin D signaling"
+    ],
+    [
+      "nAChR",
+      "dopaminergic signaling"
+    ],
+    [
+      "\u03b12A-AR",
+      "sympathetic"
+    ],
+    [
+      "GABA-B",
+      "GABAergic signaling"
+    ],
+    [
+      "TS",
+      "DNA synthesis"
+    ],
+    [
+      "VGSC",
+      "sodium channel"
+    ],
+    [
+      "TS",
+      "folate metabolism"
+    ],
+    [
+      "TNF",
+      "apoptosis"
+    ],
+    [
+      "\u03b2-catenin",
+      "Wnt/\u03b2-catenin"
+    ],
+    [
+      "Aggrecan",
+      "ECM degradation"
+    ],
+    [
+      "aromatase",
+      "steroidogenesis"
+    ],
+    [
+      "ACh",
+      "cholinergic signaling"
+    ],
+    [
+      "IMPDH",
+      "purine metabolism"
+    ],
+    [
+      "VGSC",
+      "muscle contraction"
+    ],
+    [
+      "SV2A",
+      "synaptic vesicle"
+    ],
+    [
+      "5-HT4",
+      "serotonergic signaling"
+    ],
+    [
+      "TLR2",
+      "inflammatory response"
+    ],
+    [
+      "RXR",
+      "differentiation"
+    ],
+    [
+      "GSK3\u03b2",
+      "Wnt/\u03b2-catenin"
+    ],
+    [
+      "RUNX2",
+      "bone metabolism"
+    ],
+    [
+      "receptor",
+      "general signaling"
+    ],
+    [
+      "RAR",
+      "retinoid signaling"
+    ],
+    [
+      "OPG",
+      "bone metabolism"
+    ],
+    [
+      "NaV1.7",
+      "pain signaling"
+    ],
+    [
+      "DAT",
+      "dopamine reuptake"
+    ],
+    [
+      "SNARE",
+      "synaptic vesicle"
+    ],
+    [
+      "DNA polymerase",
+      "DNA synthesis"
+    ],
+    [
+      "MR",
+      "mineralocorticoid"
+    ],
+    [
+      "GSK3\u03b2",
+      "cell survival"
+    ],
+    [
+      "GR",
+      "anti-inflammatory"
+    ],
+    [
+      "ROS",
+      "antioxidant response"
+    ],
+    [
+      "TPMT",
+      "purine metabolism"
+    ],
+    [
+      "\u03b21-AR",
+      "cardiac"
+    ],
+    [
+      "NGF",
+      "neuron survival"
+    ],
+    [
+      "IRS",
+      "PI3K-AKT"
+    ],
+    [
+      "IL-6",
+      "NF-\u03baB signaling"
+    ],
+    [
+      "ADAMTS5",
+      "OA cartilage degradation"
+    ],
+    [
+      "AICAR",
+      "AMPK signaling"
+    ],
+    [
+      "Akt",
+      "cell survival"
+    ],
+    [
+      "MR",
+      "aldosterone signaling"
+    ],
+    [
+      "TRPV",
+      "nociception"
+    ],
+    [
+      "COX",
+      "prostaglandin synthesis"
+    ],
+    [
+      "H1",
+      "allergy"
+    ],
+    [
+      "NMDA",
+      "excitatory neurotransmission"
+    ],
+    [
+      "PD-1",
+      "immune response"
+    ],
+    [
+      "NKCC2",
+      "ion transport"
+    ],
+    [
+      "TGF-\u03b2",
+      "BMP signaling"
+    ],
+    [
+      "CALCR",
+      "osteoclast inhibition"
+    ],
+    [
+      "5-HT2A",
+      "serotonergic signaling"
+    ],
+    [
+      "\u03b12\u03b4",
+      "nociception"
+    ],
+    [
+      "RNA polymerase",
+      "immune response"
+    ],
+    [
+      "MOR",
+      "opioid signaling"
+    ],
+    [
+      "CaV2.2",
+      "N-type calcium channel"
+    ],
+    [
+      "CYP51",
+      "antifungal"
+    ],
+    [
+      "GR",
+      "immunosuppressive"
+    ],
+    [
+      "RANKL",
+      "bone metabolism"
+    ],
+    [
+      "IL-6",
+      "inflammatory cytokine pathway"
+    ],
+    [
+      "TLR4",
+      "inflammatory response"
+    ],
+    [
+      "\u03b12A-AR",
+      "blood pressure"
+    ],
+    [
+      "NaV1.7",
+      "nociception"
+    ],
+    [
+      "IGF",
+      "cell growth"
+    ],
+    [
+      "CaV2.2",
+      "neurotransmitter release"
+    ],
+    [
+      "TrkA",
+      "pain"
+    ],
+    [
+      "FGF",
+      "angiogenesis"
+    ],
+    [
+      "TYK2",
+      "interferon signaling"
+    ],
+    [
+      "TGF-\u03b2",
+      "TGF-\u03b2/Smad"
+    ],
+    [
+      "ROS",
+      "oxidative stress"
+    ],
+    [
+      "LAG3",
+      "immune response"
+    ],
+    [
+      "VKORC1",
+      "coagulation"
+    ],
+    [
+      "PI3K",
+      "metabolism"
+    ],
+    [
+      "PI3K",
+      "PI3K-AKT"
+    ],
+    [
+      "EGFR",
+      "cell growth"
+    ],
+    [
+      "MMP",
+      "OA cartilage degradation"
+    ],
+    [
+      "Hedgehog",
+      "cell growth"
+    ],
+    [
+      "HDAC",
+      "epigenetics"
+    ],
+    [
+      "5-HT2A",
+      "spasticity"
+    ],
+    [
+      "CaV",
+      "excitation"
+    ],
+    [
+      "IRS",
+      "insulin signaling"
+    ],
+    [
+      "TXA2",
+      "platelet aggregation"
+    ],
+    [
+      "LAG3",
+      "autoimmune"
+    ],
+    [
+      "\u03b22-AR",
+      "noradrenergic signaling"
+    ],
+    [
+      "\u03b12-AR",
+      "sympathetic"
+    ],
+    [
+      "alkylating",
+      "DNA damage"
+    ],
+    [
+      "A1",
+      "purine metabolism"
+    ],
+    [
+      "SNAP-25",
+      "synaptic vesicle"
+    ],
+    [
+      "CHIP",
+      "ER stress"
+    ],
+    [
+      "5-HT",
+      "serotonergic signaling"
+    ],
+    [
+      "HMGCR",
+      "isoprenoid metabolism"
+    ],
+    [
+      "H1",
+      "histaminergic signaling"
+    ],
+    [
+      "DNA",
+      "cell cycle"
+    ],
+    [
+      "PPAR-\u03b3",
+      "adipogenesis"
+    ],
+    [
+      "MT2",
+      "melatonin signaling"
+    ],
+    [
+      "AP-1",
+      "MAPK signaling"
+    ],
+    [
+      "MMP",
+      "tissue remodeling"
+    ],
+    [
+      "\u03ba-opioid",
+      "opioid signaling"
+    ],
+    [
+      "5-HT",
+      "pain"
+    ],
+    [
+      "CysLT1",
+      "inflammation"
+    ],
+    [
+      "integrin",
+      "cell adhesion"
+    ],
+    [
+      "AT1",
+      "blood pressure"
+    ],
+    [
+      "MT2",
+      "circadian"
+    ],
+    [
+      "Complex I",
+      "oxidative phosphorylation"
+    ],
+    [
+      "\u03b12A-AR",
+      "noradrenergic signaling"
+    ],
+    [
+      "RUNX2",
+      "osteoblast differentiation"
+    ],
+    [
+      "MOR",
+      "analgesia"
+    ],
+    [
+      "NGF",
+      "pain"
+    ],
+    [
+      "KATP",
+      "glucose uptake"
+    ],
+    [
+      "JAK2",
+      "JAK-STAT"
+    ],
+    [
+      "5-HT3",
+      "emesis"
+    ],
+    [
+      "GABA-A",
+      "GABAergic signaling"
+    ],
+    [
+      "H+/K+ ATPase",
+      "gastric acid secretion"
+    ],
+    [
+      "SV2A",
+      "neurotransmitter release"
+    ],
+    [
+      "CALCR",
+      "bone resorption"
+    ],
+    [
+      "Topo IV",
+      "DNA topology"
+    ],
+    [
+      "FGF",
+      "cell growth"
+    ],
+    [
+      "5-HT2C",
+      "appetite"
+    ],
+    [
+      "A2A",
+      "dopaminergic signaling"
+    ],
+    [
+      "VKORC1",
+      "vitamin K cycle"
+    ],
+    [
+      "microtubule",
+      "cytoskeleton"
+    ],
+    [
+      "TRPV",
+      "pain signaling"
+    ],
+    [
+      "AMPA",
+      "excitatory"
+    ],
+    [
+      "Aromatase",
+      "estrogen synthesis"
+    ],
+    [
+      "SNARE",
+      "neurotransmitter release"
+    ],
+    [
+      "mTOR",
+      "mTOR signaling"
+    ],
+    [
+      "\u03bc-opioid",
+      "pain signaling"
+    ],
+    [
+      "FKBP12",
+      "immunosuppressive"
+    ],
+    [
+      "\u03b12\u03b4",
+      "pain signaling"
+    ],
+    [
+      "CaSR",
+      "bone metabolism"
+    ],
+    [
+      "nAChR",
+      "cholinergic signaling"
+    ],
+    [
+      "5-HT3",
+      "serotonergic signaling"
+    ],
+    [
+      "Na+/K+ ATPase",
+      "ion transport"
+    ],
+    [
+      "GABA",
+      "GABAergic signaling"
+    ],
+    [
+      "topoisomerase II",
+      "DNA topology"
+    ],
+    [
+      "DNA gyrase",
+      "bacterial"
+    ]
+  ],
+  "pathway_disease_edges": [
+    [
+      "TGF-\u03b2/Smad",
+      "OA"
+    ],
+    [
+      "ECM degradation",
+      "TMD"
+    ],
+    [
+      "osteoclast differentiation",
+      "Osteoporosis"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "temporomandibular joint"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "TMD"
+    ],
+    [
+      "apoptosis",
+      "Osteoarthritis"
+    ],
+    [
+      "FGF signaling",
+      "OA"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "TMJ"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "synovitis"
+    ],
+    [
+      "JAK-STAT",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "osteoclast differentiation",
+      "TMJ"
+    ],
+    [
+      "osteoclast differentiation",
+      "synovitis"
+    ],
+    [
+      "cartilage matrix",
+      "TMJ OA"
+    ],
+    [
+      "ECM degradation",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "cartilage degradation"
+    ],
+    [
+      "nociception",
+      "TMD"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "Knee OA"
+    ],
+    [
+      "MAPK signaling",
+      "OA"
+    ],
+    [
+      "ERK pathway",
+      "OA"
+    ],
+    [
+      "p38 MAPK",
+      "cartilage degradation"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "TMJOA"
+    ],
+    [
+      "osteoclast differentiation",
+      "TMJOA"
+    ],
+    [
+      "apoptosis",
+      "cartilage degradation"
+    ],
+    [
+      "osteoblast differentiation",
+      "Osteoporosis"
+    ],
+    [
+      "protein quality control",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "Wnt signaling",
+      "temporomandibular joint"
+    ],
+    [
+      "Wnt/\u03b2-catenin",
+      "bone loss"
+    ],
+    [
+      "OA cartilage degradation",
+      "TMJ OA"
+    ],
+    [
+      "ECM degradation",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "JAK-STAT",
+      "TMJ OA"
+    ],
+    [
+      "bone metabolism",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "temporomandibular joint"
+    ],
+    [
+      "cartilage matrix",
+      "Osteoarthritis"
+    ],
+    [
+      "MAPK signaling",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "ERK pathway",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "p38 MAPK",
+      "temporomandibular joint"
+    ],
+    [
+      "ER stress",
+      "OA"
+    ],
+    [
+      "apoptosis",
+      "temporomandibular joint"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "bone loss"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "TMJ"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "synovitis"
+    ],
+    [
+      "OA cartilage degradation",
+      "temporomandibular joint"
+    ],
+    [
+      "p38 MAPK",
+      "synovitis"
+    ],
+    [
+      "Wnt/\u03b2-catenin",
+      "OA"
+    ],
+    [
+      "p38 MAPK",
+      "Osteoarthritis"
+    ],
+    [
+      "BMP signaling",
+      "TMJ OA"
+    ],
+    [
+      "general signaling",
+      "temporomandibular joint"
+    ],
+    [
+      "apoptosis",
+      "TMJ"
+    ],
+    [
+      "apoptosis",
+      "synovitis"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "TMJOA"
+    ],
+    [
+      "OA cartilage degradation",
+      "Osteoarthritis"
+    ],
+    [
+      "cartilage matrix",
+      "cartilage degradation"
+    ],
+    [
+      "ECM degradation",
+      "TMJ OA"
+    ],
+    [
+      "cartilage matrix",
+      "Knee OA"
+    ],
+    [
+      "JAK-STAT",
+      "Osteoarthritis"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "TMJ OA"
+    ],
+    [
+      "immune response",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "apoptosis",
+      "TMJOA"
+    ],
+    [
+      "general signaling",
+      "Osteoarthritis"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "OA"
+    ],
+    [
+      "osteoclast differentiation",
+      "OA"
+    ],
+    [
+      "angiogenesis",
+      "Osteoarthritis"
+    ],
+    [
+      "Wnt signaling",
+      "bone loss"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "TMD"
+    ],
+    [
+      "inflammatory response",
+      "Osteoarthritis"
+    ],
+    [
+      "ECM degradation",
+      "temporomandibular joint"
+    ],
+    [
+      "Wnt signaling",
+      "Osteoporosis"
+    ],
+    [
+      "protein quality control",
+      "Osteoarthritis"
+    ],
+    [
+      "BMP signaling",
+      "Osteoarthritis"
+    ],
+    [
+      "OA cartilage degradation",
+      "cartilage degradation"
+    ],
+    [
+      "cartilage matrix",
+      "temporomandibular joint"
+    ],
+    [
+      "ERK pathway",
+      "cartilage degradation"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "bone loss"
+    ],
+    [
+      "OA cartilage degradation",
+      "Knee OA"
+    ],
+    [
+      "bone metabolism",
+      "Hip OA"
+    ],
+    [
+      "JAK-STAT",
+      "cartilage degradation"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "ECM degradation",
+      "Osteoarthritis"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "Osteoporosis"
+    ],
+    [
+      "ER stress",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "bone metabolism",
+      "Osteoarthritis"
+    ],
+    [
+      "Wnt signaling",
+      "TMJ"
+    ],
+    [
+      "FGF signaling",
+      "temporomandibular joint"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "Osteoarthritis"
+    ],
+    [
+      "cartilage matrix",
+      "TMJ"
+    ],
+    [
+      "cartilage matrix",
+      "synovitis"
+    ],
+    [
+      "Wnt signaling",
+      "OA"
+    ],
+    [
+      "p38 MAPK",
+      "Osteoporosis"
+    ],
+    [
+      "osteoblast differentiation",
+      "OA"
+    ],
+    [
+      "nociception",
+      "temporomandibular joint"
+    ],
+    [
+      "inflammatory response",
+      "cartilage degradation"
+    ],
+    [
+      "inflammatory response",
+      "Knee OA"
+    ],
+    [
+      "BMP signaling",
+      "cartilage degradation"
+    ],
+    [
+      "FGF signaling",
+      "Osteoarthritis"
+    ],
+    [
+      "pain signaling",
+      "temporomandibular joint"
+    ],
+    [
+      "cartilage matrix",
+      "TMJOA"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "OA"
+    ],
+    [
+      "MAPK signaling",
+      "temporomandibular joint"
+    ],
+    [
+      "ERK pathway",
+      "temporomandibular joint"
+    ],
+    [
+      "JAK-STAT",
+      "temporomandibular joint"
+    ],
+    [
+      "RANK/RANKL/OPG",
+      "Osteoporosis"
+    ],
+    [
+      "ECM degradation",
+      "cartilage degradation"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "TMD"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "ECM degradation",
+      "Knee OA"
+    ],
+    [
+      "OA cartilage degradation",
+      "TMJ"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "cartilage degradation"
+    ],
+    [
+      "apoptosis",
+      "OA"
+    ],
+    [
+      "bone metabolism",
+      "Knee OA"
+    ],
+    [
+      "ERK pathway",
+      "synovitis"
+    ],
+    [
+      "angiogenesis",
+      "temporomandibular joint"
+    ],
+    [
+      "pain signaling",
+      "Osteoarthritis"
+    ],
+    [
+      "ERK pathway",
+      "Osteoarthritis"
+    ],
+    [
+      "MAPK signaling",
+      "Osteoarthritis"
+    ],
+    [
+      "JAK-STAT",
+      "TMJ"
+    ],
+    [
+      "JAK-STAT",
+      "synovitis"
+    ],
+    [
+      "p38 MAPK",
+      "TMJOA"
+    ],
+    [
+      "general signaling",
+      "TMJ"
+    ],
+    [
+      "protein quality control",
+      "Osteoporosis"
+    ],
+    [
+      "apoptosis",
+      "TMD"
+    ],
+    [
+      "OA cartilage degradation",
+      "TMJOA"
+    ],
+    [
+      "BMP signaling",
+      "temporomandibular joint"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "JAK-STAT",
+      "TMJOA"
+    ],
+    [
+      "general signaling",
+      "TMD"
+    ],
+    [
+      "inflammatory response",
+      "TMJ"
+    ],
+    [
+      "inflammatory response",
+      "synovitis"
+    ],
+    [
+      "apoptosis",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "temporomandibular joint"
+    ],
+    [
+      "Wnt/\u03b2-catenin",
+      "temporomandibular joint"
+    ],
+    [
+      "MAPK signaling",
+      "cartilage degradation"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "TMJ OA"
+    ],
+    [
+      "inflammatory response",
+      "TMJOA"
+    ],
+    [
+      "ECM degradation",
+      "TMJ"
+    ],
+    [
+      "autoimmune",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "ECM degradation",
+      "synovitis"
+    ],
+    [
+      "ER stress",
+      "Osteoarthritis"
+    ],
+    [
+      "bone metabolism",
+      "TMJ"
+    ],
+    [
+      "bone metabolism",
+      "synovitis"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "TMJ"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "Wnt/\u03b2-catenin",
+      "Osteoarthritis"
+    ],
+    [
+      "cartilage matrix",
+      "OA"
+    ],
+    [
+      "ECM degradation",
+      "TMJOA"
+    ],
+    [
+      "JAK-STAT",
+      "bone loss"
+    ],
+    [
+      "bone metabolism",
+      "TMJOA"
+    ],
+    [
+      "FGF signaling",
+      "TMJ"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "TMJOA"
+    ],
+    [
+      "MAPK signaling",
+      "Osteoporosis"
+    ],
+    [
+      "cartilage matrix",
+      "TMD"
+    ],
+    [
+      "ERK pathway",
+      "Osteoporosis"
+    ],
+    [
+      "nociception",
+      "TMJ"
+    ],
+    [
+      "osteoclast differentiation",
+      "Hip OA"
+    ],
+    [
+      "p38 MAPK",
+      "OA"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "Osteoarthritis"
+    ],
+    [
+      "osteoclast differentiation",
+      "Osteoarthritis"
+    ],
+    [
+      "FGF signaling",
+      "TMJOA"
+    ],
+    [
+      "pain signaling",
+      "TMJ"
+    ],
+    [
+      "inflammatory response",
+      "bone loss"
+    ],
+    [
+      "protein quality control",
+      "bone loss"
+    ],
+    [
+      "MAPK signaling",
+      "synovitis"
+    ],
+    [
+      "cartilage matrix",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "OA cartilage degradation",
+      "OA"
+    ],
+    [
+      "inflammatory response",
+      "Osteoporosis"
+    ],
+    [
+      "JAK-STAT",
+      "OA"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "TMJ OA"
+    ],
+    [
+      "BMP signaling",
+      "Osteoporosis"
+    ],
+    [
+      "pain signaling",
+      "TMD"
+    ],
+    [
+      "general signaling",
+      "OA"
+    ],
+    [
+      "ER stress",
+      "bone loss"
+    ],
+    [
+      "calcium signaling",
+      "Osteoporosis"
+    ],
+    [
+      "MAPK signaling",
+      "TMJOA"
+    ],
+    [
+      "angiogenesis",
+      "TMJ"
+    ],
+    [
+      "ERK pathway",
+      "TMJOA"
+    ],
+    [
+      "JAK-STAT",
+      "TMD"
+    ],
+    [
+      "angiogenesis",
+      "OA"
+    ],
+    [
+      "apoptosis",
+      "TMJ OA"
+    ],
+    [
+      "p38 MAPK",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "ER stress",
+      "Osteoporosis"
+    ],
+    [
+      "inflammatory cytokine pathway",
+      "cartilage degradation"
+    ],
+    [
+      "bone metabolism",
+      "Osteoporosis"
+    ],
+    [
+      "inflammatory response",
+      "OA"
+    ],
+    [
+      "TGF-\u03b2/Smad",
+      "Osteoporosis"
+    ],
+    [
+      "BMP signaling",
+      "TMJ"
+    ],
+    [
+      "protein quality control",
+      "OA"
+    ],
+    [
+      "Wnt/\u03b2-catenin",
+      "Osteoporosis"
+    ],
+    [
+      "osteoclast differentiation",
+      "Knee OA"
+    ],
+    [
+      "angiogenesis",
+      "TMJOA"
+    ],
+    [
+      "BMP signaling",
+      "OA"
+    ],
+    [
+      "osteoblast differentiation",
+      "Osteoarthritis"
+    ],
+    [
+      "OA cartilage degradation",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "Wnt signaling",
+      "Osteoarthritis"
+    ],
+    [
+      "inflammatory response",
+      "TMD"
+    ],
+    [
+      "JAK-STAT",
+      "temporomandibular joint osteoarthritis"
+    ],
+    [
+      "BMP signaling",
+      "TMD"
+    ],
+    [
+      "BMP signaling",
+      "TMJOA"
+    ],
+    [
+      "ECM degradation",
+      "OA"
+    ],
+    [
+      "bone metabolism",
+      "OA"
+    ],
+    [
+      "NF-\u03baB signaling",
+      "Osteoarthritis"
+    ],
+    [
+      "Wnt/\u03b2-catenin",
+      "TMJ"
+    ]
+  ]
+}
