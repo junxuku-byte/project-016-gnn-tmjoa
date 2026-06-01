@@ -27,7 +27,14 @@ We reformulate computational drug repositioning as a mechanism-constrained hiera
 # Clone and run
 git clone https://github.com/junxuku-byte/project-016-gnn-tmjoa.git
 cd project-016-gnn-tmjoa
+pip install -r requirements.txt
 bash reproduce.sh
+```
+
+### Quick Test with Dummy Dataset
+
+```bash
+python3 scripts/p016_dummy_dataset.py  # Generate synthetic test data
 ```
 
 ### Requirements
